@@ -1,0 +1,7 @@
+Python Django
+React
+Scrappy - (we run a full scraping infrastructure)
+Selenium
+MySQL
+Elastic Search
+13 Linux Servers
