@@ -3,4 +3,4 @@ import re
 
 text = "Hello, World!"
 
-print(re.search("^H...o$", text))
+print(re.search("Hello", text))
