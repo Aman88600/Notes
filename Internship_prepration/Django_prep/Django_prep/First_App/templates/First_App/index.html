@@ -1,0 +1,15 @@
+{% extends "First_App/base.html" %}
+{% block title %}Index Page{% endblock %}
+{% block content %}
+	<h1>Hello, Welcome to My website.</h1>
+	<ul>
+		{% for i in test_list %}
+		<li>
+		{{i}}
+		</li>
+		{% endfor %}
+	</ul>
+	<h2>
+	{{date | date:"F j, Y"}}
+	</h2>
+{% endblock %}

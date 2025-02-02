@@ -1,4 +1,5 @@
-Python Django
+Python (Done)
+Django
 React
 Scrappy - (we run a full scraping infrastructure)
 Selenium
