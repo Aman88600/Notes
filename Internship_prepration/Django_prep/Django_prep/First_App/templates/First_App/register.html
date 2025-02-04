@@ -1,0 +1,9 @@
+{% extends "First_App/base.html" %}
+{% block title %}User Registerations Page{% endblock %}
+{% block content %}
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Register</button>
+</form>
+{% endblock %}
