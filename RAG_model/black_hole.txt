@@ -1,0 +1,24 @@
+What is a Black Hole?
+
+A black hole is a region in space where gravity is so strong that nothing can escape it — not even light. They form when a massive star collapses under its own gravity, often at the end of its life cycle.
+
+Key Features:
+
+- Event Horizon: The "point of no return" around a black hole. Once something crosses it, it cannot escape.
+- Singularity: The center of a black hole, where density is thought to be infinite and the laws of physics break down.
+- Accretion Disk: A hot, spinning disk of gas and dust around the black hole, created as matter falls in.
+- Gravitational Time Dilation: Time moves slower near a black hole due to intense gravity (as predicted by Einstein’s general relativity).
+
+Types of Black Holes:
+
+1. Stellar: 3–100 solar masses, formed by collapsed massive stars.
+2. Intermediate: 100–100,000 solar masses, possibly from merged stellar black holes.
+3. Supermassive: Millions to billions of solar masses, found at the centers of galaxies (like the Milky Way).
+4. Primordial: Hypothetical black holes from the early universe (not yet observed).
+
+How We Detect Black Holes:
+
+- By observing stars orbiting an invisible mass.
+- By detecting X-rays and radio waves from the accretion disk.
+- By seeing gravitational lensing (light bending).
+- By measuring gravitational waves from black hole collisions.
