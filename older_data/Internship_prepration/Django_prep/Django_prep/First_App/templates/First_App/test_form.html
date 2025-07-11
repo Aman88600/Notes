@@ -1,0 +1,9 @@
+{% extends "First_App/base.html" %}
+{% block title %}Form Page{% endblock %}
+{% block content %}
+    <form method="post">
+        {% csrf_token %}
+        {{ form }}
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}
