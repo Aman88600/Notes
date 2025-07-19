@@ -6,12 +6,16 @@ import os
 from langchain_groq import ChatGroq
 from langchain.prompts import PromptTemplate
 
+
 # Import to get plan list
 import re
 
 # Getting workers
 from web_scraper import hybrid_scraper_worker
 from summarizer_worker import summarizer_function
+from translation_worker import translator_function
+from define_worker import define_function
+
 
 # Getting the api key
 load_dotenv()
@@ -63,8 +67,10 @@ def supervisor_function(query):
             data = summarizer_function()
         elif step == "translate":
             print("Translating....")
+            data = translator_function(data)
         elif step == "define":
             print("Defining....")
+            data = define_function()
     return f"\nFinal Output:\n{data}"
 if __name__ == "__main__":
     # Taking User input
