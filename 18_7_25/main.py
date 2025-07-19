@@ -9,6 +9,10 @@ from langchain.prompts import PromptTemplate
 # Import to get plan list
 import re
 
+# Getting workers
+from web_scraper import hybrid_scraper_worker
+from summarizer_worker import summarizer_function
+
 # Getting the api key
 load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
@@ -54,13 +58,13 @@ def supervisor_function(query):
         print(f"Exceuting {step}")
         if step == "scrape":
             print("Scrapping.....")
+            data = hybrid_scraper_worker(query)
         elif step == "summarize":
-            print("Sumarizzing....")
+            data = summarizer_function()
         elif step == "translate":
             print("Translating....")
         elif step == "define":
             print("Defining....")
-    data = "data"
     return f"\nFinal Output:\n{data}"
 if __name__ == "__main__":
     # Taking User input
