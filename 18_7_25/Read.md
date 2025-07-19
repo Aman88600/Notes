@@ -28,3 +28,6 @@
 
 - Prompt : Tell me about Apple Stocks
 ![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/Getting_apple_stocks.PNG?raw=true)
+
+- Prompt : Scrape and define philosphy
+![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/scrape_and_define.PNG?raw=true)
