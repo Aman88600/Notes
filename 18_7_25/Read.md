@@ -25,3 +25,6 @@
 - Prompt : Tell me about the Apple comapany
 
 ![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/Stocks_output.PNG?raw=true)
+
+- Prompt : Tell me about Apple Stocks
+![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/Getting_apple_stocks.PNG?raw=true)
