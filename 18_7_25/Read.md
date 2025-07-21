@@ -17,14 +17,56 @@
 ### 2 Trying to use list or dictionary for traslation
 - With the translation worker I ran into a problem which was the language it should translate to (By default it translates to french), but, I tried giving, it as a list in list or dictionay in list and tried to tell the language with the translation, but it did not worked, because the supervisor does the jobs step by step
 
+### 3 Asking the user the language before transation
+- Now the translator asks the user before execution, which language it should, convert the text to.
+![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/translator_in_action.PNG?raw=true)
+
 ## 4 What Worked
 
 ### 1 Using a simple text file
 - Using a text file to store the output from the web scraper and then using that text file to give data to the summarizer and the definer is what worker it was fast
 
-### 2 Asking the user the language before transation
-- Now the translator asks the user before execution, which language it should, convert the text to.
-![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/translator_in_action.PNG?raw=true)
+### 2 Using a better prompt and better techniques
+
+- 1. First the prompt used for LLM was made
+"""You are a task routing supervisor. Based on the user's query, choose the right tools to use.
+
+Available actions: ["scrape", "summarize", "translate", "calculate", "define"]
+
+Rules:
+- Use "scrape" if fresh data, company info, or stock data is needed.
+- Use "summarize" to condense content.
+- Use "translate" for language conversion. If translation is required, also extract the target language if it's mentioned.
+- Use "calculate" for math or numeric tasks.
+- Use "define" to explain concepts or terms.
+
+Return a Python dictionary like:
+{{ 
+  "actions": ["scrape", "translate"], 
+  "translate_to": "German" 
+}}
+
+Query: {query}
+"""
+
+- 2. We get a big output of string that includes the dictionay we need, so we extract the dictionary using this
+ content = plan_msg.content
+    do_print = False
+    required_dict = ""
+    for i in content:
+        if i == "{":
+            do_print = True
+        if do_print:
+            required_dict += i
+        if i == "}":
+            do_print = False
+    required_dict = eval(required_dict)
+
+- 3. The we get the actions list from the dictionary as before but there is also the key 'translate_to' and the value is the language that we put in the translator
+language = required_dict['translate_to']
+print("Translating....")
+data = translator_function(data, language)
+
 
 ## 5 Final Outputs
 
