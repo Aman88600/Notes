@@ -9,12 +9,14 @@ from langchain.prompts import PromptTemplate
 
 # Import to get plan list
 import re
+import json
 
 # Getting workers
 from web_scraper import hybrid_scraper_worker
 from summarizer_worker import summarizer_function
 from translation_worker import translator_function
 from define_worker import define_function
+from calculator_agent import calculator_function
 
 
 # Getting the api key
@@ -29,35 +31,51 @@ llm = ChatGroq(
 
 # Making a prompt template for the supervisor model
 supervisor_prompt = PromptTemplate.from_template(
-"""You are a task routing supervisor. Based on the user's query, choose the right tools to use.
+    """You are a task routing supervisor. Based on the user's query, choose the right tools to use.
 
 Available actions: ["scrape", "summarize", "translate", "calculate", "define"]
 
 Rules:
 - Use "scrape" if fresh data, company info, or stock data is needed.
 - Use "summarize" to condense content.
-- Use "translate" for language conversion.
+- Use "translate" for language conversion. If translation is required, also extract the target language if it's mentioned.
 - Use "calculate" for math or numeric tasks.
 - Use "define" to explain concepts or terms.
 
-Return only a Python list like: ["scrape", "summarize"] anything else
+Return a Python dictionary like:
+{{ 
+  "actions": ["scrape", "translate"], 
+  "translate_to": "German" 
+}}
 
 Query: {query}
 """
 )
 
+
+
 supervisor_model = supervisor_prompt | llm
 
 def supervisor_function(query):
+    # Sending the query to LLM and getting the output
     plan_msg = supervisor_model.invoke({"query" : query})
 
-    # Getting the plan list
-    plan_text = plan_msg.content.strip()
-    match = re.search(r"\[(.*?)\]", plan_text)
-    plan = eval("[" + match.group(1) + "]")
+    # Refinig the output to get the dictionary out of it
+    content = plan_msg.content
+    do_print = False
+    required_dict = ""
+    for i in content:
+        if i == "{":
+            do_print = True
+        if do_print:
+            required_dict += i
+        if i == "}":
+            do_print = False
+    required_dict = eval(required_dict)
 
-    print(plan)
-    # Executing the plan step by step
+    # # Executing the plan step by step
+    plan = required_dict['actions']
+    print(f"Plan of Execition = {plan}")
     for step in plan:
         print(f"Exceuting {step}")
         if step == "scrape":
@@ -66,11 +84,17 @@ def supervisor_function(query):
         elif step == "summarize":
             data = summarizer_function()
         elif step == "translate":
+            language = required_dict['translate_to']
             print("Translating....")
-            data = translator_function(data)
+            data = translator_function(data, language)
         elif step == "define":
             print("Defining....")
             data = define_function()
+        elif step == "calculate":
+            if len(data) > 500 or not any(c.isdigit() for c in data):
+                print("⚠️ Skipping calculator — not a math query.")
+                continue
+            data = calculator_function(data)
     return f"\nFinal Output:\n{data}"
 if __name__ == "__main__":
     # Taking User input
