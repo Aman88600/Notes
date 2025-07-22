@@ -74,6 +74,11 @@ language = required_dict['translate_to']
 print("Translating....")
 data = translator_function(data, language)
 
+### 3 Using a better encoding method + error handling
+
+- We used the following technique to stop the error from happening and catch it and give a replace character if the character is unknown
+
+![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/better_encoding.PNG?raw=true)
 
 ## 5 Final Outputs
 
