@@ -21,6 +21,13 @@
 - Now the translator asks the user before execution, which language it should, convert the text to.
 ![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/translator_in_action.PNG?raw=true)
 
+
+### 4 Using simple encoding without error handling
+- with open("web_scraper_output.txt", "w") as file:
+-       file.write(str(result['scraped']['content']))
+- This causes errors somtimes like the following:
+![alt text](https://github.com/Aman88600/Notes/blob/main/18_7_25/Images/translator_in_action.PNG?raw=true)
+
 ## 4 What Worked
 
 ### 1 Using a simple text file

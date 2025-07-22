@@ -150,6 +150,6 @@ def hybrid_scraper_worker(topic: str) -> dict:
     else:
         result["scraped"] = {"mode": "llm", "content": llm_result}
 
-    with open("web_scraper_output.txt", "w", encoding='utf-8', errors='replace') as file:
+    with open("web_scraper_output.txt", "w") as file:
         file.write(str(result['scraped']['content']))
     return result
