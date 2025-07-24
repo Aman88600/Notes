@@ -44,35 +44,36 @@ def scrape_url(url, max_paragraphs=5):
     except Exception as e:
         return f"❌ Error scraping {url}: {e}"
 
-# Get topic from user
-topic = input("🔍 Enter a topic: ")
+def main_function(topic):
+    # Get topic from user
+    topic = topic
 
-# Invoke the LLM to get URLs
-llm_output = worker.invoke({"topic": topic})
-# print("\n🧠 LLM Output:\n", llm_output.content)
+    # Invoke the LLM to get URLs
+    llm_output = worker.invoke({"topic": topic})
+    # print("\n🧠 LLM Output:\n", llm_output.content)
 
-# Extract URLs from the output
-urls = extract_urls(llm_output.content)
-# print("\n🌐 Extracted URLs:")
-# for i, url in enumerate(urls, 1):
-#     print(f"{i}. {url}")
+    # Extract URLs from the output
+    urls = extract_urls(llm_output.content)
+    # print("\n🌐 Extracted URLs:")
+    # for i, url in enumerate(urls, 1):
+    #     print(f"{i}. {url}")
 
-# Ask user if they want to scrape the URLs
-content = ""
-if urls:
-    print("\n🔍 Scraping top 1-2 URLs...\n")
-    for url in urls[:2]:  # You can change how many you want to scrape
-        print(f"\n📄 Content from: {url}\n")
-        print(scrape_url(url))
-        content += scrape_url(url)
-        print("\n" + "-"*80 + "\n")
-else:
-    print("❌ No valid URLs found.")
+    # Ask user if they want to scrape the URLs
+    content = ""
+    if urls:
+        # print("\n🔍 Scraping top 1-2 URLs...\n")
+        for url in urls[:2]:  # You can change how many you want to scrape
+            # print(f"\n📄 Content from: {url}\n")
+            # print(scrape_url(url))
+            content += scrape_url(url)
+            # print("\n" + "-"*80 + "\n")
+    else:
+        print("❌ No valid URLs found.")
 
-# Prompt template to get URLs
-prompt = PromptTemplate.from_template(
-    "Given the following content I want you to present this beautifully :\n\n{content}"
-)
-cleaner = prompt | llm
-response = cleaner.invoke({"content" : content})
-print(response.content)
+    # Prompt template to get URLs
+    prompt = PromptTemplate.from_template(
+        "Given the following content I want you to present this beautifully :\n\n{content}"
+    )
+    cleaner = prompt | llm
+    response = cleaner.invoke({"content" : content})
+    return response.content
