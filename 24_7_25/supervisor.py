@@ -38,22 +38,27 @@ Query: {query}
 
 supervisor_model = supervisor_prompt | llm
 
-# Getting user input
-user_input = input("Enter Your Query : ")
-plan_msg = supervisor_model.invoke({"query" : user_input})
+def get_actions() -> dict:
+    """
+    This function Does not take any inputs
+    It gives the output of the required dictionary
+    """
+    # Getting user input
+    user_input = input("Enter Your Query : ")
+    plan_msg = supervisor_model.invoke({"query" : user_input})
 
-# Refinig the output to get the dictionary out of it
-content = plan_msg.content
-do_print = False
-required_dict = ""
-for i in content:
-    if i == "{":
-        do_print = True
-    if do_print:
-        required_dict += i
-    if i == "}":
-        do_print = False
-required_dict = eval(required_dict)
+    # Refinig the output to get the dictionary out of it
+    content = plan_msg.content
+    do_print = False
+    required_dict = ""
+    for i in content:
+        if i == "{":
+            do_print = True
+        if do_print:
+            required_dict += i
+        if i == "}":
+            do_print = False
+    required_dict = eval(required_dict)
 
-# checking thw required_dict
-print(required_dict)
+    # checking thw required_dict
+    return required_dict
