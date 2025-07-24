@@ -63,5 +63,9 @@ from IPython.display import display, Image
 image = (graph.get_graph().draw_mermaid_png())
 
 # Saving it to decision_graph.png 
-with open("decison_graph.png", "wb") as file:
-    file.write(image)
+# with open("decison_graph.png", "wb") as file:
+    # file.write(image)
+
+# Running the graph
+response = graph.invoke({"amount_usd" : 1000, "target_currency" : "EUR"})
+print(response)
