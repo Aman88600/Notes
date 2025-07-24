@@ -27,6 +27,41 @@ def supervisor_function(state : State) -> State:
     print(state)
     return state
 
+# Making the worker function(Dummys for now)
+def scrapper(state: State) -> State:
+    print("Scraping......")
+    state_index = state['current_action']
+    # Increment the state to go to the next state
+    state_index += 1
+    state['current_action'] = state_index
+    return state
+
+def translator_function(state: State) -> State:
+    print("Translating......")
+    state_index = state['current_action']
+    # Increment the state to go to the next state
+    state_index += 1
+    state['current_action'] = state_index
+    return state
+
+# We need a checker to see if we have reached the end of actions
+def check_end_of_actions(state: State) -> State:
+    # Checking if we have reached the end of the list
+    list_length = len(state['actions'])
+    index_of_action = state['current_action']
+    if index_of_action == list_length:
+        state['end_of_actions'] = True
+    return state
+
+# Getting the action
+def get_action_function(state: State) -> str:
+    actions = state['actions']
+    index = state['current_action']
+    # Cheking if we have reached the end
+    check_end_of_actions(state)
+    if state['end_of_actions']:
+        return 'end'
+    return actions[index]
 
 # Importing classes required to set up the Graph
 from langgraph.graph import StateGraph, START, END
@@ -35,10 +70,42 @@ builder = StateGraph(State)
 
 # Make node
 builder.add_node("supervisor_node", supervisor_function)
+builder.add_node("scrapper_node", scrapper)
+builder.add_node("translator_node",translator_function)
 
 # Make edges
 builder.add_edge(START, "supervisor_node")
-builder.add_edge("supervisor_node", END)
+builder.add_conditional_edges(
+    "supervisor_node",
+    get_action_function,
+    {
+        "scrape" : "scrapper_node",
+        "translate" : "translator_node",
+        'end' : END
+    }
+
+)
+
+builder.add_conditional_edges(
+    "scrapper_node",
+    get_action_function,
+    {
+        "scrape" : "scrapper_node",
+        "translate" : "translator_node",
+        'end' : END
+    }
+)
+
+builder.add_conditional_edges(
+    "translator_node",
+    get_action_function,
+    {
+        "scrape" : "scrapper_node",
+        "translate" : "translator_node",
+        'end' : END
+    }
+)
+# builder.add_edge("supervisor_node", END)
 
 
 # Compiling the graph
