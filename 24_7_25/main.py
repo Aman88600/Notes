@@ -1,5 +1,9 @@
 # Setting Up the state
 from typing import TypedDict
+# Getting the workers
+from web_scraper import hybrid_scraper_worker
+from summarizer_worker import summarizer_function
+from define_worker import define_function
 
 class State(TypedDict):
     # We give the list of actions right here
@@ -10,6 +14,8 @@ class State(TypedDict):
     current_action : int
     # Did we reach the end of the list (can use different logic here)
     end_of_actions : bool
+    # Getting the result
+    result : str
 
 
 # Here we are making some nodes
@@ -18,7 +24,8 @@ class State(TypedDict):
 from supervisor import get_actions
 def supervisor_function(state : State) -> State:
     # Getting the actions
-    actions = get_actions()
+    user_input = input("Enter Your Query : ")
+    actions = get_actions(user_input)
     # Adding the variables to the state
     state['actions'] = actions['actions']
     try:
@@ -27,6 +34,7 @@ def supervisor_function(state : State) -> State:
         state['translate_to'] = 'French'
     state['current_action'] = 0
     state['end_of_actions'] = False
+    state['result'] = user_input
     print(state)
     return state
 
@@ -37,6 +45,8 @@ def scrapper(state: State) -> State:
     # Increment the state to go to the next state
     state_index += 1
     state['current_action'] = state_index
+    query = state['result']
+    state['result'] = hybrid_scraper_worker(query)
     return state
 
 def translator_function(state: State) -> State:
@@ -53,6 +63,8 @@ def sumarizzer_function(state: State) -> State:
     # Increment the state to go to the next state
     state_index += 1
     state['current_action'] = state_index
+    summary = summarizer_function(state['result'])
+    state['result'] = summary
     return state
 
 def definer_function(state: State) -> State:
@@ -61,6 +73,8 @@ def definer_function(state: State) -> State:
     # Increment the state to go to the next state
     state_index += 1
     state['current_action'] = state_index
+    defined_text = define_function(state['result'])
+    state['result'] = defined_text
     return state
 
 def calculator_function(state: State) -> State:
@@ -79,6 +93,7 @@ def check_end_of_actions(state: State) -> State:
     index_of_action = state['current_action']
     if index_of_action == list_length:
         state['end_of_actions'] = True
+    print(state['result'])
     return state
 
 # Getting the action

@@ -38,13 +38,13 @@ Query: {query}
 
 supervisor_model = supervisor_prompt | llm
 
-def get_actions() -> dict:
+def get_actions(user_input) -> dict:
     """
     This function Does not take any inputs
     It gives the output of the required dictionary
     """
     # Getting user input
-    user_input = input("Enter Your Query : ")
+    
     plan_msg = supervisor_model.invoke({"query" : user_input})
 
     # Refinig the output to get the dictionary out of it

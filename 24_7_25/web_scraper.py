@@ -149,7 +149,4 @@ def hybrid_scraper_worker(topic: str) -> dict:
         result["scraped"] = {"mode": "fallback", "summaries": fallback}
     else:
         result["scraped"] = {"mode": "llm", "content": llm_result}
-
-    with open("web_scraper_output.txt", "w", encoding='utf-8', errors="replace") as file:
-        file.write(str(result['scraped']['content']))
     return result
