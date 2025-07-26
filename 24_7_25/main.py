@@ -21,7 +21,10 @@ def supervisor_function(state : State) -> State:
     actions = get_actions()
     # Adding the variables to the state
     state['actions'] = actions['actions']
-    state['translate_to'] = actions['translate_to']
+    try:
+        state['translate_to'] = actions['translate_to']
+    except KeyError:
+        state['translate_to'] = 'French'
     state['current_action'] = 0
     state['end_of_actions'] = False
     print(state)
@@ -43,6 +46,31 @@ def translator_function(state: State) -> State:
     state_index += 1
     state['current_action'] = state_index
     return state
+
+def sumarizzer_function(state: State) -> State:
+    print("Sumarizzing......")
+    state_index = state['current_action']
+    # Increment the state to go to the next state
+    state_index += 1
+    state['current_action'] = state_index
+    return state
+
+def definer_function(state: State) -> State:
+    print("Defining......")
+    state_index = state['current_action']
+    # Increment the state to go to the next state
+    state_index += 1
+    state['current_action'] = state_index
+    return state
+
+def calculator_function(state: State) -> State:
+    print("Calculating......")
+    state_index = state['current_action']
+    # Increment the state to go to the next state
+    state_index += 1
+    state['current_action'] = state_index
+    return state
+
 
 # We need a checker to see if we have reached the end of actions
 def check_end_of_actions(state: State) -> State:
@@ -71,7 +99,10 @@ builder = StateGraph(State)
 # Make node
 builder.add_node("supervisor_node", supervisor_function)
 builder.add_node("scrapper_node", scrapper)
+builder.add_node("sumarizzer_node", sumarizzer_function)
 builder.add_node("translator_node",translator_function)
+builder.add_node("definer_node", definer_function)
+builder.add_node("calculator_node", calculator_function)
 
 # Make edges
 builder.add_edge(START, "supervisor_node")
@@ -80,7 +111,10 @@ builder.add_conditional_edges(
     get_action_function,
     {
         "scrape" : "scrapper_node",
+        "summarize" : "sumarizzer_node",
         "translate" : "translator_node",
+        "define" : "definer_node",
+        "calculate" : "calculator_node",
         'end' : END
     }
 
@@ -90,8 +124,22 @@ builder.add_conditional_edges(
     "scrapper_node",
     get_action_function,
     {
+        "summarize" : "sumarizzer_node",
+        "translate" : "translator_node",
+        "define" : "definer_node",
+        "calculate" : "calculator_node",
+        'end' : END
+    }
+)
+
+builder.add_conditional_edges(
+    "sumarizzer_node",
+    get_action_function,
+    {
         "scrape" : "scrapper_node",
         "translate" : "translator_node",
+        "define" : "definer_node",
+        "calculate" : "calculator_node",
         'end' : END
     }
 )
@@ -101,7 +149,33 @@ builder.add_conditional_edges(
     get_action_function,
     {
         "scrape" : "scrapper_node",
+        "summarize" : "sumarizzer_node",
+        "define" : "definer_node",
+        "calculate" : "calculator_node",
+        'end' : END
+    }
+)
+
+builder.add_conditional_edges(
+    "definer_node",
+    get_action_function,
+    {
+        "scrape" : "scrapper_node",
+        "summarize" : "sumarizzer_node",
         "translate" : "translator_node",
+        "calculate" : "calculator_node",
+        'end' : END
+    }
+)
+
+builder.add_conditional_edges(
+    "calculator_node",
+    get_action_function,
+    {
+        "scrape" : "scrapper_node",
+        "summarize" : "sumarizzer_node",
+        "translate" : "translator_node",
+        "define" : "definer_node",
         'end' : END
     }
 )
