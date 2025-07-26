@@ -4,6 +4,7 @@ from typing import TypedDict
 from web_scraper import hybrid_scraper_worker
 from summarizer_worker import summarizer_function
 from define_worker import define_function
+from translation_worker import translator_worker_function
 
 class State(TypedDict):
     # We give the list of actions right here
@@ -55,6 +56,7 @@ def translator_function(state: State) -> State:
     # Increment the state to go to the next state
     state_index += 1
     state['current_action'] = state_index
+    state['result'] = translator_worker_function(state['result'], state['translate_to'])
     return state
 
 def sumarizzer_function(state: State) -> State:
