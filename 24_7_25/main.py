@@ -5,6 +5,7 @@ from web_scraper import hybrid_scraper_worker
 from summarizer_worker import summarizer_function
 from define_worker import define_function
 from translation_worker import translator_worker_function
+from calculator_agent import calculator_worker_function
 
 class State(TypedDict):
     # We give the list of actions right here
@@ -85,6 +86,7 @@ def calculator_function(state: State) -> State:
     # Increment the state to go to the next state
     state_index += 1
     state['current_action'] = state_index
+    state['result'] = calculator_worker_function(state['result'])
     return state
 
 
