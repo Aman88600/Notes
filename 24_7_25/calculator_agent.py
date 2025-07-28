@@ -1,65 +1,50 @@
-from dotenv import load_dotenv
-import os
-from langchain_groq import ChatGroq
-from langchain.agents import initialize_agent, AgentType
-from langchain.tools import Tool
-from langchain.schema import AgentFinish
+# calculator_agent.py
 
-# Load environment variables
-load_dotenv()
-api_key = os.getenv("GROQ_API_KEY")
+import ast
+import operator as op
+import re
 
-# Initialize LLM
-llm = ChatGroq(
-    groq_api_key=api_key,
-    model_name="llama3-8b-8192",
-)
+# --- Supported math operators ---
+operators = {
+    ast.Add: op.add,
+    ast.Sub: op.sub,
+    ast.Mult: op.mul,
+    ast.Div: op.truediv,
+    ast.Pow: op.pow,
+    ast.USub: op.neg,
+    ast.Mod: op.mod,
+}
 
-# --- Safe Calculator ---
+# --- Safe evaluator using AST ---
+def safe_eval(node):
+    if isinstance(node, ast.Num):  # <number>
+        return node.n
+    elif isinstance(node, ast.BinOp):  # <left> <operator> <right>
+        return operators[type(node.op)](safe_eval(node.left), safe_eval(node.right))
+    elif isinstance(node, ast.UnaryOp):  # -<operand>
+        return operators[type(node.op)](safe_eval(node.operand))
+    else:
+        raise TypeError("Unsupported or unsafe expression")
+
+# --- Calculator function ---
 def safe_calculator(expression: str) -> str:
     """Safely evaluate basic math expressions."""
     try:
-        # Use eval with restricted globals and locals
-        result = eval(expression, {"__builtins__": {}}, {})
+        node = ast.parse(expression, mode='eval').body
+        result = safe_eval(node)
         return str(result)
     except Exception as e:
         return f"❌ Error evaluating expression: {e}"
 
-# --- Define Calculator Tool ---
-calculator_tool = Tool(
-    name="Calculator",
-    func=safe_calculator,
-    description="Useful for solving math problems like '12 * 4' or '100 / (5 + 5)'.",
-)
+# --- Expression checker ---
+def is_math_expression(text: str) -> bool:
+    """Check if a string looks like a math expression."""
+    math_keywords = ["+", "-", "*", "/", "calculate", "of", "percent", "=", "sum", "product", "power", "^"]
+    return any(kw in text.lower() for kw in math_keywords) and any(c.isdigit() for c in text)
 
-# --- Initialize Agent ---
-calculator_agent = initialize_agent(
-    tools=[calculator_tool],
-    llm=llm,
-    agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
-    verbose=True,
-    handle_parsing_errors=True,
-)
-
-# --- Agent Wrapper Function ---
+# --- Final function to integrate in LangGraph ---
 def calculator_worker_function(text: str) -> str:
-    """Use the calculator agent if input looks like a math expression."""
-    math_keywords = ["+", "-", "*", "/", "calculate", "of", "percent", "=", "sum", "product"]
-    is_mathy = any(kw in text.lower() for kw in math_keywords) and any(c.isdigit() for c in text)
-
-    if not is_mathy:
+    """LangGraph-compatible calculator worker."""
+    if not is_math_expression(text):
         return "🛑 Skipping calculator — no math-like expression detected."
-
-    try:
-        result = calculator_agent.invoke({"input": text})
-
-        # Handle both return types
-        if isinstance(result, AgentFinish):
-            return result.return_values.get("output", "✅ Done, but no output.")
-        elif isinstance(result, dict):
-            return result.get("output", "✅ Agent completed, but output was empty.")
-        else:
-            return str(result)
-
-    except Exception as e:
-        return f"❌ Agent error: {e}"
+    return safe_calculator(text)

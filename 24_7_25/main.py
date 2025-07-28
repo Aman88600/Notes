@@ -33,7 +33,7 @@ def supervisor_function(state : State) -> State:
     try:
         state['translate_to'] = actions['translate_to']
     except KeyError:
-        state['translate_to'] = 'French'
+        state['translate_to'] = None
     state['current_action'] = 0
     state['end_of_actions'] = False
     state['result'] = user_input
