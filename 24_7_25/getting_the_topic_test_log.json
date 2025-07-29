@@ -1,0 +1,311 @@
+[
+    {
+        "Sentence": "Topic"
+    },
+    {
+        "Tell me about Microsoft.": "Microsoft"
+    },
+    {
+        "What is Apple Company?": "Apple Company"
+    },
+    {
+        "Can you explain Google?": "Google"
+    },
+    {
+        "I want to know more about Tesla.": "Tesla"
+    },
+    {
+        "Give me details on Amazon.": "Amazon"
+    },
+    {
+        "Share something about Facebook.": null
+    },
+    {
+        "What do you know about Netflix?": null
+    },
+    {
+        "Tell me about OpenAI.": "OpenAI."
+    },
+    {
+        "What\u2019s the story of Samsung?": "Samsung"
+    },
+    {
+        "Explain IBM.": "IBM"
+    },
+    {
+        "Tell me more about Intel.": "Intel"
+    },
+    {
+        "What can you say about Adobe?": "Adobe"
+    },
+    {
+        "I\u2019d like to know about Oracle.": "Oracle"
+    },
+    {
+        "Explain the company SpaceX.": null
+    },
+    {
+        "Give me insights into Zoom.": "Zoom."
+    },
+    {
+        "Describe the company Shopify.": "Shopify."
+    },
+    {
+        "Who founded Nvidia?": null
+    },
+    {
+        "What\u2019s special about Dell?": "Dell"
+    },
+    {
+        "Can you elaborate on Twitter?": "Twitter"
+    },
+    {
+        "Give me a summary of PayPal.": "PayPal"
+    },
+    {
+        "Tell me about Airbnb.": null
+    },
+    {
+        "What do you know about Uber?": null
+    },
+    {
+        "I\u2019m curious about Spotify.": null
+    },
+    {
+        "Give me information on ByteDance.": "ByteDance"
+    },
+    {
+        "Tell me something about TikTok.": "TikTok"
+    },
+    {
+        "What is Salesforce?": "Salesforce"
+    },
+    {
+        "Give a brief about Reddit.": "Reddit."
+    },
+    {
+        "Explain the history of YouTube.": null
+    },
+    {
+        "What can you tell me about Huawei?": "Huawei"
+    },
+    {
+        "Tell me more about Alibaba.": null
+    },
+    {
+        "What is Pinterest?": null
+    },
+    {
+        "Share facts about eBay.": "eBay"
+    },
+    {
+        "Tell me about LinkedIn.": null
+    },
+    {
+        "Can you tell me what Stripe does?": "Stripe"
+    },
+    {
+        "What\u2019s up with Xiaomi?": "Xiaomi"
+    },
+    {
+        "Describe the company Tencent.": null
+    },
+    {
+        "What do you know about Baidu?": "Baidu"
+    },
+    {
+        "Explain what Robinhood is.": "Robinhood"
+    },
+    {
+        "Tell me about Discord.": "Discord"
+    },
+    {
+        "What is Snap Inc.?": "Snap Inc."
+    },
+    {
+        "What\u2019s the business of Twitch?": "Twitch"
+    },
+    {
+        "Can you give an overview of GitHub?": "GitHub"
+    },
+    {
+        "Tell me about Intel Corporation.": "Intel Corporation"
+    },
+    {
+        "What does HP specialize in?": "HP"
+    },
+    {
+        "Tell me something about Dell Technologies.": "Dell Technologies"
+    },
+    {
+        "I\u2019d like to know about IBM.": "IBM"
+    },
+    {
+        "What\u2019s the role of ARM Holdings?": null
+    },
+    {
+        "Tell me more about Palantir.": "Palantir"
+    },
+    {
+        "Can you describe Coinbase?": "Coinbase"
+    },
+    {
+        "Give me some information on Reddit.": "Reddit."
+    },
+    {
+        "What exactly is Square?": "Square"
+    },
+    {
+        "Explain DoorDash.": null
+    },
+    {
+        "What is Instacart?": "Instacart"
+    },
+    {
+        "What do you know about Blue Origin?": "Blue Origin"
+    },
+    {
+        "What\u2019s the purpose of Kickstarter?": "Kickstarter"
+    },
+    {
+        "Can you explain Indiegogo?": null
+    },
+    {
+        "I want to know about Crunchbase.": "Crunchbase"
+    },
+    {
+        "Tell me about Khan Academy.": "Khan Academy"
+    },
+    {
+        "What does Coursera do?": "Coursera"
+    },
+    {
+        "What is edX?": null
+    },
+    {
+        "Tell me more about Duolingo.": "Duolingo."
+    },
+    {
+        "What\u2019s the mission of Mozilla?": null
+    },
+    {
+        "Can you tell me about Notion?": "Notion"
+    },
+    {
+        "Explain Figma.": "Figma."
+    },
+    {
+        "Tell me about Canva.": "Canva"
+    },
+    {
+        "What is Asana?": "Asana"
+    },
+    {
+        "Tell me about Trello.": "Trello."
+    },
+    {
+        "What do you know about Monday.com?": "Monday.com"
+    },
+    {
+        "Explain the function of Slack.": "Slack"
+    },
+    {
+        "Tell me about Zoom Video Communications.": "Zoom Video Communications"
+    },
+    {
+        "What is Atlassian?": "Atlassian"
+    },
+    {
+        "Describe JIRA.": null
+    },
+    {
+        "What\u2019s GitLab?": "GitLab?"
+    },
+    {
+        "Explain what Bitbucket does.": "Bitbucket"
+    },
+    {
+        "Tell me about DigitalOcean.": "DigitalOcean."
+    },
+    {
+        "What do you know about Heroku?": "Heroku?"
+    },
+    {
+        "What is Vercel?": "Vercel"
+    },
+    {
+        "Tell me about Netlify.": null
+    },
+    {
+        "What is Firebase?": "Firebase?"
+    },
+    {
+        "Can you explain MongoDB?": "MongoDB?"
+    },
+    {
+        "Tell me about PostgreSQL.": "PostgreSQL."
+    },
+    {
+        "What is Redis used for?": "Redis"
+    },
+    {
+        "Explain what Elasticsearch is.": "Elasticsearch"
+    },
+    {
+        "Describe Amazon Web Services.": null
+    },
+    {
+        "What do you know about Microsoft Azure?": "Microsoft Azure"
+    },
+    {
+        "Tell me about Google Cloud Platform.": "Cloud Platform"
+    },
+    {
+        "What is IBM Cloud?": "IBM Cloud"
+    },
+    {
+        "Tell me about Oracle Cloud.": "Oracle Cloud"
+    },
+    {
+        "Give me a breakdown of Alibaba Cloud.": "Alibaba Cloud"
+    },
+    {
+        "What is Cloudflare?": "Cloudflare"
+    },
+    {
+        "What does Fastly do?": null
+    },
+    {
+        "Tell me more about Akamai.": "Akamai"
+    },
+    {
+        "What is Git?": "Git"
+    },
+    {
+        "Can you explain Python?": null
+    },
+    {
+        "Tell me about the Java programming language.": "Java"
+    },
+    {
+        "Explain what JavaScript is.": "JavaScript"
+    },
+    {
+        "What is React used for?": "React"
+    },
+    {
+        "Describe Angular.": "Angular."
+    },
+    {
+        "Tell me about Vue.js.": "Vue.js."
+    },
+    {
+        "Explain what Node.js does.": "Node.js"
+    },
+    {
+        "What do you know about TypeScript?": "TypeScript"
+    },
+    {
+        "Tell me about C++.": "C++"
+    }
+]
