@@ -12,6 +12,8 @@ from langchain_groq import ChatGroq
 from langchain.prompts import PromptTemplate
 from stock_analysis_worker import analyze_stock_csv
 from get_stocks import get_stock_data
+# Getting the Topic
+from getting_the_topic import get_topic
 
 # Load environment variables
 load_dotenv()
@@ -141,12 +143,33 @@ def hybrid_scraper_worker(topic: str) -> dict:
         else:
             result["error"] = "Could not infer stock ticker."
 
-    print("\n🔧 Trying LLM-based scraping...")
-    llm_result = llm_scrape_and_clean(topic)
-    if "no content" in llm_result.lower():
-        print("LLM scraping failed. Using fallback...")
-        fallback = fallback_scraper(topic)
-        result["scraped"] = {"mode": "fallback", "summaries": fallback}
+    # We try to get only the topic
+    single_topic = get_topic(topic)
+    if single_topic:
+        print(f"Got the single Topic {single_topic}")
+        print("\n🔧 Trying LLM-based scraping...")
+        llm_result = llm_scrape_and_clean(single_topic)
+        if "no content" in llm_result.lower():
+            print("LLM scraping failed. Using fallback...")
+            fallback = fallback_scraper(single_topic)
+            result["scraped"] = {"mode": "fallback", "summaries": fallback}
+        else:
+            result["scraped"] = {"mode": "llm", "content": llm_result}
+        return result
+    # If we fail to get the topic then we pass the entire sentence
     else:
-        result["scraped"] = {"mode": "llm", "content": llm_result}
-    return result
+        print("\n🔧 Trying LLM-based scraping...")
+        llm_result = llm_scrape_and_clean(topic)
+        if "no content" in llm_result.lower():
+            print("LLM scraping failed. Using fallback...")
+            fallback = fallback_scraper(topic)
+            result["scraped"] = {"mode": "fallback", "summaries": fallback}
+        else:
+            result["scraped"] = {"mode": "llm", "content": llm_result}
+        return result
+
+
+# Testing 
+if __name__ == "__main__":
+    sentence = input("Enter Sentence : ")
+    print(hybrid_scraper_worker(sentence))
