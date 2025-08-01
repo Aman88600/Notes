@@ -1,13 +1,6 @@
-from instaloader import instaloader, Profile
+import pandas as pd
 
-L = instaloader.Instaloader()
+df = pd.read_csv("max_true_followers.csv", encoding='utf-8')
+column_data = df["Username"].tolist()  # replace "username" with your column name
 
-PROFILE = "pyathlon"
-
-profile = Profile.from_username(L.context, PROFILE)
-
-posts_sorted_by_likes = sorted(profile.get_posts(), key=lambda post: post.likes, reverse=True)
-
-for post in posts_sorted_by_likes:
-    L.download_post(post, PROFILE)
-
+print(column_data)
