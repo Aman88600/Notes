@@ -1,0 +1,3 @@
+1) Check speed for Growman and exporter for followers in 5 minutes with a 5 second delay.(Done)
+Exporter for followers - 50 - It paused automatically at 50
+Growman - 53, but did not pause automatically
