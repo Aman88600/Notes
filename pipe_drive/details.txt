@@ -1,0 +1,4 @@
+password = pipe_drive_integration
+api : 49b2e352a2fd2db6be6c1426dd984c66f5df68f8
+email : yeceho1708@mardiek.com
+company domain : dion2

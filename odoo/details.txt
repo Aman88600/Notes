@@ -1,0 +1,3 @@
+password : odoo_integration
+email : rawomi4984@gardsiir.com
+API : 25e4273bd617bcce217dc7d2d4bf1154b84b1dd6

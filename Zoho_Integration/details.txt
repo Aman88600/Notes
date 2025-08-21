@@ -1,0 +1,16 @@
+number is my number - 
+id is my amanbasoya02@gmail.com
+
+client id = 1000.1KIF9HGP67WUREH6DA5VR0JO5O6XFI
+client secreat= ed856d86b3d84b891bbceaab9e7948bf5e9a1b78c4
+
+
+
+https://accounts.zoho.com/oauth/v2/auth?
+scope=ZohoCRM.modules.ALL&
+client_id=1000.1KIF9HGP67WUREH6DA5VR0JO5O6XFI&
+response_type=code&
+access_type=offline&
+redirect_uri=http://localhost:5000/oauth/callback
+
+
