@@ -7,7 +7,7 @@ api_token = os.getenv("api_key")
 base_url = 'https://dion2.pipedrive.com/api/v1'
 
 person_data = {
-    'name': 'Light Yagami',
+    'name': 'L Lawlite',
     'email': 'john.doe@example.com',
     'phone': '1234567890',
     'org_id': 6  # Optional, if they're linked to an organization

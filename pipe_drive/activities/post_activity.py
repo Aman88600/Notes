@@ -10,7 +10,7 @@ url = f"{base_url}/activities"
 
 
 activity_data = {
-    'subject': 'Follow up call with Google',
+    'subject': 'Follow up call with Apple',
     'type': 'call',                   # 'call', 'meeting', 'task', etc.
     'due_date': '2025-09-01',
     'due_time': '14:30',              # Optional

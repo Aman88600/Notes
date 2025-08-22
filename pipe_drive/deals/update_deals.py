@@ -9,11 +9,11 @@ api_token = api_key
 base_url = 'https://dion2.pipedrive.com/api/v1'
 
 # Deal ID you want to update
-deal_id = 11  # Replace with actual deal ID
+deal_id = 12  # Replace with actual deal ID
 
 # New values to update
 update_payload = {
-    'title': 'Updated Deal with Google',
+    'title': 'Updated Deal with Microsoft',
     'value': 2500000,
     'stage_id': 3,  # Move to a new stage
     'status': 'open'
