@@ -1,0 +1,102 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Jagadeeshwari Devaraj",
+    "headline": "Data Scientist || Data Analyst || Creative problem-solving to make data not just understandable, but actionable || Transforming complex data into actionable insights || AI || Machine Learning || Deep Learning || NLP",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQHSH5NeQmXFSA/profile-displayphoto-shrink_100_100/B56Zg2X.iEG4AU-/0/1753258913294?e=1759363200&v=beta&t=7jNJ7SJYHWz6ktPYKxv3xZToA72NwhK9DUSl1WWzfJk",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "500+",
+    "followers": 542,
+    "about": "As a Data Scientist, worked on AI and NLP projects, building conversational AI solutions with advanced NLP techniques for real-world applications. Delivered end-to-end data science projects, from understanding business requirements and data collection to model development, evaluation, and deployment on cloud platforms like AWS. Presented project insights through effective visualizations and storytelling using Power BI, facilitating informed decision-making. As an Associate Data Scientist, designed and implemented comprehensive recommendation systems, boosted customer engagement, and engineered features to improve model performance. As a Data Analyst in the automotive industry, specialized in ADAS, generating and labeling schematic data, preparing reports, managing tracker updates, and supporting data preparation. As a Quality Assurance Trainee, responsible for reception and inspection of electronic components and PCB assemblies, maintained SAP records, and generated Bills of Material (BOM)."
+  },
+  "Activity": {
+    "recentActivity": [
+      {
+        "type": "post",
+        "time": "3 days ago",
+        "edited": true,
+        "visibility": "anyone"
+      }
+    ],
+    "postsCount": 9,
+    "followers": 542
+  },
+  "Experience": [
+    {
+      "title": "Team Lead",
+      "company": "PROITBRIDGE",
+      "location": "Bengaluru, Karnataka, India",
+      "employmentType": "Full-time",
+      "duration": "Jul 2025 - Present",
+      "description": "Leading a team of Data Scientists to deliver AI-driven solutions. Overseeing project lifecycle from requirement gathering to deployment and mentoring junior team members. Ensuring best practices in ML & NLP. Collaborating with clients to align data-driven strategies with business goals."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "PROITBRIDGE",
+      "location": "Bengaluru, Karnataka, India",
+      "employmentType": "Full-time",
+      "duration": "Jan 2025 - Aug 2025",
+      "description": "Understanding business requirements and data collection to model development, evaluation, and deployment on cloud platforms. Working on NLP projects, building models using LLM, and RAG application."
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Continental",
+      "location": "Bengaluru, Karnataka, India",
+      "employmentType": "Full-time",
+      "duration": "Oct 2019 - Dec 2024",
+      "description": "Developed Python scripts for automotive functions including sign recognition, lane detection, and traffic sign assistance for autonomous vehicles. Managed SQL databases, performed data cleaning/transformation, created Power BI dashboards, and collaborated cross-functionally."
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "company": "TESCOM ELECTRONICS PRIVATE LIMITED",
+      "location": "",
+      "employmentType": "Full-time",
+      "duration": "Jul 2018 - Jun 2019",
+      "description": "Oversaw quality assurance for products including fully assembled PCB boards (SMD & through hole), validated electronic components, maintained SAP records, documented in Excel, generated BOM, and presented project data."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Anna University Chennai",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldOfStudy": "Electrical and Electronics Engineering",
+      "duration": "Jun 2014 - May 2017",
+      "grade": "8 / 10 CGPA",
+      "activities": [
+        "Academic topper of EEE department (2017)"
+      ],
+      "distinction": "First class with distinction"
+    },
+    {
+      "institution": "Rajagopal Polytechnic College",
+      "degree": "Diploma of Technical Education",
+      "fieldOfStudy": "Electrical and Electronics Engineering",
+      "duration": "Jun 2011 - May 2014",
+      "grade": "First class with distinction",
+      "activities": [
+        "Academic Topper (2013, 2014)",
+        "Presented papers in intra-level symposia at different colleges",
+        "Given more than 10 seminars to other departments on technical topics",
+        "Got 100% in Circuit Theory (Elective) and received appreciation"
+      ]
+    }
+  ],
+  "Certification": [],
+  "Skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Natural Language Processing (NLP)",
+    "Python",
+    "SQL",
+    "Power BI",
+    "Cloud platforms (AWS)",
+    "Feature Engineering",
+    "Data Cleaning",
+    "Data Visualization",
+    "Recommendation Systems",
+    "Quality Assurance",
+    "Generative AI",
+    "AgenticAI"
+  ]
+}
+```

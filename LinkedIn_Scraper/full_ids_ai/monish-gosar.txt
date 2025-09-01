@@ -1,0 +1,125 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Monish Gosar",
+    "headline": "Data Scientist @Indilabs.ai | Building AI products for credit risk analytics | Better UX for collections.",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4D03AQFBTPUfmqzCuw/profile-displayphoto-shrink_100_100/B4DZaAkO2XG4AU-/0/1745913704286?e=1759363200&v=beta&t=NW09I0JH3GRVemhtk0W0q4GNLyrS5QKVcqXaUVJcc20",
+    "location": "India",
+    "connections": 416,
+    "followers": 1265,
+    "profileLinks": {
+      "LinkedIn": "https://www.linkedin.com/in/monish-gosar",
+      "PersonalWebsite": "https://www.gomonish.com/"
+    },
+    "about": "Automating Financial Operations Through Intelligent Systems. I design and develop full-stack financial products from integrating APIs, databases, and AI-driven workflow to automating and optimizing debt collection processes. My work spans forecasting models, settlement platforms, and recovery strategy tools, combining data engineering with product design to deliver scalable, high-impact systems. Currently at Indilabs.ai, I’m building modules that apply predictive analytics to collections, streamline settlements, and power end-to-end recovery solutions."
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Unpopular opinion: The middle class is not a victim of the system.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7337710443286749184?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7337710443286749184%29",
+      "engagement": {
+        "comments": 111,
+        "reactions": 1204
+      },
+      "contentSummary": "Critical take on middle-class financial decision-making and individual agency versus systemic constraints."
+    },
+    {
+      "type": "Post",
+      "title": "🏆 2nd Place at LexisNexis Risk Solutions Hackathon 2024",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7253416653919535104?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7253416653919535104%29",
+      "engagement": {
+        "comments": null,
+        "reactions": null
+      },
+      "contentSummary": "Developed a Contractual Document Summarizer using a local LLaMA 3 model and RAG for legal/medical/shipping document summaries; privacy focused."
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Indilabs.ai",
+      "type": "Full-time",
+      "location": "Remote, India",
+      "startDate": "Jun 2025",
+      "endDate": "Present",
+      "description": "- Developed a Prediction & Diagnostics module with end-to-end data pipeline, feature selection, and decision-tree modeling.\n- Built segment-level vintage analytics and highly accurate recovery forecasts.\n- Designed 'IndiBot', an AI-powered recovery analytics chatbot.\n- Created an internal text-to-SQL tool accelerating report generation.\n- Leading an AI-driven settlement negotiation assistant project."
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Indilabs.ai",
+      "type": "Internship",
+      "location": "Remote, India",
+      "startDate": "Oct 2024",
+      "endDate": "Jun 2025"
+    },
+    {
+      "title": "Python Developer",
+      "company": "RE Journal",
+      "type": "Internship",
+      "location": "Mumbai, Maharashtra, India",
+      "startDate": "May 2024",
+      "endDate": "Aug 2024"
+    },
+    {
+      "title": "Placement Coordinator",
+      "company": "MPSTME B.Tech Data Science Placement Committe",
+      "type": "Full-time",
+      "startDate": "Jan 2024",
+      "endDate": "Jul 2024"
+    },
+    {
+      "title": "Market Research Analyst",
+      "company": "SkyQuest Technology Consulting Pvt. Ltd.",
+      "type": "Internship",
+      "startDate": "Feb 2024",
+      "endDate": "May 2024"
+    },
+    {
+      "title": "Sub-Head of Research & Development",
+      "company": "Analytika - The Data Science Club",
+      "type": "Full-time",
+      "startDate": "Jul 2023",
+      "endDate": "May 2024"
+    }
+  ],
+  "Education": [
+    {
+      "school": "SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering",
+      "degree": "Bachelor of Technology - BTech, Data Science",
+      "startDate": "Aug 2021",
+      "endDate": "May 2025",
+      "grade": "3.46"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Artificial Intelligence Virtual Experience Program",
+      "issuer": "Cognizant",
+      "issueDate": "May 2023",
+      "credentialId": "bSe9fpcNzio9AJqp5",
+      "credentialURL": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_bSe9fpcNzio9AJqp5_1683789984866_completion_certificate.pdf"
+    },
+    {
+      "name": "Investment Banking Virtual Experience Program",
+      "issuer": "J.P. Morgan",
+      "issueDate": "May 2023",
+      "credentialId": "bSe9fpcNzio9AJqp5",
+      "credentialURL": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_JPMorgan%20Chase_bSe9fpcNzio9AJqp5_1683624089401_completion_certificate.pdf"
+    }
+  ],
+  "Skills": [
+    "Python (Programming Language)",
+    "Deep Learning",
+    "Machine Learning",
+    "Natural Language Processing (NLP)",
+    "Microsoft Azure",
+    "Risk Analytics",
+    "Start-up Leadership",
+    "Project Management",
+    "Problem Solving",
+    "Database Administration",
+    "Database Management System (DBMS)"
+  ]
+}
+```

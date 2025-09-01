@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Etiqueta para o botão de adicionar uma avaliação para a aplicação.",
+      "message": "Adicionar uma Avaliação"
+   },
+   "allowPermissions": {
+      "description": "Rótulo para o botão que permite permissões para o aplicativo.",
+      "message": "Permitir permissões"
+   },
+   "autoScroll": {
+      "description": "Etiqueta para o interruptor que controla se a página deve rolar automaticamente para cada item durante a extração de dados.",
+      "message": "Rolagem automática"
+   },
+   "back": {
+      "description": "Etiqueta para o botão de retornar à tela anterior.",
+      "message": "Voltar"
+   },
+   "cancel": {
+      "description": "Etiqueta para a ação de cancelar.",
+      "message": "Cancelar"
+   },
+   "changeList": {
+      "description": "Etiqueta para o botão que altera a lista a ser raspada.",
+      "message": "Alterar Lista"
+   },
+   "changeSelectionLevel": {
+      "description": "Descrição da ação para alterar o nível de seleção ao selecionar um elemento.",
+      "message": "Alterar nível de seleção"
+   },
+   "chooseFile": {
+      "description": "Etiqueta para o botão de escolher um arquivo para upload.",
+      "message": "Escolher arquivo"
+   },
+   "click": {
+      "description": "Rótulo para a ação de clique.",
+      "message": "Clique"
+   },
+   "clickLoadMore": {
+      "description": "Rótulo para a opção de clicar em um botão para carregar mais itens na mesma página durante a raspagem.",
+      "message": "Clique no botão para carregar mais itens na mesma página"
+   },
+   "clickNextPage": {
+      "description": "Etiqueta para a opção de clicar em um link para navegar para a próxima página para carregar mais itens durante a raspagem.",
+      "message": "Clique no link para navegar para a próxima página"
+   },
+   "column": {
+      "description": "Etiqueta para o elemento \u003Cselect> para selecionar a coluna que contém URLs para raspar do CSV carregado.",
+      "message": "Coluna"
+   },
+   "confirm": {
+      "description": "Rótulo para a ação de confirmar.",
+      "message": "Confirmar"
+   },
+   "continue": {
+      "description": "Rótulo para o botão para continuar para a próxima tela.",
+      "message": "Continuar"
+   },
+   "copy": {
+      "description": "Rótulo para o botão que copia os dados para a área de transferência.",
+      "message": "Copiar"
+   },
+   "csvFile": {
+      "description": "Etiqueta para a entrada de arquivo para upload de um arquivo CSV",
+      "message": "Arquivo $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Nome padrão para um extrator de páginas de detalhes.",
+      "message": "Extrair detalhes de $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Etiqueta para o item de menu para excluir o raspador.",
+      "message": "Excluir"
+   },
+   "dismiss": {
+      "description": "Ação para dispensar o alerta.",
+      "message": "Dispensar"
+   },
+   "duration": {
+      "description": "Etiqueta para mostrar a duração da raspagem atual.",
+      "message": "Duração"
+   },
+   "esc": {
+      "description": "Rótulo para a tecla Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Rótulo para o item de menu para exportar o scraper.",
+      "message": "Exportar"
+   },
+   "extractData": {
+      "description": "Rótulo para o item de menu para executar a raspagem e extrair dados de cada URL.",
+      "message": "Extrair dados"
+   },
+   "finish": {
+      "description": "Rótulo para o botão de concluir a seleção de elementos na página.",
+      "message": "Concluir"
+   },
+   "headerRow": {
+      "description": "Texto de ajuda para explicar que o arquivo CSV carregado deve começar com uma linha de cabeçalho.",
+      "message": "Deve começar com uma linha de cabeçalho"
+   },
+   "headerRowRequired": {
+      "description": "Aviso para mostrar quando a linha de cabeçalho parece estar faltando no CSV carregado.",
+      "message": "Linha de cabeçalho obrigatória"
+   },
+   "help": {
+      "description": "Etiqueta para o botão que abre a página de ajuda.",
+      "message": "Ajuda"
+   },
+   "hideOptions": {
+      "description": "Etiqueta para o botão que oculta mais opções para raspagem de dados.",
+      "message": "Ocultar Opções"
+   },
+   "import": {
+      "description": "Etiqueta para o item de menu para importar um raspador.",
+      "message": "Importar"
+   },
+   "install": {
+      "description": "Etiqueta para o botão de instalar a versão mais recente do aplicativo.",
+      "message": "Instalar a versão mais recente"
+   },
+   "invalidTab": {
+      "description": "Mensagem de erro quando a aba alvo está aberta para um site restrito.",
+      "message": "Esta página é restrita. Tente outro site."
+   },
+   "invalidVersion": {
+      "description": "Instruir o usuário a instalar a versão mais recente do aplicativo.",
+      "message": "$APP_NAME$ saiu do beta! Instale a versão mais recente para obter as novidades.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Etiqueta para mostrar o número de itens raspados ao raspar uma lista.",
+      "message": "Itens"
+   },
+   "loadMoreAction": {
+      "description": "Etiqueta para o elemento \u003Cselect> selecionar como carregar mais itens ao raspar.",
+      "message": "Ação para carregar mais itens"
+   },
+   "max": {
+      "description": "Etiqueta para o input que controla o tempo máximo de espera ao carregar mais itens ou páginas.",
+      "message": "Máximo"
+   },
+   "maxItems": {
+      "description": "Rótulo para a entrada que define um limite máximo no número de itens a serem coletados.",
+      "message": "Máximo de itens"
+   },
+   "maxItemsHelp": {
+      "description": "Texto de ajuda para informar ao usuário que ele deve deixar o campo de itens máximos em branco para não estabelecer um limite.",
+      "message": "Deixe em branco para não definir um limite"
+   },
+   "maxItemsReached": {
+      "description": "Descrição do alerta para indicar que o limite máximo do número de itens para raspar foi atingido.",
+      "message": "Rasparamento bem-sucedido até o limite especificado. Aumente a opção de itens máximos para continuar raspando."
+   },
+   "mediaUrl": {
+      "description": "Rótulo para o campo de URL de mídia capturado de um elemento.",
+      "message": "URL de Mídia"
+   },
+   "min": {
+      "description": "Etiqueta para o input que controla o tempo mínimo de espera ao carregar mais itens ou páginas.",
+      "message": "Mín"
+   },
+   "missingTabError": {
+      "description": "Mensagem de erro quando não é possível acessar os dados da aba alvo.",
+      "message": "A aba que você estava usando para esta tarefa foi fechada. Por favor, feche esta janela e tente novamente."
+   },
+   "missingTabPermission": {
+      "description": "Mensagem de erro quando não é possível acessar os dados da aba alvo.",
+      "message": "Não foi possível acessar a aba. Feche esta janela e tente novamente."
+   },
+   "missingUrlColumn": {
+      "description": "Mensagem de erro quando o arquivo CSV está sem colunas com URLs.",
+      "message": "Não foi possível encontrar a coluna com URLs. Por favor, selecione outro arquivo."
+   },
+   "newScraper": {
+      "description": "Rótulo do botão para criar um novo extrator.",
+      "message": "Novo Extrator"
+   },
+   "noData": {
+      "description": "Espaço reservado na tabela quando não há dados para exibir.",
+      "message": "Nenhum dado para mostrar"
+   },
+   "noFileChosen": {
+      "description": "Mensagem exibida quando nenhum arquivo foi escolhido.",
+      "message": "Nenhum arquivo escolhido"
+   },
+   "noList": {
+      "description": "Texto exibido quando a lista não pode ser encontrada na página.",
+      "message": "Não foi possível encontrar a lista na página"
+   },
+   "none": {
+      "description": "Rótulo para a opção de não carregar mais itens ao raspar dados.",
+      "message": "Nenhum"
+   },
+   "options": {
+      "description": "Rótulo para o botão que exibe as opções para o raspador.",
+      "message": "Opções"
+   },
+   "pages": {
+      "description": "Etiqueta para mostrar o número de páginas raspadas ao raspar uma lista.",
+      "message": "Páginas"
+   },
+   "permissionsDescription": {
+      "description": "Texto de ajuda para explicar que o aplicativo precisa de permissões adicionais para acessar e raspar URLs.",
+      "message": "$APP_NAME$ precisa de permissões adicionais para acessar e raspar URLs",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Texto da insígnia para indicar que os dados exibidos são uma prévia do raspador.",
+      "message": "Pré-visualização"
+   },
+   "remainingPages": {
+      "description": "Etiqueta para mostrar o número de páginas restantes a serem raspadas quando estiver raspando páginas de detalhes.",
+      "message": "Restantes"
+   },
+   "rename": {
+      "description": "Etiqueta para o item de menu para renomear o raspador.",
+      "message": "Renomear"
+   },
+   "reviewDescription": {
+      "description": "Pedir ao usuário para deixar uma avaliação para o aplicativo.",
+      "message": "Oi, eu sou $NAME$. Eu criei o $APP_NAME$ para ajudar as pessoas a economizar tempo. Se você gosta de usá-lo, agradeceria uma avaliação de 5 estrelas para ajudar outras pessoas a descobrir o $APP_NAME$. Muito obrigado!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Agradeça ao usuário por usar o aplicativo.",
+      "message": "Obrigado por usar $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Etiqueta para a opção que mostra a tela para coletar detalhes das páginas de cada item em uma lista.",
+      "message": "Coletar Detalhes"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Descrição da dica para educar o usuário sobre a coleta de páginas de detalhes.",
+      "message": "Para coletar cada URL na lista, selecione \"$LABEL$\" no menu no canto superior direito após baixar a lista como um arquivo CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Coletar Detalhes"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Título da dica para educar o usuário sobre a extração de páginas de detalhes.",
+      "message": "Dica: Extraindo páginas de detalhes"
+   },
+   "scrapeList": {
+      "description": "Rótulo para a opção de mostrar a tela para raspar uma lista.",
+      "message": "Raspar Lista"
+   },
+   "scrapedPages": {
+      "description": "Etiqueta para mostrar o número de páginas raspadas ao raspar páginas de detalhes.",
+      "message": "Raspadas"
+   },
+   "scrapingComplete": {
+      "description": "Título de alerta para indicar que a raspagem foi concluída.",
+      "message": "Raspagem concluída"
+   },
+   "scrapingStatus": {
+      "description": "Etiqueta para indicar que a coleta está em andamento.",
+      "message": "Coletando..."
+   },
+   "scrollDelay": {
+      "description": "Rótulo para a entrada que controla quanto tempo esperar em milissegundos ao rolar para cada item durante a raspagem.",
+      "message": "Atraso de rolagem (ms)"
+   },
+   "scrollDown": {
+      "description": "Etiqueta para a opção de rolar para baixo para carregar mais itens durante a raspagem.",
+      "message": "Role para baixo para carregar mais itens"
+   },
+   "select": {
+      "description": "Rótulo para o botão de selecionar um elemento na página.",
+      "message": "Selecionar"
+   },
+   "selectElement": {
+      "description": "Título exibido ao selecionar um elemento.",
+      "message": "Selecionar Elemento"
+   },
+   "selectField": {
+      "description": "Descrição da ação para selecionar o campo a ser capturado.",
+      "message": "Selecionar campo"
+   },
+   "selectList": {
+      "description": "Título exibido ao selecionar uma lista.",
+      "message": "Selecionar Lista"
+   },
+   "selectScraper": {
+      "description": "Rótulo para o item de menu para selecionar um raspador para usar na raspagem de cada URL.",
+      "message": "Selecionar raspador"
+   },
+   "selectScraperOption": {
+      "description": "Instrução para selecionar um scraper para o domínio atual.",
+      "message": "Selecione o scraper para $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Rótulo para o botão que exibe mais opções para raspagem de dados.",
+      "message": "Mostrar Opções"
+   },
+   "startScraping": {
+      "description": "Rótulo para o botão para iniciar a coleta.",
+      "message": "Iniciar Coleta"
+   },
+   "stopScraping": {
+      "description": "Etiqueta para o botão de parar a extração.",
+      "message": "Parar Extração"
+   },
+   "tabNotFound": {
+      "description": "Mensagem de erro quando a aba alvo não existe.",
+      "message": "Nenhuma aba encontrada. Feche esta janela e tente novamente."
+   },
+   "testUrl": {
+      "description": "Rótulo para o campo de texto da URL de teste a ser usado ao selecionar um raspador.",
+      "message": "URL de Teste"
+   },
+   "text": {
+      "description": "Etiqueta para o campo de texto capturado de um elemento.",
+      "message": "Texto"
+   },
+   "uploadUrls": {
+      "description": "Rótulo para o item de menu para enviar um arquivo com URLs para raspar.",
+      "message": "Enviar URLs"
+   },
+   "url": {
+      "description": "Rótulo para o campo de URL capturado de um elemento.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Aviso para exibir quando o nome da coluna selecionada é uma URL e o arquivo CSV pode estar faltando uma linha de cabeçalho.",
+      "message": "O nome da coluna parece ser uma URL. Por favor, certifique-se de que o arquivo CSV começa com uma linha de cabeçalho contendo os nomes das colunas."
+   },
+   "verify": {
+      "description": "Etiqueta para o botão que verifica um elemento selecionado destacando-o na página.",
+      "message": "Verificar"
+   },
+   "waitTimeItems": {
+      "description": "Rótulo para os inputs para controlar quanto tempo esperar em segundos ao carregar mais itens.",
+      "message": "Tempo de espera para carregar mais itens (segundos)"
+   },
+   "waitTimePages": {
+      "description": "Rótulo para os campos de entrada para controlar quanto tempo esperar em segundos ao carregar páginas.",
+      "message": "Tempo de espera para carregar páginas (segundos)"
+   }
+}

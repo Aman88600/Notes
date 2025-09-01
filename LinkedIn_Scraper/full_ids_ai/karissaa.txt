@@ -1,0 +1,141 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Karissa",
+    "ProfileURL": "https://www.linkedin.com/in/karissaa/",
+    "Headline": "Senior Data Scientist at JULO",
+    "Location": "Jakarta Metropolitan Area",
+    "ContactInfo": {
+      "LinkedIn": "https://www.linkedin.com/in/karissaa/overlay/contact-info/"
+    },
+    "Languages": [
+      {
+        "Language": "English",
+        "Proficiency": "Full professional proficiency"
+      },
+      {
+        "Language": "Indonesian",
+        "Proficiency": "Native or bilingual proficiency"
+      }
+    ],
+    "About": "Being a class of 2020 graduates is sure a big challenge. After couple of months projecting myself sending CVs to a couple of companies, walk in into interviews, and start to work enthusiastically, suddenly dropped after seeing a lots of companies layoffs due to the pandemic. And of course, my hope on getting into a job in a short time after I graduated slowly fading away. But that doesn't stops me. After figuring out some alternatives to not wasting my precious time, I decided to spend my whole quarantine by conducting a research with my friends, hoping that we could give an impact especially for the NLP community. (Check it out here! https://lnkd.in/gZVNvdT)\n\nI remember trying so hard on assembly programming, linear algebra, fourier series not knowing what can I do with studying these bunch of difficult subjects. But then suddenly it all clicked when I jumped into Data Scientist career as an intern and began my interest in machine learning. That feeling when you found some insights on the data you assembled and visualize, and how you can build algorithms to solve your mystery through machine learning never fails to enthralling me until today. With all the not-fully-relevant basics, I jump easily to python and I love spending hours on improving my codes.\n\nDuring my internship, I implemented my python skills for data scientist applications such as building a model on a specific purpose, and also did a lot of feature engineering. I continue my journey by working as a Final Year Student Research doing an NLU (NLP) tasks on text classification using Deep Learning approach. I did all my work on Python, with the help of PyTorch and also Tensorflow, and other libraries such as Pandas, Numpy, Scikit-learn, Matplotlib and a lot more. On my final semester, I assisted on visual programming laboratory by teaching basic computer vision using PIL, OpenCV, CNN on Keras, and etc.\n\nI am well-known as someone who communicates well, a team player, organized, easily adapt, having a good problem solving abilities, and would love to connect with you!"
+  },
+  "Activity": [
+    {
+      "Type": "Post",
+      "Title": "IndoNLU paper accepted at AACL-IJNLP",
+      "Description": "Collaboration on the IndoNLU benchmark for Indonesian with 12 NLU tasks. Hoping to encourage NLP research in Bahasa Indonesia.",
+      "URL": "https://lnkd.in/gZVNvdT",
+      "Hashtags": [
+        "#IndoNLU",
+        "#naturallanguageprocessing",
+        "#NLPBahasa"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Senior Data Scientist",
+      "Company": "JULO",
+      "CompanyURL": "https://www.linkedin.com/company/13639073/",
+      "Location": "Jakarta Metropolitan Area",
+      "Type": "Full-time",
+      "StartEnd": "Jun 2022 - Jun 2025",
+      "Description": [
+        "End-to-end Adoption Model for the first time customer to predict adoption probability",
+        "Optimized the Credit Scoring model pipeline for efficiency and process acceleration",
+        "Constructed end-to-end Collection Models for payment propensity—resulted in higher repayment rates",
+        "Spearheaded implementation of Bank Name Validation to increase acceptance rates and reduce agent workload",
+        "Led RFM Customer Segmentation and AB Test Experiment for incentives optimization",
+        "Planned and consulted Tailored Collection Experiment for better collection treatments",
+        "Led projects with up to 6 team members",
+        "Assisted DS Manager in hiring data scientists and interns"
+      ]
+    },
+    {
+      "Title": "Data Scientist",
+      "Company": "JULO",
+      "CompanyURL": "https://www.linkedin.com/company/13639073/",
+      "Location": "Jakarta Metropolitan Area",
+      "Type": "Full-time",
+      "StartEnd": "Jun 2020 - May 2022",
+      "Description": [
+        "Developed end-to-end Best Time to Call model for RPC predictions",
+        "Revamped and designed credit scoring features, resulting in improved AUC",
+        "Applied LLM for aspect-based Sentiment Analysis of Playstore reviews",
+        "Managed model for extracting salary/payday info from bank statements",
+        "Developed in-house OCR leveraging Google services and text recognition",
+        "Developed pre/post due date collection models with higher repayment rates"
+      ]
+    },
+    {
+      "Title": "Contributor",
+      "Company": "IndoNLP",
+      "CompanyURL": "https://indonlp.github.io/",
+      "Location": "Remote",
+      "Type": "Freelance",
+      "StartEnd": "Jan 2020 - Dec 2023",
+      "Description": [
+        "Research community for Indonesian and its local languages"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "Degree": "Master of Science - MS",
+      "Major": "Computer Science",
+      "School": "BINUS University",
+      "SchoolURL": "https://www.linkedin.com/company/15094226/",
+      "Years": "2021 - 2022",
+      "Activities": ["President of ACES"]
+    },
+    {
+      "Degree": "Bachelor of Engineering - BE",
+      "Major": "Computer Engineering",
+      "School": "Universitas Multimedia Nusantara",
+      "SchoolURL": "https://www.linkedin.com/company/827302/",
+      "Years": "2016 - 2020",
+      "Activities": [
+        "Research on Indonesian Language Model for Final Project"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "Title": "Best Performing Team on AWS Gameday",
+      "Issuer": "AWS",
+      "Date": "Jun 2019",
+      "AssociatedWith": "Universitas Multimedia Nusantara"
+    },
+    {
+      "Title": "1st Place ReNom GUI Competition",
+      "Issuer": "PT. Renom Infrastruktur Indonesia",
+      "Date": "May 2019",
+      "AssociatedWith": "Universitas Multimedia Nusantara"
+    }
+  ],
+  "Skills": [
+    "Python",
+    "Data Science",
+    "Machine Learning",
+    "Deep Learning",
+    "Natural Language Processing (NLP)",
+    "Credit Modeling",
+    "Collection Modeling",
+    "Feature Engineering",
+    "Exploratory Data Analysis",
+    "Decision Sciences",
+    "Team Leadership",
+    "Mentoring",
+    "PyTorch",
+    "TensorFlow",
+    "Pandas",
+    "Numpy",
+    "Scikit-learn",
+    "Matplotlib",
+    "OpenCV",
+    "Keras",
+    "Computer Vision"
+  ]
+}
+```

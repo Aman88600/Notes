@@ -1,0 +1,123 @@
+```json
+{
+  "Basic Info": {
+    "name": "Thangadurai Jayaraman",
+    "headline": "Data Scientist - Deputy Manager - Ford Motor Company",
+    "location": "Chennai, Tamil Nadu, India",
+    "profile_links": [
+      "https://www.linkedin.com/in/thangadurai-jayaraman-0b4019b7/",
+      "https://www.linkedin.com/in/thangadurai-jayaraman-0b4019b7/overlay/about-this-profile/",
+      "https://www.linkedin.com/in/thangadurai-jayaraman-0b4019b7/overlay/contact-info/"
+    ],
+    "connections": "500+",
+    "followers": 3413,
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQGRC7qNS8s_pg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718519394510?e=1759363200&v=beta&t=q0CuNp7a-9SjhmCY5lQHdBaWf0TJS6KC_iDnXp2ub7w",
+    "about": "An Aspiring Data Scientist who is curious to learn new things and leverage AI techniques to solve Business Problems and Accelerating decision making process."
+  },
+  "Activity": {
+    "recent_posts": [
+      {
+        "description": "Loaded 9 Posts posts",
+        "comments": "21 comments",
+        "timestamp": "7 months ago"
+      },
+      {
+        "description": "Another example post",
+        "timestamp": "1 year ago"
+      }
+      // additional activity/posts can be structured similarly
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Ford Motor Company",
+      "employment_type": "Full-time",
+      "location": "Chennai, Tamil Nadu, India · Hybrid",
+      "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZnQf3t8fKKg/company-logo_100_100/company-logo_100_100/0/1630670609155/ford_motor_company_logo?e=1759363200&v=beta&t=b7-Cn87i8auH-YTrrlFSR0q8CgHjKrJ3y2yDUR7eFvI",
+      "duration": "Jan 2025 - Present · 8 mos",
+      "description": [
+        "Automating Drawing Validation using computer vision",
+        "Performing Fine Grained Sentiment analysis (Aspect Based Sentiment Analysis) on customer voice",
+        "Improving customer success using data science techniques",
+        "Forecasting failure rate of parts using Weibull Analysis",
+        "Applying Machine Learning techniques to solve business problems such as delivery delay, Segmenting Customers",
+        "Social Listening using NLP Techniques and Web scraping",
+        "Visualization of Signal Data from CAN bus for analysis"
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Renault Nissan Automotive India Private Limited",
+      "employment_type": "Full-time",
+      "location": "Greater Chennai Area · Hybrid",
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsPjF4QmtIYQ/company-logo_100_100/company-logo_100_100/0/1667281247260/lt_infotech_logo?e=1759363200&v=beta&t=tRmOW_IXWwZFrXbxE3Ywwdw4Su5ZWFStrYZNBeI52I4",
+      "duration": "Sep 2019 - Jan 2025 · 5 yrs 5 mos",
+      "description": [
+        "Automating Drawing Validation using computer vision",
+        "Performing Fine Grained Sentiment analysis (Aspect Based Sentiment Analysis) on customer voice",
+        "Improving customer success using data science techniques",
+        "Forecasting failure rate of parts using Weibull Analysis",
+        "Applying Machine Learning techniques to solve business problems such as delivery delay, Segmenting Customers",
+        "Social Listening using NLP Techniques and Web scraping",
+        "Visualization of Signal Data from CAN bus for analysis"
+      ]
+    },
+    {
+      "title": "Business Analyst QA",
+      "company": "LTI",
+      "employment_type": null,
+      "location": "Pune, Maharashtra, India",
+      "logo": null,
+      "duration": "Nov 2015 to Dec 2018 · 3 yrs 2 mos",
+      "description": [
+        "Agile Team Player with demonstrated scrum methodology experience for Software Testing Life Cycle",
+        "Data Validation and Functional Validation",
+        "Understanding the business requirements and converting to Functional requirements by collaborating with Product owner and Business Analyst",
+        "Making Test scenarios and test cases based on the functional requirements and reviewing them",
+        "Executing Smoke, Functional, System Integration Testing and sanity test on Reopened functionalities",
+        "Maintaining and reporting the progress in Defect Management and project management tools such as Jira, TFS and HP-ALM",
+        "Automating UI test cases using Selenium framework with Java"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "school": "Great Lakes Institute of Management",
+      "degree": "PGPDSE, Data Science Engineering",
+      "years": "2019",
+      "grade": "7.62",
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHUiIQpinpKVQ/company-logo_100_100/company-logo_100_100/0/1722342154423?e=1759363200&v=beta&t=Hl_0GYRRgdf6pi9AcV3haSWpL-Pu9QQ0MMCyu5J8kno",
+      "activities": null
+    },
+    {
+      "school": "Rajalakshmi Engineering College",
+      "degree": "Bachelor of Engineering - BE, Aeronautics/Aviation/Aerospace Science and Technology, General",
+      "years": "2011 - 2015",
+      "grade": "7.62",
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQG2aeQmDhYpMA/company-logo_100_100/B56Zc5bC2GGoAY-/0/1749015080885/rajalakshmi_engineering_college_logo?e=1759363200&v=beta&t=F_CJ6-NMg0NU_vsS6kGLYBMxHmTxlHrn3vnKD7463I8",
+      "activities": "Rotract Club"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Developing Your Emotional Intelligence",
+      "issuer": "LinkedIn",
+      "issued": "Dec 2020",
+      "credential_url": "https://www.linkedin.com/learning/certificates/0d6592ce50f40f6a69c049714525e7d2d4ac6a33d4007a801ff7b6fbe756112d?trk=backfilled_certificate"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "DeepLearning.AI",
+      "issued": "Jun 2021",
+      "credential_url": "https://coursera.org/share/cb1320c55116d32e7ab35240fbff3561"
+    }
+  ],
+  "Skills": [
+    "Natural Language Processing (NLP)",
+    "Machine Learning"
+    // etc. (Total 19+ skills as per the profile)
+  ]
+}
+```
+This JSON structure organizes the LinkedIn profile content as requested, mapping the available data into the specified sections and using concise, field-relevant values.

@@ -1,0 +1,142 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "Harini Narayanan",
+    "Summary": "Growth-minded Data Scientist passionate about finding and communicating actionable insights through data analysis, machine learning and data visualization. Currently at Bijak (an agri-tech company) with 3+ years of experience applying data science in business settings. Also active on Kaggle and GitHub.",
+    "Location": "Bengaluru, Karnataka, India",
+    "Profiles": {
+      "GitHub": "https://github.com/harininarayanan18",
+      "LinkedIn": "https://www.linkedin.com/in/harini96/"
+    },
+    "Languages": [
+      {
+        "Language": "English",
+        "Proficiency": "Native or bilingual"
+      },
+      {
+        "Language": "Hindi",
+        "Proficiency": "Native or bilingual"
+      }
+    ]
+  },
+  "Activity": {
+    "Followers": 667,
+    "RecentActivity": [
+      {
+        "Type": "Post",
+        "Time": "3mo",
+        "Content": "Congrats Sushmitha! 🎉"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Company": "Standard Chartered",
+      "Location": "Bengaluru, Karnataka, India",
+      "Positions": [
+        {
+          "Title": "Manager, Data Science",
+          "Period": "Apr 2024 - Present",
+          "Duration": "1 yr 5 mos",
+          "Description": [
+            "Implementing statistical and ML algorithms for predictive analytics and presenting business metrics in an insight-driven format.",
+            "Identified what data is available and relevant, and provided instructions to the engineering team on what other data needs to be collected and documented.",
+            "Defined the pre-processing or feature engineering to be done, creating pipelines, training models, analyzing errors, and designing strategies to overcome them.",
+            "Deployed holistic data science projects after prototyping and influenced plans based on insights.",
+            "Worked collaboratively across design, development, and operations. Defined the vision for products, identified dead ends and routes with untapped potential."
+          ]
+        },
+        {
+          "Title": "Analyst, Data Science",
+          "Period": "Nov 2022 - Mar 2024",
+          "Duration": "1 yr 5 mos",
+          "Description": []
+        }
+      ]
+    },
+    {
+      "Company": "Bijak",
+      "Location": "Gurugram, Haryana, India",
+      "Positions": [
+        {
+          "Title": "Data Scientist 1",
+          "Period": "Jan 2022 - Jun 2022",
+          "Duration": "6 mos",
+          "Description": [
+            "Assisted in creating a scalable, AI-driven, self-organizing data lake for a health insurance company to organize their data. Worked with large volumes of unstructured and structured data.",
+            "Wrote Python modules to standardize data ingestion and extract critical information for later analysis.",
+            "Interpreted data, articulated assumptions, risks, limitations, and explained analysis findings to non-data professionals."
+          ]
+        },
+        {
+          "Title": "Data Science Intern",
+          "Period": "Jan 2020 - Apr 2020",
+          "Duration": "4 mos",
+          "Description": [
+            "Developed a new Customer Relationship Management tool for e-delivery platforms using various NLP algorithms in Python.",
+            "Worked on automation of ticket resolutions and enabling faster agent responses by generating conversational flows using Keras Sequential model and GloVe.",
+            "Tools used: AWS Sagemaker and S3."
+          ]
+        }
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Scaler",
+      "Degree": "DSML (Data Science & Machine Learning)",
+      "Period": "Nov 2021 - Apr 2023",
+      "GPA": "8.43/10"
+    },
+    {
+      "Institution": "St Joseph's University",
+      "Degree": "Master's degree, Big Data Analytics",
+      "Period": "2018 - 2020"
+    }
+  ],
+  "Certification": [
+    {
+      "Title": "The Python Bible™ | Everything You Need to Program in Python",
+      "Issuer": "Udemy",
+      "Issued": "Jan 2021",
+      "CertificateURL": "https://www.udemy.com/certificate/UC-f50fb861-b388-4747-90d3-478d893860b0/"
+    },
+    {
+      "Title": "Microsoft Excel - Excel from Beginner to Advanced",
+      "Issuer": "Udemy",
+      "Issued": "Dec 2020",
+      "CertificateURL": "https://www.udemy.com/certificate/UC-0d379e59-129e-40c9-b275-bb3abb830f49/"
+    }
+  ],
+  "Skills": {
+    "ManagementSkills": [
+      "Effective communication",
+      "Quick learner",
+      "Team player",
+      "Problem solver"
+    ],
+    "TechnicalSkills": [
+      "Python",
+      "R",
+      "SQL",
+      "Statistics and Probability",
+      "Machine Learning (Regression, Classification, Clustering, Recommender systems, Neural networks)",
+      "Natural Language Processing",
+      "Data visualization",
+      "Hadoop",
+      "Hive",
+      "Pig",
+      "Microsoft Excel"
+    ],
+    "EndorsedSkills": [
+      {
+        "Skill": "Microsoft Excel",
+        "Endorsements": 4
+      },
+      {
+        "Skill": "Communication"
+      }
+    ]
+  }
+}
+```

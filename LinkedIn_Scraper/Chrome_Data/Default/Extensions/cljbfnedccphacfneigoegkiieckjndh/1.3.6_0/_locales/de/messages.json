@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Beschriftung für den Button, um eine Bewertung für die Anwendung hinzuzufügen.",
+      "message": "Eine Bewertung hinzufügen"
+   },
+   "allowPermissions": {
+      "description": "Beschriftung für die Schaltfläche, um Berechtigungen für die Anwendung zu erlauben.",
+      "message": "Berechtigungen erlauben"
+   },
+   "autoScroll": {
+      "description": "Bezeichnung für den Schalter zur Steuerung, ob automatisch zu jedem Element gescrollt werden soll, während Daten extrahiert werden.",
+      "message": "Automatisches Scrollen"
+   },
+   "back": {
+      "description": "Bezeichnung für die Schaltfläche, um zum vorherigen Bildschirm zurückzukehren.",
+      "message": "Zurück"
+   },
+   "cancel": {
+      "description": "Bezeichnung für die Abbruchaktion.",
+      "message": "Abbrechen"
+   },
+   "changeList": {
+      "description": "Bezeichnung für die Schaltfläche zum Ändern der zu schabenden Liste.",
+      "message": "Liste ändern"
+   },
+   "changeSelectionLevel": {
+      "description": "Beschreibung der Aktion zur Änderung der Auswahlstufe beim Auswählen eines Elements.",
+      "message": "Auswahlstufe ändern"
+   },
+   "chooseFile": {
+      "description": "Bezeichnung für den Button zum Auswählen einer Datei zum Hochladen.",
+      "message": "Datei wählen"
+   },
+   "click": {
+      "description": "Beschriftung für die Klickaktion.",
+      "message": "Klicken"
+   },
+   "clickLoadMore": {
+      "description": "Bezeichnung für die Option, eine Schaltfläche zu klicken, um mehr Elemente auf derselben Seite beim Scrapen zu laden.",
+      "message": "Klicken Sie auf die Schaltfläche, um mehr Elemente auf derselben Seite zu laden"
+   },
+   "clickNextPage": {
+      "description": "Beschriftung für die Option, einen Link zu klicken, um zur nächsten Seite zu navigieren und mehr Elemente beim Scraping zu laden.",
+      "message": "Klicken Sie auf den Link, um zur nächsten Seite zu navigieren"
+   },
+   "column": {
+      "description": "Bezeichnung für das \u003Cselect>-Element zum Auswählen der Spalte, die URLs aus der hochgeladenen CSV-Datei enthält, die extrahiert werden sollen.",
+      "message": "Spalte"
+   },
+   "confirm": {
+      "description": "Bezeichnung für die Bestätigungsaktion.",
+      "message": "Bestätigen"
+   },
+   "continue": {
+      "description": "Beschriftung für den Knopf, um zum nächsten Bildschirm zu gelangen.",
+      "message": "Fortfahren"
+   },
+   "copy": {
+      "description": "Beschriftung für die Schaltfläche, um die Daten in die Zwischenablage zu kopieren.",
+      "message": "Kopieren"
+   },
+   "csvFile": {
+      "description": "Beschriftung für die Dateieingabe zum Hochladen einer CSV-Datei",
+      "message": "$FILE_TYPE$ Datei",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Standardname für einen Detailseiten-Scraper.",
+      "message": "Scrape Details von $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "beispiel.de"
+         }
+      }
+   },
+   "delete": {
+      "description": "Bezeichnung für das Menüelement, um den Scraper zu löschen.",
+      "message": "Löschen"
+   },
+   "dismiss": {
+      "description": "Aktion, um den Alarm zu ignorieren.",
+      "message": "Verwerfen"
+   },
+   "duration": {
+      "description": "Beschriftung, um die Dauer des aktuellen Scraping-Vorgangs anzuzeigen.",
+      "message": "Dauer"
+   },
+   "esc": {
+      "description": "Beschriftung für die Escape-Taste.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Bezeichnung für das Menüelement zum Exportieren des Scrapers.",
+      "message": "Exportieren"
+   },
+   "extractData": {
+      "description": "Bezeichnung für das Menüelement zum Ausführen des Scrapings und Extrahieren von Daten aus jeder URL.",
+      "message": "Daten extrahieren"
+   },
+   "finish": {
+      "description": "Beschriftung für die Schaltfläche, um die Auswahl von Elementen auf der Seite abzuschließen.",
+      "message": "Fertigstellen"
+   },
+   "headerRow": {
+      "description": "Hilfetext, der erklärt, dass die hochgeladene CSV-Datei mit einer Kopfzeile beginnen muss.",
+      "message": "Muss mit einer Kopfzeile beginnen"
+   },
+   "headerRowRequired": {
+      "description": "Warnung, die angezeigt wird, wenn bei der hochgeladenen CSV die Kopfzeile zu fehlen scheint.",
+      "message": "Kopfzeile erforderlich"
+   },
+   "help": {
+      "description": "Bezeichnung für die Schaltfläche zum Öffnen der Hilfeseite.",
+      "message": "Hilfe"
+   },
+   "hideOptions": {
+      "description": "Bezeichnung für die Schaltfläche, um weitere Optionen für das Scraping zu verbergen.",
+      "message": "Optionen ausblenden"
+   },
+   "import": {
+      "description": "Label für das Menüelement zum Importieren eines Scrapers.",
+      "message": "Importieren"
+   },
+   "install": {
+      "description": "Bezeichnung für die Schaltfläche, um die neueste Version der Anwendung zu installieren.",
+      "message": "Installiere die neueste Version"
+   },
+   "invalidTab": {
+      "description": "Fehlermeldung, wenn das Ziel-Tab auf einer eingeschränkten Seite geöffnet ist.",
+      "message": "Diese Seite ist eingeschränkt. Versuchen Sie eine andere Seite."
+   },
+   "invalidVersion": {
+      "description": "Weisen Sie den Benutzer an, die neueste Version der Anwendung zu installieren.",
+      "message": "$APP_NAME$ ist nicht mehr in der Beta! Installieren Sie die neueste Version, um die neuesten Updates zu erhalten.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Beschriftung, die die Anzahl der gescrapten Elemente anzeigt, wenn eine Liste gescrappt wird.",
+      "message": "Artikel"
+   },
+   "loadMoreAction": {
+      "description": "Beschriftung für das \u003Cselect>-Element, um auszuwählen, wie weitere Elemente beim Scrapen geladen werden.",
+      "message": "Aktion, um mehr Elemente zu laden"
+   },
+   "max": {
+      "description": "Beschriftung für das Eingabefeld zur Steuerung der maximalen Wartezeit beim Laden weiterer Elemente oder Seiten.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Beschriftung für die Eingabe, um eine maximale Grenze für die Anzahl der zu scrapenden Elemente festzulegen.",
+      "message": "Maximale Elemente"
+   },
+   "maxItemsHelp": {
+      "description": "Hilfetext, um den Benutzer darüber zu informieren, dass das Feld für die maximale Anzahl leer gelassen werden sollte, um keine Begrenzung festzusetzen.",
+      "message": "Leer lassen für keine Begrenzung"
+   },
+   "maxItemsReached": {
+      "description": "Beschreibung des Alerts, um anzuzeigen, dass die maximale Grenze für die Anzahl der zu scrapenden Elemente erreicht wurde.",
+      "message": "Erfolgreich bis zur angegebenen Grenze gescraped. Erhöhen Sie die Option für die maximale Anzahl von Elementen, um das Scraping fortzusetzen."
+   },
+   "mediaUrl": {
+      "description": "Beschriftung für das Medien-URL-Feld, das von einem Element erfasst wurde.",
+      "message": "Medien-URL"
+   },
+   "min": {
+      "description": "Beschriftung für die Eingabe, um die minimale Wartezeit beim Laden weiterer Elemente oder Seiten zu steuern.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Fehlermeldung, wenn auf die Daten des Ziel-Tabs nicht zugegriffen werden kann.",
+      "message": "Der Tab, den Sie für diese Aufgabe verwendet haben, wurde geschlossen. Bitte schließen Sie dieses Fenster und versuchen Sie es erneut."
+   },
+   "missingTabPermission": {
+      "description": "Fehlermeldung, wenn keine Daten zum Ziel-Tab abgerufen werden können.",
+      "message": "Zugriff auf Tab nicht möglich. Schließen Sie dieses Fenster und versuchen Sie es erneut."
+   },
+   "missingUrlColumn": {
+      "description": "Fehlermeldung, wenn in der CSV-Datei Spalten mit URLs fehlen.",
+      "message": "Spalte mit URLs konnte nicht gefunden werden. Bitte wählen Sie eine andere Datei aus."
+   },
+   "newScraper": {
+      "description": "Beschriftung für die Schaltfläche zum Erstellen eines neuen Scrapers.",
+      "message": "Neuer Scraper"
+   },
+   "noData": {
+      "description": "Platzhalter in der Tabelle, wenn keine Daten vorhanden sind.",
+      "message": "Keine Daten vorhanden"
+   },
+   "noFileChosen": {
+      "description": "Nachricht, die angezeigt wird, wenn keine Datei ausgewählt wurde.",
+      "message": "Keine Datei ausgewählt"
+   },
+   "noList": {
+      "description": "Platzhalter, der angezeigt wird, wenn die Liste auf der Seite nicht gefunden werden kann.",
+      "message": "Liste auf der Seite nicht gefunden"
+   },
+   "none": {
+      "description": "Beschriftung für die Option, beim Scrapen keine weiteren Elemente zu laden.",
+      "message": "Keine"
+   },
+   "options": {
+      "description": "Beschriftung für den Knopf, um die Optionen für den Scraper anzuzeigen.",
+      "message": "Optionen"
+   },
+   "pages": {
+      "description": "Beschriftung, um die Anzahl der gescrapten Seiten anzuzeigen, wenn eine Liste gescrappt wird.",
+      "message": "Seiten"
+   },
+   "permissionsDescription": {
+      "description": "Hilfetext zur Erklärung, dass die Anwendung zusätzliche Berechtigungen benötigt, um auf URLs zugreifen und sie scrapen zu können.",
+      "message": "$APP_NAME$ benötigt zusätzliche Berechtigungen, um auf URLs zuzugreifen und sie zu scrapen",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Badgetext, um anzuzeigen, dass die angezeigten Daten eine Vorschau des Scrapers sind.",
+      "message": "Vorschau"
+   },
+   "remainingPages": {
+      "description": "Beschriftung zur Anzeige der verbleibenden zu scrapenden Seiten, wenn Detailseiten gescraped werden.",
+      "message": "Verbleibend"
+   },
+   "rename": {
+      "description": "Bezeichnung für das Menüelement, um den Scraper umzubenennen.",
+      "message": "Umbenennen"
+   },
+   "reviewDescription": {
+      "description": "Bitten Sie den Benutzer, eine Bewertung für die Anwendung zu hinterlassen.",
+      "message": "Hallo, ich bin $NAME$. Ich habe $APP_NAME$ erstellt, um Menschen zu helfen, Zeit zu sparen. Wenn es Ihnen gefällt, würde ich mich über eine 5-Sterne-Bewertung freuen, um anderen zu helfen, $APP_NAME$ zu entdecken. Vielen Dank!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Den Benutzer für die Verwendung der Anwendung danken.",
+      "message": "Danke, dass Sie $APP_NAME$ verwenden",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Bezeichnung für die Option zum Anzeigen des Bildschirms zum Scrapen von Detailseiten für jedes Element in einer Liste.",
+      "message": "Details scrapen"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Beschreibung für den Tipp, um den Benutzer über das Scrapen von Detailseiten zu informieren.",
+      "message": "Um jede URL in der Liste zu scrapen, wählen Sie \"$LABEL$\" aus dem Menü in der oberen rechten Ecke, nachdem Sie die Liste als CSV-Datei heruntergeladen haben.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Details scrapen"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Titel für den Tipp, um den Benutzer über das Scrapen von Detailsseiten aufzuklären.",
+      "message": "Tipp: Detailsseiten scrapen"
+   },
+   "scrapeList": {
+      "description": "Beschriftung für die Option, den Bildschirm zum Abrufen einer Liste anzuzeigen.",
+      "message": "Liste abrufen"
+   },
+   "scrapedPages": {
+      "description": "Beschriftung, um die Anzahl der gescrapten Seiten anzuzeigen, wenn Detailseiten gescrapt werden.",
+      "message": "Gescraped"
+   },
+   "scrapingComplete": {
+      "description": "Warnüberschrift, um anzuzeigen, dass das Scraping abgeschlossen ist.",
+      "message": "Scraping abgeschlossen"
+   },
+   "scrapingStatus": {
+      "description": "Beschriftung, die anzeigt, dass das Scrapen im Gange ist.",
+      "message": "Scrapen..."
+   },
+   "scrollDelay": {
+      "description": "Beschriftung für die Eingabe, um zu steuern, wie lange man in Millisekunden warten soll, während man beim Scrapen zu jedem Element scrollt.",
+      "message": "Scrollverzögerung (ms)"
+   },
+   "scrollDown": {
+      "description": "Beschriftung für die Option, nach unten zu scrollen, um mehr Elemente beim Scrapen zu laden.",
+      "message": "Scrollen Sie nach unten, um mehr Elemente zu laden"
+   },
+   "select": {
+      "description": "Beschriftung für die Schaltfläche zum Auswählen eines Elements auf der Seite.",
+      "message": "Auswählen"
+   },
+   "selectElement": {
+      "description": "Titel der angezeigt wird, wenn ein Element ausgewählt wird.",
+      "message": "Element auswählen"
+   },
+   "selectField": {
+      "description": "Beschreibung der Aktion, um das zu erfassende Feld auszuwählen.",
+      "message": "Feld auswählen"
+   },
+   "selectList": {
+      "description": "Titel, der beim Auswählen einer Liste angezeigt wird.",
+      "message": "Liste auswählen"
+   },
+   "selectScraper": {
+      "description": "Beschriftung für das Menüelement zum Auswählen eines Scrapers für das Auslesen jeder URL.",
+      "message": "Scraper auswählen"
+   },
+   "selectScraperOption": {
+      "description": "Anweisung, um einen Scraper für die aktuelle Domain auszuwählen.",
+      "message": "Wähle Scraper für $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "beispiel.de"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Bezeichnung für die Schaltfläche zum Anzeigen weiterer Optionen für das Scraping.",
+      "message": "Optionen anzeigen"
+   },
+   "startScraping": {
+      "description": "Beschriftung für die Schaltfläche zum Starten des Scrapings.",
+      "message": "Scraping starten"
+   },
+   "stopScraping": {
+      "description": "Beschriftung für die Schaltfläche, um das Scraping zu stoppen.",
+      "message": "Stoppen Sie das Scraping"
+   },
+   "tabNotFound": {
+      "description": "Fehlermeldung, wenn der Ziel-Tab nicht existiert.",
+      "message": "Kein Tab gefunden. Schließen Sie dieses Fenster und versuchen Sie es erneut."
+   },
+   "testUrl": {
+      "description": "Bezeichnung für das Texteingabefeld für die Test-URL, die bei der Auswahl eines Scrapers verwendet wird.",
+      "message": "Test-URL"
+   },
+   "text": {
+      "description": "Beschriftung für das Textfeld, das von einem Element erfasst wurde.",
+      "message": "Text"
+   },
+   "uploadUrls": {
+      "description": "Beschriftung für das Menüelement zum Hochladen einer Datei mit URLs zum Scrapen.",
+      "message": "URLs hochladen"
+   },
+   "url": {
+      "description": "Beschriftung für das URL-Feld, das von einem Element erfasst wurde.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Warnung, die angezeigt wird, wenn der ausgewählte Spaltenname eine URL ist und die CSV-Datei möglicherweise keine Kopfzeile hat.",
+      "message": "Der Spaltenname scheint eine URL zu sein. Bitte stellen Sie sicher, dass die CSV-Datei mit einer Kopfzeile beginnt, die die Namen der Spalten enthält."
+   },
+   "verify": {
+      "description": "Beschriftung für die Schaltfläche zur Überprüfung eines ausgewählten Elements durch Hervorhebung auf der Seite.",
+      "message": "Verifizieren"
+   },
+   "waitTimeItems": {
+      "description": "Bezeichnung für die Eingaben, um zu steuern, wie lange beim Laden weiterer Elemente gewartet wird.",
+      "message": "Wartezeit zum Laden weiterer Elemente (Sekunden)"
+   },
+   "waitTimePages": {
+      "description": "Beschriftung für die Eingabefelder, um zu steuern, wie lange beim Laden von Seiten gewartet wird (in Sekunden).",
+      "message": "Wartezeit für das Laden von Seiten (Sekunden)"
+   }
+}

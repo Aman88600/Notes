@@ -1,0 +1,84 @@
+{
+  "BasicInfo": {
+    "Name": "Keerthana Rangaraj",
+    "ProfilePhoto": "https://media.licdn.com/dms/image/v2/D5635AQEtwQ-9-XtPBw/profile-framedphoto-shrink_100_100/B56Zc1U.YNHUAo-/0/1748946380668?e=1757271600&v=beta&t=jl18UpvD1X6UvLtbUfHx1NFx0QEMb2ruUrPxzae0CCM",
+    "Headline": "Data Scientist at 5c Network | M.Sc Data Science at Christ University, Bangalore",
+    "Followers": 1585,
+    "Connections": "500+"
+  },
+  "Activity": {
+    "Followers": 1585,
+    "RecentActivity": [
+      {
+        "Type": "Promotion",
+        "Description": "I am excited to announce that I've been promoted as a Data Scientist after doing an internship for 4 months at 5c Network",
+        "Date": "3 months ago"
+      }
+    ],
+    "Posts": []
+  },
+  "Experience": [
+    {
+      "Title": "Data Scientist",
+      "Company": "5C Network",
+      "EmploymentType": "Full-time",
+      "Duration": "Aug 2024 - Present",
+      "Location": "Bengaluru, Karnataka, India · On-site",
+      "Description": "Promoted as a Data Scientist after completing a 4-month internship.",
+      "Logo": "https://media.licdn.com/dms/image/v2/C560BAQHgrbFI2bQswg/company-logo_100_100/company-logo_100_100/0/1658739757365/5c_network_logo?e=1759363200&v=beta&t=LpuFbuk17ZLhhbMGe0Jjm9cMpaGhmXhvSfgktbVKX6w"
+    },
+    {
+      "Title": "Data Science Intern",
+      "Company": "5C Network",
+      "EmploymentType": "Internship",
+      "Duration": "Apr 2024 - Jul 2024",
+      "Location": "Bengaluru, Karnataka, India · On-site"
+    }
+  ],
+  "Education": [
+    {
+      "School": "Christ University, Bangalore",
+      "Degree": "Master of Science - MS",
+      "FieldOfStudy": "Data Science",
+      "Duration": "Aug 2022 - Jun 2024",
+      "Logo": "https://media.licdn.com/dms/image/v2/C560BAQENS8jNjdELYQ/company-logo_100_100/company-logo_100_100/0/1657915737039?e=1759363200&v=beta&t=aj3TW9KRtF93af3d2E8CBxKKeyXY_2sEkSidc0ZCEm8"
+    },
+    {
+      "School": "Dr.G.R.Damodaran College of Science",
+      "Degree": "Bachelor of Science - BS",
+      "FieldOfStudy": "Information Technology",
+      "Duration": "2018 - 2021",
+      "Logo": "https://media.licdn.com/dms/image/v2/D560BAQHUDQ_LIoLoHw/company-logo_100_100/company-logo_100_100/0/1664772546589/grdcs_logo?e=1759363200&v=beta&t=bjnHCIJCVfTQgQ2YlimrtL7Cb8Xm27XB65cjB7U-0q8"
+    }
+  ],
+  "Certification": [],
+  "Skills": [
+    "Python (Programming Language)",
+    "SQL",
+    "TensorFlow",
+    "Deep Learning",
+    "Machine Learning",
+    "Data Science",
+    "Large Language Models (LLM)",
+    "Computer Vision",
+    "Data Visualization",
+    "Time Series Analysis",
+    "Dialogflow",
+    "Stochastic gradient descent with momentum"
+  ],
+  "Projects": [
+    {
+      "Title": "Brain Tumor Segmentation",
+      "AssociatedWith": "Christ University, Bangalore",
+      "Description": "Proposed a brain tumor classification method using CNN implemented in MATLAB. Used preprocessed MRI scans from the Kaggle dataset to classify brain tumors into two categories: tumor and no tumor.",
+      "Link": "https://github.com/KeerthanaRangaraj/Brain_Tumor_segmentation"
+    },
+    {
+      "Title": "TradeWiz-Simplifying-Trading-through-Power-of-AI",
+      "AssociatedWith": "Other contributors",
+      "Description": "Built a Chatbot, TradeWiz, to provide traders and investors with highly accurate forecasts of stock prices. Utilized advanced AI techniques (LSTM, attention mechanisms) to deliver reliable predictions over a 60-day horizon.",
+      "Link": "https://github.com/KeerthanaRangaraj/TradeWiz-Simplifying-Trading-through-Power-of-AI"
+    }
+  ],
+  "About": "I am an enthusiastic Data Scientist with the experience and profound passion for exploring the realms of machine learning, artificial intelligence (AI), and deep learning. My journey in the field of data science has been one fueled by curiosity, dedication, and an insatiable appetite for knowledge."
+}

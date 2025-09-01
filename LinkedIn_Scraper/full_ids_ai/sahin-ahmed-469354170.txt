@@ -1,0 +1,112 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Sahin Ahmed",
+    "title": "Data Scientist | Analytical Innovator | Driving Data-Driven Decisions",
+    "currentCompany": "Publicis Media",
+    "location": null,
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQHtvCr5aW7EsQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1710758350730?e=1759363200&v=beta&t=KI03vrrowIiCPPHgcnGroaU5LMvYbgFeboo29HuqiMs",
+    "linkedin": "https://www.linkedin.com/in/sahin-ahmed-469354170?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACihVpEBv0ibcpw7_20KqwaYjsc-_j29ay8",
+    "medium": "https://medium.com/@sahin.samia",
+    "about": "Data Scientist | Analytical Innovator | Driving Data-Driven Decisions 📊💡 Passionate about unraveling insights from complex data and translating them into actionable strategies. Experienced in advanced analytics, machine learning, deep learning, and data visualization. Skilled in Python. Dedicated to leveraging data to solve real-world challenges and optimize business outcomes. Strong communicator, adept at translating technical concepts to non-technical stakeholders.",
+    "followers": 4034,
+    "connections": "500+"
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Are We Overlooking the True Power of RNNs?",
+      "summary": "Transformers have dominated the AI landscape, setting benchmarks across NLP. A recent paper revisits RNNs, showing mini-LSTMs and mini-GRUs can outperform transformers for long sequences. Sometimes, simpler and leaner models surprise us with their power.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7249269484543172611?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7249269484543172611%29",
+      "media": "https://media.licdn.com/dms/image/sync/v2/D5627AQH4-hm4sJGfEQ/articleshare-shrink_480/articleshare-shrink_480/0/1753811540468?e=1757268000&v=beta&t=mfOtgIlkx_IY2Ab3osQ7RL4dheavJFik3q6C2-Oil4g",
+      "blogLink": "https://lnkd.in/gXdNTCUx",
+      "commentsCount": 11
+    },
+    {
+      "type": "Post",
+      "title": "How to become a self-taught Data Scientist (Journey of a mechanical engineer to Data Scientist: An Unexpected Career Pivot)",
+      "summary": "My journey of becoming a self taught data scientist... #datascientist #careertransition #jobforfresher #datasciencejobs #journeyofgrowth",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7149713686884982784?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7149713686884982784%29",
+      "media": "https://media.licdn.com/dms/image/v2/D5612AQFiHuf8O0D3XQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1704624428752?e=1762387200&v=beta&t=Ed0ilLl5hxzb6R82n__OjQKC7hhQeh-5ruZ-FQyjZSo",
+      "hashtags": [
+        "#datascientist", "#careertransition", "#jobforfresher", "#datasciencejobs", "#journeyofgrowth"
+      ]
+    },
+    {
+      "type": "Post",
+      "title": "CRAG: Corrective Retrieval-Augmented Generation",
+      "summary": "CRAG enhances traditional RAG by introducing a self-corrective mechanism, significantly improving accuracy and robustness of AI-generated content. #LLM #AI #ChatGPT #RAG #NLP #AGI",
+      "url": "",
+      "media": [
+        "https://media.licdn.com/dms/image/sync/v2/D5627AQEHS3DwMVq9-A/articleshare-shrink_480/articleshare-shrink_480/0/1753864987212?e=1757268000&v=beta&t=1tTZZ2JhyT7o_SyvQhc-FQpyweSIZEExq7zobklbYqI",
+        "https://media.licdn.com/dms/image/sync/v2/D5627AQFq6OD0TjsGaA/articleshare-shrink_480/articleshare-shrink_480/0/1717651146598?e=1757268000&v=beta&t=bqogoLCqmagdHjM1_vmpOV8U27vLFcDkoLDX3QrhSc0"
+      ],
+      "hashtags": [
+        "#LLM", "#AI", "#ChatGPT", "#RAG", "#NLP", "#AGI"
+      ]
+    },
+    {
+      "type": "Post",
+      "title": "The Architecture of GPT-OSS Explained: How The Model Works Under the Hood",
+      "summary": null,
+      "url": "https://medium.com/p/the-architecture-of-gpt-oss-explained-how-the-model-works-under-the-hood-d415574c9cb4?source=social.linkedin&_nonce=vLCrfsg3"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Publicis Media",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHQv6oKsAxx4Q/company-logo_100_100/company-logo_100_100/0/1630579905401/publicismedia_logo?e=1759363200&v=beta&t=XLmeEDdDS1oc1DP9lYMHQNnfpDSDKKo8Qj09UQaXOiw",
+      "employmentType": "Full-time",
+      "startDate": "Apr 2022",
+      "endDate": "Present",
+      "duration": "3 yrs 5 mos",
+      "location": null,
+      "skills": ["Analytical Skills", "Machine Learning"]
+    }
+  ],
+  "Education": [
+    {
+      "school": "Manipal Academy of Higher Education",
+      "degree": "MSc, Data Science",
+      "dates": "May 2023 - May 2025",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHMxoGEoHiGLA/company-logo_100_100/company-logo_100_100/0/1691132180316/manipalacademyofhighereducation_logo?e=1759363200&v=beta&t=8rmBuSogEHBn7pS6yJM3dVRvXdZW_HvGkoYQQ-7RD9I",
+      "skills": ["Generative AI with Large Language Models"]
+    },
+    {
+      "school": "International Institute of Information Technology Bangalore",
+      "degree": "PG, Data Science",
+      "dates": "Jun 2021 - Jun 2022",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQE_nLNex0UufA/company-logo_100_100/company-logo_100_100/0/1735036209832/iiitbofficial_logo?e=1759363200&v=beta&t=gx896ic5DI4T9BuI_ZKaVDz-ZgUIGdRZQGhFOxvVJZ4",
+      "skills": ["Pandas", "Statistical Modeling"]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Natural language processing in Tensorflow",
+      "issuer": "DeepLearning.AI",
+      "issueDate": "Feb 2024",
+      "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1759363200&v=beta&t=MyON-dipcM0xVryWrwHl6cx8aD21rw9uhXjGVsgJxEY"
+    },
+    {
+      "name": "TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+      "issuer": "DeepLearning.AI",
+      "issueDate": "Feb 2024",
+      "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1759363200&v=beta&t=MyON-dipcM0xVryWrwHl6cx8aD21rw9uhXjGVsgJxEY"
+    }
+  ],
+  "Skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Visualization",
+    "NLP",
+    "Generative AI with Large Language Models",
+    "LangChain",
+    "PEFT",
+    "Statistical Modeling",
+    "Analytical Skills",
+    "Pandas"
+  ]
+}
+```

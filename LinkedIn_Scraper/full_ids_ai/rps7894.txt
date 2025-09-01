@@ -1,0 +1,118 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Rudra Pratap",
+    "headline": "Data Scientist at Bain & Company | NLP, LLMs, Deep Learning",
+    "current_company": "Bain & Company",
+    "location": "Gurugram, Haryana, India",
+    "connection_count": "500+",
+    "linkedin_url": "https://www.linkedin.com/in/rps7894/",
+    "about": "Data Scientist with four years of experience, specializing in natural language processing and predictive modeling. Skilled in machine learning and deep learning, with a proven record of leading AI/ML projects to enhance operational efficiencies and engagement, particularly in sports and news platforms."
+  },
+  "Activity": [
+    {
+      "type": "LinkedIn Post",
+      "title": "Top Machine Learning Voice by LinkedIn",
+      "date": "2024",
+      "description": "Recognized as 'Top Machine Learning Voice' by LinkedIn. Expressed gratitude and commitment to sharing knowledge.",
+      "hashtags": ["#topvoice", "#machinelearning", "#achievement"],
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7168827059396448256"
+    },
+    {
+      "type": "LinkedIn Post",
+      "title": "Mastering Data Science Interviews - Day 5",
+      "date": "2024",
+      "description": "Educational series on mastering data science interviews, focusing on Probability Density Function (PDF) and Cumulative Distribution Function (CDF).",
+      "hashtags": ["#DataScience", "#Statistics", "#PDF", "#CDF", "#InterviewPreparation"],
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7164483609079349248"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist 2",
+      "company": "Bain & Company",
+      "location": "Gurugram, Haryana, India (Hybrid)",
+      "start_date": "Dec 2024",
+      "end_date": "Present",
+      "description": "",
+      "skills": ["Quantitative Analytics", "Artificial Intelligence (AI)"]
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Georgia Institute of Technology",
+      "location": "Remote",
+      "start_date": "May 2024",
+      "end_date": "May 2025",
+      "description": "",
+      "skills": []
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Capri Global Capital Ltd.",
+      "location": "Gurugram, Haryana, India (Hybrid)",
+      "start_date": "Mar 2024",
+      "end_date": "Dec 2024",
+      "description": "Developed automated query response and job recommendation system, enhanced NLP and computer vision project deployment, and produced tech communication content.",
+      "skills": ["NLP", "Computer Vision"]
+    },
+    {
+      "title": "Data Scientist / AI/ML Engineer",
+      "company": "NewsBytes",
+      "start_date": "Jun 2021",
+      "end_date": "Mar 2024",
+      "description": "Led AI-driven projects including fantasy cricket recommendation engine, cricket query answering system, automated content aggregation, and AI-powered SEO audit tool.",
+      "skills": ["Recommendation Systems", "NLP", "AI", "SEO", "Content Aggregation"]
+    }
+  ],
+  "Education": [
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Master of Science - MS",
+      "field": "Computer Science",
+      "start_date": "Jan 2024",
+      "end_date": "Dec 2026",
+      "courses": [
+        "Current: Natural Language Processing",
+        "Completed: Machine Learning for Trading",
+        "Machine Learning",
+        "Reinforcement Learning",
+        "DBSE"
+      ]
+    },
+    {
+      "school": "Jaypee Institute Of Information Technology",
+      "degree": "Bachelor of Technology - BTech",
+      "field": "Electrical, Electronic and Communications Engineering Technology/Technician",
+      "start_date": "2017",
+      "end_date": "2021",
+      "activities": [
+        "Conferences attended: IC3",
+        "Technical events: Cyber Srishti; Vidyut"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Data Science",
+      "issuer": "Georgia Institute of Technology",
+      "date": "",
+      "skills": []
+    },
+    {
+      "title": "Deep Learning",
+      "issuer": "",
+      "date": "",
+      "skills": []
+    }
+  ],
+  "Skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "Large Language Models (LLM)",
+    "Natural Language Processing (NLP)",
+    "Python (Programming Language)",
+    "Artificial Intelligence (AI)",
+    "Data Analysis"
+  ]
+}
+```

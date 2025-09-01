@@ -1,0 +1,114 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Kumar Shikhar",
+    "LinkedInProfile": "https://www.linkedin.com/in/kumar-shikhar-ai/",
+    "AccountType": "{:badgeType}",
+    "ContactInfo": [
+      "https://www.linkedin.com/in/kumar-shikhar-ai/overlay/about-this-profile/",
+      "https://www.youtube.com/@DataSciencewithShikhar"
+    ],
+    "Connections": "500+"
+  },
+  "Activity": {
+    "Followers": 1743,
+    "Posts": [
+      {
+        "Title": "TalkMLOps",
+        "Followers": 235,
+        "Date": "9 months ago",
+        "Type": "Company Activity",
+        "LinkedIn": "https://www.linkedin.com/company/74688123/"
+      },
+      {
+        "Title": "Hi-Tech Robotics and Autonomous Systems",
+        "Role": "Chair Professor in CSE, IIT Delhi; Founder Thought2Design Systems",
+        "Author": "Smruti Sarangi",
+        "Date": "6 months ago",
+        "LinkedIn": null
+      }
+    ],
+    "Comments": 115
+  },
+  "Experience": [
+    {
+      "Title": "Data Science Instructor",
+      "Company": "Internshala",
+      "Type": "Freelance",
+      "Description": "Train students and professionals in Placement Guarantee Course offered by Internshala. Have taught Data Science and Machine Learning to more than 6000 students. Have taught multiple batches of IIT Madras and MITx Data Science Certification courses.",
+      "StartDate": "Dec 2024",
+      "EndDate": "Present",
+      "Duration": "9 mos",
+      "Location": "Gurugram, Haryana, India (Remote)"
+    },
+    {
+      "Title": "Data Science Instructor",
+      "Company": "Intellipaat",
+      "Type": "Part-time",
+      "Description": "Have taught Data Science and Machine Learning to more than 6000 students. Have taught multiple batches of IIT Madras and MITx Data Science Certification courses.",
+      "StartDate": "Dec 2021",
+      "EndDate": "Present",
+      "Duration": "3 yrs 9 mos",
+      "Location": "India"
+    },
+    {
+      "Title": "Data Science Trainer",
+      "Company": "OdinSchool",
+      "Type": "Instructor",
+      "Description": null,
+      "StartDate": null,
+      "EndDate": null,
+      "Location": null
+    }
+  ],
+  "Education": [
+    {
+      "Degree": "Master's degree",
+      "Field": "Computer Science",
+      "Specialization": "Artificial Intelligence",
+      "Institution": "Central University of Rajasthan, Jaipur"
+    },
+    {
+      "Degree": "Bachelor's degree",
+      "Field": "Computer Science",
+      "Institution": "Central University of Rajasthan, Jaipur"
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Microsoft Azure Design a Machine Learning Solution",
+      "Issuer": "Cloud9 Community Channel",
+      "Date": "Mar 2024",
+      "VerificationURL": "https://learn.microsoft.com/api/achievements/share/en-us/KumarShikhar-4122/NZYCGDKF?sharingId=E9720FA09D5B9227"
+    },
+    {
+      "Name": "Data Analysis with Python",
+      "Issuer": "DataCamp",
+      "Date": "Apr 2022",
+      "VerificationURL": "https://www.datacamp.com/statement-of-accomplishment/track/eaf399b86a4480eff4456aff9553b01774e182ad"
+    },
+    {
+      "Name": "Microsoft Azure Machine Learning",
+      "Issuer": "Cloud9 Community Channel",
+      "Date": null,
+      "VerificationURL": "https://learn.microsoft.com/api/achievements/share/en-us/KumarShikhar-4122/NZYCGDKF?sharingId=E9720FA09D5B9227"
+    }
+  ],
+  "Skills": [
+    "Machine Learning",
+    "Statistics",
+    "SQL",
+    "NoSQL Databases",
+    "NLP",
+    "Deep Learning",
+    "Data Analysis with Python",
+    "MLOps",
+    "AWS Sagemaker",
+    "Data Engineering Fundamentals",
+    "Training and Mentoring",
+    "Microsoft Azure Machine Learning",
+    "Data Analysis",
+    "Analytical Skills"
+  ]
+}
+```

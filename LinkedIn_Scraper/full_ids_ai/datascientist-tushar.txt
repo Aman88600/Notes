@@ -1,0 +1,152 @@
+Here is a structured JSON representation of the provided content, arranged into the requested fields: Basic Info, Activity, Experience, Education, Certification, and Skills. This structure follows conventions and field names typical of resume or professional profile schemas[3][5].
+
+```json
+{
+  "BasicInfo": {
+    "name": "Tushar Gupta",
+    "current_position": "Lead Data Scientist",
+    "company": "Quinbay",
+    "location": "India",
+    "about": "At Quinbay, my role as Lead Data Scientist merges strategic data analysis with machine learning innovation, driving forward technological solutions in the E-commerce sector. With a strong foundation in Python, deep learning, and NLP, my work focuses on uncovering insights and advancing data-driven strategies that optimize operations and enhance customer experiences. My tenure has been marked by the successful deployment of microservices using Flask and FastAPI and robust cloud implementations involving Docker and GCP. Collaboratively, we've developed and maintained high-performance machine learning models, contributing to Quinbay's reputation as a leader in AI-enabled commerce solutions.",
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Professional working proficiency"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Native or bilingual proficiency"
+      }
+    ]
+  },
+  "Activity": {
+    "volunteering": [
+      {
+        "role": "Teacher",
+        "organization": "Special Education Program for Rural Kids in Jammu",
+        "location": "Udhampur district",
+        "description": "I volunteer as a computer teacher to help rural kids in Udhampur district. I train these kids enrolled in rural secondary schools on basic computer operations, its uses in day to day life, and help them get exposed to the internet.",
+        "start": "Jan 2012",
+        "end": "Present"
+      }
+    ],
+    "social": {
+      "followers": 1342
+    },
+    "comments": [
+      "Congrats Anil! 🎉",
+      "Congrats Amit! 🎉",
+      "Congratulations bade log !!"
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Lead Data Scientist",
+      "company": "Quinbay",
+      "location": "India",
+      "type": "Full-time",
+      "start": "Mar 2021",
+      "end": "Present",
+      "duration": "4 yrs 6 mos",
+      "responsibilities": [
+        "Building and testing of the complete ETL process.",
+        "Finding ways & methods to find value out of existing data.",
+        "Improving data quality, reliability, design & efficiency of the applications."
+      ]
+    },
+    {
+      "title": "IT Analyst",
+      "company": "TCS",
+      "location": "India",
+      "start": "Feb 2019",
+      "end": "Mar 2021",
+      "duration": "2 yrs 2 mos",
+      "responsibilities": [
+        "Building and testing of the complete ETL process.",
+        "Finding ways & methods to find value out of existing data.",
+        "Improving data quality, reliability, design & efficiency of the applications."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "CGI",
+      "location": "India",
+      "start": "Dec 2014",
+      "end": "Feb 2019",
+      "duration": "4 yrs 3 mos",
+      "responsibilities": [
+        "Enhance the requirements based on the enterprise portal.",
+        "Creating data lake.",
+        "Efficient coding and Testing."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Liverpool John Moores University",
+      "degree": "Masters",
+      "field": "Data Science",
+      "start": "2020",
+      "end": "2021",
+      "grade": "3.75",
+      "relevant_skills": [
+        "Artificial Intelligence (AI)",
+        "Natural Language Processing (NLP)"
+      ]
+    },
+    {
+      "institution": "International Institute of Information Technology Bangalore",
+      "degree": "PGDDM",
+      "field": "Data Science",
+      "start": "2019",
+      "end": "2020",
+      "grade": "3.75",
+      "relevant_skills": [
+        "Artificial Intelligence (AI)",
+        "Natural Language Processing (NLP)"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Post Graduation Diploma in Data Science",
+      "issuer": "International Institute of Information Technology Bangalore",
+      "date_issued": "Oct 2020",
+      "credential_id": "tusharg.gupta@gmail.com",
+      "skills": [
+        "Data Science",
+        "Google Cloud Platform (GCP)"
+      ]
+    },
+    {
+      "name": "Deep Learning and Big Data",
+      "issuer": "International Institute of Information Technology Bangalore",
+      "date_issued": "Sep 2020",
+      "credential_id": "tusharg.gupta@gmail.com",
+      "skills": [
+        "Data Science",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "Skills": [
+    "Python",
+    "Deep Learning",
+    "Natural Language Processing (NLP)",
+    "Statistical Modeling",
+    "ETL",
+    "Airflow",
+    "Machine Learning",
+    "MLOps",
+    "PyTorch",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "Google Cloud Platform (GCP)",
+    "Data Lake",
+    "Efficient Coding and Testing"
+  ]
+}
+```
+
+Each field corresponds to a clear aspect of a professional profile, as outlined in your request and typical schema conventions[3][5]. This JSON can be readily extended with additional sections (e.g., projects, recommendations) if needed.

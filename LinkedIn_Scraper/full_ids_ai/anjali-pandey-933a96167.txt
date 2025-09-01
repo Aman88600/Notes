@@ -1,0 +1,103 @@
+Here is the requested structured JSON format based on the fields: **Basic Info, Activity, Experience, Education, Certification, and Skills**.
+
+```json
+{
+  "BasicInfo": {
+    "name": "Anjali Pandey",
+    "current_title": "Data Scientist",
+    "current_company": "Accenture",
+    "location": "Bengaluru, Karnataka, India",
+    "profile_links": [
+      "https://www.linkedin.com/in/anjali-pandey-933a96167",
+      "https://linktr.ee/pandey_anjali"
+    ],
+    "followers": 24325,
+    "connections": "500+",
+    "about": "As a Data Scientist at Accenture, I work with large and complex datasets to provide insights and solutions for various business problems. I use python and SQL to analyze, visualize, and communicate insights effectively. I am also proficient and have worked on Snowflake, AWS, EC2, Docker and Machine Learning algorithms. I have a strong passion for data science and a high enthusiasm for learning new things. I made a career transition from non-tech to tech role after working for 2.8 years in different domains, such as B2B business development, financial advisory, and team management. I have gained valuable experience and skills in these roles, such as customer relationship, communication, negotiation, and leadership. I also hold multiple certifications in SQL and Python, and I am an active contributor to Topmate, a platform that connects data science learners and job seekers. My goal is to leverage my data science skills and diverse background to create value and impact for my clients and stakeholders."
+  },
+  "Activity": [
+    {
+      "type": "Featured",
+      "description": "AI conference 2024 by Target, looking back to a wonderful day event highly curated for AI professionals. Session highlights include scaling GenAI, AI-powered deception for identity protection, case studies on forecasting and delivery optimization, and engineering for ML.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7258448247055110144"
+    },
+    {
+      "type": "GitHub",
+      "description": "Solving Business Use Cases using SQL",
+      "url": "https://github.com/Anjali-k27/SQL"
+    },
+    {
+      "type": "Post",
+      "description": "Free Python Course for Beginners | Newton School Launchpad ft. Rohit Arora, Senior Software Engineer, Microsoft"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Accenture",
+      "employment_type": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "period": "Dec 2022 - Present (2 yrs 9 mos)",
+      "skills": [
+        "Stakeholder Management",
+        "Data Visualization",
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "Snowflake",
+        "AWS",
+        "EC2",
+        "Docker"
+      ]
+    },
+    {
+      "title": "B2B Business Development Associate",
+      "company": "Wizklub Learning Pvt Limited",
+      "employment_type": "Full-time",
+      "period": "Apr 2022 - Jun 2022 (3 mos)",
+      "location": "Remote"
+    },
+    {
+      "title": "Financial Advisor NRI",
+      "company": "PolicyBazaar.com",
+      "employment_type": "Full-time",
+      "period": "Jul 2021 - Mar 2022 (9 mos)"
+    }
+  ],
+  "Education": [
+    {
+      "school": "St. John's Academy, Hajipur"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Statistics Foundations 1: The Basics",
+      "issuer": "LinkedIn",
+      "issued_date": "Jan 2023",
+      "credential_url": "https://www.linkedin.com/learning/certificates/42c2536c68fbd2922256c01ebeba405e9e0e919264c21d57e59cf12b94510229"
+    },
+    {
+      "name": "Hands On Essentials - Data Warehouse",
+      "issuer": "Snowflake",
+      "issued_date": "Sep 2023",
+      "credential_url": "https://www.credly.com/badges/298fd255-b22c-4203-8d0f-289fa427fe31/linked_in_profile"
+    }
+  ],
+  "Skills": [
+    "Data Analytics",
+    "Model Deployment",
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Snowflake",
+    "AWS",
+    "Docker",
+    "Stakeholder Management",
+    "Data Visualization",
+    "Communication",
+    "Negotiation",
+    "Leadership"
+  ]
+}
+```
+This structure distills the unorganized input into meaningful, relevant fields, mirroring real-world professional profile schemas[1][2][5]. Each section concisely covers its scope, leverages provided content, and excludes irrelevant fragments for clarity and usefulness.

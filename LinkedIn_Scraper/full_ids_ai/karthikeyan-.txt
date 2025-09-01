@@ -1,0 +1,86 @@
+Here is a structured JSON template covering the requested fields: **Basic Info, Activity, Experience, Education, Certification, and Skills**. This structure is based on the community-standard [JSON Resume schema][3][5], adapted to match your requested categories.
+
+```json
+{
+  "BasicInfo": {
+    "name": "John Doe",
+    "label": "Backend Developer",
+    "email": "john.doe@example.com",
+    "location": {
+      "city": "Paris",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "john-doe",
+        "url": "https://linkedin.com/in/john-doe"
+      }
+    ]
+  },
+  "Activity": [
+    {
+      "title": "Volunteer Teacher",
+      "organization": "Code for Good",
+      "startDate": "2018-02-01",
+      "endDate": "2019-06-01",
+      "description": "Taught programming basics to underprivileged youth.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "company": "Tech Corp",
+      "position": "Node.js Developer",
+      "startDate": "2019-06",
+      "endDate": "2023-01",
+      "highlights": [
+        "Developed an API to handle 1M requests per day.",
+        "Implemented automated tests with Jest."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "University",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "AWS Certified Developer",
+      "date": "2021-11-07",
+      "issuer": "Amazon",
+      "url": "https://aws.amazon.com/certification/"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "JavaScript",
+      "level": "Advanced"
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate"
+    }
+  ]
+}
+```
+
+- **BasicInfo** covers primary identity, location, and online profiles[3][5].
+- **Activity** reflects non-employment activities such as volunteering and notable contributions[5].
+- **Experience** describes formal work history[3].
+- **Education** documents academic background[5].
+- **Certification** lists professional certificates and credentials[5].
+- **Skills** details technical or domain skills with proficiency levels[3].
+
+This format is compatible with common JSON-based resume tools for developers[3][5]. You can populate it with your actual data as appropriate.

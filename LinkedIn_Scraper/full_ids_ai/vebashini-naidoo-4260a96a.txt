@@ -1,0 +1,125 @@
+Here is the structured JSON representation of the provided content, organized according to your specified fields: **Basic Info**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills**.
+
+```json
+{
+  "BasicInfo": {
+    "fullName": "Vebashini Naidoo",
+    "headline": "Chief Data Scientist at SARS",
+    "location": "City of Johannesburg, Gauteng, South Africa",
+    "connections": "500+",
+    "LinkedInProfile": "https://www.linkedin.com/in/vebashini-naidoo-4260a96a/",
+    "currentCompany": {
+      "name": "South African Revenue Service (SARS)",
+      "followers": 643341,
+      "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEnxdZXIEk0SQ/company-logo_100_100/B4DZX6vvlJHAAY-/0/1743668575506/sars_logo?e=1759363200&v=beta&t=2d2EA_2zoyEkbbo6a9Prke9fubGFuCqeTptmw309lu0"
+    }
+  },
+  "Activity": {
+    "followers": 1878,
+    "postsLoaded": 9,
+    "recentPostAuthor": "Vebashini Naidoo",
+    "recentPostRole": "Chief Data Scientist at SARS",
+    "recentPostDate": "3 weeks ago",
+    "recentPostVisibility": "Visible to anyone on or off LinkedIn",
+    "comments": 1,
+    "volunteering": [
+      {
+        "role": "Tutor (Maths Grade 11)",
+        "organization": "Cosmo City Secondary",
+        "duration": "Jan 2012 - May 2014 · 2 yrs 5 mos"
+      },
+      {
+        "role": "Tutor (Maths Grade 8)",
+        "organization": "Blue Eagle Secondary School in Cosmo City",
+        "duration": "Jan 2012 - May 2014 · 2 yrs 5 mos"
+      }
+    ],
+    "volunteeringNote": "Tutored Maths to Grade 8 and 11 students; contributed to various initiatives focused on Mathematics and English. Programme organized and supported by FNB and RMB."
+  },
+  "Experience": [
+    {
+      "title": "Chief Data Scientist",
+      "company": "South African Revenue Service (SARS)",
+      "employmentType": "Full-time",
+      "startDate": "Apr 2024",
+      "endDate": "Present",
+      "duration": "1 yr 5 mos",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEnxdZXIEk0SQ/company-logo_100_100/B4DZX6vvlJHAAY-/0/1743668575506/sars_logo?e=1759363200&v=beta&t=2d2EA_2zoyEkbbo6a9Prke9fubGFuCqeTptmw309lu0"
+    },
+    {
+      "title": "Chief Data Scientist",
+      "company": "rain South Africa",
+      "employmentType": "Full-time",
+      "startDate": "Sep 2018",
+      "endDate": "Feb 2023",
+      "duration": "5 yrs 9 mos",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQESxRnqIWrlSw/company-logo_100_100/company-logo_100_100/0/1661949793371/rainsouthafrica_logo?e=1759363200&v=beta&t=rts-eKjjp0YvWdMDCyd2JVuTelA8ohsgZWoImFEzkn0"
+    },
+    {
+      "title": "General Manager: Data Analytics",
+      "company": "rain South Africa",
+      "employmentType": "Full-time",
+      "startDate": "Mar 2022",
+      "endDate": "May 2024",
+      "duration": "2 yrs 3 mos"
+    },
+    {
+      "title": "Chief Data Scientist",
+      "company": "South African Revenue Service (SARS)",
+      "employmentType": "Full-time",
+      "startDate": "Apr 2024",
+      "endDate": "Present",
+      "duration": "1 yr 5 mos"
+    },
+    {
+      "title": "Other roles",
+      "company": "Absa Capital",
+      "duration": "Jul 2017 - Sep 2018 · 1 yr 3 mos"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Wits Business School",
+      "degree": "Master of Business Administration (MBA)",
+      "years": "2010 - 2013"
+    },
+    {
+      "institution": "UNISA",
+      "degree": "Bachelor of Banking, Finance and Banking",
+      "years": "2010 - 2013"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Foundation of Generative AI",
+      "issuer": "Udacity",
+      "issueDate": "Feb 2025",
+      "credentialID": null,
+      "certificateUrl": "https://www.udacity.com/certificate/e/d4a09116-b7bc-11ef-9c52-e70b4a06b65c"
+    },
+    {
+      "name": "Make Better Decisions",
+      "issuer": "Maven",
+      "issueDate": "Nov 2024",
+      "credentialID": "gjcsljcy",
+      "certificateUrl": "https://maven.com/certificate/gjcsljcy"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Credit Risk",
+      "endorsements": 1,
+      "endorsedBy": ["Cyprian Moloto"]
+    },
+    {
+      "name": "Business Analysis",
+      "endorsements": 7,
+      "endorsedBy": ["Jaco van den Heever (MBA, CUA, CXA)", "4 others"]
+    }
+  ]
+}
+```
+
+- **Fields exactly match your schema:** BasicInfo, Activity, Experience, Education, Certification, and Skills.
+- Choose only core, relevant information per category for usability.
+- Fields such as "Recommendations," "Languages," and "Interests" are omitted as not explicitly required, but you can add them if needed.

@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "アプリケーションのレビューを追加するためのボタンのラベル。",
+      "message": "レビューを追加"
+   },
+   "allowPermissions": {
+      "description": "アプリケーションの権限を許可するボタンのラベルです。",
+      "message": "権限を許可"
+   },
+   "autoScroll": {
+      "description": "スクレイピング中に各アイテムに自動的にスクロールするかどうかを制御するスイッチのラベル。",
+      "message": "オートスクロール"
+   },
+   "back": {
+      "description": "前の画面に戻るボタンのラベル。",
+      "message": "戻る"
+   },
+   "cancel": {
+      "description": "キャンセルアクションのラベル。",
+      "message": "キャンセル"
+   },
+   "changeList": {
+      "description": "スクレイピングするリストを変更するためのボタンのラベル。",
+      "message": "リストを変更"
+   },
+   "changeSelectionLevel": {
+      "description": "要素を選択する際に選択レベルを変更するアクションの説明です。",
+      "message": "選択レベルを変更"
+   },
+   "chooseFile": {
+      "description": "ファイルをアップロードするためのボタンのラベルです。",
+      "message": "ファイルを選択"
+   },
+   "click": {
+      "description": "クリックアクションのラベルです。",
+      "message": "クリック"
+   },
+   "clickLoadMore": {
+      "description": "スクレイピング時に同じページでさらにアイテムを読み込むオプションのボタンをクリックするためのラベルです。",
+      "message": "同じページでさらにアイテムを読み込むためのボタンをクリックしてください"
+   },
+   "clickNextPage": {
+      "description": "スクレイピング時にアイテムをさらに読み込むために次のページに移動するリンクをクリックするオプションのラベル。",
+      "message": "次のページに移動するためのリンクをクリックしてください"
+   },
+   "column": {
+      "description": "アップロードされたCSVからスクレイプするURLを含む列を選択するための\u003Cselect>要素のラベル。",
+      "message": "列"
+   },
+   "confirm": {
+      "description": "「確認」アクションのラベル。",
+      "message": "確認"
+   },
+   "continue": {
+      "description": "次の画面に進むためのボタンのラベル。",
+      "message": "続ける"
+   },
+   "copy": {
+      "description": "データをクリップボードにコピーするボタンのラベル。",
+      "message": "コピー"
+   },
+   "csvFile": {
+      "description": "CSVファイルをアップロードするためのファイル入力のラベル",
+      "message": "$FILE_TYPE$ ファイル",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "詳細ページスクレイパーのデフォルト名。",
+      "message": "$DOMAIN$ から詳細をスクレイプします",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "スクレイパーを削除するメニューアイテムのラベル。",
+      "message": "削除"
+   },
+   "dismiss": {
+      "description": "アラートを閉じるためのアクション。",
+      "message": "閉じる"
+   },
+   "duration": {
+      "description": "現在のスクレイプの期間を表示するためのラベル。",
+      "message": "期間"
+   },
+   "esc": {
+      "description": "エスケープキーのラベルです。",
+      "message": "エスケープ"
+   },
+   "export": {
+      "description": "スクレーパーをエクスポートするためのメニューアイテムのラベル。",
+      "message": "エクスポート"
+   },
+   "extractData": {
+      "description": "各URLからスクレイプしてデータを抽出するためのメニュー項目のラベルです。",
+      "message": "データを抽出"
+   },
+   "finish": {
+      "description": "ページ上の要素の選択を終了するボタンのラベル。",
+      "message": "完了"
+   },
+   "headerRow": {
+      "description": "アップロードされたCSVファイルはヘッダー行から始める必要があることを説明するヘルプテキストです。",
+      "message": "ヘッダー行から始める必要があります"
+   },
+   "headerRowRequired": {
+      "description": "アップロードされたCSVからヘッダー行が欠けていると思われる場合に表示する警告。",
+      "message": "ヘッダー行が必要です"
+   },
+   "help": {
+      "description": "ヘルプページを開くためのボタンのラベル。",
+      "message": "ヘルプ"
+   },
+   "hideOptions": {
+      "description": "スクレイピングのさらなるオプションを隠すためのボタンのラベル。",
+      "message": "オプションを隠す"
+   },
+   "import": {
+      "description": "スクレイパーをインポートするためのメニューアイテムのラベル。",
+      "message": "インポート"
+   },
+   "install": {
+      "description": "アプリケーションの最新版をインストールするためのボタンのラベルです。",
+      "message": "最新版をインストール"
+   },
+   "invalidTab": {
+      "description": "対象タブが制限されたサイトに開かれている場合のエラーメッセージ。",
+      "message": "このページは制限されています。他のサイトを試してください。"
+   },
+   "invalidVersion": {
+      "description": "ユーザーにアプリケーションの最新バージョンのインストールを指示します。",
+      "message": "$APP_NAME$ はベータ版を終了しました！最新のアップデートを入手するには、最新バージョンをインストールしてください。",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "リストをスクレイピングする際にスクレイプされたアイテムの数を表示するラベル。",
+      "message": "アイテム"
+   },
+   "loadMoreAction": {
+      "description": "スクレイピング時にさらにアイテムを読み込む方法を選択するための\u003Cselect>要素のラベル。",
+      "message": "アイテムをもっと読み込む操作"
+   },
+   "max": {
+      "description": "アイテムまたはページをさらに読み込むときに待機する最大時間を制御する入力のラベルです。",
+      "message": "最大"
+   },
+   "maxItems": {
+      "description": "スクレイピングするアイテムの数に最大限度を設定するための入力のラベル。",
+      "message": "最大アイテム数"
+   },
+   "maxItemsHelp": {
+      "description": "制限を設定しない場合は、最大アイテム入力を空白のままにするべきだとユーザーに知らせるヘルプテキスト。",
+      "message": "制限なしの場合は空白のままにしてください"
+   },
+   "maxItemsReached": {
+      "description": "スクレイピングするアイテムの数の最大制限に達したことを示す警告の説明です。",
+      "message": "指定された制限まで正常にスクレイピングしました。スクレイピングを続けるには、最大アイテム数を増やしてください。"
+   },
+   "mediaUrl": {
+      "description": "要素からキャプチャされたメディアURLフィールドのラベル。",
+      "message": "メディアURL"
+   },
+   "min": {
+      "description": "アイテムやページを読み込む際に待つ最小時間を制御する入力のラベルです。",
+      "message": "最小"
+   },
+   "missingTabError": {
+      "description": "対象タブのデータにアクセスできないときのエラーメッセージ。",
+      "message": "このタスクに使用していたタブは閉じられました。このウィンドウを閉じて、もう一度やり直してください。"
+   },
+   "missingTabPermission": {
+      "description": "対象のタブデータにアクセスできない場合のエラーメッセージ。",
+      "message": "タブにアクセスできません。このウィンドウを閉じて、もう一度試してください。"
+   },
+   "missingUrlColumn": {
+      "description": "CSVファイルにURLのある列がない場合のエラーメッセージ。",
+      "message": "URLのある列が見つかりません。別のファイルを選択してください。"
+   },
+   "newScraper": {
+      "description": "新しいスクレーパーを作成するためのボタンのラベル。",
+      "message": "新しいスクレーパー"
+   },
+   "noData": {
+      "description": "データがない場合にテーブルに表示するプレースホルダーです。",
+      "message": "表示するデータがありません"
+   },
+   "noFileChosen": {
+      "description": "ファイルが選択されていないときに表示されるメッセージです。",
+      "message": "ファイルが選択されていません"
+   },
+   "noList": {
+      "description": "ページ上でリストを見つけることができないときに表示するプレースホルダーです。",
+      "message": "ページ上でリストが見つかりません"
+   },
+   "none": {
+      "description": "スクレイピング時にさらにアイテムを読み込まないオプションのラベルです。",
+      "message": "なし"
+   },
+   "options": {
+      "description": "スクレーパーのオプションを表示するボタンのラベル。",
+      "message": "オプション"
+   },
+   "pages": {
+      "description": "リストをスクレイピングするときにスクレイプされたページ数を表示するラベル。",
+      "message": "ページ"
+   },
+   "permissionsDescription": {
+      "description": "アプリケーションがURLにアクセスし、スクレイピングするために追加の権限が必要であることを説明するためのヘルプテキスト。",
+      "message": "$APP_NAME$はURLにアクセスし、スクレイピングするために追加の権限が必要です",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "スクレーパーのプレビューを示すバッジテキストです。",
+      "message": "プレビュー"
+   },
+   "remainingPages": {
+      "description": "詳細ページのスクレイピング時に残りのページ数を表示するラベル。",
+      "message": "残り"
+   },
+   "rename": {
+      "description": "スクレーパーの名前を変更するためのメニューアイテムのラベルです。",
+      "message": "名前を変更"
+   },
+   "reviewDescription": {
+      "description": "アプリケーションのレビューをユーザーに依頼します。",
+      "message": "こんにちは、私の名前は$NAME$です。$APP_NAME$を作成して、人々が時間を節約できるようにしました。それを楽しんで使用していただければ、他の人が$APP_NAME$を発見するのを助けるために5つ星の評価をいただけるとありがたいです。どうもありがとうございます！",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "アプリケーションを使用していただいたユーザーに感謝します。",
+      "message": "$APP_NAME$をご利用いただきありがとうございます",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "リスト内の各アイテムの詳細ページをスクレイプする画面を表示するオプションのラベルです。",
+      "message": "詳細をスクレイプ"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "ユーザーに詳細ページのスクレイピングについて教育するためのヒントの説明。",
+      "message": "リスト内の各URLをスクレイピングするには、リストをCSVファイルとしてダウンロードした後、右上のメニューから \"$LABEL$\" を選択します。",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "詳細をスクレイプ"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "ユーザーに詳細ページのスクレイピングについて教育するためのヒントのタイトル。",
+      "message": "ヒント: 詳細ページのスクレイピング"
+   },
+   "scrapeList": {
+      "description": "リストをスクレイプする画面を表示するオプションのラベルです。",
+      "message": "リストをスクレイプ"
+   },
+   "scrapedPages": {
+      "description": "詳細ページをスクレイピングするときにスクレイプされたページ数を表示するラベル。",
+      "message": "スクレイプされた"
+   },
+   "scrapingComplete": {
+      "description": "スクレイピングが完了したことを示す警告の見出し。",
+      "message": "スクレイピング完了"
+   },
+   "scrapingStatus": {
+      "description": "スクレイピング進行中であることを示すラベル。",
+      "message": "スクレイピング中..."
+   },
+   "scrollDelay": {
+      "description": "スクレイピング中に各アイテムにスクロールする際に待つ時間（ミリ秒）を制御する入力のラベル。",
+      "message": "スクロール遅延（ms）"
+   },
+   "scrollDown": {
+      "description": "スクレイピング時にアイテムをさらに読み込むために下にスクロールするオプションのラベル。",
+      "message": "さらにアイテムを読み込むためにスクロールダウンしてください"
+   },
+   "select": {
+      "description": "ページ上の要素を選択するボタンのラベル。",
+      "message": "選択"
+   },
+   "selectElement": {
+      "description": "要素を選択する際に表示するタイトルです。",
+      "message": "要素を選択"
+   },
+   "selectField": {
+      "description": "キャプチャするフィールドを選択するアクションの説明です。",
+      "message": "フィールドを選択"
+   },
+   "selectList": {
+      "description": "リストを選択するときに表示するタイトルです。",
+      "message": "リストを選択"
+   },
+   "selectScraper": {
+      "description": "各URLをスクレイプするために使用するスクレイパーを選択するためのメニューアイテムのラベル。",
+      "message": "スクレイパーを選択"
+   },
+   "selectScraperOption": {
+      "description": "現在のドメインのスクレイパーを選択するための指示。",
+      "message": "$DOMAIN$ のスクレイパーを選択",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "スクレイピングのための更なるオプションを表示するボタンのラベルです。",
+      "message": "オプションを表示"
+   },
+   "startScraping": {
+      "description": "スクレイピングを開始するボタンのラベル。",
+      "message": "スクレイピングを開始"
+   },
+   "stopScraping": {
+      "description": "スクレイピングを停止するボタンのラベル。",
+      "message": "スクレイピングを停止"
+   },
+   "tabNotFound": {
+      "description": "対象のタブが存在しない場合のエラーメッセージ。",
+      "message": "タブが見つかりません。このウィンドウを閉じて、もう一度試してください。"
+   },
+   "testUrl": {
+      "description": "スクレイパーを選択する際に使用するテストURLのテキスト入力用ラベル。",
+      "message": "テストURL"
+   },
+   "text": {
+      "description": "要素から取得したテキストフィールドのラベル。",
+      "message": "テキスト"
+   },
+   "uploadUrls": {
+      "description": "URLをスクレイプするファイルをアップロードするためのメニューアイテムのラベル。",
+      "message": "URLをアップロード"
+   },
+   "url": {
+      "description": "要素から取得されたURLフィールドのラベル。",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "選択した列の名前がURLであり、CSVファイルにヘッダ行が欠けている可能性がある場合に表示する警告。",
+      "message": "列の名前がURLのようです。CSVファイルが列の名前を含むヘッダ行から始まっていることを確認してください。"
+   },
+   "verify": {
+      "description": "ページ上で選択した要素をハイライト表示することによって確認するためのボタンのラベル。",
+      "message": "確認"
+   },
+   "waitTimeItems": {
+      "description": "アイテムを読み込む際に待つ時間（秒）を制御する入力のラベルです。",
+      "message": "アイテムの読み込みにかかる待ち時間（秒）"
+   },
+   "waitTimePages": {
+      "description": "ページを読み込む際に何秒待つかを制御する入力のラベルです。",
+      "message": "ページの読み込み時間（秒）"
+   }
+}

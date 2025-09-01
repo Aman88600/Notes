@@ -1,0 +1,104 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Monal Kumar",
+    "ProfileImage": "https://media.licdn.com/dms/image/v2/D4D03AQFkdCCEOZ835g/profile-displayphoto-shrink_100_100/B4DZXYDFIzHAAU-/0/1743086442082?e=1759363200&v=beta&t=Y787zQszWnytEEmizbwZuw_kutz-_PvpNCGHneMdF1M",
+    "Headline": "Data Scientist | Gen AI | Computer vision | Machine learning | AI | Video Analytics | Freelancer",
+    "Connections": "500+",
+    "Followers": 5411,
+    "Location": "India",
+    "About": "Computer science engineer also a fitness enthusiast passionate about finding the power of technology, being a quick learner it helps me find various domains of programming also. I have found that I am drawn towards perfection, solving problems, facing challenges that led me to grow my future."
+  },
+  "Activity": {
+    "Posts": [
+      {
+        "Author": "Monal Kumar",
+        "Content": "Data Scientist | Gen AI | Computer vision | Machine learning | AI | Video Analytics | Freelancer",
+        "Date": "2 months ago"
+      }
+    ],
+    "Comments": 8
+  },
+  "Experience": [
+    {
+      "Title": "Sr. Software Developer (AI / Machine learning)",
+      "Company": "Visionify.ai",
+      "EmploymentType": "Full-time",
+      "Location": "Colorado, United States",
+      "Duration": "Jul 2023 - Apr 2024",
+      "Logo": "https://media.licdn.com/dms/image/v2/D560BAQHBV8Yn57UpJg/company-logo_100_100/company-logo_100_100/0/1735233458252/visionify_inc_logo?e=1759363200&v=beta&t=FVctDO9GcLv06GEDUrKK1JtjGp5Hcpuro5Y-WnEVfwI"
+    },
+    {
+      "Title": "AI Deep Learning Engineer (DLE 1)",
+      "Company": "Detect Technologies",
+      "EmploymentType": "Full-time",
+      "Location": "Chennai, Tamil Nadu, India",
+      "Duration": "Aug 2022 - Jul 2023",
+      "Logo": "https://media.licdn.com/dms/image/v2/D560BAQGbzcqAlps9UA/company-logo_100_100/company-logo_100_100/0/1663159018411/detect_technologies_logo?e=1759363200&v=beta&t=krpNhGj0eo9oXXh6SKXrLtl5BVSWAQKrV37A3_Xa06g"
+    },
+    {
+      "Title": "CV Deep Learning Engineer - I",
+      "Company": "Detect Technologies",
+      "EmploymentType": "Full-time",
+      "Location": "Chennai, Tamil Nadu, India",
+      "Duration": "May 2022 - Jul 2022"
+    },
+    {
+      "Title": "Jr. Data Scientist",
+      "Company": "iNeuron.ai",
+      "EmploymentType": "Full-time",
+      "Location": "Karnataka, India",
+      "Duration": "Nov 2021 - May 2022"
+    },
+    {
+      "Title": "Deep learning Intern",
+      "Company": "Harptec Software Pvt Ltd",
+      "EmploymentType": "Freelance",
+      "Location": "Gujarat, India",
+      "Duration": "May 2021 - Dec 2021"
+    },
+    {
+      "Title": "Associate Consultant",
+      "Company": "Detect Technologies",
+      "EmploymentType": "Full-time",
+      "Location": "Chennai, Tamil Nadu, India",
+      "LinkedIn": "https://www.linkedin.com/company/4000273/"
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Shri Shankaracharya Technical Campus",
+      "Degree": "Bachelor of Technology - BTech",
+      "FieldOfStudy": "Computer Science",
+      "Duration": "2016 - 2020",
+      "Logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhv2qH4_nxoQ/company-logo_100_100/company-logo_100_100/0/1653031899674?e=1759363200&v=beta&t=n4nBZiNBZHJrNOc6cOrqvczyMQrsh7UvByqFkhe6WTM",
+      "LinkedIn": "https://www.linkedin.com/company/79912723/"
+    }
+  ],
+  "Certification": [
+    {
+      "CertificateName": "Apache Airflow: The Hands-On Guide",
+      "Issuer": "Udemy",
+      "IssueDate": "Sep 2024",
+      "CredentialID": "UC-90682358-c8d9-4b80-92cb-ea58060d0fa4",
+      "Logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1759363200&v=beta&t=Ub7lkjyV4CwWFc80jqubCjfPWN99DyGesXZtN4WWWMk",
+      "Skills": [
+        "Apache Airflow",
+        "Airflow"
+      ]
+    },
+    {
+      "CertificateName": "GSI NVIDIA Technologies Curriculum (2025)",
+      "Issuer": "NVIDIA",
+      "IssueDate": "Jun 2025",
+      "Logo": "https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_100_100/company-logo_100_100/0/1724881581208/nvidia_logo?e=1759363200&v=beta&t=3Q1Y39nhTusX8RYNBzrtXuYT0TQFV12h3umnbPbbPwc"
+    }
+  ],
+  "Skills": [
+    "PyTorch",
+    "Benchmarking",
+    "Research and Development (R&D)",
+    "Debugging"
+  ]
+}
+```

@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Oznaka za gumb za dodavanje recenzije za aplikaciju.",
+      "message": "Dodaj recenziju"
+   },
+   "allowPermissions": {
+      "description": "Oznaka za gumb koji omogućava dozvole za aplikaciju.",
+      "message": "Dopusti dozvole"
+   },
+   "autoScroll": {
+      "description": "Oznaka za prekidač za kontrolu automatskog pomicanja do svake stavke tijekom skidanja podataka.",
+      "message": "Automatsko pomicanje"
+   },
+   "back": {
+      "description": "Oznaka za gumb za povratak na prethodni zaslon.",
+      "message": "Natrag"
+   },
+   "cancel": {
+      "description": "Oznaka za akciju otkazivanja.",
+      "message": "Otkaži"
+   },
+   "changeList": {
+      "description": "Oznaka za gumb za promjenu popisa za skidanje.",
+      "message": "Promijeni popis"
+   },
+   "changeSelectionLevel": {
+      "description": "Opis radnje za promjenu razine odabira prilikom odabira elementa.",
+      "message": "Promijeni razinu odabira"
+   },
+   "chooseFile": {
+      "description": "Oznaka za gumb za odabir datoteke za prijenos.",
+      "message": "Odaberite datoteku"
+   },
+   "click": {
+      "description": "Oznaka za akciju klik.",
+      "message": "Klikni"
+   },
+   "clickLoadMore": {
+      "description": "Oznaka za opciju klikanja gumba za učitavanje više stavki na istoj stranici prilikom skrapiranja.",
+      "message": "Kliknite gumb za učitavanje više stavki na istoj stranici"
+   },
+   "clickNextPage": {
+      "description": "Oznaka za opciju klikanja na vezu kako bi se prešlo na sljedeću stranicu za učitavanje više stavki tijekom skidanja podataka.",
+      "message": "Kliknite vezu za navigaciju na sljedeću stranicu"
+   },
+   "column": {
+      "description": "Oznaka za \u003Cselect> element za odabir stupca koji sadrži URL-ove za skidanje s učitanog CSV-a.",
+      "message": "Stupac"
+   },
+   "confirm": {
+      "description": "Oznaka za akciju potvrde.",
+      "message": "Potvrdi"
+   },
+   "continue": {
+      "description": "Oznaka za gumb za nastavak na sljedeći zaslon.",
+      "message": "Nastavi"
+   },
+   "copy": {
+      "description": "Oznaka za gumb za kopiranje podataka u međuspremnik.",
+      "message": "Kopiraj"
+   },
+   "csvFile": {
+      "description": "Oznaka za unos datoteke za učitavanje CSV datoteke",
+      "message": "$FILE_TYPE$ datoteka",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Zadano ime za scraper detaljnih stranica.",
+      "message": "Dohvati detalje s $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "primjer.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Oznaka za stavku izbornika za brisanje skrejpera.",
+      "message": "Izbriši"
+   },
+   "dismiss": {
+      "description": "Akcija za odbacivanje upozorenja.",
+      "message": "Odbaci"
+   },
+   "duration": {
+      "description": "Oznaka za prikaz trajanja trenutnog pretraživanja.",
+      "message": "Trajanje"
+   },
+   "esc": {
+      "description": "Oznaka za tipku Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Oznaka za stavku izbornika za izvoz skrepera.",
+      "message": "Izvoz"
+   },
+   "extractData": {
+      "description": "Oznaka za stavku izbornika za pokretanje skidanja i izvlačenja podataka s svake URL adrese.",
+      "message": "Izvuci podatke"
+   },
+   "finish": {
+      "description": "Oznaka za gumb za završetak odabira elemenata na stranici.",
+      "message": "Završi"
+   },
+   "headerRow": {
+      "description": "Pomoćni tekst koji objašnjava da učitana CSV datoteka mora započeti s zaglavljem.",
+      "message": "Mora započeti s zaglavljem"
+   },
+   "headerRowRequired": {
+      "description": "Upozorenje koje se prikazuje kada izgleda da nedostaje zaglavlje u učitanom CSV.",
+      "message": "Potreban je zaglavlja redak"
+   },
+   "help": {
+      "description": "Oznaka za gumb za otvaranje stranice za pomoć.",
+      "message": "Pomoć"
+   },
+   "hideOptions": {
+      "description": "Oznaka za gumb za sakrivanje dodatnih opcija za skrejpanje.",
+      "message": "Sakrij opcije"
+   },
+   "import": {
+      "description": "Oznaka za stavku izbornika za uvoz skrepera.",
+      "message": "Uvoz"
+   },
+   "install": {
+      "description": "Oznaka za gumb za instalaciju najnovije verzije aplikacije.",
+      "message": "Instaliraj najnoviju verziju"
+   },
+   "invalidTab": {
+      "description": "Poruka o grešci kada je ciljani tab otvoren na ograničenoj stranici.",
+      "message": "Ova stranica je ograničena. Pokušajte s drugom stranicom."
+   },
+   "invalidVersion": {
+      "description": "Naredite korisniku da instalira najnoviju verziju aplikacije.",
+      "message": "$APP_NAME$ je izašao iz beta verzije! Instalirajte najnoviju verziju kako biste dobili najnovije ažuriranja.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Oznaka koja pokazuje broj prikupljenih stavki pri skupljanju popisa.",
+      "message": "Stavke"
+   },
+   "loadMoreAction": {
+      "description": "Oznaka za \u003Cselect> element za odabir načina učitavanja više stavki prilikom skrejpovanja.",
+      "message": "Radnja za učitavanje više stavki"
+   },
+   "max": {
+      "description": "Oznaka za unos za kontrolu maksimalnog vremena čekanja prilikom učitavanja dodatnih stavki ili stranica.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Oznaka za unos kako bi se postavilo maksimalno ograničenje na broj stavki za prikupljanje.",
+      "message": "Maksimalno stavki"
+   },
+   "maxItemsHelp": {
+      "description": "Tekst pomoći koji informira korisnika da treba ostaviti unos maksimalnog broja stavki prazan kako ne bi postavio ograničenje.",
+      "message": "Ostavi prazno za neograničeno"
+   },
+   "maxItemsReached": {
+      "description": "Opis upozorenja koji ukazuje da je dostignut maksimalni limit broja stavki za skupljanje.",
+      "message": "Uspješno ste došli do određenog limita. Povećajte maksimalni broj stavki da biste nastavili skupljati podatke."
+   },
+   "mediaUrl": {
+      "description": "Oznaka za polje URL-a medija uhvaćenog iz elementa.",
+      "message": "URL medija"
+   },
+   "min": {
+      "description": "Oznaka za unos za kontrolu minimalnog vremena čekanja pri učitavanju više stavki ili stranica.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Poruka o pogrešci kada nije moguće pristupiti ciljnim podacima kartice.",
+      "message": "Kartica koju ste koristili za ovaj zadatak je zatvorena. Molimo zatvorite ovaj prozor i pokušajte ponovno."
+   },
+   "missingTabPermission": {
+      "description": "Poruka o grešci kada nije moguće pristupiti podacima ciljane kartice.",
+      "message": "Nije moguće pristupiti kartici. Zatvorite ovaj prozor i pokušajte ponovno."
+   },
+   "missingUrlColumn": {
+      "description": "Poruka o pogrešci kada CSV datoteka nema stupce s URL-ovima.",
+      "message": "Nije moguće pronaći stupac s URL-ovima. Molimo odaberite drugu datoteku."
+   },
+   "newScraper": {
+      "description": "Oznaka za gumb za stvaranje novog skrejpera.",
+      "message": "Novi skrejper"
+   },
+   "noData": {
+      "description": "Mjesto u tablici kada nema podataka za prikaz.",
+      "message": "Nema podataka za prikaz"
+   },
+   "noFileChosen": {
+      "description": "Poruka prikazana kada datoteka nije odabrana.",
+      "message": "Datoteka nije odabrana"
+   },
+   "noList": {
+      "description": "Rezervirano mjesto za prikaz kada se popis ne može pronaći na stranici.",
+      "message": "Nije moguće pronaći popis na stranici"
+   },
+   "none": {
+      "description": "Oznaka za opciju koja ne učitava više stavki prilikom skeniranja.",
+      "message": "Nijedan"
+   },
+   "options": {
+      "description": "Oznaka za gumb za prikaz opcija za skrejper.",
+      "message": "Opcije"
+   },
+   "pages": {
+      "description": "Oznaka za prikaz broja stranica prikupljenih prilikom skeniranja popisa.",
+      "message": "Stranice"
+   },
+   "permissionsDescription": {
+      "description": "Tekst za pomoć koji objašnjava da aplikacija treba dodatne dozvole za pristupanje i skidanje URL-ova.",
+      "message": "$APP_NAME$ treba dodatne dozvole za pristupanje i skidanje URL-ova",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Tekst oznake koji ukazuje da prikazani podaci predstavljaju pregled skrepera.",
+      "message": "Pregled"
+   },
+   "remainingPages": {
+      "description": "Oznaka za prikaz broja preostalih stranica za struganje kada se stružu detaljne stranice.",
+      "message": "Preostalo"
+   },
+   "rename": {
+      "description": "Oznaka za stavku izbornika za preimenovanje skrejpera.",
+      "message": "Preimenuj"
+   },
+   "reviewDescription": {
+      "description": "Zatraži od korisnika da ostavi recenziju za aplikaciju.",
+      "message": "Bok, ja sam $NAME$. Stvorio sam $APP_NAME$ kako bih ljudima pomogao uštedjeti vrijeme. Ako uživate u korištenju, bio bih zahvalan za ocjenu s 5 zvjezdica kako bi i drugi otkrili $APP_NAME$. Puno hvala!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Zahvalite korisniku na korištenju aplikacije.",
+      "message": "Hvala što koristite $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Oznaka za opciju prikaza ekrana za skidanje detaljnih stranica za svaku stavku na popisu.",
+      "message": "Povuci detalje"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Opis savjeta za edukaciju korisnika o izvlačenju (scraping) detaljnih stranica.",
+      "message": "Da biste izvadili (scrape) svaku URL adresu na popisu, odaberite \"$LABEL$\" iz izbornika u gornjem desnom kutu nakon preuzimanja popisa kao CSV datoteke.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Scrape Details"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Naslov za savjet koji edukuje korisnika o struganju stranica s detaljima.",
+      "message": "Savjet: Stranice s detaljima struganja"
+   },
+   "scrapeList": {
+      "description": "Oznaka za opciju prikaza zaslona za ogrebotinu popisa.",
+      "message": "Ogrebi popis"
+   },
+   "scrapedPages": {
+      "description": "Oznaka za prikaz broja stranica koje su ogrebane prilikom skidanja detalja stranica.",
+      "message": "Ogrebano"
+   },
+   "scrapingComplete": {
+      "description": "Naslov upozorenja koji označava da je skidanje podataka završeno.",
+      "message": "Skidanje je završeno"
+   },
+   "scrapingStatus": {
+      "description": "Oznaka koja ukazuje da je skrejpanje u tijeku.",
+      "message": "Skrejpanje..."
+   },
+   "scrollDelay": {
+      "description": "Oznaka za unos koji kontrolira koliko dugo čekati u milisekundama prilikom pomicanja do svake stavke tijekom struganja.",
+      "message": "Odgoda pomicanja (ms)"
+   },
+   "scrollDown": {
+      "description": "Oznaka za opciju pomicanja prema dolje za učitavanje više stavki prilikom skrapiranja.",
+      "message": "Pomaknite se prema dolje kako biste učitali više stavki"
+   },
+   "select": {
+      "description": "Oznaka za gumb za odabir elementa na stranici.",
+      "message": "Odaberi"
+   },
+   "selectElement": {
+      "description": "Naslov za prikaz prilikom odabira elementa.",
+      "message": "Odaberite element"
+   },
+   "selectField": {
+      "description": "Opis radnje za odabir polja za snimanje.",
+      "message": "Odaberite polje"
+   },
+   "selectList": {
+      "description": "Naslov za prikazivanje prilikom odabira popisa.",
+      "message": "Odaberite popis"
+   },
+   "selectScraper": {
+      "description": "Oznaka za stavku izbornika za odabir skrejpera koji će se koristiti za skrejpanje svake URL adrese.",
+      "message": "Odaberite skrejper"
+   },
+   "selectScraperOption": {
+      "description": "Uputa za odabir scrapera za trenutnu domenu.",
+      "message": "Odaberite scraper za $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Oznaka za gumb za prikaz više opcija za skidanje podataka.",
+      "message": "Prikaži opcije"
+   },
+   "startScraping": {
+      "description": "Oznaka za gumb za pokretanje skupljanja podataka.",
+      "message": "Pokreni skupljanje podataka"
+   },
+   "stopScraping": {
+      "description": "Oznaka za gumb za zaustavljanje skidanja podataka.",
+      "message": "Zaustavi skidanje podataka"
+   },
+   "tabNotFound": {
+      "description": "Poruka o pogrešci kada ciljana kartica ne postoji.",
+      "message": "Nije pronađena kartica. Zatvorite ovaj prozor i pokušajte ponovno."
+   },
+   "testUrl": {
+      "description": "Oznaka za unos teksta za testni URL koji se koristi prilikom odabira skrejpera.",
+      "message": "Testiraj URL"
+   },
+   "text": {
+      "description": "Oznaka za tekstualno polje uhvaćeno iz elementa.",
+      "message": "Tekst"
+   },
+   "uploadUrls": {
+      "description": "Oznaka za stavku izbornika za učitavanje datoteke s URL-ovima za struganje.",
+      "message": "Prenesi URL-ove"
+   },
+   "url": {
+      "description": "Oznaka za polje URL-a uhvaćeno iz elementa.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Upozorenje koje se prikazuje kada odabrani naziv stupca izgleda kao URL i CSV datoteka možda nema red zaglavlja.",
+      "message": "Naziv stupca izgleda kao URL. Molimo provjerite da CSV datoteka započinje zaglavljenim redom koji sadrži nazive stupaca."
+   },
+   "verify": {
+      "description": "Oznaka za gumb za provjeru odabranog elementa ističući ga na stranici.",
+      "message": "Provjeri"
+   },
+   "waitTimeItems": {
+      "description": "Oznaka za unos kako bi se kontroliralo koliko dugo čekati u sekundama pri učitavanju više stavki.",
+      "message": "Vrijeme čekanja za učitavanje više stavki (sekunde)"
+   },
+   "waitTimePages": {
+      "description": "Oznaka za unos koliko dugo čekati u sekundama prilikom učitavanja stranica.",
+      "message": "Vrijeme čekanja za učitavanje stranica (sekunde)"
+   }
+}

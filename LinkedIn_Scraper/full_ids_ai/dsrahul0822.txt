@@ -1,0 +1,228 @@
+Here is a **structured JSON** representation of the content provided, organized under the required fields: `Basic Info`, `Activity`, `Experience`, `Education`, `Certification`, and `Skills`. Note that only relevant, human-readable data is extracted and deduplicated; extraneous IDs, decorative tags, and unrelated fragments are omitted.
+
+```json
+{
+  "BasicInfo": {
+    "name": "Rahul Tiwari",
+    "headline": "AI Data Scientist & Stock Market Analyst",
+    "profile_image": "https://media.licdn.com/dms/image/v2/D4D03AQEVd5kLZ5KU6g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664620419859?e=1759363200&v=beta&t=mVNnZ7DI4kSfwKcccGB7-YlwgrcCyBxAc2k8vfGVk4Q",
+    "linkedin_url": "https://www.linkedin.com/in/dsrahul0822?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANTsxIB5RfYFMq7gPv9udXnD-hv4z5xOZw",
+    "location": "Gurugram, Haryana, India",
+    "connections": "500+",
+    "followers": 6259,
+    "about": "With over 18+ years of expertise, I specialize in training and consultancy for Business Analytics, Data Science, and Machine Learning. Throughout my career, I've collaborated with professionals and organizations across diverse sectors such as retail, telecom, life sciences, and finance, leveraging Data Science and Business Analytics to address critical business challenges. Starting in Data Warehousing, I transitioned to various roles in Data Science, consistently partnering with CTOs, key IT decision-makers, and professionals to enhance their capabilities and develop tailored solutions. Certified in Tableau and Teradata, I hold an MBA in Business Analytics from Sunstone Business School. I'm passionate about exploring and sharing insights into emerging trends and applications in Data Science and Business Analytics.",
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Full professional proficiency"
+      }
+    ]
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Voice + AI: Voice-Enabled RAG System",
+      "description": "Built a fully Voice-Enabled RAG (Retrieval Augmented Generation) system using LangChain, OpenAI, and Vosk for voice-based Q&A on company handbooks. Features real-time transcription, context retrieval, and voice response.",
+      "date": "1 month ago",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7354991998015098881?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7354991998015098881%29",
+      "media": [
+        "https://media.licdn.com/dms/image/v2/D5605AQFrD1Y8c8YH4g/videocover-low/B56ZhIuKJoHMCE-/0/1753566726252?e=1757271600&v=beta&t=6YoOpoPzYKfNI6GUx7BOoIXZUaaOAkPVb6bsmCV58Bo"
+      ],
+      "hashtags": [
+        "#AI", "#LangChain", "#VoiceAI", "#OpenAI", "#RAG", "#GenAI", "#Python", "#Streamlit", "#AIProjects", "#AIforWork", "#DataScience", "#NLP", "#Vosk", "#ConversationalAI", "#SpeechToText", "#TextToSpeech", "#VoiceAssistant", "#AIApplication", "#LinkedInTech", "#AIInnovation", "#ArtificialIntelligence", "#GPT4", "#LangChainCommunity", "#LLM", "#EmployeeExperience", "#WorkplaceAI", "#BuildInPublic"
+      ],
+      "comments": 11,
+      "reactions": 49
+    },
+    {
+      "type": "Post",
+      "title": "Data Visualization with Tableau",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:6681328556229840896?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6681328556229840896%29",
+      "media": [
+        "https://media.licdn.com/dms/image/v2/C4D22AQEtcRdWiaJLaA/feedshare-shrink_480/feedshare-shrink_480/0/1592952859341?e=1759363200&v=beta&t=0Z3VhemhmAccrSl9Dd40tEDri-Iqrz1c4k4jSz1OUls"
+      ],
+      "hashtags": [
+        "#Tableau", "#DataScience", "#DataVisualization"
+      ],
+      "comments": 0,
+      "reactions": 130
+    },
+    {
+      "type": "Post",
+      "title": "Statistics and Data Analysis",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:6699282912589692928?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6699282912589692928%29",
+      "media": [
+        "https://media.licdn.com/dms/image/v2/C4D22AQFSM4DkFyogaQ/feedshare-shrink_480/feedshare-shrink_480/0/1597233511663?e=1759363200&v=beta&t=n06AMPRPcJenEBVbBEM01vXhF7kUZ-lS5O0eipmu4gM"
+      ],
+      "hashtags": [
+        "#Statistics", "#DataAnalysis", "#DataScience"
+      ],
+      "comments": 0,
+      "reactions": null
+    }
+  ],
+  "Experience": [
+    {
+      "title": "AI Data Scientist",
+      "company": "TheScholar",
+      "type": "Full-time",
+      "startDate": "May 2019",
+      "endDate": "Present",
+      "duration": "6 yrs 4 mos",
+      "location": "Gurugram, Haryana, India",
+      "responsibilities": null
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Rawmind",
+      "type": "Full-time",
+      "startDate": "Jun 2018",
+      "endDate": "May 2019",
+      "duration": "1 yr",
+      "location": "Gurgaon, Haryana, India",
+      "responsibilities": "Helping clients grow into analytics and Data Science. Delivered data science solutions (Recommendation Systems, Classification, Time Series) across Financial, HR, Life Sciences, Retail domains. Designed and implemented Data Lakes. Supported Analytics CoE with R&D on current tech."
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Deloitte",
+      "type": "Full-time",
+      "startDate": "Apr 2018",
+      "endDate": "Jun 2018",
+      "duration": "3 mos",
+      "location": "Gurugram, Haryana, India",
+      "responsibilities": "Migration of banking client (NAB) from on-premise to cloud, designed Data Science architecture, implemented fraud detection with Tableau reports."
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Deloitte",
+      "type": "Full-time",
+      "startDate": "May 2017",
+      "endDate": "Apr 2018",
+      "duration": "1 yr",
+      "responsibilities": "Worked for American Express to upscale Data Science. Used Python, R, Tableau. Led a team of 10 for business solutions."
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Deloitte",
+      "type": "Full-time",
+      "startDate": "Sep 2016",
+      "endDate": "May 2017",
+      "duration": "9 mos",
+      "location": "Gurgaon, India",
+      "responsibilities": "Pharma client Celgene: built data science solutions with Python, R, Tableau, and Big Data. Led data ingestion to Data Lake. Delivered ML models for the business. Reduced drug creation time. Tuned Tableau report from 40 min to 5 sec. Managed team of 15. Received Outstanding Award."
+    },
+    {
+      "title": "Senior Developer",
+      "company": "Mahindra Satyam (now Tech Mahindra)",
+      "type": "Full-time",
+      "startDate": "Jun 2012",
+      "endDate": "Aug 2013",
+      "duration": "1 yr 3 mos",
+      "location": "Pune, Maharashtra, India",
+      "responsibilities": "Worked on Barclays campaign management system with Teradata and Tableau. Delivered actionable campaign insights. Awarded 'Pat on the back'."
+    },
+    {
+      "title": "Consultant",
+      "company": "Capgemini",
+      "type": "Full-time",
+      "startDate": "May 2010",
+      "endDate": "Jun 2012",
+      "duration": "2 yrs 2 mos",
+      "location": "Mumbai, Maharashtra, India",
+      "responsibilities": "Nordea Bank (Nordic): Developed reporting solutions, semantic/star schema, business objects, and performance tuning in Teradata, Oracle, SAP BO. Worked in Sweden and Norway."
+    }
+  ],
+  "Education": [
+    {
+      "school": "Sunstone Business School",
+      "degree": "Master of Business Administration (MBA)",
+      "field": "Business Analytics",
+      "startYear": 2016,
+      "endYear": 2016
+    },
+    {
+      "school": "National Institute of Technology Surat",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "field": "Civil Engineering",
+      "startYear": 2003,
+      "endYear": 2007
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Partner Sales Accreditation",
+      "issuer": "Tableau"
+    },
+    {
+      "title": "Tableau Desktop Qualified Associate",
+      "issuer": "Tableau"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Teradata Data Warehouse",
+      "endorsements": 7,
+      "endorsed_by": [
+        "2 colleagues at Deloitte"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "endorsements": 24,
+      "endorsed_by": [
+        "Kirill Eremenko", "4 colleagues at Deloitte"
+      ]
+    }
+  ],
+  "HonorsAndAwards": [
+    {
+      "title": "Outstanding Award",
+      "issuer": "Deloitte",
+      "date": "Mar 2017"
+    },
+    {
+      "title": "Outstanding Award",
+      "issuer": "Deloitte",
+      "date": "Mar 2016"
+    },
+    {
+      "title": "Pat on the back award",
+      "issuer": "Mahindra Satyam"
+    }
+  ],
+  "Recommendations": [
+    {
+      "type": "Received",
+      "from": "Marcello Sunaga",
+      "profile_url": "https://www.linkedin.com/in/marcello-sunaga",
+      "date": "January 20, 2023",
+      "text": "I had an amazing experience learning Tableau during Rahul's course. He is an excellent instructor and I recommend him to everyone. Thank you!"
+    },
+    {
+      "type": "Received",
+      "from": "Kurien George",
+      "profile_url": "https://www.linkedin.com/in/kurien-george",
+      "date": "August 9, 2021",
+      "text": "Rahul is an excellent trainer. I had attended his Python for Data Science classes through a training website. His method of instruction helped me to build the conceptual foundation for this subject. I am very grateful to him for that. Overall, I would recommend him to anyone who is looking to learn data science. Thanks for helping me in my journey to become a data analyst."
+    }
+  ],
+  "Publications": [
+    {
+      "title": "Getting Productive with Modern Python",
+      "publisher": "Packt Publication",
+      "date": "May 30, 2019",
+      "description": "Bring your Python skills into the real world. Solve production issues around databases, parallelism, and deployment",
+      "url": "https://www.packtpub.com/in/application-development/getting-productive-modern-python-video"
+    },
+    {
+      "title": "Hands-On Bayesian Methods with Python",
+      "publisher": "Packt Publication",
+      "date": "May 29, 2019",
+      "description": "Use Bayesian analysis and Python to solve data analysis and predictive analytics problems",
+      "url": "https://www.packtpub.com/in/big-data-and-business-intelligence/hands-bayesian-methods-python-video"
+    }
+  ]
+}
+```
+
+This schema is concise and omits filler and duplications, providing a clean mapping of all key professional details requested.

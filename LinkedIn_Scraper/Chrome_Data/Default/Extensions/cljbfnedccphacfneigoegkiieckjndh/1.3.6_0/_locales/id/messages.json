@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Label untuk tombol menambahkan ulasan untuk aplikasi.",
+      "message": "Tambahkan Ulasan"
+   },
+   "allowPermissions": {
+      "description": "Label untuk tombol untuk mengizinkan perizinan untuk aplikasi.",
+      "message": "Izinkan perizinan"
+   },
+   "autoScroll": {
+      "description": "Label untuk tombol pengaturan apakah akan otomatis menggulir ke setiap item saat melakukan scraping.",
+      "message": "Gulir Otomatis"
+   },
+   "back": {
+      "description": "Label untuk tombol untuk kembali ke layar sebelumnya.",
+      "message": "Kembali"
+   },
+   "cancel": {
+      "description": "Label untuk aksi batal.",
+      "message": "Batal"
+   },
+   "changeList": {
+      "description": "Label untuk tombol untuk mengubah daftar yang akan di-scrape.",
+      "message": "Ubah Daftar"
+   },
+   "changeSelectionLevel": {
+      "description": "Deskripsi dari tindakan untuk mengubah level seleksi ketika memilih elemen.",
+      "message": "Ubah level seleksi"
+   },
+   "chooseFile": {
+      "description": "Label untuk tombol memilih file yang akan diunggah.",
+      "message": "Pilih File"
+   },
+   "click": {
+      "description": "Label untuk tindakan klik.",
+      "message": "Klik"
+   },
+   "clickLoadMore": {
+      "description": "Label untuk opsi mengklik tombol untuk memuat lebih banyak item di halaman yang sama saat melakukan scraping.",
+      "message": "Klik tombol untuk memuat lebih banyak item di halaman yang sama"
+   },
+   "clickNextPage": {
+      "description": "Label untuk opsi mengklik sebuah tautan untuk berpindah ke halaman berikutnya untuk memuat lebih banyak item saat melakukan scraping.",
+      "message": "Klik tautan untuk berpindah ke halaman berikutnya"
+   },
+   "column": {
+      "description": "Label untuk elemen \u003Cselect> untuk memilih kolom yang berisi URL yang akan di-scrape dari CSV yang diunggah.",
+      "message": "Kolom"
+   },
+   "confirm": {
+      "description": "Label untuk tindakan konfirmasi.",
+      "message": "Konfirmasi"
+   },
+   "continue": {
+      "description": "Label untuk tombol untuk melanjutkan ke layar berikutnya.",
+      "message": "Lanjutkan"
+   },
+   "copy": {
+      "description": "Label untuk tombol untuk menyalin data ke papan klip.",
+      "message": "Salin"
+   },
+   "csvFile": {
+      "description": "Label untuk input berkas untuk mengunggah berkas CSV",
+      "message": "Berkas $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Nama default untuk scraper halaman detail.",
+      "message": "Scrape detail dari $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Label untuk item menu untuk menghapus scraper.",
+      "message": "Hapus"
+   },
+   "dismiss": {
+      "description": "Tindakan untuk menutup peringatan.",
+      "message": "Tutup"
+   },
+   "duration": {
+      "description": "Label untuk menunjukkan durasi dari scrape saat ini.",
+      "message": "Durasi"
+   },
+   "esc": {
+      "description": "Label untuk tombol Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Label untuk item menu untuk mengekspor scraper.",
+      "message": "Ekspor"
+   },
+   "extractData": {
+      "description": "Label untuk item menu untuk menjalankan pengikisan dan mengekstrak data dari setiap URL.",
+      "message": "Ekstrak data"
+   },
+   "finish": {
+      "description": "Label untuk tombol untuk menyelesaikan memilih elemen di halaman.",
+      "message": "Selesai"
+   },
+   "headerRow": {
+      "description": "Teks bantuan untuk menjelaskan bahwa file CSV yang diunggah harus dimulai dengan baris judul.",
+      "message": "Harus dimulai dengan baris judul"
+   },
+   "headerRowRequired": {
+      "description": "Peringatan untuk ditampilkan saat baris header tampaknya hilang dari CSV yang diunggah.",
+      "message": "Baris header diperlukan"
+   },
+   "help": {
+      "description": "Label untuk tombol yang membuka halaman bantuan.",
+      "message": "Bantuan"
+   },
+   "hideOptions": {
+      "description": "Label untuk tombol untuk menyembunyikan lebih banyak opsi untuk scraping.",
+      "message": "Sembunyikan Opsi"
+   },
+   "import": {
+      "description": "Label untuk item menu untuk mengimpor scraper.",
+      "message": "Impor"
+   },
+   "install": {
+      "description": "Label untuk tombol memasang versi terbaru dari aplikasi.",
+      "message": "Pasang versi terbaru"
+   },
+   "invalidTab": {
+      "description": "Pesan kesalahan ketika tab target dibuka ke situs yang dibatasi.",
+      "message": "Halaman ini dibatasi. Coba situs lain."
+   },
+   "invalidVersion": {
+      "description": "Instruksikan pengguna untuk menginstal versi terbaru dari aplikasi.",
+      "message": "$APP_NAME$ sudah keluar dari beta! Instal versi terbaru untuk mendapatkan pembaruan terbaru.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Label untuk menampilkan jumlah item yang di-scrape saat melakukan scraping pada sebuah daftar.",
+      "message": "Item"
+   },
+   "loadMoreAction": {
+      "description": "Label untuk elemen \u003Cselect> untuk memilih cara memuat lebih banyak item saat melakukan scraping.",
+      "message": "Tindakan untuk memuat lebih banyak item"
+   },
+   "max": {
+      "description": "Label untuk input untuk mengontrol waktu maksimal menunggu saat memuat lebih banyak item atau halaman.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Label untuk input untuk menetapkan batas maksimum jumlah item yang akan di-scrape.",
+      "message": "Maksimum item"
+   },
+   "maxItemsHelp": {
+      "description": "Teks bantuan untuk memberitahu pengguna bahwa mereka harus meninggalkan input item maksimum kosong untuk tidak menetapkan batas.",
+      "message": "Biarkan kosong untuk tanpa batas"
+   },
+   "maxItemsReached": {
+      "description": "Deskripsi peringatan untuk menunjukkan bahwa batas maksimum jumlah item yang akan diambil telah tercapai.",
+      "message": "Berhasil mengambil data hingga batas yang ditentukan. Tingkatkan opsi jumlah maksimal item untuk melanjutkan pengambilan data."
+   },
+   "mediaUrl": {
+      "description": "Label untuk kolom URL media yang diambil dari elemen.",
+      "message": "URL Media"
+   },
+   "min": {
+      "description": "Label untuk input untuk mengontrol waktu minimum tunggu saat memuat lebih banyak item atau halaman.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Pesan kesalahan ketika tidak dapat mengakses data tab target.",
+      "message": "Tab yang Anda gunakan untuk tugas ini telah ditutup. Silakan tutup jendela ini dan coba lagi."
+   },
+   "missingTabPermission": {
+      "description": "Pesan kesalahan saat tidak dapat mengakses data tab target.",
+      "message": "Tidak dapat mengakses tab. Tutup jendela ini dan coba lagi."
+   },
+   "missingUrlColumn": {
+      "description": "Pesan kesalahan ketika file CSV tidak memiliki kolom dengan URL.",
+      "message": "Tidak dapat menemukan kolom dengan URL. Silakan pilih file lain."
+   },
+   "newScraper": {
+      "description": "Label untuk tombol untuk membuat scraper baru.",
+      "message": "Pembuat Baru"
+   },
+   "noData": {
+      "description": "Placeholder di tabel saat tidak ada data untuk ditampilkan.",
+      "message": "Tidak ada data untuk ditampilkan"
+   },
+   "noFileChosen": {
+      "description": "Pesan yang ditampilkan ketika tidak ada file yang dipilih.",
+      "message": "Tidak ada file yang dipilih"
+   },
+   "noList": {
+      "description": "Placeholder untuk ditampilkan ketika daftar tidak dapat ditemukan di halaman.",
+      "message": "Tidak dapat menemukan daftar di halaman"
+   },
+   "none": {
+      "description": "Label untuk opsi untuk tidak memuat lebih banyak item saat melakukan scraping.",
+      "message": "Tidak ada"
+   },
+   "options": {
+      "description": "Label untuk tombol yang menunjukkan opsi untuk scraper.",
+      "message": "Opsi"
+   },
+   "pages": {
+      "description": "Label untuk menunjukkan jumlah halaman yang di-scrape saat melakukan scraping pada sebuah daftar.",
+      "message": "Halaman"
+   },
+   "permissionsDescription": {
+      "description": "Teks bantuan untuk menjelaskan bahwa aplikasi memerlukan izin tambahan untuk mengakses dan mengambil URL.",
+      "message": "$APP_NAME$ memerlukan izin tambahan untuk mengakses dan mengambil URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Teks lencana untuk menunjukkan bahwa data yang ditampilkan adalah pratinjau dari pengikis.",
+      "message": "Pratinjau"
+   },
+   "remainingPages": {
+      "description": "Label untuk menunjukkan jumlah halaman yang tersisa yang harus di-scrape ketika mendetailkan halaman.",
+      "message": "Sisa"
+   },
+   "rename": {
+      "description": "Label untuk item menu untuk mengubah nama scraper.",
+      "message": "Ubah Nama"
+   },
+   "reviewDescription": {
+      "description": "Minta pengguna untuk meninggalkan ulasan untuk aplikasi.",
+      "message": "Hai, saya $NAME$. Saya menciptakan $APP_NAME$ untuk membantu orang-orang menghemat waktu. Jika Anda menikmati menggunakannya, saya akan sangat menghargai penilaian 5 bintang untuk membantu orang lain menemukan $APP_NAME$. Terima kasih banyak!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Berterima kasih kepada pengguna karena telah menggunakan aplikasi.",
+      "message": "Terima kasih telah menggunakan $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Label untuk opsi menampilkan layar untuk mengambil detail halaman setiap item dalam daftar.",
+      "message": "Ambil Detail"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Deskripsi untuk tip memberikan edukasi kepada pengguna tentang scraping halaman detail.",
+      "message": "Untuk meng-scrape setiap URL dalam daftar, pilih \"$LABEL$\" dari menu di sudut kanan atas setelah mengunduh daftar dalam format file CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Scrape Details"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Judul untuk tip untuk mendidik pengguna tentang mengambil halaman detail.",
+      "message": "Tip: Mengambil halaman detail"
+   },
+   "scrapeList": {
+      "description": "Label untuk opsi menampilkan layar untuk mengambil daftar.",
+      "message": "Ambil Daftar"
+   },
+   "scrapedPages": {
+      "description": "Label untuk menunjukkan jumlah halaman yang ditambang saat menambang halaman detail.",
+      "message": "Ditambang"
+   },
+   "scrapingComplete": {
+      "description": "Judul peringatan untuk menunjukkan bahwa scraping telah selesai.",
+      "message": "Scraping selesai"
+   },
+   "scrapingStatus": {
+      "description": "Label untuk menunjukkan bahwa proses scraping sedang berlangsung.",
+      "message": "Memuat..."
+   },
+   "scrollDelay": {
+      "description": "Label untuk masukan untuk mengontrol berapa lama harus menunggu dalam milidetik ketika menggulir ke setiap item saat mengikis.",
+      "message": "Tundaan gulir (ms)"
+   },
+   "scrollDown": {
+      "description": "Label untuk opsi menggulir ke bawah untuk memuat lebih banyak item saat melakukan scraping.",
+      "message": "Gulir ke bawah untuk memuat lebih banyak item"
+   },
+   "select": {
+      "description": "Label untuk tombol untuk memilih elemen di halaman.",
+      "message": "Pilih"
+   },
+   "selectElement": {
+      "description": "Judul yang ditampilkan saat memilih elemen.",
+      "message": "Pilih Elemen"
+   },
+   "selectField": {
+      "description": "Deskripsi tindakan untuk memilih bidang yang akan ditangkap.",
+      "message": "Pilih bidang"
+   },
+   "selectList": {
+      "description": "Judul untuk ditampilkan saat memilih daftar.",
+      "message": "Pilih Daftar"
+   },
+   "selectScraper": {
+      "description": "Label untuk item menu untuk memilih scraper yang akan digunakan untuk mengambil data dari setiap URL.",
+      "message": "Pilih scraper"
+   },
+   "selectScraperOption": {
+      "description": "Instruksi untuk memilih scraper untuk domain yang sedang aktif.",
+      "message": "Pilih scraper untuk $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Label untuk tombol untuk menampilkan lebih banyak opsi untuk scraping.",
+      "message": "Tampilkan Opsi"
+   },
+   "startScraping": {
+      "description": "Label untuk tombol untuk mulai mengikis.",
+      "message": "Mulai Mengikis"
+   },
+   "stopScraping": {
+      "description": "Label untuk tombol untuk menghentikan scraping.",
+      "message": "Hentikan Scraping"
+   },
+   "tabNotFound": {
+      "description": "Pesan kesalahan ketika tab target tidak ada.",
+      "message": "Tidak ada tab yang ditemukan. Tutup jendela ini dan coba lagi."
+   },
+   "testUrl": {
+      "description": "Label untuk input teks untuk URL tes yang digunakan saat memilih scraper.",
+      "message": "URL Tes"
+   },
+   "text": {
+      "description": "Label untuk bidang teks yang diambil dari elemen.",
+      "message": "Teks"
+   },
+   "uploadUrls": {
+      "description": "Label untuk item menu untuk mengunggah berkas dengan URL yang akan di-scrape.",
+      "message": "Unggah URL"
+   },
+   "url": {
+      "description": "Label untuk kolom URL yang diambil dari sebuah elemen.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Peringatan untuk ditampilkan ketika nama kolom yang dipilih adalah URL dan file CSV mungkin tidak memiliki baris header.",
+      "message": "Nama kolom tampaknya adalah URL. Pastikan file CSV dimulai dengan baris header yang berisi nama-nama kolom."
+   },
+   "verify": {
+      "description": "Label untuk tombol untuk memverifikasi elemen yang dipilih dengan menyorotnya di halaman.",
+      "message": "Verifikasi"
+   },
+   "waitTimeItems": {
+      "description": "Label untuk input yang mengatur berapa lama menunggu dalam detik saat memuat lebih banyak item.",
+      "message": "Waktu tunggu untuk memuat lebih banyak item (detik)"
+   },
+   "waitTimePages": {
+      "description": "Label untuk inputan untuk mengatur berapa lama waktu tunggu dalam detik ketika memuat halaman.",
+      "message": "Waktu tunggu untuk memuat halaman (detik)"
+   }
+}

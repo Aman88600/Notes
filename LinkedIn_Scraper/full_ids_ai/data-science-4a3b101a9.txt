@@ -1,0 +1,43 @@
+Here is the provided content arranged in a JSON structure with the requested fields: **Basic Info**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills**. Only direct information given in your prompt is included; fields with missing data are left as empty arrays or null.
+
+```json
+{
+  "Basic Info": {
+    "location": "Bengaluru, Karnataka, India",
+    "profile_url": null
+  },
+  "Activity": {
+    "followers_count": 228,
+    "recent_posts": "Data shares will be displayed here.",
+    "show_all_activity": true
+  },
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Data science",
+      "company_url": "https://www.linkedin.com/search/results/all/?keywords=Data+science",
+      "role": "Data Scientist"
+    }
+  ],
+  "Education": [],
+  "Certification": [],
+  "Skills": [],
+  "Interests": {
+    "interests_total_followers": 11554817,
+    "top_voice": {
+      "name": "Satya Nadella",
+      "position": "Chairman and CEO at Microsoft",
+      "profile_url": "https://www.linkedin.com/in/satyanadella"
+    }
+  }
+}
+```
+
+**Notes on mapping the fields:**
+- **Basic Info**: Extracted location; no direct name or profile URL in the sample.
+- **Activity**: Collected followers and indicated that post data would be here.
+- **Experience**: The title and company were somewhat redundant but are included as presented.
+- **Education**, **Certification**, **Skills**: No information was present for these fields, so empty arrays are used.
+- **Interests**: Total follower count and details on the "Top Voice" interest (Satya Nadella).
+
+The arrangement follows the consensus and best practices in tools and workflows described for LinkedIn-to-JSON conversion[1][2][3][4].

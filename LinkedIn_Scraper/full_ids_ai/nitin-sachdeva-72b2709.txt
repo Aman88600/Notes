@@ -1,0 +1,144 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Dr. Nitin Sachdeva",
+    "headline": "Principal Data Scientist | Data Evangelist | Data Monetization | Analytics | Deep Learning | Machine Learning | Research & Development in AI",
+    "current_position": "Principal Data Scientist, TVS Motor Company, Bengaluru, India",
+    "summary": "Over 8+ years experience in Data Science & Analytics. 15+ years in analytical research & corporate roles. Expert in designing and deploying data-driven descriptive and predictive models. 30+ international publications/whitepapers in quantitative modeling, machine learning, finance, marketing, software testing. PhD in Operational Research. Extensive experience in workshops & faculty programs on IBM Watson Analytics, SPSS, Statistical Modeling, Business Research, MCDM, business simulation, and BI tools.",
+    "location": "Bengaluru, Karnataka, India",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "contacts": {
+      "connections": "500+",
+      "linkedin": "https://www.linkedin.com/in/nitin-sachdeva-72b2709/"
+    },
+    "interests": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Business Analytics",
+      "Machine Learning",
+      "Research & Development"
+    ],
+    "causes": [
+      "Economic Empowerment",
+      "Education",
+      "Health",
+      "Social Services"
+    ]
+  },
+  "Activity": {
+    "followers": 6022,
+    "recent_posts": "Loaded 8 Posts",
+    "engagement_highlights": [
+      "23 comments on recent activity"
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Principal Data Scientist",
+      "company": "TVS Motor Company",
+      "type": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "duration": "Dec 2020 - Present",
+      "description": "Leads Central Data & Analytics team, building deep learning components, product roadmaps for AI R&D, and developing strategy for AI/ML within the TVS group."
+    },
+    {
+      "title": "Senior Manager",
+      "company": "Protiviti India Member Firm",
+      "location": "Gurugram, Haryana, India",
+      "duration": "Dec 2018 - Dec 2020",
+      "description": "Led client delivery teams, developed analytical methodologies, contributed to whitepapers and training, established thought leadership in analytics."
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "IMT Ghaziabad",
+      "duration": "Oct 2017 - Nov 2018",
+      "location": "India",
+      "description": "Consulting, research and teaching in quantitative modeling, software reliability and innovation diffusion, strategic solutions using Python/R and machine learning."
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "Fortune Institute of International Business",
+      "duration": "Jul 2015 - Oct 2017",
+      "location": "New Delhi"
+    },
+    {
+      "title": "Visiting Faculty Member",
+      "company": "IMT, Centre for Distance Learning, Ghaziabad",
+      "duration": "Jul 2014 - Jul 2015",
+      "location": "India",
+      "description": "Designed and delivered lectures (Business Analytics, Decision Sciences, Quantitative Management), assessed projects, and designed training modules for management students."
+    }
+  ],
+  "Education": [
+    {
+      "institute": "Delhi University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "field_of_study": "Operations Research",
+      "years": "2014 - 2017"
+    },
+    {
+      "institute": "Delhi University",
+      "degree": "Post Graduation",
+      "field_of_study": "Operational Research",
+      "years": "2007 - 2009"
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Best Research Paper Presentation Award",
+      "issuer": "Amity International Business School",
+      "date": "Feb 2012",
+      "details": "Awarded for the paper 'Utility Based Tool to Assess Key HRD Instruments Within An Organization' at the International Business Horizon, Amity University."
+    }
+  ],
+  "Skills": [
+    "Data Science Strategy",
+    "Analytics Management",
+    "Deep Learning",
+    "Machine Learning",
+    "Quantitative Modeling",
+    "Business Research",
+    "Python",
+    "R",
+    "C++",
+    "Tableau",
+    "SAS",
+    "SPSS",
+    "MAPLE",
+    "LINGO",
+    "AMOS",
+    "IBM Cognos Insight",
+    "IBM Cognos BI",
+    "Watson Analytics",
+    "Computer Vision",
+    "Algorithms"
+  ],
+  "Projects": [
+    {
+      "title": "Analysing the factors affecting the slow growth of Organic food industry in India",
+      "description": "Research project combining qualitative and quantitative methods to analyze consumer perceptions and identify growth gaps. Objectives include analyzing factors influencing organic food purchasing behavior and forecasting future purchase behavior.",
+      "duration": "Jan 2013 - Present",
+      "contributors": "Other contributors"
+    }
+  ],
+  "Publications": [
+    {
+      "title": "An Innovation Diffusion Model for Consumer Durables with Three Parameters",
+      "journal": "Journal of Management Analytics, Taylor & Francis",
+      "date": "May 31, 2016",
+      "authors": "Other authors",
+      "summary": "Presents a three-dimensional innovation diffusion model that incorporates product continuation time, price, and marketing expenditure as major drivers of diffusion for consumer durables. Employs Cobb–Douglas production function and validates with empirical sales data."
+    },
+    {
+      "title": "Optimization Problems for a Modular Software With Faults of Different Severity",
+      "journal": "International Journal of Reliability, Quality and Safety Engineering (IJRQSE), World Scientific",
+      "date": "May 30, 2016",
+      "authors": "Other authors",
+      "summary": "Examines effective software reliability growth models, categorizing and optimizing debugging costs and reliability in N-module software systems, validated by real-life failure data."
+    }
+  ]
+}
+```

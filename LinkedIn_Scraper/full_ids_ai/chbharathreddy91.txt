@@ -1,0 +1,115 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "Not specified",
+    "CurrentPosition": "Senior Scientist (AI/ML), ISRO - Indian Space Research Organization",
+    "Summary": "Experienced Senior Scientist at ISRO with over 10 years of expertise in AI/ML, specializing in architecture of Generative AI and Machine Learning solutions. Adept at leading research in cutting edge AI technologies. Possess strong knowledge of Machine Learning fundamentals and Statistics. Passionate about improving the reliability and interpretability of AI systems.\n\nResults-driven Data Science and Analytics Leader with a decade of expertise in machine learning, specializing in developing advanced AI models for mission-critical outcomes. Proven success in industries including aerospace and petrochemical manufacturing. Currently leading AI initiatives at SDSC SHAR-ISRO, focusing on enhancing launch vehicle efficiency and autonomous landing capabilities. Recognized for optimizing project outcomes and ensuring high data accuracy. Demonstrated strengths in stakeholder management, cross-functional collaboration, and team leadership.",
+    "Location": "India (Hybrid)",
+    "Languages": [
+      "English",
+      "Hindi"
+    ],
+    "Followers": 299
+  },
+  "Activity": {
+    "Followers": 299,
+    "EngagementHighlights": [
+      "Congratulations noted on recent achievements",
+      "Recent activity within last 2 weeks"
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Senior Scientist (AI/ML)",
+      "Organization": "ISRO - Indian Space Research Organization",
+      "Duration": "Oct 2017 - Present",
+      "Location": "India (Hybrid)",
+      "Summary": "Conceptualized advanced AI models for breakthroughs in mission precision and reliability. Developed predictive generative models to simulate landing scenarios, boosting safety and control. Applied machine learning to optimize launch vehicles, increasing efficiency by 30%. Used statistical modeling for diagnostics in propellant efficacy. Published pioneering models correlating process parameters with solid motor performance. Developed time series and neural network models for real-time monitoring. Designed computer vision-based anomaly detection systems. Led multiple complex projects to timely completion, ensuring organizational project success."
+    },
+    {
+      "Title": "Editorial Board Member",
+      "Organization": "International Journal of Advance Research, Ideas, Innovation and Technology",
+      "Duration": "Aug 2016 - Oct 2017",
+      "Summary": "Oversaw review and editorial processes for AI/ML-related research papers."
+    },
+    {
+      "Title": "Technical Head",
+      "Organization": "Not specified",
+      "Summary": "Analysed business processes to recommend software solutions. Designed data-centric solutions tailored to client challenges. Researched and integrated emerging technologies to process plants. Modeled advanced solutions for complex challenges using mathematical modeling and data-driven methodologies."
+    },
+    {
+      "Title": "Operations Manager",
+      "Organization": "Reliance",
+      "Summary": "Tracked performance metrics for operational improvements. Developed safety protocols and monitored process parameters. Used advanced data analytics for decision-making and quality control. Supported setup and commissioning of petrochemical complex."
+    }
+  ],
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology (B.Tech.)",
+      "Field": "Chemical Engineering",
+      "Institution": "National Institute of Technology Calicut",
+      "Duration": "2010 - 2014"
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Data Science Foundations - Level 1",
+      "Issuer": "IBM",
+      "Issued": "Feb 2017"
+    },
+    {
+      "Name": "PG Certification in Artificial Intelligence and Machine Learning",
+      "Issuer": "International Institute of Information Technology Hyderabad (IIITH)",
+      "Issued": "Sep 2022"
+    }
+  ],
+  "Skills": [
+    "Deep Learning",
+    "Generative Neural Networks",
+    "Machine Learning",
+    "Data Science",
+    "Interpretability",
+    "Predictive Modeling",
+    "Clustering",
+    "Regression Analysis",
+    "Time Series Analysis",
+    "Process Modeling",
+    "Research",
+    "Continuous Process Improvement",
+    "Transformations & Automation"
+  ],
+  "Projects": [
+    {
+      "Title": "Generative AI Model for Anomaly Detection",
+      "AssociatedWith": "ISRO - Indian Space Research Organization",
+      "Duration": "Jan 2020 - Nov 2022",
+      "Summary": "Developed and deployed a generative AI model for anomaly detection, significantly improving early detection systems and enhancing safety protocols."
+    },
+    {
+      "Title": "Machine Learning Model for Process Optimization",
+      "AssociatedWith": "ISRO - Indian Space Research Organization",
+      "Duration": "Jan 2018 - Oct 2019",
+      "Summary": "Created ML models for process optimization through accurate diagnostics using statistical and predictive modeling and published findings in conferences."
+    }
+  ],
+  "Publications": [
+    {
+      "Title": "Flow past a Rotating Grooved Cylinder",
+      "Journal": "International Journal Of Advance Research, Ideas and Innovations In Technology",
+      "Date": "Sep 10, 2016"
+    },
+    {
+      "Title": "Steady Flow Past a Grooved Rotating Cylinder (CFD)",
+      "Conference": "ICFCE-2013 (International Conference on Frontiers in Chemical Engineering)",
+      "Date": "Dec 11, 2013"
+    }
+  ],
+  "TestScores": [
+    {
+      "Test": "TOEFL",
+      "Score": "110/120",
+      "Date": "Aug 2016"
+    }
+  ]
+}
+```

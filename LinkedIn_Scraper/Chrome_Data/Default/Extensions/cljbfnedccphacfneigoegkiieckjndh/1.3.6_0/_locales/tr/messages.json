@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Uygulama için yorum eklemek için buton etiketi.",
+      "message": "Bir Yorum Ekle"
+   },
+   "allowPermissions": {
+      "description": "Uygulama için izinleri vermek için buton etiketi.",
+      "message": "İzinleri Ver"
+   },
+   "autoScroll": {
+      "description": "Veri toplama esnasında her ögeye otomatik olarak kaydırmayı kontrol etmek için anahtarın etiketi.",
+      "message": "Otomatik Kaydırma"
+   },
+   "back": {
+      "description": "Önceki ekrana dönmek için buton etiketi.",
+      "message": "Geri"
+   },
+   "cancel": {
+      "description": "İptal etme hareketi için etiket.",
+      "message": "İptal"
+   },
+   "changeList": {
+      "description": "Listeyi kazımak için değiştirme butonunun etiketi.",
+      "message": "Listeyi Değiştir"
+   },
+   "changeSelectionLevel": {
+      "description": "Bir öğe seçildiğinde seçim seviyesini değiştirme eyleminin tanımı.",
+      "message": "Seçim seviyesini değiştir"
+   },
+   "chooseFile": {
+      "description": "Dosya yükleme işlemi için dosya seçme butonunun etiketi.",
+      "message": "Dosya Seç"
+   },
+   "click": {
+      "description": "Tıklama eylemi için etiket.",
+      "message": "Tıklayın"
+   },
+   "clickLoadMore": {
+      "description": "Scraping yaparken aynı sayfada daha fazla öğe yüklemek için bir düğmeye tıklama seçeneğinin etiketi.",
+      "message": "Daha fazla öğe yüklemek için düğmeye tıklayın"
+   },
+   "clickNextPage": {
+      "description": "Bir sonraki sayfayı yüklemek için öğeleri kazırken bir sonraki sayfaya geçiş için linki tıklama seçeneğinin etiketi.",
+      "message": "Bir sonraki sayfaya gitmek için linke tıklayın"
+   },
+   "column": {
+      "description": "\u003Cselect> elementini yüklenen CSV'den kazınacak URL'leri içeren sütunu seçmek için etiket.",
+      "message": "Sütun"
+   },
+   "confirm": {
+      "description": "Onaylama işlemi için etiket.",
+      "message": "Onayla"
+   },
+   "continue": {
+      "description": "Bir sonraki ekrana geçmek için butonun etiketi.",
+      "message": "Devam Et"
+   },
+   "copy": {
+      "description": "Verileri panoya kopyalamak için düğmenin etiketi.",
+      "message": "Kopyala"
+   },
+   "csvFile": {
+      "description": "CSV dosyası yüklemek için dosya giriş etiketi",
+      "message": "$FILE_TYPE$ dosyası",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Detay sayfaları için varsayılan kazıyıcı adı.",
+      "message": "$DOMAIN$ detaylarını al",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "ornek.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Çıkarıcıyı silmek için menü öğesinin etiketi.",
+      "message": "Sil"
+   },
+   "dismiss": {
+      "description": "Uyarıyı kapatma eylemi.",
+      "message": "Kapat"
+   },
+   "duration": {
+      "description": "Mevcut taramanın süresini gösteren etiket.",
+      "message": "Süre"
+   },
+   "esc": {
+      "description": "Escape tuşu etiketi.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Veri kazıyıcıyı dışa aktarmak için menü öğesinin etiketi.",
+      "message": "Dışa Aktar"
+   },
+   "extractData": {
+      "description": "Her URL'den kazıyarak veri çıkarmak için menü öğesinin etiketi.",
+      "message": "Veri çıkar"
+   },
+   "finish": {
+      "description": "Sayfadaki öğeleri seçmeyi bitirmek için düğme etiketi.",
+      "message": "Bitir"
+   },
+   "headerRow": {
+      "description": "Yüklenen CSV dosyasının bir başlık satırı ile başlaması gerektiğini açıklamak için yardımcı metin.",
+      "message": "Bir başlık satırı ile başlamalı"
+   },
+   "headerRowRequired": {
+      "description": "Yüklenen CSV'den başlık satırının eksik olduğu göründüğünde gösterilecek uyarı.",
+      "message": "Başlık satırı gereklidir"
+   },
+   "help": {
+      "description": "Yardım sayfasını açma butonu için etiket.",
+      "message": "Yardım"
+   },
+   "hideOptions": {
+      "description": "Daha fazla kazıma seçeneği için düğmeyi gizlemek üzere etiket.",
+      "message": "Seçenekleri Gizle"
+   },
+   "import": {
+      "description": "Bir kazıyıcıyı içe aktarmak için menü öğesi etiketi.",
+      "message": "İçe Aktar"
+   },
+   "install": {
+      "description": "Uygulamanın en son sürümünü yüklemek için düğme etiketi.",
+      "message": "En son sürümü yükle"
+   },
+   "invalidTab": {
+      "description": "Hedef sekme kısıtlı bir siteye açıkken gösterilen hata mesajı.",
+      "message": "Bu sayfa kısıtlı. Başka bir site deneyin."
+   },
+   "invalidVersion": {
+      "description": "Kullanıcıya uygulamanın en son sürümünü yüklemesi talimatını verin.",
+      "message": "$APP_NAME$ artık beta aşamasında değil! En yeni güncellemeleri almak için en son sürümü yükleyin.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Bir liste taranırken taranan öğelerin sayısını gösteren etiket.",
+      "message": "Öğeler"
+   },
+   "loadMoreAction": {
+      "description": "Kazıma sırasında daha fazla öğe yüklemek için nasıl seçileceğini belirten \u003Cselect> elementi için etiket.",
+      "message": "Daha fazla öğe yükleme eylemi"
+   },
+   "max": {
+      "description": "Öğeler veya sayfalar yüklenirken beklenilecek maksimum süreyi kontrol etmek için giriş etiketi.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Öğeleri kazımak için maksimum sınır belirlemek adına giriş için etiket.",
+      "message": "Maksimum öğe"
+   },
+   "maxItemsHelp": {
+      "description": "Kullanıcının sınır koymamak için maksimum öğe girişini boş bırakması gerektiğini bilgilendirmek için yardım metni.",
+      "message": "Limitsiz için boş bırakın"
+   },
+   "maxItemsReached": {
+      "description": "Taranacak öğelerin maksimum sınırına ulaşıldığını belirten uyarı açıklaması.",
+      "message": "Belirtilen limit kadar başarıyla tarandı. Taramaya devam etmek için maksimum öğe seçeneğini artırın."
+   },
+   "mediaUrl": {
+      "description": "Bir öğeden yakalanan medya URL alanı için etiket.",
+      "message": "Medya URL'si"
+   },
+   "min": {
+      "description": "Yüklenen daha fazla öğe veya sayfa için beklenmesi gereken minimum süreyi kontrol etmeye yönelik girişin etiketi.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Hedef sekme verilerine erişilemediğinde hata mesajı.",
+      "message": "Bu görev için kullandığınız sekme kapatıldı. Lütfen bu pencereyi kapatın ve tekrar deneyin."
+   },
+   "missingTabPermission": {
+      "description": "Hedef sekme verilerine erişilemediğinde gösterilen hata mesajı.",
+      "message": "Sekmeye erişilemiyor. Bu pencereyi kapatın ve tekrar deneyin."
+   },
+   "missingUrlColumn": {
+      "description": "CSV dosyasındaki URL sütunları eksik olduğunda hata mesajı.",
+      "message": "URL içeren sütunlar bulunamadı. Lütfen başka bir dosya seçin."
+   },
+   "newScraper": {
+      "description": "Yeni bir kazıyıcı oluşturma düğmesi için etiket.",
+      "message": "Yeni Kazıyıcı"
+   },
+   "noData": {
+      "description": "Veri olmadığında tabloda yer tutucu.",
+      "message": "Gösterilecek veri yok"
+   },
+   "noFileChosen": {
+      "description": "Dosya seçilmediği zaman gösterilen mesaj.",
+      "message": "Dosya seçilmedi"
+   },
+   "noList": {
+      "description": "Liste sayfada bulunamadığında gösterilecek yer tutucu.",
+      "message": "Sayfada liste bulunamadı"
+   },
+   "none": {
+      "description": "Veri kazırken daha fazla öğe yüklememe seçeneği için etiket.",
+      "message": "Hiçbiri"
+   },
+   "options": {
+      "description": "Veri çekici için seçenekleri gösteren düğmenin etiketi.",
+      "message": "Seçenekler"
+   },
+   "pages": {
+      "description": "Bir liste tarandığında taranan sayfa sayısını gösteren etiket.",
+      "message": "Sayfalar"
+   },
+   "permissionsDescription": {
+      "description": "Uygulamanın URL'lere erişebilmesi ve kazıyabilmesi için ek izinlere ihtiyaç duyduğunu açıklayan yardım metni.",
+      "message": "$APP_NAME$, URL'lere erişmek ve kazımak için ek izinlere ihtiyaç duymaktadır",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Kolay Kazıyıcı"
+         }
+      }
+   },
+   "preview": {
+      "description": "Veri kazıyıcının önizlemesinin gösterildiğini belirtmek için rozet metni.",
+      "message": "Önizleme"
+   },
+   "remainingPages": {
+      "description": "Ayrıntı sayfaları taranırken taranacak kalan sayfa sayısını gösteren etiket.",
+      "message": "Kalan"
+   },
+   "rename": {
+      "description": "Çıkarıcıyı yeniden adlandırmak için menü öğesi etiketi.",
+      "message": "Yeniden Adlandır"
+   },
+   "reviewDescription": {
+      "description": "Kullanıcıdan uygulama için yorum yapmasını isteyin.",
+      "message": "Merhaba, ben $NAME$. İnsanların zaman kazanmalarına yardımcı olmak için $APP_NAME$'i oluşturdum. Eğer kullanmayı seviyorsanız, diğer insanların $APP_NAME$'i keşfetmelerine yardımcı olmak için 5 yıldızlı bir değerlendirme yapmanızı takdir ederim. Çok teşekkürler!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Kullanıcıya uygulamayı kullandığı için teşekkür edin.",
+      "message": "$APP_NAME$ kullanarak için teşekkür ederiz",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Listedeki her öğe için detay sayfalarını kazıma ekranını gösterme seçeneğinin etiketi.",
+      "message": "Detayları Kazı"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Kullanıcıyı detay sayfalarını kazımayla ilgili bilgilendirmek için ipucu açıklaması.",
+      "message": "Listedeki her URL'yi kazımak için, CSV dosyası olarak listeyi indirdikten sonra sağ üst köşedeki menüden \"$LABEL$\" seçin.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Detayları Kazı"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Kullanıcıyı ayrıntı sayfalarını kazımak konusunda bilgilendirmek için ipucu başlığı.",
+      "message": "İpucu: Ayrıntı sayfalarını kazıyın"
+   },
+   "scrapeList": {
+      "description": "Liste kazımak için ekranı gösterme seçeneğini etiketle.",
+      "message": "Listeyi Kazı"
+   },
+   "scrapedPages": {
+      "description": "Detay sayfalarını kazırken kazınan sayfa sayısını gösteren etiket.",
+      "message": "Kazınmış"
+   },
+   "scrapingComplete": {
+      "description": "Kazımanın tamamlandığını belirten uyarı başlığı.",
+      "message": "Kazıma tamamlandı"
+   },
+   "scrapingStatus": {
+      "description": "Veri çekme işleminin devam ettiğini gösteren etiket.",
+      "message": "Veri çekiliyor..."
+   },
+   "scrollDelay": {
+      "description": "Kazıma yaparken her öğeye kaydırılırken kaç milisaniye bekleneceğini kontrol etmek için girişin etiketi.",
+      "message": "Kaydırma gecikmesi (ms)"
+   },
+   "scrollDown": {
+      "description": "Kazıma yapılırken daha fazla öge yüklemek için aşağı kaydırma seçeneğinin etiketi.",
+      "message": "Daha fazla öge yüklemek için aşağı kaydır"
+   },
+   "select": {
+      "description": "Sayfadaki bir elemanı seçmek için buton etiketi.",
+      "message": "Seç"
+   },
+   "selectElement": {
+      "description": "Bir element seçilirken görüntülenecek başlık.",
+      "message": "Element Seç"
+   },
+   "selectField": {
+      "description": "Alınacak alanı seçme eyleminin tanımı.",
+      "message": "Alanı Seç"
+   },
+   "selectList": {
+      "description": "Bir liste seçerken gösterilecek başlık.",
+      "message": "Listeyi Seç"
+   },
+   "selectScraper": {
+      "description": "Her URL'yi kazımak için kullanılacak çiziciyi seçmek için menü ögesi etiketi.",
+      "message": "Çizici seç"
+   },
+   "selectScraperOption": {
+      "description": "Geçerli alan için bir kazıyıcı seçme talimatı.",
+      "message": "$DOMAIN$ için kazıyıcı seçin",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "ornek.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Daha fazla kazıma seçeneği göstermek için buton etiketi.",
+      "message": "Seçenekleri Göster"
+   },
+   "startScraping": {
+      "description": "Veri toplamayı başlatma butonunun etiketi.",
+      "message": "Veri Toplamayı Başlat"
+   },
+   "stopScraping": {
+      "description": "Taramayı durdurma butonu için etiket.",
+      "message": "Taramayı Durdur"
+   },
+   "tabNotFound": {
+      "description": "Hedef sekme mevcut değilse gösterilen hata mesajı.",
+      "message": "Sekme bulunamadı. Bu pencereyi kapatın ve tekrar deneyin."
+   },
+   "testUrl": {
+      "description": "Bir çıkarıcı seçerken kullanılacak test URL'si için metin girişinin etiketi.",
+      "message": "Test URL'si"
+   },
+   "text": {
+      "description": "Bir elementten alınan metin alanı için etiket.",
+      "message": "Metin"
+   },
+   "uploadUrls": {
+      "description": "URL'leri kazımak için bir dosya yüklemek üzere menü öğesi etiketi.",
+      "message": "URL'leri Yükle"
+   },
+   "url": {
+      "description": "Bir elementten alınan URL alanı için etiket.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Seçilen sütun adı bir URL olduğunda ve CSV dosyasında başlık satırı eksik olabileceğinde görüntülenecek uyarı.",
+      "message": "Sütun adı bir URL gibi görünüyor. Lütfen CSV dosyasının sütun adlarını içeren bir başlık satırı ile başladığından emin olun."
+   },
+   "verify": {
+      "description": "Seçili bir öğeyi sayfada vurgulayarak doğrulamak için buton etiketi.",
+      "message": "Doğrula"
+   },
+   "waitTimeItems": {
+      "description": "Daha fazla öğe yüklenirken kaç saniye beklenileceğini kontrol etmek için girişlerin etiketi.",
+      "message": "Daha fazla öğe yüklemek için bekleme süresi (saniye)"
+   },
+   "waitTimePages": {
+      "description": "Sayfalar yüklenirken kaç saniye beklenileceğini kontrol etmek için girişlerin etiketi.",
+      "message": "Sayfaların yüklenmesi için bekleme süresi (saniye)"
+   }
+}

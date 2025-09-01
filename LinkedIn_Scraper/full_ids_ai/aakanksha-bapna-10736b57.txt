@@ -1,0 +1,131 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Aakanksha Bapna",
+    "headline": "Senior Data Scientist at Razorpay",
+    "location": "Bangalore Urban, Karnataka, India",
+    "about": "Results-driven data scientist with a robust background in machine learning and computer vision. Skilled in automating complex tasks and deploying scalable machine learning solutions. Adept at utilizing probabilistic models and advanced algorithms to drive innovation and efficiency in diverse applications. Passionate about leveraging data science to solve real-world problems and enhance business outcomes.",
+    "profileImage": "https://media.licdn.com/dms/image/v2/C5103AQHdWNtJcAaetA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516969022956?e=1759363200&v=beta&t=9uciOLO6RdyeHoyBgva5fmbxECdMD3eojPLv66lMnqg",
+    "connections": 417,
+    "followers": 456
+  },
+  "Activity": {
+    "recentPosts": [
+      {
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7325224935721730050/",
+        "comments": 109
+      },
+      {
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7275745731997585409/"
+      }
+    ],
+    "topVoicesFollowed": [
+      {
+        "name": "Kunal Bahl",
+        "description": "Entrepreneur and Investor",
+        "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQH__Hh7CEcg-A/profile-displayphoto-shrink_100_100/B4EZcSqB4VHsAU-/0/1748364697584?e=1759363200&v=beta&t=ZZwMLC3vJ-1l9fkdVB9E1M7RgRjv4Vt_TLPr8XOKN_g"
+      },
+      {
+        "name": "Mustafa Suleyman",
+        "description": "CEO, Microsoft AI",
+        "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQGxPlvpTr28QA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708016890335?e=1759363200&v=beta&t=he6obNu5SEaZpnZCD2NXPkDb-Vx3rPudo6KJIdkuhZM"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Razorpay",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHggYLcXxs78w/company-logo_100_100/company-logo_100_100/0/1630638664845/razorpay_logo?e=1759363200&v=beta&t=qrlAw2nzVqzhYX9bmvXJyFIg8SHPG-wFZ2bjwOcmtHo",
+      "duration": "Mar 2023 to Present · 2 yrs 6 mos",
+      "location": "Bangalore Urban, Karnataka, India",
+      "type": "Full-time"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Razorpay",
+      "duration": "Feb 2021 to Mar 2023 · 2 yrs 2 mos",
+      "location": "Bangalore Urban, Karnataka, India",
+      "type": "Full-time"
+    },
+    {
+      "title": "Principal Product Engineer",
+      "company": "Cybernetyx",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHijIJLAXZ6eA/company-logo_100_100/company-logo_100_100/0/1630577506267/cybernetyx_logo?e=1759363200&v=beta&t=g1nZJ5FSykagNGvrvFUKYfYwK32mGfQ539SQ82w9c78",
+      "duration": "Jan 2019 to Dec 2020 · 2 yrs",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Researcher",
+      "company": "TCS Research and Innovation Labs",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFIs7hC44ri3A/company-logo_100_100/company-logo_100_100/0/1631367781362?e=1759363200&v=beta&t=4X0PR8nujOgUySbJb6kIrrGH_LXWuJiv6NEGL7_b4ek",
+      "duration": "Aug 2016 to Dec 2018 · 2 yrs 5 mos",
+      "location": "Bangalore",
+      "description": "Worked on machine learning projects focused on time series data, load disaggregation, fault detection, time-to-failure estimation, and prediction problems using models such as HMMs, Variational Autoencoders, MARS, LSTMs, DBNs, Random Forest, SVR, Neural Networks, and Dynamic Factor Graphs. Languages/Libraries: Python, Tensorflow, Theano, Numpy, Pandas, Scikit-learn, Matplotlib."
+    },
+    {
+      "title": "Research Intern",
+      "company": "Artifacia",
+      "duration": "Apr 2016 to Jun 2016 · 3 mos",
+      "description": "Built 'Complete the Look', a tool creating collections of fashion items using Bayesian Networks. Explored 'one shot' and 'zero shot' learning algorithms for classifiers with few or no examples."
+    }
+  ],
+  "Education": [
+    {
+      "degree": "Master of Science (M.S.), Computer Science",
+      "field": "Computer Science",
+      "institution": "International Institute of Information Technology, Bangalore",
+      "years": "2013 - 2016",
+      "grade": "3.45/4",
+      "details": "Specialization in machine learning. Thesis: 'Towards an Automated Home Interior Designer System', using automated intelligent systems and Bayesian networks for interior design."
+    },
+    {
+      "degree": "Bachelor of Engineering (BE), Information Technology",
+      "institution": "Institute of Engineering and Technology, DAVV, Indore",
+      "years": "2009 - 2013",
+      "grade": "3.45/4"
+    }
+  ],
+  "Certification": [],
+  "Skills": [
+    {
+      "skill": "Machine Learning",
+      "endorsements": 7
+    },
+    {
+      "skill": "Python",
+      "endorsements": 6
+    }
+  ],
+  "Projects": [
+    {
+      "name": "Classification of Bangalore into various Land Use classes and change detection study",
+      "period": "Mar 2014 - Present",
+      "institution": "International Institute of Information Technology, Bangalore",
+      "description": "Classified Bangalore's regions into land use classes (water-clear, water-dirty, built-up, green-land, open-land, roads, others) using maximum likelihood classification on Landsat images (1993, 2000, 2013), followed by change detection analysis."
+    },
+    {
+      "name": "Heart Attack Risk Estimator",
+      "period": "Nov 2013 - Present",
+      "institution": "International Institute of Information Technology, Bangalore",
+      "description": "Given UCI ML Repository's Heart Disease Database, estimated heart disease risk (0-4) using a multilayer feed-forward neural network, classifying patients based on cholesterol, blood sugar, age, ECG, etc."
+    }
+  ],
+  "Courses": [
+    {
+      "name": "Advanced Algorithms",
+      "institution": "International Institute of Information Technology, Bangalore"
+    },
+    {
+      "name": "Geographic Information Systems",
+      "institution": "International Institute of Information Technology, Bangalore"
+    }
+  ],
+  "Interests": [
+    {
+      "category": "Causes",
+      "items": ["Children", "Poverty Alleviation"]
+    }
+  ]
+}
+```

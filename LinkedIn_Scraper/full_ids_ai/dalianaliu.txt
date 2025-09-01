@@ -1,0 +1,160 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Daliana Liu",
+    "headline": "Helping Data Scientists Gain Visibility, Communicate Their Value, and Find Their Niche | Ex-Amazon Sr. Data Scientist | Career Coach",
+    "profilePhotoUrl": "https://media.licdn.com/dms/image/v2/C5603AQExsD70MUoTYA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1622305398057?e=1759363200&v=beta&t=hKHgvRZdVZOJavwQbhMV3is6VuvyvqwyQFgX6v29IgM",
+    "location": "",
+    "contactEmail": "daliana@dalianaliu.com",
+    "LinkedIn": "https://www.linkedin.com/in/dalianaliu",
+    "website": "https://www.dalianaliu.blog/",
+    "followers": 303953,
+    "summary": "I'm a career coach and entrepreneur. Previously, I was a Senior Data Scientist at Amazon with 7 years of experience in data science & ML. My career advice has been featured on Business Insider, Amazon Science Blog, and VentureBeat. I help data science/ML professionals advance their careers and future-proof themselves without burnout."
+  },
+  "Activity": [
+    {
+      "platform": "LinkedIn",
+      "recentPosts": [
+        {
+          "title": "From Amazon to Business Insider: Quiet visibility opens doors",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7333176343532105729?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7333176343532105729%29",
+          "mediaUrl": "https://media.licdn.com/dms/image/v2/D4E22AQHOGetEituNiw/feedshare-shrink_480/B4EZcStBTgHcAY-/0/1748365482831?e=1759363200&v=beta&t=KAHnc2KvQpsIHNoZOCUt5yUgw3-aqZXi3vr2LXUCGrs",
+          "summary": "Story with Business Insider about visibility and career opportunities."
+        },
+        {
+          "title": "Data Science & ML Career Accelerator",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7227011340861612032?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7227011340861612032%29",
+          "summary": "Announcing my coaching program - learn stakeholder management, get promotion, lead high-impact projects, and find your niche."
+        }
+      ],
+      "newsletter": {
+        "title": "Daliana's Newsletter | Career Stories and Founder Journey",
+        "url": "https://www.dalianaliu.blog/"
+      },
+      "connections": [
+        {
+          "name": "Soyoung L.",
+          "LinkedIn": "https://www.linkedin.com/in/soyoung2/"
+        }
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Founder, Data/ML Career Coach",
+      "company": "Daliana Liu Coaching",
+      "location": "Remote",
+      "duration": "Jul 2024 - Present",
+      "responsibilities": [
+        "Develop communication skills for high-impact projects & promotions.",
+        "Personal branding and exploring business as a part-time founder.",
+        "Niche identification and career design."
+      ],
+      "offerings": "Courses and 1-on-1 coaching; newsletter with 20k readers."
+    },
+    {
+      "title": "Founder and Host",
+      "company": "The Data Scientist Show",
+      "location": "Remote",
+      "duration": "Jul 2024 - Present",
+      "description": "Podcast on data scientists' work, career, and technical challenges. Features experts from various industries."
+    },
+    {
+      "title": "Senior Data Scientist - Machine Learning",
+      "company": "Amazon Web Services (AWS)",
+      "duration": "Aug 2021 to Apr 2025",
+      "location": "",
+      "responsibilities": [
+        "Translated business problems to ML problems and built models for AWS customers.",
+        "Led sports analytics projects (Soccer Goal Predictor, UIUC Football coaching automation).",
+        "Designed experimentation metrics, analytics reports, and internal knowledge newsletters.",
+        "Gave workshops on A/B testing and decision making."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "school": "UC Irvine",
+      "degree": "Master of Science - MS",
+      "fieldOfStudy": "Statistics",
+      "activities": [
+        "Judgeship for ASA's First High School AP Statistics Poster Competition",
+        "UCI Associated Graduate Student's Social Committee"
+      ]
+    },
+    {
+      "school": "Dalian University of Technology",
+      "degree": "Bachelor of Science - BS",
+      "fieldOfStudy": "Mathematics and Applied Mathematics",
+      "activities": [
+        "Director of Drama Club"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "issueDate": "Feb 2022",
+      "expirationDate": "Feb 2025",
+      "credentialUrl": "https://www.credly.com/badges/663b5ba2-864d-4fac-aa21-ed71652a2ab1?source=linked_in_profile"
+    }
+  ],
+  "Skills": [
+    "Deep Learning",
+    "Computer Vision",
+    "A/B Testing",
+    "Experiment Design",
+    "Stakeholder Management",
+    "Data Visualization",
+    "Personal Branding",
+    "Machine Learning",
+    "Niche Identification"
+  ],
+  "Volunteering": [
+    {
+      "role": "Mentor",
+      "organization": "#BUILTBYGIRLS",
+      "duration": "Jul 2019 - Dec 2019",
+      "description": "Help college students develop their STEM skills and build their network."
+    },
+    {
+      "role": "Volunteer",
+      "organization": "World Economic Forum",
+      "duration": "Sep 2009 · 1 mo"
+    }
+  ],
+  "Patents": [
+    {
+      "title": "Determining A Run Time For Experiments Performed At A Network Accessible Site",
+      "patentNumber": "US 10,185,970",
+      "issueDate": "Jan 22, 2019",
+      "summary": "Method for dynamically determining a minimum run time for A/B website experiments based on statistical significance criteria."
+    }
+  ],
+  "HonorsAwards": [
+    {
+      "title": "1st Place in AI/ML Startup Creation Weekend",
+      "issuer": "Madrona Venture Labs & TiE Seattle",
+      "issueDate": "Feb 2019",
+      "description": "Developed a deep learning model using heart-rate data to predict worker fatigue and prevent injuries."
+    }
+  ],
+  "Recommendations": [
+    {
+      "type": "Received",
+      "author": "Mehdi Noori, PhD",
+      "relationship": "Worked with Daliana on the same team at AWS",
+      "date": "June 11, 2025",
+      "text": "She has a rare mix of technical sharpness and grounded clarity. Daliana always brought focus, energy, and a bias toward action. She's one of the few people I know who can zoom out without losing precision."
+    },
+    {
+      "type": "Received",
+      "author": "Shri Shruthi Shridhar",
+      "relationship": "Reported to Daliana at AWS",
+      "date": "October 21, 2020",
+      "text": "She helped me understand the nuances of the project and internal processes well. Daliana was very cordial... provided timely feedback and suggestions and encouraged my work."
+    }
+  ]
+}
+```

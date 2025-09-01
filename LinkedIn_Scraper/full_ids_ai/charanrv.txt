@@ -1,0 +1,183 @@
+Here is a **structured JSON** profile based on your provided content and mapped to the requested fields: `Basic Info`, `Activity`, `Experience`, `Education`, `Certification and Skills`.
+
+```json
+{
+  "BasicInfo": {
+    "name": "Charan R",
+    "profilePhoto": "https://media.licdn.com/dms/image/v2/D4D03AQH4w4YvnfI9Zg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732907362414?e=1759363200&v=beta&t=mNHXhqrb316kUWQlz0z7m9Q4eUXoRWMqEt0q4A5h_qE",
+    "headline": "Data Scientist @ Google || Public Speaker || 2x LinkedIn Top Data Voice || Featured on Times Square and Google Socials || 37K+ LinkedIn Followers || 10M+ LinkedIn Impressions || B.Tech ECE Gold Medalist @ VITC ‘24",
+    "location": "Bangalore, Karnataka, India",
+    "connections": "500+",
+    "about": "I am Charan, B.Tech Electronics and Communication Engineering graduate from Vellore Institute of Technology, Chennai. Currently, working as a Data Scientist at Google in Bangalore. \n\nI am skilled in Data Science and Machine Learning and proficient with tech stacks like Python, RStudio, Looker Studio, SQL, A/B Testing, Excel, Power BI, and Tableau. I am eager to explore untouched areas in the field of Data Science. \n\nAchieving my dream of joining a FAANG company has been a challenging journey. Despite facing multiple rejections from several major MNCs, I persisted and eventually secured a position at my dream company, Google. I would like to grow professionally and build a strong portfolio by effectively using this opportunity.",
+    "contactInfo": [
+      {"type": "email", "value": "gmail.com"},
+      {"type": "linkedin", "value": "https://www.linkedin.com/in/charanrv/"}
+    ],
+    "languages": [
+      {"language": "English", "proficiency": "Professional working proficiency"},
+      {"language": "German", "proficiency": "Elementary proficiency"}
+    ]
+  },
+
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Spotlight by Google",
+      "description": "Today is one of the most remarkable days in my life. Being spotlighted by Google is a great honor. Thank you, Google, my college VIT and my parents for supporting me.",
+      "media": "https://media.licdn.com/dms/image/v2/D5610AQFkMVyMF1qIdg/image-shrink_480/image-shrink_480/0/1729537801772?e=1757268000&v=beta&t=1wyBty4Q_L8awPAsi6oUKGd-Wy9ulAYSqa43uRc9Ows",
+      "hashtags": [
+        "#Google", "#Apprenticeship", "#LifeAtGoogle", "#GoogleStudents", "#DataAnalyst", "#DataScience", "#AI", "#ML", "#ThankYou", "#Gratitude", "#HappyMoment", "#Achievement", "#Motivation", "#IamRemarkable", "#Spotlight", "#VelloreInstituteofTechnology", "#VITAlumni"
+      ]
+    },
+    {
+      "type": "Post",
+      "title": "Guest Speaker: Anna Administrative Staff College",
+      "description": "Delivered an invited talk on 'Data Visualization' at Anna Administrative Staff College in Chennai for government officials. Topic: Artificial Intelligence for Social Good.",
+      "date": "May 24-26, 2023",
+      "hashtags": ["#AIforSocialGood", "#DataVisualization", "#Publicspeaking", "#DataAnalytics", "#Vitchennai"]
+    },
+    {
+      "type": "Post",
+      "title": "VIT Chennai Rank 1",
+      "description": "Received Meritorious Rank 1 in the Electronics and Communication Department, VIT Chennai, for the academic year 2023-2024."
+    }
+  ],
+
+  "Experience": [
+    {
+      "title": "Data Scientist Product - Geo",
+      "company": "Google",
+      "employmentType": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "Mar 2025 - Present",
+      "duration": "6 mos",
+      "description": "Building AI driven Smarter Maps"
+    },
+    {
+      "title": "Gmentors Community Contribution",
+      "employmentType": "Part-time",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "Mar 2025 - Present",
+      "duration": "6 mos",
+      "description": "Active mentorship of five colleagues to enhance their career development. Community contribution."
+    },
+    {
+      "title": "Universal Product Development Champions 20%",
+      "employmentType": "Part-time",
+      "location": "United States",
+      "date": "Jan 2025 - Present",
+      "duration": "8 mos"
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Anna Administrative Staff College",
+      "employmentType": "Internship",
+      "location": "Chennai, Tamil Nadu, India · Hybrid",
+      "date": "Jan 2023 - Mar 2023",
+      "duration": "3 mos",
+      "description": "Analyzed YouTube channel 'AIMTN' with data analysis and visualization to improve channel performance. Provided actionable insights with Prahaladhan VB from VITC."
+    },
+    {
+      "title": "Antenna Design and SAR Control Intern",
+      "company": "Vectra MedTech",
+      "employmentType": "Internship",
+      "location": "Bengaluru, Karnataka, India · Remote",
+      "date": "Oct 2022 - Feb 2023",
+      "duration": "5 mos",
+      "description": "Early Detection of Breast Cancer using UWB Radar. Designed antenna, SAR control, and implemented Deep Learning algorithms."
+    },
+    {
+      "title": "Autonomy Department Lead",
+      "company": "Technocrats Robotics",
+      "location": "Chennai, Tamil Nadu, India",
+      "date": "Jul 2022 - Jan 2023",
+      "duration": "7 mos"
+    },
+    {
+      "title": "Robocon Division Member, Trainee",
+      "company": "Technocrats Robotics",
+      "location": "Chennai, Tamil Nadu, India",
+      "date": "Apr 2021 - Jul 2022",
+      "duration": "1 yr 4 mos",
+      "description": "Experience in electrical division; learned and explored new areas of robotics."
+    },
+    {
+      "title": "Summer Intern",
+      "company": "Vitalcore Technologies Pvt Ltd",
+      "employmentType": "Internship",
+      "location": "Chennai, Tamil Nadu, India",
+      "date": "May 2022 - Jul 2022",
+      "duration": "3 mos",
+      "description": "Designed and developed the Precision Test Bench Buzzer Sound Detection Circuit. Exposure to networking protocols, integration of software and hardware in embedded systems."
+    }
+  ],
+
+  "Education": [
+    {
+      "institution": "Vellore Institute of Technology, Chennai",
+      "degree": "Bachelor of Technology - BTech",
+      "fieldOfStudy": "Electronics and Communication Engineering",
+      "startDate": "Sep 2020",
+      "endDate": "Aug 2024",
+      "grade": "9.51 CGPA (Branch Topper)",
+      "achievements": [
+        "Gold Medalist of the 2020-2024 batch",
+        "Best Final Year Capstone Project Award in AI category",
+        "Branch Rank 1 in 2nd, 3rd, 4th Year ECE",
+        "Dean's Merit List all 4 years",
+        "Temenos Scholarship (2022-24)",
+        "PCB Circuit-a-thon Award",
+        "Collaborated on 2 industrial projects",
+        "Published 2 conference papers and 1 Scopus-indexed journal paper"
+      ]
+    },
+    {
+      "institution": "Holy Cross Matriculation Higher Secondary School",
+      "degree": "12th",
+      "fieldOfStudy": "Computer Science",
+      "startDate": "2019",
+      "endDate": "2020",
+      "grade": "86%",
+      "achievements": [
+        "Best All Rounder of the year 2020"
+      ]
+    }
+  ],
+
+  "CertificationAndSkills": {
+    "certifications": [
+      {
+        "name": "Get started with Python",
+        "issuer": "Google",
+        "issueDate": "Dec 2024"
+      },
+      {
+        "name": "Go Beyond the Numbers: Translate Data into Insights",
+        "issuer": "Google (Coursera)",
+        "issueDate": "Dec 2024",
+        "credentialId": "ICZEEMU3P4LE",
+        "verificationLink": "https://coursera.org/share/f49560e218d87a23d50ad93d711a0225"
+      }
+    ],
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Data Analysis",
+      "Business Analytics",
+      "Data Visualization",
+      "Python",
+      "RStudio",
+      "Looker Studio",
+      "SQL",
+      "A/B Testing",
+      "Excel",
+      "Power BI",
+      "Tableau",
+      "Modeling",
+      "Experimentation"
+    ]
+  }
+}
+```
+
+This JSON structure organizes the information for clarity and ease of use in profile-related systems. Let me know if you need more detail in any section or want other fields included.

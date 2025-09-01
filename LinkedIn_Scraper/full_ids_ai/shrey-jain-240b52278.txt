@@ -1,0 +1,95 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Swasti Desai",
+    "headline": "Data Scientist - Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "about": "A passionate Data Analyst with a few years of experience in interpreting and analyzing data for driving business solutions. Proficient knowledge in statistics, mathematics, and analytics tools for effective analyses of data. A strong understanding of business operations, including analytics tools, Microsoft Excel, and statistics methodologies along with excellent analytical abilities and reporting skills to visualize data. Passionate to apply statistical knowledge into business environment where I can gain a deeper insight on the organization and implement my learning for my professional growth which will help me as a good analyst.",
+    "profilePhoto": "https://media.licdn.com/dms/image/v2/C5103AQHvsxpiXade2g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1575908181759?e=1759363200&v=beta&t=zdM2nGngX7PDUESSLwTVPsBDaAm_ZmDrY-jJByMDfDw",
+    "connections": "500+",
+    "followers": 3406,
+    "linkedin": "https://www.linkedin.com/in/swasti-desai/"
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "time": "7 months ago",
+      "content": "Activate to view larger image",
+      "privacy": "Visible to anyone on or off LinkedIn"
+    },
+    {
+      "type": "Post",
+      "time": "8 months ago",
+      "content": "Activate to view larger image",
+      "privacy": "Visible to anyone on or off LinkedIn"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Site Lead - Data Scientist",
+      "company": "Cipla",
+      "duration": "Sep 2023 - Present",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "Full-time"
+    },
+    {
+      "title": "Data Scientist Analyst",
+      "company": "Accenture in India",
+      "duration": "Jul 2021 - Aug 2023",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "Full-time"
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Vallum Capital Advisors",
+      "duration": "Apr 2021 to Jun 2021",
+      "location": "Bandra, Mumbai",
+      "type": "Full-time",
+      "notes": "Developed model in R for PMS"
+    },
+    {
+      "title": "Data Research Analyst",
+      "company": "Sapio Analytics",
+      "duration": "Apr 2020 to Sep 2020",
+      "type": "Internship"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Sunandan Divatia School of Science",
+      "degree": "Master's degree, Applied Statistics and Analysis",
+      "years": "2019 - 2021"
+    },
+    {
+      "school": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+      "degree": "Bachelor's degree in Applied Statistics and Analytics, Mathematical Statistics and Probability and Analytics",
+      "years": "2016 - 2019"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Microsoft Certified: Power BI Data Analyst Associate",
+      "issuer": "Microsoft",
+      "issued": "Oct 2022",
+      "credentialId": "PL-300",
+      "credentialUrl": "https://www.credly.com/badges/9d4a7ff7-0ace-47c4-8021-2c96b2747641/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "issued": "Aug 2022",
+      "credentialUrl": "https://www.credly.com/badges/b7950981-4191-4b56-9a23-d5a879367953/linked_in_profile"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Data Science",
+      "endorsements": 2
+    },
+    {
+      "name": "Market Research",
+      "endorsements": 1
+    }
+  ]
+}
+```

@@ -1,0 +1,102 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Priyanka Banerjee",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQFWCIoKZNW-Wg/profile-displayphoto-shrink_100_100/B56ZW5bA2WGUAU-/0/1742572621761?e=1759363200&v=beta&t=wCKkmZmdgEOZwvHBbTgMlzX_RdKLajlwz8ilmQD86HE",
+    "headline": "Founder, Curie Labs | Ex-Data Science Manager | Educator | Marketing Analytics | Credit Risk",
+    "about": "Data Scientist and educator with experience in messy datasets, building models for banks, pharmaceuticals & retailers. Member of Google Developer Community since 2019. Founder of Curie Labs. Focus: Marketing Analytics & Credit Risk. Approaches problems with business-driven mindset. Mentored 1300+ aspirants. Experience conducting workshops, talks, and working with Govt. of West Bengal IT sector. Views are personal.",
+    "location": "India",
+    "email": "priyankab.ofc@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/priyanka-banerjee-3005",
+    "topmate": "https://topmate.io/priyanka_banerjee",
+    "followers": 14460,
+    "connections": "500+"
+  },
+  "Activity": [
+    {
+      "type": "Workshop/Speaking",
+      "title": "Session at IIM Amritsar",
+      "description": "Hosted an energetic session for IIM Amritsar students on data science career paths.",
+      "date": "2025-08",
+      "media": [
+        "https://media.licdn.com/dms/image/v2/D5622AQEvO2ETXw5euw/feedshare-shrink_480/feedshare-shrink_480/0/1733039728319?e=1759363200&v=beta&t=SZAxPYy8rLHvCidpjUJfa4VEXHD-oyrsrcEBP4COZ9o"
+      ],
+      "hashtags": [
+        "#IIM", "#Amritsar", "#IIMAm", "#DataScience", "#Career"
+      ]
+    },
+    {
+      "type": "Content",
+      "title": "Entering in the world of Analytics - Medium",
+      "description": "Sharing motivation for aspiring data scientists.",
+      "date": "2025-07",
+      "media": [
+        "https://media.licdn.com/dms/image/sync/v2/D5627AQGpURD7ExUhpg/articleshare-shrink_480/articleshare-shrink_480/0/1711959048855?e=1757271600&v=beta&t=hRKgs7PMpax3V1yUB1og5AgwPTM7w1xwEHhGtgDOCFI"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Founder",
+      "organization": "Curie Labs",
+      "location": "India",
+      "from": "2025-05",
+      "to": "Present",
+      "description": "Building Curie Labs as a space for real-world exposure to data science projects: messy data, ambiguous problems, stakeholder management. Domains: credit risk, marketing analytics, retail forecasting."
+    },
+    {
+      "title": "Industry Mentor",
+      "organization": "Christ University, Bangalore",
+      "from": "2025-04",
+      "to": "Present",
+      "description": "Mentoring students in product and data science, guiding real-world project execution."
+    },
+    {
+      "title": "Mentor - Product and Data Science",
+      "organization": "topmate.io (Freelance)",
+      "from": "2024-08",
+      "to": "Present",
+      "description": "Mentor for data science and product strategy."
+    },
+    {
+      "title": "Data Science Manager",
+      "organization": "Novartis",
+      "from": "2024-09",
+      "to": "2025-04",
+      "description": "Improved recommendation models for marketing content suggestions to healthcare professionals at scale."
+    }
+  ],
+  "Education": [
+    {
+      "school": "West Bengal University of Technology, Kolkata",
+      "degree": "Bachelors",
+      "fieldOfStudy": "Computer"
+    },
+    {
+      "school": "Upraised",
+      "degree": "Certification",
+      "fieldOfStudy": "Product Management"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Dataiku Core Designer",
+      "issuer": "Dataiku",
+      "issued": "2024-09"
+    },
+    {
+      "name": "Statistics for Data Analysis Nanodegree",
+      "issuer": "Udacity",
+      "issued": "2024-07",
+      "credentialID": "v2dwxuu39joc"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "Educator",
+    "Public Speaking",
+    "Product Analysis",
+    "Machine Learning"
+  ]
+}
+```

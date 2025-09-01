@@ -1,0 +1,117 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Shivani Padaya",
+    "headline": "Senior Data Scientist | Next Gen AI Enthusiastic | Women Entrepreneurship Promoter",
+    "about": "🚀 AI & Data Science Enthusiast | Generative AI | LLMs | RAG | AWS | MLOps\n\nWith a strong foundation in Data Science, Machine Learning, and Generative AI, I specialize in building LLM-powered solutions that drive real-world impact. My expertise lies in Retrieval-Augmented Generation (RAG), developing efficient retrieval strategies, and integrating AI into production workflows.\n\nAt Data Society, I led initiatives to design scalable AI architectures, optimize embedding models, and deploy cloud-based AI systems using AWS Bedrock, Lambda, and OpenSearch. My work has improved retrieval efficiency by 30-40%, automated video summarization pipelines, and enhanced AI-driven decision-making systems.\n\nI am passionate about bridging the gap between AI research and real-world applications. If you're working on cutting-edge AI solutions or looking for collaborations in Gen AI & LLMs, let’s connect! 🤝",
+    "email": "shivanipadaya90@gmail.com",
+    "location": "Washington DC-Baltimore Area",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQG9XQRBP1POIg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1666063114434?e=1759363200&v=beta&t=8-C1QJKmk9iwmCvPc8mB0y1rLxa8nUMhFJ2T-zJNjo0",
+    "followers": 5134
+  },
+  "Activity": {
+    "featured": [
+      {
+        "title": "Air Quality Forecasting Python Project",
+        "type": "Project",
+        "link": "https://www.linkedin.com/in/shivani-padaya/overlay/1635485565673/single-media-viewer?type=LINK&profileId=ACoAACJjljQBn8OK4Li05joqifHQ_5SnfqhMCg0",
+        "image": "https://media.licdn.com/dms/image/sync/v2/C5627AQEmUWouDmZKCw/articleshare-shrink_480/articleshare-shrink_480/0/1720782837441?e=1757271600&v=beta&t=vzbSSgcNvFYhQw6_71EjB_Qd1WZBwPpqIpm1_cx1TJs"
+      },
+      {
+        "title": "Data Science Blog",
+        "type": "Blog",
+        "link": "https://www.linkedin.com/in/shivani-padaya/overlay/1618381237253/single-media-viewer?type=LINK&profileId=ACoAACJjljQBn8OK4Li05joqifHQ_5SnfqhMCg0",
+        "image": "https://media.licdn.com/dms/image/sync/v2/D5627AQElBwyMs2zsfw/articleshare-shrink_800/articleshare-shrink_800/0/1712058747878?e=1757271600&v=beta&t=ok6vbR-Na7FE7Mo9kfDNohRWYDGDyvE98XQ2l6jtvrc"
+      },
+      {
+        "title": "shivanipadaya - Overview",
+        "type": "GitHub",
+        "description": "IT Engineer from SSEC, Bhavngar. shivanipadaya has 5 repositories available.",
+        "link": "https://github.com/shivanipadaya"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "company": "Data Society",
+      "companyLink": "https://www.linkedin.com/company/9198404/",
+      "title": "Sr. Data Scientist",
+      "type": "Full-time",
+      "location": "Washington DC-Baltimore Area",
+      "duration": "Aug 2022 - Dec 2024",
+      "totalDuration": "2 yrs 5 mos",
+      "description": "Led scalable AI architecture initiatives, optimized embedding models, deployed cloud-based AI systems using AWS Bedrock, Lambda, and OpenSearch."
+    },
+    {
+      "company": "INNODATATICS * Innovation | Data | Analytics",
+      "companyLink": "https://www.linkedin.com/company/13276009/",
+      "title": "Data Science Intern",
+      "type": "Internship",
+      "location": "Bangalore Urban, Karnataka, India",
+      "duration": "Aug 2021 - Feb 2022",
+      "totalDuration": "7 mos"
+    },
+    {
+      "company": "Data Society",
+      "companyLink": "https://www.linkedin.com/company/9198404/",
+      "title": "Jr. Data Scientist",
+      "type": "Full-time",
+      "location": "Washington DC-Baltimore Area",
+      "duration": "May 2022 - Jul 2022",
+      "totalDuration": "3 mos"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Gujarat Technological University (GTU)",
+      "link": "https://www.linkedin.com/company/15114491/",
+      "degree": "BE - Bachelor of Engineering",
+      "field": "Information Technology",
+      "startYear": 2016,
+      "endYear": 2020
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Certificate Program in Data Science using Machine Learning with R and Python",
+      "issuer": "IBM",
+      "issueDate": "Jan 2022",
+      "credentialID": "UC-9df55ec3-0937-46c0-ae84-823ee5070b66",
+      "credentialLink": "https://excelr.skillsnetwork.site/certificates/ec58bf32-831d-459c-8cd1-5fb76c4ed49d"
+    },
+    {
+      "title": "Python for Data Science Bootcamp",
+      "issuer": "Udemy",
+      "issueDate": "Jun 2021",
+      "credentialID": "UC-9df55ec3-0937-46c0-ae84-823ee5070b66",
+      "credentialLink": "https://drive.google.com/file/d/1_fq7zfmxAinFMUJXxm89e2ajVIX7r8Mx/view?usp=sharing"
+    }
+  ],
+  "Skills": [
+    "Large Language Models (LLMs)",
+    "Transformers (Claude, Whisper AI, Hugging Face)",
+    "Retrieval-Augmented Generation (RAG)",
+    "Vector Databases",
+    "MLOps",
+    "CI/CD Pipelines",
+    "Docker",
+    "Kubernetes",
+    "Python",
+    "SQL",
+    "Data Visualization (Tableau, Power BI)",
+    "AWS Cloud (Bedrock, Lambda, OpenSearch, S3)",
+    "Systems Thinking",
+    "Machine Tools"
+  ],
+  "Languages": [
+    {
+      "language": "English",
+      "proficiency": "Full professional proficiency"
+    },
+    {
+      "language": "Gujarati",
+      "proficiency": "Native or bilingual proficiency"
+    }
+  ]
+}
+```

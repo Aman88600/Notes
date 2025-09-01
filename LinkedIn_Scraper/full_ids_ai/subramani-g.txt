@@ -1,0 +1,147 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Subramani .G",
+    "ProfilePhoto": "https://media.licdn.com/dms/image/v2/D5603AQG0T9PkUsBGSQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684752524352?e=1759363200&v=beta&t=eoc9Jg92EuYyCLZ198oQ853q2e5TLA-fpnSpZt6lWEc",
+    "Headline": "Data scientist | Data Analyst | Research Scientist",
+    "Location": "Bengaluru, Karnataka, India",
+    "Summary": "Data scientist skilled in statistical analysis, machine learning, and time series forecasting. Proficient in Python, TensorFlow, and cloud platforms like AWS and Azure, with a focus on developing predictive models to drive data informed decision-making in pharmaceuticals, Research and Retail industries. Strong communicator, adept at visualizing insights to optimize business strategies.",
+    "Followers": 905
+  },
+  "Activity": {
+    "PostsCount": 9,
+    "RecentPosts": [
+      {
+        "Image": "https://media.licdn.com/dms/image/sync/v2/D5627AQF2U1DsiiYuuQ/articleshare-shrink_160/articleshare-shrink_160/0/1733144934192?e=1757271600&v=beta&t=Vam9JM7rlaJE7fKK3YRX8ugsUV1_3hQoUeeHgpnWui8",
+        "Title": "Completion Certificate for Practical SAS Programming and Certification Review"
+      },
+      {
+        "Image": "https://media.licdn.com/dms/image/sync/v2/D5627AQELjgycWIpddA/articleshare-shrink_160/articleshare-shrink_160/0/1712007112775?e=1757271600&v=beta&t=WTXsJ_xoEmbMddpHzr3t8RZGefULCNvRtO_CyOq4Ql0",
+        "Title": "W3Schools PYTHON Exercise"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Senior Executive - Data Scientist",
+      "Company": "OUTZIDR",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D560BAQG-NVwNRKJvsw/company-logo_100_100/company-logo_100_100/0/1735108265699/outzidr_logo?e=1759363200&v=beta&t=Rh724Ley1x7ZQEmB0HzsQU0Lezpyt18Mak0vhKbLdYo",
+      "Location": "Bengaluru, Karnataka, India · Hybrid",
+      "Duration": "Jan 2025 - Present · 8 mos",
+      "Description": "Data-driven initiatives to optimize inventory management, customer segmentation, and personalized marketing strategies in the fashion retail sector. Developed predictive models for demand forecasting and customer churn, improving stock availability and reducing overstocking. Leveraged cloud-based analytics (GCS) and ML techniques to derive actionable insights from sales and behavioral data, enhancing customer experience and business outcomes. Collaborated with cross-functional teams including marketing, merchandising, and e-commerce to align data insights with strategic goals."
+    },
+    {
+      "Title": "GAN AI Scientist",
+      "Company": "Katamaran Industries",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHuDovdBtTJ8g/company-logo_100_100/B56ZhQf04XHUAU-/0/1753697177811/katamaran_industries_logo?e=1759363200&v=beta&t=8s9HUswcNEDfbE3ffqex8muX2AG69LD49M0QWPzgNxA",
+      "Location": "Bengaluru, Karnataka, India · On-site",
+      "Duration": "Jul 2024 - Dec 2024 · 6 mos",
+      "Description": "Developed advanced machine learning and QSAR models for drug discovery and identification of novel compounds. Designed AI-driven computational biology solutions, integrating GenAI models for advanced data analysis and enhanced decision-making in biological research."
+    },
+    {
+      "Title": "Research Scientist",
+      "Company": "KCAT ENZYMATIC PRIVATE LIMITED",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHapaNIJwyMZQ/company-logo_100_100/company-logo_100_100/0/1630620202880/kcat_enzymatic_private_limited_logo?e=1759363200&v=beta&t=nqGYGqZO-lKOfatRYUPGY1sH0_Yd6HdvNh0ifZ7iF6o",
+      "Location": "Bangalore Urban, Karnataka, India · On-site",
+      "Duration": "Jun 2023 - Jul 2024 · 1 yr 2 mos",
+      "Description": "Developed predictive ML models (Linear Regression, Random Forest, XGBoost) to solve challenges such as enzyme activity prediction. Deployed dashboards with Python and Power BI to provide actionable insights and track model performance."
+    },
+    {
+      "Title": "Executive",
+      "Company": "Biocon Biologics",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEEKNXF7qtdaQ/company-logo_100_100/company-logo_100_100/0/1635739432736/bioconbiologics_logo?e=1759363200&v=beta&t=PGM7T3ZreLCK0LF0xT9kSd9W0tYOhUnPyKrVOq9aITg",
+      "Location": "Bengaluru, Karnataka, India · Hybrid",
+      "Duration": "Dates not specified",
+      "Description": "Details not specified"
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Christ University, Bangalore",
+      "Logo": "https://media.licdn.com/dms/image/v2/C560BAQENS8jNjdELYQ/company-logo_100_100/company-logo_100_100/0/1657915737039?e=1759363200&v=beta&t=aj3TW9KRtF93af3d2E8CBxKKeyXY_2sEkSidc0ZCEm8",
+      "Degree": "Master of Science - MS, Organic Chemistry",
+      "Duration": "Jun 2015 - Apr 2017"
+    },
+    {
+      "Institution": "Great Lakes Institute of Management and University of Texas at Austin",
+      "Logo": "",
+      "Degree": "Postgraduate Degree, Data science and business analytics",
+      "Duration": "May 2022 - Jun 2023"
+    }
+  ],
+  "Certification": [
+    {
+      "Title": "Completion Certificate for Practical SAS Programming and Certification Review",
+      "Issuer": "Subramani.G",
+      "IssueDate": "Oct 2022"
+    },
+    {
+      "Title": "EF SET Certificate (English level)",
+      "Issuer": "Subramani.G",
+      "IssueDate": "Oct 2022"
+    }
+  ],
+  "Skills": {
+    "Programming Languages": [
+      "Python (pandas, NumPy, scikit-learn, seaborn, matplotlib, PySpark)"
+    ],
+    "Statistical Analysis": [
+      "Hypothesis Testing",
+      "Regression Analysis",
+      "Time Series Analysis"
+    ],
+    "Machine Learning Models": [
+      "Linear Regression",
+      "Ridge Regression",
+      "Lasso Regression",
+      "Logistic Regression"
+    ],
+    "Classification": [
+      "Linear Discriminant Analysis",
+      "Decision Tree",
+      "Random Forest",
+      "KNN Classifier",
+      "Naïve Bayes Classifier",
+      "SVM"
+    ],
+    "Clustering": [
+      "K-means Clustering",
+      "Hierarchical Clustering",
+      "DB scan"
+    ],
+    "Ensemble Methods": [
+      "AdaBoosting",
+      "Gradient Boosting",
+      "XG boost"
+    ],
+    "Deep Learning": [
+      "ANN (MLP)",
+      "RNN (LSTM)",
+      "CNN (Keras, TensorFlow)"
+    ],
+    "Cloud Platforms": [
+      "AWS Cloud (S3, EC2, ECR, ECS/Fargate, Lambda, Step Function, CloudWatch, SES, SNS)",
+      "Azure Data Factory",
+      "Data Lake Storage",
+      "Blob Storage",
+      "Databricks",
+      "Synapse Analytics"
+    ],
+    "Database": [
+      "MySQL"
+    ],
+    "Data Visualization": [
+      "Tableau",
+      "Power BI",
+      "Microsoft Excel"
+    ],
+    "Other": [
+      "Data Preparation",
+      "Data Review",
+      "Machine learning",
+      "Deep learning",
+      "Data analytics"
+    ]
+  }
+}
+```

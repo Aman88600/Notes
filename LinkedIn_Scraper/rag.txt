@@ -1,0 +1,5 @@
+LLM - Traning Data to make prediction
+RAG LLM + Data
+
+LangChain
+1 -> 2 -> 3 4

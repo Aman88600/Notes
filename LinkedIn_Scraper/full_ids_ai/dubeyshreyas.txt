@@ -1,0 +1,125 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Vivek Kumar",
+    "headline": "Senior Data Scientist at Paytm",
+    "location": "Noida, Uttar Pradesh, India (Remote)",
+    "connections": "500+",
+    "followers": 5383,
+    "profileLinks": {
+      "linkedin": "https://www.linkedin.com/in/vivek-kumar-10a07210a/",
+      "portfolio": "https://sites.google.com/view/vivekdata",
+      "topmate": "https://topmate.io/careerwithhina/"
+    },
+    "about": "I am a data scientist with a passion for storytelling. During the day, I am usually programming, working to derive insights from large datasets. I often work on end-to-end data science projects, starting with third-party data collection and ending with business insight delivery. I enjoy personal projects and challenges on platforms like HackerRank, Datalameur, and Leetcode.",
+    "topSkills": [
+      "Python (Programming Language)",
+      "Machine Learning",
+      "SQL",
+      "Tableau",
+      "A/B Testing"
+    ]
+  },
+  "Activity": {
+    "recentPostsSummary": "Active contributor and mentor in the data science community, frequently receiving requests for guidance and posting career insights.",
+    "communityEngagement": [
+      {
+        "platform": "LinkedIn",
+        "attributes": [
+          "Mentor",
+          "Shares insights",
+          "Community helper"
+        ]
+      },
+      {
+        "platform": "Topmate",
+        "attributes": [
+          "Offers career guidance via calls"
+        ]
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Paytm",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGimDr9TQiNUA/company-logo_100_100/B56ZYJb2xuHEAc-/0/1743915020166?e=1759363200&v=beta&t=v7I4r4zqG-guh1Yw-h1KLdrDDs1ag29J8kGHT2p9ab0",
+      "type": "Full-time",
+      "duration": "Jan 2023 - Present",
+      "location": "Noida, Uttar Pradesh, India (Remote)",
+      "keyProjects": [
+        "Install to Signup Model: Built XGBoost Bivariate model to predict users who may not signup after install, resulting in higher conversion.",
+        "Location Based Bank Recommendation: Built recommender system to suggest top 3/5 banks, reducing churn during UPI registration.",
+        "Customer Retention n30: Developed XGBoost multivariate model to predict 30-day customer behavior from last 60 days' data."
+      ]
+    },
+    {
+      "title": "Associate-2 (Data Analyst)",
+      "company": "PwC",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=1759363200&v=beta&t=HnX3Bo13LCgPLzVWLePjRjoAS0a_Njx410eNd9rhSWQ",
+      "type": "Full-time",
+      "duration": "Nov 2021 - Jan 2023",
+      "location": "Bangalore Urban, Karnataka, India",
+      "keyProjects": [
+        "End-to-end data lifecycle projects: Web scraping (Python, BeautifulSoup), data cleaning (Alteryx), and Power BI dashboards for company analysis."
+      ]
+    },
+    {
+      "otherProjects": [
+        {
+          "name": "Underwriting Data Mart",
+          "associatedWith": "Infosys",
+          "time": "Feb 2022 - Present",
+          "summary": "Created data pipeline with SQL to build a Data Mart for underwriting by insurance companies."
+        }
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Scaler",
+      "program": "Certificate Program, Data Science",
+      "activities": ["Data Science"]
+    },
+    {
+      "institution": "UIET Panjab University",
+      "program": "Bachelor of Engineering - BE, Electrical, Electronics and Communications Engineering",
+      "duration": "2015 - 2019",
+      "activities": ["Data Science"]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Hackerrank SQL Advanced Certification",
+      "issuer": "HackerRank",
+      "dateIssued": "Oct 2022",
+      "certificateUrl": "https://www.hackerrank.com/certificates/e8b352b8b497"
+    },
+    {
+      "name": "Alteryx Core Certified",
+      "issuer": "Alteryx",
+      "dateIssued": null
+    },
+    {
+      "name": "Financial Accounting & Analysis",
+      "issuer": "Indian Institute of Management Bangalore",
+      "dateIssued": "Dec 2023"
+    }
+  ],
+  "Skills": [
+    "Python",
+    "SQL",
+    "Data Visualization",
+    "BI Tools (Tableau & PowerBI)",
+    "Python Libraries (Seaborn & Matplotlib)",
+    "Alteryx",
+    "Exploratory Data Analysis",
+    "Hypothesis Testing",
+    "Machine Learning",
+    "A/B Testing",
+    "Statistical Data Analysis",
+    "Power BI"
+  ]
+}
+```
+This JSON structure follows the fields you requested, organizes semantically related data, and removes noise from the original text.

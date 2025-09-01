@@ -1,0 +1,168 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "Deepraj Vadhwane",
+    "Headline": "Jr. Data Scientist @ Zeominds | Mentor & Trainer | Guiding 1000+ Minds in Data & AI | Transforming Data into Smart Decisions",
+    "Location": "Hyderabad, Telangana, India",
+    "ProfileImage": "https://media.licdn.com/dms/image/v2/D5603AQEBv7Q-BjZYgQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722590556683?e=1759363200&v=beta&t=zcqNpvfVNaAanHstdjTXRhZT8ft9ytVu9Usw1IIWyPk",
+    "Connections": "500+",
+    "Followers": "2,299",
+    "ContactInfo": {
+      "LinkedIn": "https://www.linkedin.com/in/deeprajvadhwane/",
+      "GitHub": "https://github.com/DeeprajVadhwane"
+    },
+    "Languages": [
+      {"Language": "English", "Proficiency": "Full professional proficiency"},
+      {"Language": "Hindi", "Proficiency": "Professional working proficiency"}
+    ],
+    "Summary": "I’m Deepraj – a passionate Data Scientist, Trainer and Mentor, who loves turning complex ideas into simple, real-world learning experiences. My goal is to make learning meaningful, engaging, and life-changing, focusing not just on theory but real learning through sessions, one-on-one guidance, project work, and honest conversation."
+  },
+
+  "Activity": {
+    "Summary": "Actively shares posts, articles, and learning resources on Data Science, AI, Deep Learning, and EdTech. Regularly engages in mentoring, addressing queries, conducting interviews, and sharing project experiences.",
+    "RecentPosts": [
+      {
+        "Title": "Building Fundamentals with Deep Learning and PyTorch",
+        "Content": "Breakdown of deep learning concepts using PyTorch and its impact on AI advancements. Includes a visual summary and hands-on coding tips.",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7276485401106653185",
+        "Hashtags": ["#DeepLearning", "#PyTorch", "#AI", "#MachineLearning", "#TechInnovation", "#upskilling"],
+        "Image": "https://media.licdn.com/dms/image/v2/D5622AQETmgB9QZGs6w/feedshare-shrink_480/B56ZPtE6MRHQAY-/0/1734849309324?e=1759363200&v=beta&t=CyFAr88W3puFXUc_HT2aT7loSbYoDodLIn33RXVaXdE"
+      },
+      {
+        "Title": "Empowering Future Data Leaders with Real-Time Insights",
+        "Content": "As a Data Scientist at Careerpedia, dedicated to guiding aspiring professionals through data science using real-time examples and accessible lessons.",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7218115309801496577",
+        "Hashtags": ["#DataScience", "#DataAnalysis", "#Empowerment", "#ContinuousLearning", "#RealTimeExamples", "#upskilling"],
+        "Image": "https://media.licdn.com/dms/image/v2/D5622AQHCxk2TX2ICQA/feedshare-shrink_480/feedshare-shrink_480/0/1720932790343?e=1759363200&v=beta&t=OA-HWgsdbJPAkkRgPY91viKho2Ef6p_HkodWpXxvq8k"
+      }
+    ]
+  },
+
+  "Experience": [
+    {
+      "Title": "Junior Data Scientist",
+      "Company": "Zeominds IT Solutions Pvt Ltd",
+      "Type": "Full-time",
+      "Location": "Hyderabad, Telangana, India",
+      "StartDate": "Mar 2025",
+      "EndDate": "Present",
+      "Duration": "6 mos",
+      "Description": "Guiding teams, building models, mentoring, and managing projects. Engaging with 1000+ minds in Data & AI. Project management, mock interviews, and technical guidance.",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHXJTTOpE-4Nw/company-logo_100_100/company-logo_100_100/0/1630618156471?e=1759363200&v=beta&t=b9pYR40slLywktIm2BrKWL0wXdtYie9s1HojdiRfvsk"
+    },
+    {
+      "Title": "Data Scientist",
+      "Company": "Careerpedia Edutech Pvt. Ltd.",
+      "Type": "Full-time",
+      "Location": "Hyderabad, Telangana, India",
+      "StartDate": "May 2024",
+      "EndDate": "Dec 2024",
+      "Duration": "8 mos",
+      "Description": "Supported innovative edtech projects, delivered 1000+ sessions, collaborated on impactful projects, mentored students, and contributed to curriculum development.",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEkNy0cyArsNg/company-logo_100_100/company-logo_100_100/0/1630490298948/careerpedia1_logo?e=1759363200&v=beta&t=qPWbqwcT-yS0NuWRGjmLWpnukw-3DI-tec4Wc94n5sA",
+      "LetterOfRecommendation": "Reflecting on My Journey at Careerpedia Edutech Pvt. Ltd. As my tenure comes to an end, I am grateful for the opportunity to have worked here, growing as a data scientist and making impactful contributions."
+    }
+  ],
+
+  "Education": [
+    {
+      "Institute": "MGM College Of Engineering & Technology",
+      "Degree": "Bachelor of Technology - BTech, Computer Science",
+      "StartDate": "Aug 2019",
+      "EndDate": "Jul 2023",
+      "Description": "Immersed in a dynamic learning environment, covered foundational to advanced computer science, contributed to projects and teams, honed technical and soft skills for data analysis and machine learning.",
+      "Logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHs25m4yktXAQ/company-logo_100_100/company-logo_100_100/0/1641890303437/mgm_college_of_engineering__technology_logo?e=1759363200&v=beta&t=rCsDalo5t3Ptovpb9YFWjB73OY25LjnvgFzT6A3E6o4"
+    }
+  ],
+
+  "Certification": [
+    {
+      "Title": "Advance Data Analysis Internship Program",
+      "Issuer": "Innomatics Research Labs",
+      "IssueDate": "Mar 2024",
+      "CredentialID": "C211227",
+      "CredentialURL": "https://drive.google.com/file/d/1DAbmew56XtjFstbK1UGmg6If2kQvQ3l3/view?usp=sharing"
+    },
+    {
+      "Title": "Introduction to Programming Using Python",
+      "Issuer": "HackerRank",
+      "IssueDate": "Feb 2024",
+      "CredentialID": "7B7F218BFB17",
+      "CredentialURL": "https://www.hackerrank.com/certificates/7b7f218bfd87"
+    }
+  ],
+
+  "Skills": [
+    "Data Science",
+    "Python (Programming Language)",
+    "Data Analysis",
+    "Machine Learning",
+    "Data Visualization",
+    "Project Management",
+    "SQL",
+    "ETL",
+    "Mentoring",
+    "Mock Interviews",
+    "Presentation",
+    "NLP",
+    "Deep Learning",
+    "Web Scraping",
+    "APIs",
+    "MySQL"
+  ],
+
+  "Projects": [
+    {
+      "Title": "Analysis of Youtube Channels",
+      "Description": "Analyzed channel categories, programs, demographics, views, and subscribers to find revenue streams and high-impact trends in education and entertainment.",
+      "SkillsUsed": ["Data Analysis", "Project Planning"],
+      "Files": [
+        {"Type": "PPT", "Name": "YouTube ppt final.pptx"},
+        {"Type": "Document", "Name": "Analysis of Youtube channels"}
+      ]
+    },
+    {
+      "Title": "Credit Risk Analysis using EDA",
+      "Description": "Conducted exploratory data analysis on credit risk, uncovering patterns and trends for actionable recommendations.",
+      "SkillsUsed": ["EDA", "Data Analysis"],
+      "Files": [
+        {"Type": "PPT", "Name": "Credit risk analysis.pptx"}
+      ]
+    }
+  ],
+
+  "Recommendations": [
+    {
+      "From": "Praveen Mittakadapala",
+      "Date": "December 27, 2024",
+      "Content": "Deepraj is an outstanding leader, demonstrating strong analytical skills and effective project management. His knowledge of data science, machine learning, and data analysis is unmatched. I had the privilege of reporting to him and recommend him highly for his ability to mentor and break down complex tasks."
+    },
+    {
+      "From": "Sri Harsha",
+      "Date": "December 27, 2024",
+      "Content": "I had the amazing opportunity of working directly with Deepraj. His clarity, dedication, and expertise in data science and machine learning are truly motivating. He excels at outlining and simplifying challenging assignments and is a unique tutor, highly recommended for roles requiring project management and analytical skills."
+    }
+  ],
+
+  "Publications": [
+    {
+      "Title": "Transfromer",
+      "Platform": "Medium",
+      "Date": "Apr 17, 2024",
+      "URL": "https://medium.com/@deeprajvadhwane01/transfromer-a06fb028c69b"
+    },
+    {
+      "Title": "Supervised Learning",
+      "Platform": "Medium",
+      "Date": "Jan 20, 2023",
+      "URL": "https://medium.com/@deeprajvadhwane01/a-complete-machine-learning-pipeline-ee46da132824"
+    }
+  ],
+
+  "Courses": [
+    {
+      "Title": "Full stack Data science with AI"
+    }
+  ]
+}
+```

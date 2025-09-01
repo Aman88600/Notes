@@ -1,0 +1,101 @@
+{
+  "BasicInfo": {
+    "name": "Jagadeeshwari Devaraj",
+    "currentTitle": "Team Lead, Data Scientist",
+    "summary": "Data Scientist || Data Analyst || Creative problem-solving to make data not just understandable, but actionable || Transforming complex data into actionable insights || AI || Machine Learning || Deep Learning || NLP",
+    "location": "Bengaluru, Karnataka, India",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQHSH5NeQmXFSA/profile-displayphoto-shrink_100_100/B56Zg2X.iEG4AU-/0/1753258913294?e=1759363200&v=beta&t=7jNJ7SJYHWz6ktPYKxv3xZToA72NwhK9DUSl1WWzfJk",
+    "connections": "500+",
+    "followers": 542,
+    "about": "As a Data Scientist • Worked on AI and NLP projects, building conversational AI solutions. Applied advanced NLP techniques for real-world applications. Delivered multiple end-to-end data science projects, from understanding business requirements and data collection to model development, evaluation, and deployment on cloud platforms like AWS. • Presented project insights, findings, and recommendations through effective visualizations and storytelling using Power BI. Prepared and delivered presentations to senior management to facilitate informed decision-making. As an Associate Data Scientist • Designed and implemented a comprehensive Recommendation System for movies, series, documentaries, and music, resulting in increased customer engagement. Built and fine-tuned machine learning models for classification, regression, clustering, and recommendation tasks. Identified and engineered relevant features from raw data to improve model performance. As a Data Analyst • Specialized in the development of Advanced Driver Assistance Systems (ADAS) within the Automotive industry, focusing on generating and labeling schematic data, tool assessment, and report creation. Maintained tracker updates and daily status reports, participated in data preparation activities including image extraction and file synchronization. As a Quality Assurance Trainee • Oversaw reception of electronic components, verified values, conducted final quality inspections of PCB assemblies, maintained SAP quality inspection records, documented data in Excel, generated BOMs, and made project-related presentations."
+  },
+  "Activity": {
+    "recentPostsCount": 9,
+    "recentActivity": "Posted about work, projects, and data science topics.",
+    "followers": 542
+  },
+  "Experience": [
+    {
+      "title": "Team Lead",
+      "company": "PROITBRIDGE",
+      "duration": "Jul 2025 - Present",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "employmentType": "Full-time",
+      "description": "Leading a team of Data Scientists to deliver AI-driven solutions. Overseeing project lifecycle from requirement gathering to deployment. Mentoring junior team members and ensuring best practices in ML & NLP. Collaborating with clients to align data-driven strategies with business goals."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "PROITBRIDGE",
+      "duration": "Jan 2025 - Aug 2025",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "employmentType": "Full-time",
+      "description": "Handled understanding business requirements, data collection, model development, evaluation, and deployment on cloud platforms. Worked on NLP projects, building models using LLM, RAG application."
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Continental",
+      "duration": "Oct 2019 - Dec 2024",
+      "location": "Bengaluru, Karnataka, India · On-site",
+      "employmentType": "Full-time",
+      "description": "Developed Python scripts for various automotive functions, including sign recognition and lane detection for autonomous vehicles. Designed SQL databases for live data processing, data transformation, and analysis. Created dashboards with Power BI, collaborated with cross-functional teams, and delivered actionable insights."
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "company": "TESCOM ELECTRONICS PRIVATE LIMITED",
+      "duration": "Jul 2018 - Jun 2019",
+      "location": "",
+      "employmentType": "Full-time",
+      "description": "Oversaw quality assurance on fully assembled PCB boards. Verified electronic components, performed quality inspections, maintained SAP records, documented in Excel, generated BOMs, and created project presentations."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Anna University Chennai",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldOfStudy": "Electrical and Electronics Engineering",
+      "duration": "Jun 2014 - May 2017",
+      "grade": "8 / 10 CGPA",
+      "activities": [
+        "Academic topper of EEE department (2017)"
+      ]
+    },
+    {
+      "institution": "Rajagopal Polytechnic College",
+      "degree": "Diploma of technical education",
+      "fieldOfStudy": "Electrical and Electronics Engineering",
+      "duration": "Jun 2011 - May 2014",
+      "grade": "First class with distinction",
+      "activities": [
+        "Academic Topper (2013, 2014)",
+        "Presented papers at intra-level symposiums and received certification",
+        "Delivered 10+ technical seminars to other departments",
+        "Scored 100% in Circuit Theory (Elective) and received departmental appreciation"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Paper presentation - Intra level Symposium (multiple colleges)",
+      "issuer": "Various Colleges"
+    },
+    {
+      "name": "Certification for Technical Seminars Delivered",
+      "issuer": "Rajagopal Polytechnic College"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "AI",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Generative AI",
+    "Agentic AI",
+    "Power BI",
+    "SQL",
+    "Python",
+    "Leadership",
+    "Data Analysis",
+    "Quality Assurance"
+  ]
+}

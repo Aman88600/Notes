@@ -1,0 +1,177 @@
+Here is the content you provided, restructured into a clean, hierarchical JSON format with the requested fields: Basic Info, Activity, Experience, Education, Certification, and Skills.
+
+```json
+{
+  "BasicInfo": {
+    "Name": "Sri Charan Kattamuru",
+    "Title": "Data Scientist at Swiggy",
+    "Location": "Bengaluru, Karnataka, India (Remote)",
+    "About": "I love building software! I am passionate about developing creative and intuitive solutions using the best tools, curious to learn new technologies and I'm always on the lookout for the best approaches when building things. Currently, I'm applying data munging, specifically, on large-scale data using distributed frameworks such as apache spark and I'm <3'in it",
+    "PhotoUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGDatTNZyWfYQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1625113299149?e=1759363200&v=beta&t=Abzf8vjbFkebzZtvyArNiDyDYqAp10TdQrDv9YPLXrI",
+    "ContactInfoLink": "https://www.linkedin.com/in/sricharankattamuru/overlay/contact-info/",
+    "Connections": "500+",
+    "Followers": 657,
+    "Languages": [
+      {
+        "Language": "English",
+        "Proficiency": "Full professional proficiency"
+      },
+      {
+        "Language": "Hindi",
+        "Proficiency": "Professional working proficiency"
+      }
+    ]
+  },
+  "Activity": {
+    "RecentPostsCount": 4,
+    "Followers": 657,
+    "SampleAssociates": [
+      {
+        "Name": "Hemant Misra",
+        "LinkedIn": "https://www.linkedin.com/in/hemantmisra/"
+      },
+      {
+        "Name": "Shyam Prasad Adhikari",
+        "LinkedIn": "https://www.linkedin.com/in/shyam-prasad-adhikari-0510b220/"
+      }
+    ],
+    "TopVoicesInterests": [
+      {
+        "Name": "Yann LeCun",
+        "Title": "VP & Chief AI Scientist at Meta",
+        "Followers": "1,048,629",
+        "LinkedIn": "https://www.linkedin.com/in/yann-lecun"
+      },
+      {
+        "Name": "Sal Khan",
+        "Title": "Khan Academy, Schoolhouse.world, Khan Lab School, Khan Lab High School",
+        "Followers": "428,923",
+        "LinkedIn": "https://www.linkedin.com/in/khanacademy"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Data Scientist 2",
+      "Company": "Swiggy",
+      "Location": "Bengaluru, Karnataka, India",
+      "Type": "Full-time",
+      "Period": "Apr 2024 - Present",
+      "Duration": "1 yr 5 mos",
+      "Description": "Same old same old with more responsibilities & ownership :)",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=1759363200&v=beta&t=_KsJrXU8zHz9cN4vRe2XUH2zm-dwKCmmq9M8w-m8YEo"
+    },
+    {
+      "Title": "Data Scientist 1",
+      "Company": "Swiggy",
+      "Location": "Bengaluru, Karnataka, India",
+      "Type": "Full-time",
+      "Period": "Jun 2022 - Apr 2024",
+      "Duration": "1 yr 11 mos",
+      "Description": "Same old same old with more responsibilities & ownership :)",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=1759363200&v=beta&t=_KsJrXU8zHz9cN4vRe2XUH2zm-dwKCmmq9M8w-m8YEo"
+    },
+    {
+      "Title": "Applied Scientist Intern",
+      "Company": "Swiggy",
+      "Location": "Bangalore Urban, Karnataka, India",
+      "Type": "Internship",
+      "Period": "Jan 2022 - May 2022",
+      "Duration": "5 mos",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=1759363200&v=beta&t=_KsJrXU8zHz9cN4vRe2XUH2zm-dwKCmmq9M8w-m8YEo"
+    },
+    {
+      "Title": "Software Engineering Intern",
+      "Company": "LimeChat",
+      "Location": "Bangalore Urban, Karnataka, India",
+      "Type": "Internship",
+      "Period": "Sep 2021 - Dec 2021",
+      "Duration": "4 mos",
+      "Description": "Revamped the entire product page flow (PDP) of our bots, implemented highly customizable order tracking flows, focused on core bot capabilities, managed engineering & product requests for two largest clients.",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQH3B_KN1fResw/company-logo_100_100/company-logo_100_100/0/1630628659891/limechat_logo?e=1759363200&v=beta&t=vPI4SpO43GheRSZU4zcsRP3fhImmEMXEJDgJwuZ-qCI"
+    },
+    {
+      "Title": "Software Engineering Intern",
+      "Company": "ShopConnect.live",
+      "Location": "Bangalore Urban, Karnataka, India",
+      "Type": "Internship",
+      "Period": "May 2021 - Jul 2021",
+      "Duration": "3 mos",
+      "Description": "Led front end for promotional links, maintained 'collection board' templates, designed and built real-time virtual try-on solution for face makeup using image processing and facial landmark detection (open-sourced on GitHub).",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHFAHBTYzpbDw/company-logo_100_100/company-logo_100_100/0/1643990064230/shopconnectlive_logo?e=1759363200&v=beta&t=Lxx5PfUhSWMLGKkzowIe0DsSO_-qW79PeJXpa8h1KoA"
+    }
+  ],
+  "Education": [
+    {
+      "School": "Indian Institute of Information Technology, SriCity",
+      "Degree": "Bachelor of Technology - BTech, Computer Science",
+      "Period": "Aug 2018 - May 2022",
+      "Grade": "9.07 / 10",
+      "Activities": [
+        "President - Student academic council 2021-22",
+        "Class Representative 2021-22",
+        "Member - Epoch (AI/ML club)"
+      ]
+    },
+    {
+      "School": "Narayana Junior College - India",
+      "Degree": "High School Diploma, PCM and IP Stream (CBSE)",
+      "Period": "Jun 2016 - May 2018",
+      "Grade": "92.1%"
+    }
+  ],
+  "Certification": [
+    {
+      "Title": "TensorFlow: Advanced Techniques",
+      "Issuer": "DeepLearning.AI",
+      "IssueDate": "Sep 2021",
+      "CredentialUrl": "https://coursera.org/share/751044630a8ab45cade0846d5bde7ec5"
+    },
+    {
+      "Title": "Version Control with Git - Atlassian",
+      "Issuer": "Atlassian",
+      "IssueDate": "Jul 2021",
+      "CredentialID": "2MGUMVMV2S94"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "Apache Spark",
+    "DataBricks"
+  ],
+  "Projects": [
+    {
+      "Title": "Sketch2Face - Bachelor's Capstone",
+      "Period": "Mar 2021 - Present",
+      "AssociatedWith": "Indian Institute of Information Technology, SriCity",
+      "Description": "Problem Statement: Given a forensic face sketch image as input, suggest potential matches to the face from a photo gallery (similar to a mugshot database).",
+      "Contributions": [
+        "Implementation of the deeplearning algorithms - GANs for image-to-image translation (Pytorch)",
+        "Siamese networks for similarity search (Pytorch)",
+        "Design and implementation of REST APIs using FastAPI"
+      ],
+      "ProjectUrl": "https://github.com/Charan0/Sketch2Face"
+    },
+    {
+      "Title": "Virtual Tryon - Face Makeup",
+      "Period": "Jun 2021 - Jul 2021",
+      "AssociatedWith": "Shopconnect.live",
+      "Description": "A Python, OpenCV based virtual Tryon system for face makeup (lipcolor, blush, foundation). Used Google's mediapipe API for retrieving facial landmarks. Implemented RESTful API endpoints.",
+      "ProjectUrl": "https://github.com/Charan0/Virtual-Makeup"
+    }
+  ],
+  "Publications": [
+    {
+      "Title": "Patch-wise Features for Blur Image Classification",
+      "PublishedIn": "ACM Digital Library (AIML Systems 2022)",
+      "PublishedDate": "May 16, 2023",
+      "Abstract": "Images captured through smartphone cameras often suffer from degradation, blur being one of the major ones, posing a challenge in processing these images for downstream tasks. In this paper we propose low-compute lightweight patch-wise features for image quality assessment. Using our method we can discriminate between blur vs sharp image degradation. To this end, we train a decision-tree-based XGBoost model on various intuitive image features like gray level variance, first and second order gradients, texture features like local binary patterns. Experiments conducted on an open dataset show that the proposed low compute method results in 90.1% mean accuracy on the validation set, which is comparable to the accuracy of a compute-intensive VGG16 network with 94% mean accuracy fine-tuned to this task. To demonstrate the generalizability of our proposed features and model we test the model on BHBID dataset and an internal dataset where we attain accuracy of 98% and 91%, respectively. The proposed method is 10x faster than the VGG16 based model on CPU and scales linearly to the input image size making it suitable to be implemented on low compute edge devices.",
+      "Authors": "Sri Charan K. et al."
+    }
+  ]
+}
+```
+
+- Each field is structured for clarity and separation of content, with arrays for lists and nested objects for detail where appropriate.
+- You may easily extend this template for additional details if necessary.
+- Section headings and descriptive keys enable straightforward programmatic access or display.

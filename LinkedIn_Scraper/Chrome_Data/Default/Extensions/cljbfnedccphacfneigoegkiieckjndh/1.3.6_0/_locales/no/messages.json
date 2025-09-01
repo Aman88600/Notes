@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Etikett for knappen for å legge til en anmeldelse for applikasjonen.",
+      "message": "Legg til en anmeldelse"
+   },
+   "allowPermissions": {
+      "description": "Etikett for knappen for å tillate tillatelser for applikasjonen.",
+      "message": "Tillat tillatelser"
+   },
+   "autoScroll": {
+      "beskrivelse": "Etikett for bryteren for å kontrollere om den automatisk skal rulle til hvert element mens skraping pågår.",
+      "message": "Autoscroll"
+   },
+   "back": {
+      "description": "Etikett for knappen for å gå tilbake til forrige skjerm.",
+      "message": "Tilbake"
+   },
+   "cancel": {
+      "description": "Etikett for avbrytelse.",
+      "message": "Avbryt"
+   },
+   "changeList": {
+      "description": "Etikett for knappen for å endre listen som skal skrapes.",
+      "message": "Endre liste"
+   },
+   "changeSelectionLevel": {
+      "description": "Beskrivelse av handlingen for å endre utvalgsnivået når man velger et element.",
+      "message": "Endre utvalgsnivå"
+   },
+   "chooseFile": {
+      "description": "Etikett for knappen for å velge en fil som skal lastes opp.",
+      "message": "Velg fil"
+   },
+   "click": {
+      "description": "Etikett for klikkhandlingen.",
+      "message": "Klikk"
+   },
+   "clickLoadMore": {
+      "description": "Etikett for alternativet til å klikke en knapp for å laste inn flere elementer på samme side når man skraper.",
+      "message": "Klikk knappen for å laste inn flere elementer på samme side"
+   },
+   "clickNextPage": {
+      "description": "Etikett for alternativet for å klikke på en lenke for å navigere til neste side for å laste flere elementer når du skraper.",
+      "message": "Klikk på lenken for å navigere til neste side"
+   },
+   "column": {
+      "description": "Etikett for \u003Cselect>-elementet for å velge kolonnen som inneholder URL-er for å skrape fra den opplastede CSV-filen.",
+      "message": "Kolonne"
+   },
+   "confirm": {
+      "description": "Etikett for bekreftelseshandlingen.",
+      "message": "Bekreft"
+   },
+   "continue": {
+      "description": "Etikett for knappen for å fortsette til neste skjerm.",
+      "message": "Fortsett"
+   },
+   "copy": {
+      "description": "Etikett for knappen for å kopiere dataene til utklippstavlen.",
+      "message": "Kopier"
+   },
+   "csvFile": {
+      "description": "Etikett for filinndata for å laste opp en CSV-fil",
+      "message": "$FILE_TYPE$ fil",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Standard navn for en detaljsider-skrape.",
+      "message": "Skrap detaljer fra $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "eksempel.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Etikett for menyelementet for å slette skraperen.",
+      "message": "Slett"
+   },
+   "dismiss": {
+      "description": "Handling for å avvise varslingen.",
+      "message": "Avvise"
+   },
+   "duration": {
+      "description": "Merkelapp for å vise varigheten av gjeldende skraping.",
+      "message": "Varighet"
+   },
+   "esc": {
+      "description": "Etikett for Escape-tasten.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Etikett for menyelementet for å eksportere skraperen.",
+      "message": "Eksport"
+   },
+   "extractData": {
+      "description": "Etikett for menyelementet for å utføre skraping og trekke ut data fra hver URL.",
+      "message": "Trekk ut data"
+   },
+   "finish": {
+      "description": "Etikett for knappen for å avslutte valg av elementer på siden.",
+      "message": "Ferdig"
+   },
+   "headerRow": {
+      "description": "Hjelpetekst for å forklare at den opplastede CSV-filen må starte med en overskriftsrad.",
+      "message": "Må starte med en overskriftsrad"
+   },
+   "headerRowRequired": {
+      "description": "Advarsel for å vise når det ser ut til at toppraden mangler fra den opplastede CSV-filen.",
+      "message": "Topprad påkrevd"
+   },
+   "help": {
+      "description": "Etikett for knappen for å åpne hjelpesiden.",
+      "message": "Hjelp"
+   },
+   "hideOptions": {
+      "description": "Etikett for knappen for å skjule flere alternativer for skraping.",
+      "message": "Skjul alternativer"
+   },
+   "import": {
+      "description": "Etikett for menyelementet for å importere en skraper.",
+      "message": "Importer"
+   },
+   "install": {
+      "description": "Etikett for knappen for å installere den nyeste versjonen av applikasjonen.",
+      "message": "Installer siste versjon"
+   },
+   "invalidTab": {
+      "description": "Feilmelding når målfanen er åpen for et begrenset nettsted.",
+      "message": "Denne siden er begrenset. Prøv et annet nettsted."
+   },
+   "invalidVersion": {
+      "description": "Instruer brukeren til å installere den nyeste versjonen av applikasjonen.",
+      "message": "$APP_NAME$ er ute av beta! Installer den nyeste versjonen for å få de nyeste oppdateringene.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Etikett som viser antall elementer skrapt når man skraper en liste.",
+      "message": "Elementer"
+   },
+   "loadMoreAction": {
+      "description": "Bezeichnung für das \u003Cselect>-Element, um auszuwählen, wie weitere Elemente beim Scrapen geladen werden.",
+      "message": "Handlung zum Laden weiterer Elemente"
+   },
+   "max": {
+      "description": "Etikett for inndatakontrollen for maksimal ventetid når flere elementer eller sider lastes.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Etikett for inndata for å sette en maksimal grense for antall elementer å skrape.",
+      "message": "Maks elementer"
+   },
+   "maxItemsHelp": {
+      "description": "Hjelpetekst for å informere brukeren om at de skal la feltet for maks antall elementer stå tomt for å ikke sette en grense.",
+      "message": "La tomt for ingen grense"
+   },
+   "maxItemsReached": {
+      "description": "Varselbeskrivelse for å indikere at den maksimale grensen for antall elementer å skrape er nådd.",
+      "message": "Skrapet suksessfullt opp til den spesifiserte grensen. Øk alternativet for maksimalt antall elementer for å fortsette med skraping."
+   },
+   "mediaUrl": {
+      "description": "Etikett for medie-URL-feltet fanget fra et element.",
+      "message": "Medie-URL"
+   },
+   "min": {
+      "description": "Etikett for inndatakontroll av minimumstiden å vente når du laster flere elementer eller sider.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Feilmelding når det er umulig å få tilgang til mål-fanedata.",
+      "message": "Fanen du brukte for denne oppgaven er blitt lukket. Vennligst lukk dette vinduet og prøv igjen."
+   },
+   "missingTabPermission": {
+      "description": "Feilmelding når man ikke kan få tilgang til dataene i målfanen.",
+      "message": "Kan ikke få tilgang til fanen. Lukk dette vinduet og prøv igjen."
+   },
+   "missingUrlColumn": {
+      "description": "Feilmelding når CSV-filen mangler kolonner med URL-er.",
+      "message": "Kan ikke finne kolonne med URL-er. Vennligst velg en annen fil."
+   },
+   "newScraper": {
+      "description": "Etikett for knappen for å opprette en ny skraper.",
+      "message": "Ny Skraper"
+   },
+   "noData": {
+      "description": "Plassholder i tabellen når det ikke er noen data å vise.",
+      "message": "Ingen data å vise"
+   },
+   "noFileChosen": {
+      "description": "Melding vist når ingen fil har blitt valgt.",
+      "message": "Ingen fil valgt"
+   },
+   "noList": {
+      "description": "Plassholder for å vise når listen ikke kan finnes på siden.",
+      "message": "Kan ikke finne listen på siden"
+   },
+   "none": {
+      "description": "Etikett for valget om å ikke laste flere elementer når du skraper.",
+      "message": "Ingen"
+   },
+   "options": {
+      "description": "Merkelapp for knappen for å vise alternativer for skraperen.",
+      "message": "Alternativer"
+   },
+   "pages": {
+      "description": "Merkelapp for å vise antall sider skrapet når man skraper en liste.",
+      "message": "Sider"
+   },
+   "permissionsDescription": {
+      "description": "Hjelpetekst for å forklare at applikasjonen trenger ytterligere tillatelser for å få tilgang til og skrape URL-er.",
+      "message": "$APP_NAME$ trenger ytterligere tillatelser for å få tilgang til og skrape URL-er",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Merke tekst for å indikere at dataene som vises er en forhåndsvisning av skraperen.",
+      "message": "Forhåndsvisning"
+   },
+   "remainingPages": {
+      "description": "Etikett for å vise antall gjenværende sider å skrape når man skraper detaljsider.",
+      "message": "Gjenværende"
+   },
+   "rename": {
+      "description": "Etikett for menyelementet for å endre navn på skraperen.",
+      "message": "Navn endring"
+   },
+   "reviewDescription": {
+      "description": "Be brukeren om å legge igjen en anmeldelse for applikasjonen.",
+      "message": "Hei, jeg heter $NAME$. Jeg laget $APP_NAME$ for å hjelpe folk med å spare tid. Hvis du liker å bruke det, setter jeg pris på en 5-stjerners vurdering for å hjelpe andre med å oppdage $APP_NAME$. Tusen takk!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Takk brukeren for å bruke søknaden.",
+      "message": "Takk for at du bruker $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Etikett for alternativet for å vise skjermen for skraping av detaljsider for hvert element i en liste.",
+      "message": "Skrape detaljer"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Beskrivelse av tipset for å lære brukeren om å skrape detaljsider.",
+      "message": "For å skrape hver URL i listen, velg \"$LABEL$\" fra menyen i øverste høyre hjørne etter å ha lastet ned listen som en CSV-fil.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Scrape Details"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Tittel for tipset for å lære brukeren om skraping av detaljsider.",
+      "message": "Tips: Skraping av detaljsider"
+   },
+   "scrapeList": {
+      "description": "Etikett for alternativet for å vise skjermen for å skrape en liste.",
+      "message": "Skrapeliste"
+   },
+   "scrapedPages": {
+      "description": "Etikett for å vise antall sider skrapt når man skraper detaljsider.",
+      "message": "Skrapet"
+   },
+   "scrapingComplete": {
+      "description": "Varseloverskrift for å indikere at skraping er fullført.",
+      "message": "Skraping fullført"
+   },
+   "scrapingStatus": {
+      "description": "Etikett for å indikere at skraping pågår.",
+      "message": "Skraping..."
+   },
+   "scrollDelay": {
+      "description": "Etikett for inndatakontrollen for hvor lenge man skal vente i millisekunder når man ruller til hvert element under skraping.",
+      "message": "Rulleforsinkelse (ms)"
+   },
+   "scrollDown": {
+      "description": "Etikett for alternativet å rulle ned for å laste flere elementer når man skraper.",
+      "message": "Rull ned for å laste flere elementer"
+   },
+   "select": {
+      "description": "Etikett for knappen for å velge et element på siden.",
+      "message": "Velg"
+   },
+   "selectElement": {
+      "description": "Tittel å vise når du velger et element.",
+      "message": "Velg element"
+   },
+   "selectField": {
+      "description": "Beskrivelse av handlingen for å velge feltet som skal fanges.",
+      "message": "Velg felt"
+   },
+   "selectList": {
+      "description": "Tittel å vise når du velger en liste.",
+      "message": "Velg liste"
+   },
+   "selectScraper": {
+      "description": "Etikett for menyelementet for å velge en skraper for å skrape hver URL.",
+      "message": "Velg skraper"
+   },
+   "selectScraperOption": {
+      "description": "Instruksjon for å velge skraper for gjeldende domene.",
+      "message": "Velg skraper for $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Etikett for knappen for å vise flere alternativer for skraping.",
+      "message": "Vis alternativer"
+   },
+   "startScraping": {
+      "description": "Etikett for knappen for å starte skraping.",
+      "message": "Start skraping"
+   },
+   "stopScraping": {
+      "description": "Etikett for knappen for å stoppe skraping.",
+      "message": "Stopp skraping"
+   },
+   "tabNotFound": {
+      "description": "Feilmelding når målfanen ikke eksisterer.",
+      "message": "Ingen fane funnet. Lukk dette vinduet og prøv igjen."
+   },
+   "testUrl": {
+      "beskrivelse": "Etikett for tekstinnføringen for test-URL-en som skal brukes ved valg av skraper.",
+      "message": "Test URL"
+   },
+   "text": {
+      "description": "Etikett for tekstfeltet hentet fra et element.",
+      "message": "Tekst"
+   },
+   "uploadUrls": {
+      "description": "Etikett for menyelementet for å laste opp en fil med URL-er som skal skrapes.",
+      "message": "Last opp URL-er"
+   },
+   "url": {
+      "description": "Etikett for URL-feltet fanget fra et element.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Advarsel å vise når det valgte kolonnenavnet er en URL og CSV-filen kan mangle en topplinje.",
+      "message": "Kolonnenavn ser ut til å være en URL. Vennligst sørg for at CSV-filen starter med en topplinje som inneholder navnene på kolonnene."
+   },
+   "verify": {
+      "description": "Etikett for knappen for å bekrefte et valgt element ved å fremheve det på siden.",
+      "message": "Bekreft"
+   },
+   "waitTimeItems": {
+      "description": "Etikett for inndataene for å kontrollere hvor lenge man skal vente i sekunder når man laster flere elementer.",
+      "message": "Ventetid for å laste flere elementer (sekunder)"
+   },
+   "waitTimePages": {
+      "description": "Etikett for inndataene for å kontrollere hvor lenge man skal vente i sekunder når man laster sider.",
+      "message": "Ventetid for lasting av sider (sekunder)"
+   }
+}

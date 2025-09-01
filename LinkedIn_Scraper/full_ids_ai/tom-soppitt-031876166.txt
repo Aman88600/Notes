@@ -1,0 +1,61 @@
+{
+  "BasicInfo": {
+    "Name": "Tom Soppitt",
+    "Location": "London, England, United Kingdom",
+    "CurrentRole": "Data Scientist at BMW Group",
+    "LinkedIn": "https://www.linkedin.com/in/tom-soppitt-031876166/",
+    "Followers": 426
+  },
+  "Activity": {
+    "RecentPosts": "Recent posts Tom shares will be displayed here.",
+    "Followers": 426
+  },
+  "Experience": [
+    {
+      "Role": "Data Scientist",
+      "Company": "BMW Group",
+      "EmploymentType": "Full-time",
+      "Duration": "Sep 2023 - Present",
+      "Location": "Oxford, England, United Kingdom · Hybrid",
+      "Description": "Working as part of the Smart Operations and 7th Sense Team in the BMW Group, working with the data analysis tool Splunk and using Machine Learning techniques to help predict and prevent incidents."
+    },
+    {
+      "Role": "Graduate Data Scientist",
+      "Company": "BMW Group",
+      "EmploymentType": "Full-time",
+      "Duration": "Sep 2021 - Sep 2023",
+      "Location": "Oxford",
+      "Description": "Graduate Scheme placements at other teams within the company, including 6 months at the BMW IT headquarters in Munich."
+    },
+    {
+      "Role": "Mathematics and Computer Science Student",
+      "Company": "University of Birmingham",
+      "Duration": "Sep 2016 - Sep 2021",
+      "Description": "Integrated Masters with a Year in Industry. Projects for BMW Group sites worldwide as a Data Scientist in the SmartOps team. Activities and societies: Korfball - 2020/2021 Club President, 2018/2019 Social Secretary."
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "University of Birmingham",
+      "Degree": "Master of Science (MSci), Mathematics and Computer Science",
+      "Grade": "1st Class",
+      "Duration": "Sep 2016 - Jul 2021",
+      "Description": "Integrated Masters with a Year in Industry, graduated with a single MSci.",
+      "Activities": [
+        "Korfball- 2020/2021 Club President",
+        "2018/2019 Social Secretary"
+      ],
+      "Certificate": "degree_certificate.pdf"
+    }
+  ],
+  "CertificationAndSkills": {
+    "TopSkills": [
+      "Python (Programming Language)",
+      "SQL",
+      "Splunk",
+      "Machine Learning",
+      "Tableau"
+    ],
+    "Details": "Show all 12 skills"
+  }
+}

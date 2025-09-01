@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Označenie tlačidla pre pridanie recenzie aplikácie.",
+      "message": "Pridať recenziu"
+   },
+   "allowPermissions": {
+      "description": "Označenie tlačidla pre povolenie oprávnení pre aplikáciu.",
+      "message": "Povoliť oprávnenia"
+   },
+   "autoScroll": {
+      "description": "Označenie prepínača na kontrolu automatického posúvania pri každej položke počas zberu údajov.",
+      "message": "Automatické posúvanie"
+   },
+   "back": {
+      "description": "Označenie tlačidla na návrat na predchádzajúcu obrazovku.",
+      "message": "Späť"
+   },
+   "cancel": {
+      "description": "Označenie pre akciu zrušenia.",
+      "message": "Zrušiť"
+   },
+   "changeList": {
+      "description": "Označenie tlačidla pre zmenu zoznamu na scrapovanie.",
+      "message": "Zmeniť zoznam"
+   },
+   "changeSelectionLevel": {
+      "description": "Popis akcie na zmenu úrovne výberu pri výbere prvku.",
+      "message": "Zmeniť úroveň výberu"
+   },
+   "chooseFile": {
+      "description": "Označenie tlačidla na výber súboru na nahranie.",
+      "message": "Vyberte súbor"
+   },
+   "click": {
+      "description": "Označenie pre akciu kliknutia.",
+      "message": "Kliknite"
+   },
+   "clickLoadMore": {
+      "description": "Popisok pre možnosť kliknutia na tlačidlo na načítanie viacerých položiek na tej istej stránke pri scrapovaní.",
+      "message": "Kliknite na tlačidlo pre načítanie viacerých položiek na tej istej stránke"
+   },
+   "clickNextPage": {
+      "description": "Označenie pre možnosť kliknutia na odkaz na navigáciu na ďalšiu stránku na načítanie ďalších položiek pri scrapovaní.",
+      "message": "Kliknite na odkaz pre navigáciu na ďalšiu stránku"
+   },
+   "column": {
+      "description": "Označenie pre prvok \u003Cselect> na výber stĺpca obsahujúceho URL adresy na extrahovanie z nahraného CSV súboru.",
+      "message": "Stĺpec"
+   },
+   "confirm": {
+      "description": "Označenie pre akciu potvrdenia.",
+      "message": "Potvrdiť"
+   },
+   "continue": {
+      "description": "Označenie tlačidla na pokračovanie na ďalšiu obrazovku.",
+      "message": "Pokračovať"
+   },
+   "copy": {
+      "description": "Označenie pre tlačidlo na kopírovanie údajov do schránky.",
+      "message": "Kopírovať"
+   },
+   "csvFile": {
+      "description": "Označenie pre vstup súboru na nahratie súboru CSV",
+      "message": "$FILE_TYPE$ súbor",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Predvolený názov pre scraper stránok s podrobnosťami.",
+      "message": "Získajte podrobnosti z $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Označenie pre položku v menu na zmazanie scraperu.",
+      "message": "Zmazať"
+   },
+   "dismiss": {
+      "description": "Akcia na zrušenie upozornenia.",
+      "message": "Zavrieť"
+   },
+   "duration": {
+      "description": "Označenie pre zobrazenie trvania aktuálneho scrapovania.",
+      "message": "Trvanie"
+   },
+   "esc": {
+      "description": "Označenie klávesu Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Označenie položky menu na export scrapera.",
+      "message": "Exportovať"
+   },
+   "extractData": {
+      "description": "Označenie položky menu pre spustenie zberu a extrakcie dát z každej URL.",
+      "message": "Extrahovať dáta"
+   },
+   "finish": {
+      "description": "Označenie tlačidla pre dokončenie výberu elementov na stránke.",
+      "message": "Dokončiť"
+   },
+   "headerRow": {
+      "description": "Pomocný text vysvetľujúci, že nahraný súbor CSV musí začať hlavičkovým riadkom.",
+      "message": "Musí začať hlavičkovým riadkom"
+   },
+   "headerRowRequired": {
+      "description": "Upozornenie, ktoré sa zobrazí, keď v nahranom CSV súbore chýba riadok záhlavia.",
+      "message": "Požadovaný riadok záhlavia"
+   },
+   "help": {
+      "description": "Označenie tlačidla na otvorenie stránky pomoci.",
+      "message": "Pomoc"
+   },
+   "hideOptions": {
+      "description": "Označenie tlačidla na skrytie ďalších možností pre scrapovanie.",
+      "message": "Skryť možnosti"
+   },
+   "import": {
+      "description": "Označenie položky menu pre import scrapera.",
+      "message": "Importovať"
+   },
+   "install": {
+      "description": "Označenie tlačidla na inštaláciu najnovšej verzie aplikácie.",
+      "message": "Inštalujte najnovšiu verziu"
+   },
+   "invalidTab": {
+      "description": "Chybová správa keď cieľová karta je otvorená na obmedzenom webe.",
+      "message": "Táto stránka je obmedzená. Skúste iný web."
+   },
+   "invalidVersion": {
+      "description": "Inštruujte používateľa, aby nainštaloval najnovšiu verziu aplikácie.",
+      "message": "$APP_NAME$ už nie je v beta verzii! Nainštalujte najnovšiu verziu, aby ste získali najnovšie aktualizácie.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Označenie na zobrazenie počtu získaných položiek pri zberu zoznamu.",
+      "message": "Položky"
+   },
+   "loadMoreAction": {
+      "description": "Označenie pre element \u003Cselect> na výber spôsobu, ako načítať viac položiek pri scrapovaní.",
+      "message": "Akcia na načítanie viac položiek"
+   },
+   "max": {
+      "description": "Označenie vstupu pre kontrolu maximálneho času čakania pri načítaní viac položiek alebo stránok.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Označenie pre vstup na nastavenie maximálneho limitu počtu položiek na scrapovanie.",
+      "message": "Maximum položiek"
+   },
+   "maxItemsHelp": {
+      "description": "Pomocný text informujúci používateľa, že by mal nechať pole pre maximálny počet položiek prázdne, ak nechce nastaviť limit.",
+      "message": "Nechajte prázdne pre neobmedzenie"
+   },
+   "maxItemsReached": {
+      "description": "Popis upozornenia, ktorý naznačuje, že bol dosiahnutý maximálny limit počtu položiek na načítanie.",
+      "message": "Úspešne načítané po určený limit. Zvýšte možnosť maximálneho počtu položiek pre pokračovanie načítania."
+   },
+   "mediaUrl": {
+      "description": "Označenie poľa URL médií zachyteného z prvku.",
+      "message": "URL média"
+   },
+   "min": {
+      "description": "Označenie vstupu na kontrolu minimálneho času čakania pri načítaní ďalších položiek alebo stránok.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Chybové hlásenie, keď nie je možné získať prístup k údajom cieľovej karty.",
+      "message": "Karta, ktorú ste používali pre túto úlohu, bola zatvorená. Prosím zatvorte toto okno a skúste to znova."
+   },
+   "missingTabPermission": {
+      "description": "Chybová správa, keď nie je možné získať prístup k údajom cieľovej záložky.",
+      "message": "Nie je možné pristupovať k záložke. Zatvorte toto okno a skúste to znova."
+   },
+   "missingUrlColumn": {
+      "description": "Chybové hlásenie, keď v súbore CSV chýbajú stĺpce s URL.",
+      "message": "Nie je možné nájsť stĺpec s URL. Vyberte iný súbor."
+   },
+   "newScraper": {
+      "description": "Označenie tlačidla pre vytvorenie nového skrapera.",
+      "message": "Nový Skraper"
+   },
+   "noData": {
+      "description": "Zástupný prvok v tabuľke, keď nie sú žiadne údaje na zobrazenie.",
+      "message": "Nie sú dáta na zobrazenie"
+   },
+   "noFileChosen": {
+      "description": "Správa zobrazená, keď nebol vybraný žiadny súbor.",
+      "message": "Nebol vybraný žiadny súbor"
+   },
+   "noList": {
+      "description": "Zástupný text, ktorý sa zobrazí, keď sa na stránke nedá nájsť zoznam.",
+      "message": "Nepodarilo sa nájsť zoznam na stránke"
+   },
+   "none": {
+      "description": "Označenie pre možnosť nepokračovať vo zverejňovaní ďalších položiek pri scrapovaní.",
+      "message": "Žiadne"
+   },
+   "options": {
+      "description": "Označenie tlačidla pre zobrazenie možností pre scraper.",
+      "message": "Možnosti"
+   },
+   "pages": {
+      "description": "Označenie zobrazujúce počet stránok získaných pri scrapovaní zoznamu.",
+      "message": "Stránky"
+   },
+   "permissionsDescription": {
+      "description": "Pomocný text na vysvetlenie, že aplikácia potrebuje ďalšie oprávnenia na prístup a spracovanie URL.",
+      "message": "$APP_NAME$ potrebuje ďalšie oprávnenia na prístup a spracovanie URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Text odznaku na označenie, že zobrazené údaje sú náhľadom zberača.",
+      "message": "Náhľad"
+   },
+   "remainingPages": {
+      "description": "Označenie zobrazujúce počet zostávajúcich stránok, ktoré majú byť prehľadané pri zbere detailných stránok.",
+      "message": "Zostávajúce"
+   },
+   "rename": {
+      "description": "Označenie položky menu pre premenovanie scraperu.",
+      "message": "Premenovať"
+   },
+   "reviewDescription": {
+      "description": "Požiadať používateľa, aby zanechal recenziu na aplikáciu.",
+      "message": "Ahoj, volám sa $NAME$. Vytvoril som $APP_NAME$, aby som ľuďom ušetril čas. Ak sa vám používanie páči, bol by som vďačný za hodnotenie 5 hviezdičiek, ktoré pomôže iným objaviť $APP_NAME$. Ďakujem veľmi pekne!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Poďakujte používateľovi za použitie aplikácie.",
+      "message": "Ďakujeme, že používate $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Označenie pre možnosť zobraziť obrazovku na scrapovanie detailných stránok pre každú položku v zozname.",
+      "message": "Scrape Detaily"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Popis tipu na poučenie užívateľa o skenovaní detailných stránok.",
+      "message": "Ak chcete skenovať každú URL v zozname, vyberte \"$LABEL$\" z menu v pravom hornom rohu po stiahnutí zoznamu ako súboru CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Skenovať detaily"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Názov pre tip na poučenie používateľa o zoškrabaní podrobných stránok.",
+      "message": "Tip: Zoškrabanie podrobných stránok"
+   },
+   "scrapeList": {
+      "description": "Označenie pre možnosť zobrazenia obrazovky na scrapovanie zoznamu.",
+      "message": "Scrape zoznam"
+   },
+   "scrapedPages": {
+      "description": "Označenie zobrazujúce počet scrapovaných stránok pri scrapovaní detailných stránok.",
+      "message": "Scrapované"
+   },
+   "scrapingComplete": {
+      "description": "Upozornenie na indikáciu, že scrapovanie bolo dokončené.",
+      "message": "Scrapovanie dokončené"
+   },
+   "scrapingStatus": {
+      "description": "Označenie prebiehajúceho získavania údajov.",
+      "message": "Preberá sa..."
+   },
+   "scrollDelay": {
+      "description": "Štítok pre vstup na kontrolu dĺžky čakania v milisekundách pri posúvaní k jednotlivým položkám počas scrapovania.",
+      "message": "Oneskorenie posúvania (ms)"
+   },
+   "scrollDown": {
+      "description": "Označenie možnosti posunúť sa nadol na načítanie ďalších položiek pri scrapovaní.",
+      "message": "Posuňte nadol, aby sa načítali ďalšie položky"
+   },
+   "select": {
+      "description": "Popis tlačidla na výber prvku na stránke.",
+      "message": "Vybrať"
+   },
+   "selectElement": {
+      "description": "Názov na zobrazenie pri výbere prvku.",
+      "message": "Vyberte prvok"
+   },
+   "selectField": {
+      "description": "Popis akcie na výber poľa na zachytenie.",
+      "message": "Vyberte pole"
+   },
+   "selectList": {
+      "description": "Názov zobrazovaný pri výbere zoznamu.",
+      "message": "Vyberte zoznam"
+   },
+   "selectScraper": {
+      "description": "Označenie položky menu pre výber scraperu na extrahovanie každej URL.",
+      "message": "Vybrať scraper"
+   },
+   "selectScraperOption": {
+      "description": "Pokyn na výber scraperu pre aktuálnu doménu.",
+      "message": "Vyberte scraper pre $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Popisok tlačidla pre zobrazenie ďalších možností pre scrapovanie.",
+      "message": "Zobraziť možnosti"
+   },
+   "startScraping": {
+      "description": "Označenie tlačidla na spustenie skenovania.",
+      "message": "Začať skenovanie"
+   },
+   "stopScraping": {
+      "description": "Označenie tlačidla na zastavenie zberu dát.",
+      "message": "Zastaviť zber dát"
+   },
+   "tabNotFound": {
+      "description": "Chybové hlásenie, keď neexistuje cieľová karta.",
+      "message": "Nenašla sa žiadna karta. Zatvorte toto okno a skúste to znova."
+   },
+   "testUrl": {
+      "description": "Označenie pre textové vstupné pole pre testovaciu URL používanú pri výbere scrapera.",
+      "message": "Testovať URL"
+   },
+   "text": {
+      "description": "Označenie textového poľa zachyteného z elementu.",
+      "message": "Text"
+   },
+   "uploadUrls": {
+      "description": "Označenie položky menu pre nahrávanie súboru s adresami URL na scrapovanie.",
+      "message": "Nahrať adresy URL"
+   },
+   "url": {
+      "description": "Označenie pre pole URL zachytené z prvku.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Varovanie, ktoré sa zobrazuje, keď je zvolený názov stĺpca URL a CSV súbor možno chýba hlavičkový riadok.",
+      "message": "Názov stĺpca vyzerá ako URL. Uistite sa, že CSV súbor začína hlavičkovým riadkom obsahujúcim názvy stĺpcov."
+   },
+   "verify": {
+      "description": "Označenie tlačidla na overenie vybraného prvku zvýraznením na stránke.",
+      "message": "Overiť"
+   },
+   "waitTimeItems": {
+      "description": "Popisok pre vstupy na kontrolu dĺžky čakania v sekundách pri načítaní ďalších položiek.",
+      "message": "Čakacia doba na načítanie ďalších položiek (sekundy)"
+   },
+   "waitTimePages": {
+      "description": "Označenie vstupov na kontrolu dĺžky čakania v sekundách pri načítaní stránok.",
+      "message": "Čas čakania na načítanie stránok (sekundy)"
+   }
+}

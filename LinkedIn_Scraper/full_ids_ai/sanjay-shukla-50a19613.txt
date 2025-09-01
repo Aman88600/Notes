@@ -1,0 +1,84 @@
+Here is a structured JSON template organized into the requested fields: **Basic Info**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills**. The format follows the conventions and best practices of [JSON Resume schema][5][1][3][4].
+
+```json
+{
+  "basicInfo": {
+    "name": "Your Name",
+    "label": "Your Professional Title",
+    "email": "your.email@example.com",
+    "phone": "(123) 456-7890",
+    "location": {
+      "city": "City",
+      "region": "State/Province",
+      "country": "Country"
+    },
+    "summary": "A brief summary about yourself."
+  },
+  "activity": [
+    {
+      "title": "Activity Title",
+      "organization": "Organization Name",
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD",
+      "summary": "Brief description of your activity and impact.",
+      "highlights": [
+        "Key accomplishment or responsibility",
+        "Another achievement"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "position": "Job Title",
+      "location": "City, Country",
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD",
+      "summary": "Short description of your main responsibilities.",
+      "highlights": [
+        "Major achievement or responsibility",
+        "Another achievement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institution Name",
+      "area": "Field of Study",
+      "studyType": "Degree or Certificate",
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD",
+      "score": "Your GPA or Percent (optional)",
+      "courses": [
+        "Course 1",
+        "Course 2"
+      ]
+    }
+  ],
+  "certification": [
+    {
+      "name": "Certification Name",
+      "issuer": "Issuing Organization",
+      "date": "YYYY-MM-DD",
+      "url": "https://linktocertification.com"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Skill Group (e.g. Programming Languages)",
+      "level": "Beginner/Intermediate/Expert",
+      "keywords": [
+        "Skill 1",
+        "Skill 2"
+      ]
+    }
+  ]
+}
+```
+
+**Instructions to Use:**
+- Replace sample values (like "Your Name") with your actual data.
+- Include multiple entries for *activity*, *experience*, *education*, *certification*, and *skills* if needed (all are arrays).
+- The schema follows community-adopted standards, is flexible, and can be extended[5][1][3].
+
+This structure allows clear separation and easy manipulation for rendering, exporting, or updating your profile using JSON Resume tools[4][5][1].

@@ -1,0 +1,158 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Vivek Kumar",
+    "title": "Senior Data Scientist",
+    "location": "Noida, Uttar Pradesh, India (Remote)",
+    "connections": "500+",
+    "followers": 5383,
+    "profileLinks": [
+      "https://www.linkedin.com/in/vivek-kumar-10a07210a/",
+      "https://sites.google.com/view/vivekdata"
+    ],
+    "about": "I am a data scientist with a passion for storytelling. During the day, I am usually programming, working to derive insight from large datasets. I have developed a strong acumen for problem-solving, often working on end-to-end data science projects. I create personal projects and enjoy programming challenges on HackerRank, Datalameur, and Leetcode. Working with data is my passion and inspires me to help others achieve more.",
+    "portfolio": "https://sites.google.com/view/vivekdata"
+  },
+  "Activity": {
+    "featured": [
+      {
+        "type": "Link",
+        "title": "Schedule call on Topmate",
+        "url": "https://topmate.io/careerwithhina",
+        "description": "Hey everyone! I've been getting a lot of DMs for guidance, so decided to take action on it. I'm excited to help folks out and give back to the community via Topmate."
+      }
+    ],
+    "volunteering": [
+      {
+        "organization": "National Cadet Corps",
+        "role": "Cadet",
+        "location": null,
+        "duration": "Apr 2009 - Mar 2011",
+        "cause": "Social Services"
+      },
+      {
+        "organization": "Art of Living",
+        "role": "Volunteer",
+        "location": null,
+        "duration": "Apr 2009 - Mar 2011",
+        "cause": "Arts and Culture"
+      }
+    ],
+    "honors_awards": [
+      {
+        "title": "CITY TOPPER",
+        "issuer": "NATIONAL SCIENCE OLYMPIAD",
+        "date": "Nov 2008"
+      },
+      {
+        "title": "CITY TOPPER",
+        "issuer": "NATIONAL SCIENCE OLYMPIAD",
+        "date": "Nov 2005"
+      }
+    ],
+    "testScores": [
+      {
+        "title": "JEE MAINS",
+        "score": 156,
+        "date": "Apr 2015"
+      }
+    ],
+    "recommendations": [
+      {
+        "from": "Alok Kumar",
+        "content": "Had the pleasure of working closely with Vivek at NativeClap for an extended period. Impressed by his exceptional data analysis skills, ability to extract valuable insights, and commitment to accuracy. Highly recommended for any data analysis role.",
+        "date": "October 29, 2023"
+      },
+      {
+        "from": "Aarthi Manoharan",
+        "content": "Mentored Vivek for a D&A project at PwC. Very diligent, hard working, and keen to learn new technologies. Highly recommend him for roles in the data field.",
+        "date": "February 21, 2023"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Paytm",
+      "employmentType": "Full-time",
+      "location": "Noida, Uttar Pradesh, India (Remote)",
+      "duration": "Jan 2023 - Present (2 yrs 8 mos)",
+      "summary": "Worked on SQL, Python, Machine learning. Key projects include:",
+      "projects": [
+        {
+          "title": "Install to Signup Model",
+          "description": "Built XGBoost bivariate model to predict users who may not signup after install. Improved conversion of installs to signups."
+        },
+        {
+          "title": "Location-based Bank Recommendation",
+          "description": "Built a recommender system to suggest top 3/5 banks for UPI registration, reducing customer churn and improving satisfaction."
+        },
+        {
+          "title": "Customer Retention n30",
+          "description": "Built XGBoost multivariate model to predict customer behavior within 30 days, using previous 60 days of data."
+        }
+      ]
+    },
+    {
+      "title": "Associate-2 (Data Analyst)",
+      "company": "PwC",
+      "employmentType": "Full-time",
+      "location": "Bangalore Urban, Karnataka, India",
+      "duration": "Nov 2021 - Jan 2023 (1 yr 3 mos)",
+      "summary": "Worked on projects involving web-scraping, data cleaning, and BI dashboard creation. Developed a data pipeline in SQL for Data Mart used in underwriting by insurance company."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Scaler",
+      "degree": "Certificate Program",
+      "fieldOfStudy": "Data Science",
+      "activities": "Data Science"
+    },
+    {
+      "institution": "UIET Panjab University",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+      "dates": "2015 - 2019"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Hackerrank SQL Advanced Certification",
+      "issuer": "HackerRank",
+      "date": "Issued Oct 2022",
+      "certificateURL": "https://www.hackerrank.com/certificates/e8b352b8b497"
+    },
+    {
+      "name": "Alteryx Core Certified",
+      "issuer": null,
+      "date": null,
+      "certificateURL": null
+    },
+    {
+      "name": "Financial accounting & analysis",
+      "issuer": "IIM Bangalore",
+      "date": "Issued Dec 2023",
+      "certificateURL": null
+    }
+  ],
+  "Skills": [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Data Visualization",
+    "BI Tools (Tableau & PowerBI)",
+    "Seaborn",
+    "Matplotlib",
+    "Alteryx",
+    "Exploratory Data Analysis",
+    "Hypothesis Testing",
+    "A/B Testing",
+    "Statistical Data Analysis",
+    "Power BI",
+    "Web Scraping",
+    "Data Cleaning",
+    "Data Pipeline Design"
+  ]
+}
+```

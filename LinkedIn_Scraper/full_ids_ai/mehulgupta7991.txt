@@ -1,0 +1,53 @@
+{
+  "BasicInfo": {
+    "Name": "Tom Soppitt",
+    "Location": "London, England, United Kingdom",
+    "LinkedInURL": "https://www.linkedin.com/in/tom-soppitt-031876166/",
+    "Followers": 426
+  },
+  "Activity": {
+    "RecentPosts": "Recent posts Tom shares will be displayed here.",
+    "ShowAllActivity": true
+  },
+  "Experience": [
+    {
+      "Title": "Data Scientist",
+      "Company": "BMW Group",
+      "EmploymentType": "Full-time",
+      "Duration": "Sep 2023 - Present",
+      "Location": "Oxford, England, United Kingdom · Hybrid",
+      "Responsibilities": "Working as part of the Smart Operations and 7th Sense Team in the BMW Group, working with the data analysis tool Splunk and using Machine Learning techniques to help predict and prevent incidents."
+    },
+    {
+      "Title": "Graduate Data Scientist",
+      "Company": "BMW Group",
+      "EmploymentType": "Full-time",
+      "Duration": "Sep 2021 - Sep 2023",
+      "Location": "Oxford",
+      "Responsibilities": "Completed placements at other teams within the company to build experience, including 6 months at the BMW IT headquarters in Munich. Used machine learning and data analysis techniques acquired in university. Developed first ML use cases in predictive monitoring. Project management, supplier collaboration, stakeholder presentations."
+    },
+    {
+      "Title": "Mathematics and Computer Science Student",
+      "Company": "University of Birmingham",
+      "Duration": "Sep 2016 - Sep 2021",
+      "Responsibilities": "Integrated Masters with a Year in Industry, graduating with a single MSci."
+    }
+  ],
+  "Education": {
+    "Institution": "University of Birmingham",
+    "Degree": "Master of Science - MSci, Mathematics and Computer Science",
+    "Period": "Sep 2016 - Jul 2021",
+    "Grade": "1st Class",
+    "Notes": "Integrated Masters with a Year in Industry, graduating with a single MSci instead of separate BSc and MSc.",
+    "ActivitiesAndSocieties": "Korfball - 2020/2021 Club President, 2018/2019 Social Secretary",
+    "DegreeCertificate": "degree_certificate.pdf"
+  },
+  "Certification": null,
+  "Skills": [
+    "Python (Programming Language)",
+    "SQL",
+    "Splunk",
+    "Machine Learning",
+    "Tableau"
+  ]
+}

@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Label para sa pindutan upang magdagdag ng review para sa aplikasyon.",
+      "message": "Magdagdag ng Review"
+   },
+   "allowPermissions": {
+      "description": "Label para sa button upang pahintulutan ang mga permiso para sa aplikasyon.",
+      "message": "Pahintulutan ang mga permiso"
+   },
+   "autoScroll": {
+      "description": "Label para sa switch upang kontrolin kung awtomatikong mag-scroll sa bawat item habang nag-scrape.",
+      "message": "Awtomatikong Pag-scroll"
+   },
+   "back": {
+      "description": "Label para sa pindutan upang bumalik sa nakaraang screen.",
+      "message": "Bumalik"
+   },
+   "cancel": {
+      "description": "Label para sa aksyon na kanselahin.",
+      "message": "Kanselahin"
+   },
+   "changeList": {
+      "description": "Label para sa pindutan upang baguhin ang listahang i-scrape.",
+      "message": "Baguhin ang Listahan"
+   },
+   "changeSelectionLevel": {
+      "description": "Paglalarawan ng aksyon para baguhin ang antas ng seleksyon kapag pumipili ng isang elemento.",
+      "message": "Baguhin ang antas ng seleksyon"
+   },
+   "chooseFile": {
+      "description": "Label para sa pindutan upang pumili ng isang file na i-upload.",
+      "message": "Piliin ang File"
+   },
+   "click": {
+      "description": "Label para sa pagkilos ng pag-click.",
+      "message": "I-click"
+   },
+   "clickLoadMore": {
+      "description": "Label para sa opsyon na i-click ang isang pindutan upang mag-load ng mas maraming item sa parehong pahina habang nag-scrape.",
+      "message": "I-click ang pindutan para mag-load ng mas maraming item sa parehong pahina"
+   },
+   "clickNextPage": {
+      "description": "Label para sa opsyon na i-click ang isang link para mag-navigate sa susunod na pahina upang mag-load ng mas maraming item habang nag-scrape.",
+      "message": "I-click ang link para mag-navigate sa susunod na pahina"
+   },
+   "column": {
+      "description": "Label para sa \u003Cselect> element upang piliin ang haligi na naglalaman ng mga URL na i-scrape mula sa na-upload na CSV.",
+      "message": "Haligi"
+   },
+   "confirm": {
+      "description": "Label para sa aksyon ng pagkumpirma.",
+      "message": "Kumpirmahin"
+   },
+   "continue": {
+      "description": "Label para sa button upang magpatuloy sa susunod na screen.",
+      "message": "Magpatuloy"
+   },
+   "copy": {
+      "description": "Label para sa pindutan upang kopyahin ang datos sa clipboard.",
+      "message": "Kopyahin"
+   },
+   "csvFile": {
+      "description": "Label para sa pag-input ng file upang mag-upload ng CSV file",
+      "message": "$FILE_TYPE$ na file",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Pangalan para sa default na pang-scrape ng mga detalye ng pahina.",
+      "message": "Kunin ang mga detalye mula sa $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Label para sa menu item upang tanggalin ang scraper.",
+      "message": "Tanggalin"
+   },
+   "dismiss": {
+      "description": "Aksyon para i-dismiss ang alerto.",
+      "message": "I-dismiss"
+   },
+   "duration": {
+      "description": "Label upang ipakita ang tagal ng kasalukuyang pag-scrape.",
+      "message": "Tagal"
+   },
+   "esc": {
+      "description": "Label para sa Escape key.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Label para sa menu item upang i-export ang scraper.",
+      "message": "I-export"
+   },
+   "extractData": {
+      "description": "Label para sa menu item upang patakbuhin ang scrape at kunin ang data mula sa bawat URL.",
+      "message": "Kunin ang data"
+   },
+   "finish": {
+      "description": "Label para sa button upang tapusin ang pagpili ng mga elemento sa pahina.",
+      "message": "Tapusin"
+   },
+   "headerRow": {
+      "description": "Teksto ng tulong upang ipaliwanag na ang ina-upload na CSV file ay dapat magsimula sa isang header row.",
+      "message": "Dapat magsimula sa isang header row"
+   },
+   "headerRowRequired": {
+      "description": "Babala na ipapakita kapag tila nawawala ang row ng header mula sa na-upload na CSV.",
+      "message": "Kinakailangan ang row ng header"
+   },
+   "help": {
+      "description": "Label para sa pindutan upang buksan ang pahina ng tulong.",
+      "message": "Tulong"
+   },
+   "hideOptions": {
+      "description": "Label para sa pindutan upang itago ang higit pang mga opsyon para sa pag-scrape.",
+      "message": "Itago ang mga Opsyon"
+   },
+   "import": {
+      "description": "Label para sa menu item upang i-import ang isang scraper.",
+      "message": "I-import"
+   },
+   "install": {
+      "description": "Label para sa button upang i-install ang pinakabagong bersyon ng aplikasyon.",
+      "message": "I-install ang pinakabagong bersyon"
+   },
+   "invalidTab": {
+      "description": "Mensaheng error kapag ang target tab ay bukas sa isang ipinagbabawal na site.",
+      "message": "Ipinagbabawal ang pahinang ito. Subukan ang ibang site."
+   },
+   "invalidVersion": {
+      "description": "Utusan ang user na i-install ang pinakabagong bersyon ng aplikasyon.",
+      "message": "$APP_NAME$ ay wala na sa beta! I-install ang pinakabagong bersyon para makakuha ng mga pinakabagong update.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Label upang ipakita ang bilang ng mga aytem na nakuha kapag nag-scrape ng listahan.",
+      "message": "Mga Aytem"
+   },
+   "loadMoreAction": {
+      "description": "Label para sa \u003Cselect> element upang pumili kung paano mag-load ng mas maraming items habang nagsi-scrape.",
+      "message": "Aksyon para mag-load ng mas marami pang items"
+   },
+   "max": {
+      "description": "Label para sa input upang kontrolin ang pinakamataas na oras ng paghihintay habang naglo-load ng mas maraming items o mga pahina.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Label para sa input upang itakda ang maximum na limitasyon sa bilang ng mga item na kukunin.",
+      "message": "Max na item"
+   },
+   "maxItemsHelp": {
+      "description": "Teksto ng tulong na nag-iinform sa user na iwanang blanko ang input ng max items para hindi magtakda ng limitasyon.",
+      "message": "Iwanan blanko para walang limitasyon"
+   },
+   "maxItemsReached": {
+      "description": "Paglalarawan ng alerto upang ipahiwatig na naabot na ang maximum na limitasyon sa bilang ng mga item na kukunin.",
+      "message": "Matagumpay na nakuha hanggang sa itinakdang limitasyon. Palakihin ang opsyon sa max na mga item para magpatuloy sa pagkuha."
+   },
+   "mediaUrl": {
+      "description": "Label para sa field ng media URL na nakukuha mula sa isang elemento.",
+      "message": "Media URL"
+   },
+   "min": {
+      "description": "Label para sa input upang kontrolin ang minimum na oras ng paghihintay habang naglo-load ng higit pang mga item o pahina.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Mensahe ng error kapag hindi ma-access ang data ng target na tab.",
+      "message": "Ang tab na iyong ginagamit para sa gawaing ito ay isinara. Pakisara ang window na ito at subukang muli."
+   },
+   "missingTabPermission": {
+      "description": "Mensahe ng error kapag hindi ma-access ang data ng target na tab.",
+      "message": "Hindi ma-access ang tab. Isara ang window na ito at subukang muli."
+   },
+   "missingUrlColumn": {
+      "description": "Mensahe ng error kapag ang CSV file ay walang column na may mga URL.",
+      "message": "Hindi makita ang column na may mga URL. Mangyaring pumili ng ibang file."
+   },
+   "newScraper": {
+      "description": "Label para sa button upang lumikha ng bagong scraper.",
+      "message": "Bagong Scraper"
+   },
+   "noData": {
+      "description": "Placeholder sa mesa kapag walang datos na maipapakita.",
+      "message": "Walang datos na maipapakita"
+   },
+   "noFileChosen": {
+      "description": "Mensahe na ipinapakita kapag walang napiling file.",
+      "message": "Walang napiling file"
+   },
+   "noList": {
+      "description": "Pansamantalang ipapakita kapag hindi makita ang listahan sa pahina.",
+      "message": "Hindi makahanap ng listahan sa pahina"
+   },
+   "none": {
+      "description": "Label para sa opsyon na hindi mag-load ng mas maraming items habang nag-scrape.",
+      "message": "Wala"
+   },
+   "options": {
+      "description": "Label para sa pindutan upang ipakita ang mga opsyon para sa scraper.",
+      "message": "Mga Opsyon"
+   },
+   "pages": {
+      "description": "Label upang ipakita ang bilang ng mga pahinang na-scrape kapag nagsa-scrape ng listahan.",
+      "message": "Mga Pahina"
+   },
+   "permissionsDescription": {
+      "description": "Tulong na teksto para ipaliwanag na kailangan ng aplikasyon ang karagdagang mga pahintulot upang ma-access at ma-scrape ang mga URL.",
+      "message": "$APP_NAME$ ay nangangailangan ng karagdagang mga pahintulot upang ma-access at ma-scrape ang mga URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Teksto ng badge upang ipahiwatig na ang ipinapakitang datos ay paunang tingin ng scraper.",
+      "message": "Paunang Tingin"
+   },
+   "remainingPages": {
+      "description": "Label upang ipakita ang bilang ng mga pahinang natitira na kailangan pang i-scrape kapag kinukunan ng detalye ang mga pahina.",
+      "message": "Natitira"
+   },
+   "rename": {
+      "description": "Label para sa menu item upang palitan ang pangalan ng scraper.",
+      "message": "Palitan ang Pangalan"
+   },
+   "reviewDescription": {
+      "description": "Hilingin sa user na mag-iwan ng review para sa aplikasyon.",
+      "message": "Kamusta, ako si $NAME$. Nilikha ko ang $APP_NAME$ upang makatulong sa mga tao na makatipid ng oras. Kung nagugustuhan mo itong gamitin, pahalagahan ko ang pagbibigay mo ng 5-star na rating upang matulungan ang iba na matuklasan ang $APP_NAME$. Maraming salamat!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Pasalamatan ang user sa paggamit ng aplikasyon.",
+      "message": "Salamat sa paggamit ng $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Label para sa opsyon upang ipakita ang screen para sa pagkakalap ng mga detalye ng pahina para sa bawat item sa isang listahan.",
+      "message": "Kunin ang mga Detalye"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Paglalarawan para sa tip upang turuan ang gumagamit tungkol sa pag-scrape ng mga detalye ng pahina.",
+      "message": "Para i-scrape ang bawat URL sa listahan, piliin ang \"$LABEL$\" mula sa menu sa kanang itaas na bahagi pagkatapos i-download ang listahan bilang isang CSV file.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "I-scrape ang mga Detalye"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Pamagat para sa payo upang turuan ang gumagamit tungkol sa pagkuha ng detalye ng mga pahina.",
+      "message": "Tip: Pagkuha ng detalye ng mga pahina"
+   },
+   "scrapeList": {
+      "description": "Label para sa pagpipilian upang ipakita ang screen para sa pagkakalap ng listahan.",
+      "message": "Kunin ang Listahan"
+   },
+   "scrapedPages": {
+      "description": "Label upang ipakita ang bilang ng mga pahinang naiskrap kapag nagskrap ng detalye ng mga pahina.",
+      "message": "Naiskrap"
+   },
+   "scrapingComplete": {
+      "description": "Pamagat ng alerto na nagpapahiwatig na tapos na ang scraping.",
+      "message": "Tapos na ang scraping"
+   },
+   "scrapingStatus": {
+      "description": "Label upang ipahiwatig na ang pag-scrape ay nagaganap.",
+      "message": "Nagsi-scrape..."
+   },
+   "scrollDelay": {
+      "description": "Label para sa input upang kontrolin kung gaano katagal maghintay sa mga millisecond habang nag-i-scroll sa bawat item habang nagsa-scrape.",
+      "message": "Pagkaantala ng pag-scroll (ms)"
+   },
+   "scrollDown": {
+      "description": "Label para sa opsyon na mag-scroll pababa para mag-load ng mas maraming items kapag nag-scrape.",
+      "message": "Mag-scroll pababa para mag-load ng mas maraming items"
+   },
+   "select": {
+      "description": "Label para sa pindutan upang pumili ng isang elemento sa pahina.",
+      "message": "Piliin"
+   },
+   "selectElement": {
+      "description": "Pamagat na ipapakita kapag pumipili ng isang elemento.",
+      "message": "Pumili ng Elemento"
+   },
+   "selectField": {
+      "description": "Paglalarawan ng aksyon upang piliin ang patlang na kukunan.",
+      "message": "Piliin ang patlang"
+   },
+   "selectList": {
+      "description": "Pamagat na ipapakita kapag pumipili ng isang listahan.",
+      "message": "Piliin ang Listahan"
+   },
+   "selectScraper": {
+      "description": "Label para sa item sa menu upang pumili ng scraper na gagamitin sa pag-scrape ng bawat URL.",
+      "message": "Pumili ng scraper"
+   },
+   "selectScraperOption": {
+      "description": "Instruksyon para pumili ng scraper para sa kasalukuyang domain.",
+      "message": "Piliin ang scraper para sa $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Label para sa pindutan upang ipakita ang higit pang mga opsyon para sa scraping.",
+      "message": "Ipakita ang mga Opsyon"
+   },
+   "startScraping": {
+      "description": "Label para sa pindutan upang simulan ang pag-scrape.",
+      "message": "Simulan ang Pag-scrape"
+   },
+   "stopScraping": {
+      "description": "Label para sa button upang itigil ang pag-scrape.",
+      "message": "Itigil ang Pag-scrape"
+   },
+   "tabNotFound": {
+      "description": "Mensaheng error kapag ang target na tab ay hindi umiiral.",
+      "message": "Walang natagpuang tab. Isara ang bintanang ito at subukang muli."
+   },
+   "testUrl": {
+      "description": "Label para sa text input para sa test URL na gagamitin kapag pumipili ng scraper.",
+      "message": "Subok na URL"
+   },
+   "text": {
+      "description": "Label para sa text field na kinuha mula sa isang elemento.",
+      "message": "Teksto"
+   },
+   "uploadUrls": {
+      "description": "Label para sa menu item upang mag-upload ng file na may mga URL na i-scrape.",
+      "message": "I-upload ang mga URL"
+   },
+   "url": {
+      "description": "Label para sa URL field na nakuha mula sa isang elemento.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Babala na ipapakita kapag ang napiling pangalan ng haligi ay isang URL at baka nawawala ang header row sa CSV file.",
+      "message": "Mukhang URL ang pangalan ng haligi. Pakisigurado na nagsisimula ang CSV file sa isang header row na naglalaman ng mga pangalan ng mga haligi."
+   },
+   "verify": {
+      "description": "Label para sa button upang beripikahin ang napiling elemento sa pamamagitan ng pag-highlight nito sa pahina.",
+      "message": "Beripikahin"
+   },
+   "waitTimeItems": {
+      "description": "Label para sa mga input upang kontrolin kung gaano katagal maghihintay sa segundo kapag naglo-load ng karagdagang mga item.",
+      "message": "Oras ng paghihintay sa pag-load ng karagdagang mga item (segundo)"
+   },
+   "waitTimePages": {
+      "description": "Label para sa mga input upang kontrolin kung gaano katagal maghintay sa segundo kapag naglo-load ng mga pahina.",
+      "message": "Oras ng paghihintay sa pag-load ng mga pahina (segundo)"
+   }
+}

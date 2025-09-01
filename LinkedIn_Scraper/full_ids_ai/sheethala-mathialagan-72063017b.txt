@@ -1,0 +1,143 @@
+Below is the structured JSON representation of the provided content, categorized as requested into **Basic Info**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills**. Extraneous, repetitive, or system-specific identifiers have been omitted. All fields are trimmed for clarity.
+
+
+```json
+{
+  "BasicInfo": {
+    "name": "Sheethala Mathialagan",
+    "profileImage": "https://media.licdn.com/dms/image/v2/C4D03AQFwKeaklDiweg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1623380924498?e=1759363200&v=beta&t=-8SP4l-L8JvV3bgVpTxggAEOaHcqBisJAztY8MbCZJA",
+    "headline": "Data Scientist cum MLOPs Engineer at MResult",
+    "location": "Bengaluru, Karnataka, India",
+    "summary": "A proactive and fast learning individual working in Data Science domain utilizing analytical and programming skills to help the organization achieve business goals with vision, mission and values.",
+    "connections": "500+",
+    "contactLinks": [
+      "https://www.linkedin.com/in/sheethala-mathialagan-72063017b/overlay/about-this-profile/",
+      "https://www.linkedin.com/in/sheethala-mathialagan-72063017b/overlay/contact-info/"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Professional working proficiency"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Full professional proficiency"
+      }
+    ]
+  },
+  "Activity": {
+    "followers": 663,
+    "recentPosts": [
+      {
+        "company": "MResult",
+        "timestamp": "2 weeks ago"
+      },
+      {
+        "company": "MResult",
+        "timestamp": "2 months ago"
+      }
+    ],
+    "comments": 53
+  },
+  "Experience": [
+    {
+      "title": "Senior Data Scientist cum Data Engineer",
+      "company": "MResult",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "type": "Full-time",
+      "duration": "Apr 2025 - Present · 5 mos",
+      "description": "Working with the Pharma Manufacturing Intelligence team, as a MLOPs Engineer. Responsible for orchestrating AWS Sagemaker deployments, overseeing the setup of infrastructure for Machine Learning model pipelines. Bridging the gap between machine learning development and operational deployment, ensuring seamless integration and scalability of ML models within the production environment. Expertise in AWS Sagemaker, Docker, Jenkins, Bitbucket, automating workflows, managing infrastructure, and best practices for the ML lifecycle."
+    },
+    {
+      "title": "Data Scientist cum MLOPs Engineer",
+      "company": "Self-employed",
+      "duration": "Oct 2023 to May 2025 · 1 yr 8 mos"
+    },
+    {
+      "title": "Senior Data Scientist cum Data Engineer",
+      "company": "MResult",
+      "duration": "2 yrs 7 mos"
+    },
+    {
+      "title": "Data Scientist Intern",
+      "company": "VMware",
+      "location": "Bengaluru, Karnataka, India",
+      "duration": "Jun 2020 - Nov 2020 · 6 mos",
+      "description": "Part of Project Scrum Planning, daily standups, code walkthroughs, reviewing machine learning models, testing/validating ML models, manual data anomaly detection, automating accuracy checks with Python, hyperparameter tuning. Used: Change Point (Jensen Shannon Divergence), Streaming K-means, Predictive Forecasting, STL Decomposition, ARIMA/SARIMA."
+    },
+    {
+      "title": "Data Engineer (Project/Case Studies)",
+      "duration": "May 2019 to May 2019 · 1 mo",
+      "location": "Greater Bengaluru Area",
+      "description": "Developed internal AWS Resource Governance using Python, pipeline automating data collection and processing for a retail data mart system, built Power BI dashboards, moved data to Azure Data Lake using Azure Data Factory."
+    },
+    {
+      "title": "Data Analyst (Case Study: Python for Data Science)",
+      "description": "Focused on data cleansing and analysis using descriptive statistics, analyzing travel booking website data for mean, median, mode, standard deviation, etc."
+    }
+  ],
+  "Education": [
+    {
+      "degree": "Master of Data Science",
+      "field": "Data Science",
+      "institution": "Coimbatore Institute of Technology",
+      "duration": "2017 - 2022",
+      "grade": "9.03",
+      "activities": [
+        "Placement Coordinator - CIT Placement Cell (2021-22)",
+        "Secretary - Association of Computing Department (2019-20)",
+        "Internship Coordinator - CIT Internship Cell (2019-20)"
+      ]
+    },
+    {
+      "degree": "12th Grade",
+      "field": "Physics Chemistry Mathematics & Computer Science",
+      "institution": "Narayana Institute",
+      "duration": "Jun 2016 - May 2017",
+      "grade": "87%"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "CAPM Certification Exam Prep-Udemy",
+      "issuer": "Udemy",
+      "issueDate": "Jan 2025",
+      "credentialId": "UC-dffc4342-10ae-4fdf-bdf6-3ac4953d1842"
+    },
+    {
+      "name": "Project Management",
+      "issuer": "Skilljar",
+      "credentialId": "v9n9xwfdsuvf"
+    },
+    {
+      "name": "Dataiku Core Designer",
+      "issuer": "Dataiku",
+      "issueDate": "Feb 2023"
+    }
+  ],
+  "Skills": [
+    "Project Management",
+    "docker",
+    "AWS SageMaker",
+    "Python",
+    "Machine Learning",
+    "Data Engineering",
+    "Power BI",
+    "Azure Data Factory",
+    "SQL",
+    "Azure Databricks"
+  ],
+  "Projects": [
+    {
+      "title": "Advanced Analytics Pipeline and Visualization on Tobacco Sales",
+      "description": "Sales analysis solution for procurement and supply chain teams. Built an end-to-end system to analyze tobacco sales for a leading organization.",
+      "tools": ["SQL", "Azure Data Factory", "Azure Databricks", "Power BI"]
+    },
+    {
+      "title": "Predicting Successful Hires using Machine Learning",
+      "description": "Built predictive models to assess the likelihood of a candidate accepting a job offer utilizing neural networks and random forests for HR teams.",
+      "tools": ["Python"]
+    }
+  ]
+}
+```

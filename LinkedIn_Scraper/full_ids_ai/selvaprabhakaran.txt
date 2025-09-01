@@ -1,0 +1,143 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "Selva Prabhakaran",
+    "Headline": "Head of Data Science (AI/ML) | Principal Data Scientist",
+    "ProfileImage": "https://media.licdn.com/dms/image/v2/C4D03AQFQYSjR9W8UaQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516819564818?e=1759363200&v=beta&t=gDNwwRI0u_ACOAUAcT5HHHeuGOwfbs3nzHuwDxpXhRI",
+    "Location": null,
+    "Followers": 10400,
+    "Languages": ["Tamil"],
+    "About": "A seasoned data science and AI leader with 15+ years of experience across stellar companies such as Nissan Motors, Samsung, Groupon, IHS, Fidelity Investments, Caterpillar and Mu Sigma. Proven track record in building world-class data sciences solutions and teams. Rich core AI/ML experience building products with robust statistical/ML engines and bringing them to enterprise grade productionization, by hands-on expertise as well as through leading large teams of 20+ members. Developed core packages in R, runs a popular Machine Learning blog with millions of readers and has a wide-ranging set of experience across all core functions in AI/ML, ranging from Statistics to ML to Causal Inference to Optimization to Generative AI. Technical: Highly skilled Data scientist with a goal-oriented approach, deep expertise in mathematical and statistical data mining using R, proficient in Python, production grade planning & execution, and internal consulting. Strong operational execution and delivery for key advanced analytics solutions."
+  },
+  "Activity": {
+    "PostsCount": 9,
+    "Followers": 10400,
+    "HighlightedTopics": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Robotics"
+    ],
+    "HighlightedPosts": [
+      {
+        "Image": "https://media.licdn.com/dms/image/v2/D5622AQFKn4qbbFS4yA/feedshare-shrink_800/B56Zc2T82AG0Ag-/0/1748962900097?e=1759363200&v=beta&t=Q2T0bV3h_Zt9WRDnCowM4zjTwTC8yAOHCXncZKd-luA",
+        "Date": "2 months ago"
+      },
+      {
+        "Image": "https://media.licdn.com/dms/image/v2/D5622AQHjZlXpeI9GmA/feedshare-shrink_800/B56ZbZpNSoHgAg-/0/1747408186987?e=1759363200&v=beta&t=MvzPGyJup6WNSjwrZ4ciqtHTbj17YfOX82RZcZGqfC4",
+        "Date": "3 months ago"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Head of Data Science (AI/ML) (Principal Data Scientist)",
+      "Company": "Nissan Motor Corporation",
+      "StartDate": "Jan 2021",
+      "EndDate": "Present",
+      "Duration": "4 yrs 8 mos",
+      "Type": "Full-time",
+      "Location": null
+    },
+    {
+      "Title": "Senior Data Science Manager",
+      "Company": "Samsung Electronics",
+      "StartDate": "Jan 2019",
+      "EndDate": "Jan 2021",
+      "Duration": "2 yrs 1 mo",
+      "Location": "Greater Chennai Area"
+    },
+    {
+      "Title": "Sr. Data Science Manager",
+      "Company": "Groupon",
+      "StartDate": "Feb 2018",
+      "EndDate": "Jan 2019",
+      "Duration": "1 yr",
+      "Location": null,
+      "Description": "Implemented production grade machine learning projects for Groupon Global Operations and Customer Service (North America) and Marketing (APAC)."
+    },
+    {
+      "Title": "Senior Analyst",
+      "Company": "Fidelity Investments",
+      "Duration": null,
+      "Location": null
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Birla Institute of Technology and Science, Pilani",
+      "Degree": "B.E (Hons)",
+      "FieldOfStudy": "Mechanical",
+      "StartYear": "2004",
+      "EndYear": "2009"
+    },
+    {
+      "Institution": "SBOA",
+      "Degree": null,
+      "FieldOfStudy": null,
+      "StartYear": null,
+      "EndYear": null
+    }
+  ],
+  "Certification": [
+    {
+      "Project": "Applied Stats with R: r-statistics.co",
+      "Description": "Blog about using R for statistical computing and applied problem solving, serving as an educational resource for analysts.",
+      "URL": "http://r-statistics.co/",
+      "StartDate": "Oct 2015",
+      "EndDate": "Present"
+    },
+    {
+      "Project": "The Complete Python Developer Course",
+      "Description": "Comprehensive course on Python fundamentals and applications including project-based video tutorials.",
+      "StartDate": "May 2015",
+      "EndDate": "Present"
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Data Mining",
+      "Endorsements": 38,
+      "EndorsedBy": ["Subrat Sahu, Ph.D.", "2 others at Groupon"]
+    },
+    {
+      "Name": "Analytics",
+      "Endorsements": 43,
+      "EndorsedBy": ["Brijesh Madhavan, PhD", "2 others at Groupon"]
+    },
+    {
+      "Name": "Machine Learning"
+    },
+    {
+      "Name": "Statistical Modeling"
+    }
+  ],
+  "Recommendations": [
+    {
+      "Type": "Received",
+      "From": "Maciej (マチェイ) G.",
+      "Date": "July 29, 2025",
+      "Relationship": "Worked together at Nissan",
+      "Text": "Selva is an exceptional leader in AI and Machine Learning. During our time working together at Nissan, I was consistently impressed by his ability to tackle complex problems and drive innovative solutions. Selva possesses a rare combination of deep technical expertise in AI/ML and strong leadership skills. He excels at guiding teams, fostering collaboration, and transforming challenging concepts into practical, impactful applications. His knack for identifying crucial pain points and developing elegant, data-driven solutions significantly contributed to building our data science products. Beyond his technical prowess, Selva is a true problem-solver. He approaches obstacles with a strategic mindset, demonstrating remarkable resilience and an unwavering commitment to achieving results. He's also an excellent mentor, always willing to share his knowledge and elevate those around him. Any organization looking for a visionary AI/ML leader who can deliver tangible results would be fortunate to have Selva on their team."
+    },
+    {
+      "Type": "Received",
+      "From": "Kensuke Yamamoto",
+      "Date": "July 28, 2025",
+      "Relationship": "Worked together at Nissan",
+      "Text": "I had the pleasure of working closely with Selva, who led the Data Science team in Nissan Digital India, as my counterpart while I managed the Data Science team at Nissan HQ side. Together, we formed a truly integrated “One Data Science Team” that collaborated on over 50 global data science projects across various business domains. Selva is an exceptional data science leader with world-class technical expertise in Deep Learning, Time series forecasting, Machine Learning, Statistical Modeling, and Generative AI etc. His ability to bring advanced techniques into practical, high-impact business solutions consistently elevated the value of our work. Beyond his technical strengths, Selva is a natural mentor and team builder. He provided clear guidance, thoughtful insights, and unwavering support to his team in India, helping them grow and thrive in a challenging and fast-evolving environment. His leadership style is both inspiring and empowering. Selva’s combination of deep technical skills, strong leadership, and collaborative mindset made him an indispensable part of our global data science team’s success. I truly appreciated our partnership and would highly recommend him to any organization seeking a top-tier data science leader."
+    }
+  ],
+  "Courses": [
+    {
+      "Name": "Flexible Manufacturing Systems",
+      "AssociatedWith": "Birla Institute of Technology and Science"
+    },
+    {
+      "Name": "Operations Research",
+      "AssociatedWith": "Birla Institute of Technology and Science"
+    }
+  ]
+}
+```
+This JSON arranges the key details from your content into the fields **BasicInfo, Activity, Experience, Education, Certification, Skills, Recommendations, and Courses** in a structured and logical way. Empty or null fields indicate missing explicit data.

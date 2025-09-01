@@ -1,0 +1,99 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Tajamul Khan",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQEK__Iv1--NDQ/profile-displayphoto-shrink_100_100/B56ZP7cybnHoAU-/0/1735090450383?e=1759363200&v=beta&t=7fbNZl58yt5vudcAXRR1szjryiLjlMFTNDQBWk67XKU",
+    "headline": "Senior Data Scientist | Writes to 75K+ | Top Data Voice | Top 0.1% Mentor @Topmate | MITian | Ex-Google & Ex-Amazon",
+    "location": "Hyderabad, Telangana, India",
+    "connections": "500+",
+    "followers": 76677,
+    "about": "I'm Tajamul, Senior Data Scientist, Career Mentor, Author, Content Creator, Brand Owner and a YouTube Educator, ready to help you achieve your data dreams! With experiences from big names like Google and Amazon, and a prestigious degree in data from MIT, I can confidently say I'm a data veteran.",
+    "profileLinks": {
+      "LinkedIn": "https://www.linkedin.com/in/tajamulkhann/",
+      "Linktree": "https://linktr.ee/tajamul_khan",
+      "Topmate": "https://topmate.io/tajamulkhan",
+      "Instagram": "https://www.instagram.com/tajamul.datascientist/",
+      "Telegram": "https://t.me/+yLhtT8pVsWsxNDA1",
+      "GitHub": "https://github.com/tajamulkhann",
+      "WhatsAppChannel": "https://www.whatsapp.com/channel/0029VaYs05jJkK7JKCesw42f?_fb_noscript=1"
+    }
+  },
+  "Activity": {
+    "recentPostsLink": "https://www.linkedin.com/in/tajamulkhann?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA1qYkEBhaYGiGMUx99Z4pjPel61wtTp09E",
+    "commentsCount": 47,
+    "followerCount": 76677
+  },
+  "Experience": [
+    {
+      "position": "Advanced Data Scientist",
+      "company": "Eastman",
+      "type": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "date": "Jul 2023 - Present",
+      "description": "Domain: Retail, E-commerce, Market Research, Customer Support, Supply Chain, HR. Services: Data Analysis, Statistics, Reporting, Research, Machine Learning, AI & Data Engineering.",
+      "skills": ["Extract, Transform, Load (ETL)", "Python", "+20 skills"],
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQF84MFWqo7IQw/company-logo_100_100/B4EZeDw3w_GcAQ-/0/1750262316412/eastman_logo?e=1759363200&v=beta&t=slZpGdpH74doNDm7YFrvwnIBRWfG_m2IBBFdq4s-1Ko"
+    },
+    {
+      "position": "Senior Data Executive",
+      "company": "Google",
+      "type": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "date": "Dec 2019 - Jun 2023",
+      "description": "Domain: Retail, Market Research, Digital Marketing, Google Adwords. Services: Data Analysis, Statistics, Reporting, Research, Machine Learning, AI.",
+      "skills": ["Python", "Tableau", "+10 skills"],
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_100_100/company-logo_100_100/0/1631311446380?e=1759363200&v=beta&t=kNH4pfEB_eDxB3hYl8SPuSaNx_vRacYgYXL3cS3M4PU"
+    },
+    {
+      "position": "Data Quality Specialist",
+      "company": "Amazon",
+      "type": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "date": "Nov 2018 - Oct 2019",
+      "description": "Domain: Retail, E-commerce, Market Research, Supply Chain, Geo Data Analysis. Services: Data Analysis, Statistical Analysis, Research, Reporting, Visualisation.",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_100_100/company-logo_100_100/0/1630640869849/amazon_logo?e=1759363200&v=beta&t=RCdmmc53YGk21_fg_qlpijG4gTke1ZsRHIJ6FBNiL34"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "Postgraduate Degree",
+      "fieldOfStudy": "Data Science and AI",
+      "dates": "May 2022 - Jun 2023",
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=1759363200&v=beta&t=M64jUPaaizu9HklI3nWPprp52jij1C_9taysAmdahe8"
+    },
+    {
+      "institution": "Kurukshetra University",
+      "degree": "Master of Technology - MTech",
+      "fieldOfStudy": "Engineering",
+      "dates": "Mar 2018 - Aug 2020",
+      "logo": "https://media.licdn.com/dms/image/v2/C510BAQFk-1FhZJmk9Q/company-logo_100_100/company-logo_100_100/0/1631326620282?e=1759363200&v=beta&t=ubZPzCwUazUB38vQ6Y2WrM20xdSu25mNYwxJgrao_f8"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Microsoft Certified: Fabric Analytics Engineer Associate",
+      "issuer": "Microsoft",
+      "issueDate": "May 2025",
+      "credentialID": "FC2468EB9C248AF8"
+    },
+    {
+      "name": "Microsoft Certified: Fabric Data Engineer Associate",
+      "issuer": "Microsoft",
+      "issueDate": "Apr 2025",
+      "credentialID": "E641E5D41A3C1734"
+    }
+  ],
+  "Skills": [
+    "Python",
+    "SQL",
+    "Microsoft Power BI",
+    "Machine Learning",
+    "Artificial Intelligence (AI)",
+    "PySpark",
+    "KQL",
+    "Generative AI"
+  ]
+}
+```
+This JSON represents a structured summary of the individual's profile as requested, with relevant information sectioned under the fields: BasicInfo, Activity, Experience, Education, Certification, and Skills. If you require the inclusion of other fields (Projects, Volunteering, Languages, Publications, Honors, etc.), those can also be provided in a similar format.

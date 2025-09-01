@@ -1,0 +1,121 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Sahil Garg",
+    "profileTitle": "Data Scientist | Data Engineer | Data Analyst | Corporate Trainer",
+    "headline": "Experienced Data Scientist with 5 years of expertise in machine learning, big data analytics, and building scalable data pipelines. Proficient in cloud technologies (Azure, Databricks), advanced data analysis, and delivering data-driven insights. Adept at developing predictive models, recommendation models, applying statistical methods, and providing actionable insights for business optimization.",
+    "location": "Noida, Uttar Pradesh, India",
+    "connections": "500+ connections",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4D03AQEKQCg5vvslXg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1679717547699?e=1759363200&v=beta&t=JLRgUjflaUKvG7eo2CLjpgzbINOFCyvytJjcUZlCS4c"
+  },
+  "Activity": {
+    "followers": 2899,
+    "recentPosts": [
+      {
+        "content": null,
+        "comments": 3,
+        "date": "4 months ago",
+        "visibility": "Visible to anyone on or off LinkedIn"
+      },
+      {
+        "content": null,
+        "comments": null,
+        "date": "3 months ago",
+        "visibility": "Visible to anyone on or off LinkedIn"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Mentor Data Science",
+      "company": "GeeksforGeeks",
+      "employmentType": "Full-time",
+      "location": "Noida, Uttar Pradesh, India",
+      "startDate": "Sep 2023",
+      "endDate": null,
+      "duration": "2 yrs",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFEl-c-MprDFQ/company-logo_100_100/company-logo_100_100/0/1735198653833/geeksforgeeks_logo?e=1759363200&v=beta&t=MuMB18_dkS3vJrhcwIynr3V1Qk7CtsyB50-lOq0XFjc"
+    },
+    {
+      "title": "Freelance Data Scientist",
+      "company": "Self-employed",
+      "employmentType": "Freelance",
+      "location": "Remote",
+      "startDate": "Feb 2019",
+      "endDate": "Aug 2023",
+      "duration": "4 yrs 7 mos"
+    },
+    {
+      "title": "Big Data Engineering Trainer",
+      "company": "UNext Learning",
+      "employmentType": "Part-time",
+      "location": "On-site",
+      "startDate": "Aug 2022",
+      "endDate": "Jul 2023",
+      "duration": "1 yr",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGH9eo__5HuRw/company-logo_100_100/company-logo_100_100/0/1708340557640/unext_learning_logo?e=1759363200&v=beta&t=iLMf35dgaiLyoA_BJ7Zxms005hzb9_nRcoi1UV_M-ls"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Coding Invaders by MentorsPro",
+      "employmentType": "Full-time",
+      "location": "Remote",
+      "startDate": "Nov 2022",
+      "endDate": "Jun 2023",
+      "duration": "8 mos",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEybXp_BE9Irw/company-logo_100_100/company-logo_100_100/0/1676628610576/coding_invaders_logo?e=1759363200&v=beta&t=BnTIuAISbU-XtFGq55vdvhOwHS0IlxD6obhngdyNXIQ"
+    },
+    {
+      "title": "Data Science Mentor",
+      "company": "PW (PhysicsWallah)",
+      "employmentType": "Part-time",
+      "location": "Remote",
+      "startDate": "May 2022",
+      "endDate": "Mar 2023",
+      "duration": "11 mos"
+    }
+  ],
+  "Education": [
+    {
+      "school": "CHANDIGARH UNIVERSITY",
+      "degree": "Bachelor of Engineering",
+      "fieldOfStudy": "Engineering",
+      "startDate": "Jun 2013",
+      "endDate": "Jun 2017",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEuPBIM-KISlA/company-logo_100_100/company-logo_100_100/0/1692166384127/chandigarh_university_logo?e=1759363200&v=beta&t=iOj4drGlsHg8YwTExKckJXAqpsw3CRM8w7Y9TyvNx2U"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Google Data Analytics Specialization",
+      "issuer": "Coursera",
+      "issueDate": null,
+      "credentialID": "N2HD2ZGSULD9",
+      "credentialURL": "https://www.coursera.org/account/accomplishments/certificate/N2HD2ZGSULD9"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "issueDate": "Apr 2023",
+      "credentialID": "N2HD2ZGSULD9"
+    }
+  ],
+  "Skills": [
+    "Machine Learning",
+    "EDA",
+    "Microsoft Power BI",
+    "Apache Spark",
+    "SQL",
+    "Regression Analysis",
+    "Microsoft Excel",
+    "Python",
+    "Power BI",
+    "Tableau",
+    "ML",
+    "NLP",
+    "DL",
+    "Azure",
+    "Databricks"
+  ]
+}
+```

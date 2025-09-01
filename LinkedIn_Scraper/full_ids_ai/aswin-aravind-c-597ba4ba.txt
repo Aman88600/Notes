@@ -1,0 +1,125 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Rudra Pratap",
+    "currentTitle": "Data Scientist 2",
+    "currentCompany": "Bain & Company",
+    "location": "Gurugram, Haryana, India",
+    "profileUrl": "https://www.linkedin.com/in/rps7894/",
+    "connections": "500+",
+    "summary": "As a Data Scientist with four years of experience, I specialize in natural language processing and predictive modeling, adept at leveraging machine learning and deep learning models to tackle challenging business problems. My tenure at NewsBytes and iNeuron has been marked by leading transformative AI/ML projects, enhancing operational efficiencies, and enriching user engagement across sports and news platforms."
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Top Machine Learning Voice",
+      "date": "Recently",
+      "description": "LinkedIn honored me with the title of 'Top Machine Learning Voice'. This recognition inspires me to keep learning and sharing.",
+      "hashtags": ["#topvoice", "#machinelearning", "#acheivement"],
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7168827059396448256"
+    },
+    {
+      "type": "Post",
+      "title": "Mastering Data Science Interviews – Day 5",
+      "date": "Recently",
+      "description": "Spotlight on Probability Density Function (PDF) and Cumulative Distribution Function (CDF) and their pivotal role in statistical analysis.",
+      "hashtags": ["#DataScience", "#Statistics", "#PDF", "#CDF", "#InterviewPreparation"],
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7164483609079349248"
+    },
+    {
+      "type": "Engagement",
+      "description": "Congratulated peers (Ayush, Rishita, Vipul) on their achievements.",
+      "dates": ["5mo", "8mo"],
+      "urls": [
+        "https://www.linkedin.com/feed/update/urn:li:ugcPost:7312711047864324096?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7312711047864324096%2C7312741901432995840%29",
+        "https://www.linkedin.com/feed/update/urn:li:ugcPost:7276938432243757056?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7276938432243757056%2C7277234541033861121%29"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist 2",
+      "company": "Bain & Company",
+      "location": "Gurugram, Haryana, India",
+      "type": "Full-time",
+      "date": "Dec 2024 - Present",
+      "duration": "9 mos"
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Georgia Institute of Technology",
+      "location": "Remote",
+      "date": "May 2024 - May 2025",
+      "duration": "1 yr 1 mo"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Capri Global Capital Ltd.",
+      "location": "Gurugram, Haryana, India",
+      "type": "Full-time",
+      "date": "Mar 2024 - Dec 2024",
+      "duration": "10 mos",
+      "responsibilities": [
+        "Developed an automated query response and job recommendation system.",
+        "Worked on NLP and computer vision projects deployed on cloud and edge devices.",
+        "Created accessible content on research findings and technological advancements."
+      ]
+    },
+    {
+      "title": "Data Scientist / AI/ML Engineer",
+      "company": "NewsBytes",
+      "type": "Full-time",
+      "date": "Jun 2021 - Mar 2024",
+      "duration": "2 yrs 10 mos",
+      "responsibilities": [
+        "Fantasy Cricket Recommendation System: Built an engine for personalized fantasy cricket suggestions.",
+        "Cricket Query Answering System: Developed NLP-based real-time Q&A system.",
+        "Content Sourcing Module: Automated aggregation/curation across media categories.",
+        "SEO Audit Tool: Created AI-powered SEO optimization tool."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "degree": "Master of Science (MS) in Computer Science",
+      "duration": "Jan 2024 - Dec 2026",
+      "highlights": [
+        "Current: Natural Language Processing",
+        "Completed: Machine Learning for Trading, Machine Learning, Reinforcement Learning, DBSE"
+      ]
+    },
+    {
+      "institution": "Jaypee Institute Of Information Technology",
+      "degree": "Bachelor of Technology (BTech), Electrical, Electronic and Communications Engineering Technology/Technician",
+      "duration": "2017 - 2021",
+      "activities": "Conferences attended: IC3. Technical events: Cyber Srishti; Vidyut."
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Data Science",
+      "organization": "",
+      "details": "Coursework covering multiple aspects of data science."
+    },
+    {
+      "title": "Deep Learning",
+      "organization": "",
+      "details": "Coursework covering deep learning."
+    }
+  ],
+  "Skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "Large Language Models (LLM)",
+    "Natural Language Processing (NLP)",
+    "Python (Programming Language)",
+    "Artificial Intelligence (AI)",
+    "Data Analysis",
+    "Statistical Data Analysis",
+    "Content Sourcing",
+    "SEO Optimization"
+  ]
+}
+```
+This JSON arranges the provided details according to the requested structure: **Basic Info**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills**. Non-essential code and markup snippets were excluded for clarity. If you need further structuring (like including projects or honors), fields can be expanded as needed.

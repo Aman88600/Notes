@@ -1,0 +1,145 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Rohan Choudhary",
+    "Title": "Data Scientist 2 @Mastercard | Former Samsung Research, Ofb-Tech | Big Data Analytics | Gen AI | NLP : LLMs",
+    "ProfilePhoto": "https://media.licdn.com/dms/image/v2/D5603AQFprkmXPWZzOA/profile-displayphoto-shrink_100_100/B56ZTDfhMHHwAU-/0/1738446607549?e=1759363200&v=beta&t=9CA9dFtqcqEN-OG50cSFCyX5-OMpAMDxiwO-AvApKj8",
+    "Location": "Gurugram, Haryana, India",
+    "Connections": "500+",
+    "Followers": 10338,
+    "LinkedIn": "https://www.linkedin.com/in/rohanchoudhary12/",
+    "CodeChef": "https://www.codechef.com/users/iamrohan12",
+    "Topmate": "https://topmate.io/rohan_choudhary_data/",
+    "Languages": [
+      {
+        "Language": "English",
+        "Proficiency": "Native or bilingual proficiency"
+      },
+      {
+        "Language": "Hindi",
+        "Proficiency": "Professional working proficiency"
+      }
+    ],
+    "About": "Rohan has more than 3.5+ years of experience in AI and Data Science. Hard working, efficient, and quality-driven professional. Career priority: AWS Data Engineering & AI (NLP/LLM/Machine learning/Deep learning with Sagemaker). Strong technical and analytical skills, quick learner, consistently recognized in the workplace."
+  },
+  "Activity": [
+    {
+      "Type": "Post",
+      "Date": "Feb 2024",
+      "Content": "Spot award winner [Shining Star award] in Wearables Department of Samsung R&D Noida for Q3 of FY22.",
+      "URL": "https://www.linkedin.com/feed/update/urn:li:activity:6996508129618202625?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6996508129618202625%29",
+      "Image": "https://media.licdn.com/dms/image/v2/C4D1FAQFxO1BtE5EzXQ/feedshare-document-cover-images_480/feedshare-document-cover-images_480/0/1668097272239?e=1757271600&v=beta&t=nFU5jojvyj4fKR9DEPEDQvm8Gte7hoFfNRZ1-L-y9GI"
+    },
+    {
+      "Type": "Project",
+      "Title": "Football Player Recommendation System",
+      "Description": "Alternative player recommender for FIFA/PES/DLS with 113 features such as position, goals, assists, etc.",
+      "URL": "https://therohanchoudhary-football-player-recommender-system-app-rmntvm.streamlit.app/"
+    },
+    {
+      "Type": "Project",
+      "Title": "Financial Literacy Bot",
+      "Description": "LLAMA2 base model with 7B parameters. RAG retrieves context from financial documents. Streamlit used for deployment.",
+      "Skills": ["Document Retrieval", "Deep Learning", "PCA", "Artificial Intelligence (AI)", "NLP"]
+    }
+  ],
+  "Experience": [
+    {
+      "Role": "Data Scientist 2",
+      "Company": "Mastercard",
+      "Location": "Gurugram, Haryana, India · Hybrid",
+      "Type": "Full-time",
+      "StartDate": "Mar 2025",
+      "EndDate": "Present",
+      "Duration": "6 mos",
+      "Description": [
+        "Led sleep audio segmentation project with MLFlow, developed deep learning model (CNN, LSTM, TimeDistributed layers).",
+        "Filed an A1-grade patent as Main Inventor for wearable sensor accuracy.",
+        "Developed AWS backend integrating with Government of India and Samsung Cloud VPC, scalable Lambda functions for large data.",
+        "Fine-tuned and quantized Mixtral 8x7B LLM model on research papers with TensorRT and LangChain.",
+        "Built AWS Glue catalog and ETL pipeline; automated with MWAA and S3-based triggers.",
+        "Developed sensor-based activity detection with Kafka-Databricks, using Fourier transforms."
+      ]
+    },
+    {
+      "Role": "Data Science Engineer 1",
+      "Company": "Samsung R&D Institute India",
+      "Location": "Noida, Uttar Pradesh, India · Hybrid",
+      "Type": "Full-time",
+      "StartDate": "Jun 2022",
+      "EndDate": "Mar 2025",
+      "Duration": "2 yrs 10 mos",
+      "Description": [
+        "Led ML and AWS-powered wearable data projects.",
+        "Contributed as main inventor for wearable accuracy patent.",
+        "Automated large pipelines for research data and analytics."
+      ]
+    },
+    {
+      "Role": "Software Engineer Intern",
+      "Company": "OfBusiness",
+      "Location": "Gurugram, Haryana, India",
+      "Type": "Internship",
+      "StartDate": "Oct 2021",
+      "EndDate": "Jun 2022",
+      "Duration": "9 mos",
+      "Description": [
+        "Worked on Bidassist and SME Loans-Raw Materials applications.",
+        "Completed 70+ tasks related to features, bug fixes, and user analytics.",
+        "Major contributor in GitHub repository."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "J.C. Bose University of Science and Technology, YMCA",
+      "Location": "Faridabad",
+      "Degree": "Bachelor of Technology - BTech, Computer Engineering",
+      "StartYear": 2018,
+      "EndYear": 2022,
+      "Achievements": [
+        "Secretary of Career & Counselling Cell",
+        "JEE Mains - 97.6 percentile",
+        "CBSE 12th - 95% in PCM",
+        "CBSE 10th - 10.0 CGPA"
+      ]
+    },
+    {
+      "Institution": "Amity University",
+      "Degree": "Student, Physics, Chemistry & Maths",
+      "StartYear": 2011,
+      "EndYear": 2018,
+      "Activities": [
+        "Mental Maths club",
+        "MUN Society"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Advanced Prompt Engineering Techniques",
+      "Authority": "LinkedIn",
+      "DateIssued": "May 2024",
+      "CredentialURL": "https://www.linkedin.com/learning/certificates/3e2a8b3a5c839df770e9e979d979d8ba7479649b24750cefc68847e7fdb83dd8"
+    },
+    {
+      "Name": "Model Context Protocol (MCP): Hands-On with Agentic AI",
+      "Authority": "LinkedIn",
+      "DateIssued": "Apr 2025"
+    }
+  ],
+  "Skills": [
+    "Data Structures",
+    "Natural Language Processing (NLP)",
+    "Amazon Web Services (AWS)",
+    "Apache Spark",
+    "Hadoop",
+    "Data Analysis",
+    "Application Programming Interfaces (API)",
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Prompt Engineering"
+  ]
+}
+```

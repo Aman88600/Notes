@@ -1,0 +1,112 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Damini Dasgupta",
+    "current_position": "Senior Data Scientist",
+    "current_company": "Oliver Wyman",
+    "location": "Gurugram, Haryana, India",
+    "profile_summary": "A data science professional with a background in statistics. Skilled in ensuring timely delivery of projects, and always willing to learn something new. Making a career out of a passion for numbers and analytics.",
+    "connections": "500+",
+    "profile_pic_url": "https://media.licdn.com/dms/image/v2/D5603AQEjrA4GdYTMkA/profile-displayphoto-shrink_100_100/B56ZczvKQrHEAU-/0/1748919691385?e=1759363200&v=beta&t=7MtX6yZleJiExj4H2O2wK2gzIryXzbCfZE6YD_-5-uU"
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Dealing with Imbalanced Datasets in ML Classification Problems | DataHour by Damini Dasgupta",
+      "platform": "YouTube / Analytics Vidhya",
+      "description": "Hosted a webinar on 'Dealing with Imbalanced Datasets for Classification problems', as part of Analytics Vidhya's Data Hour series.",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7033497231777280000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7033497231777280000%29",
+      "engagement": {
+        "comments": 12,
+        "reactions": 123
+      }
+    },
+    {
+      "type": "Post",
+      "title": "A good introduction to the basics of CART algorithms.",
+      "description": "Detailed and yet clear. Completion Certificate for Supervised Machine Learning: Regression and Classification.",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7018114123217481728?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018114123217481728%29",
+      "engagement": {
+        "comments": 33
+      }
+    },
+    {
+      "type": "Post",
+      "title": "Post on #promoted, #consultant, #datascience, #eyindia, #firstday, #oliverwymanindia, #gurugram, #newoffice"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Oliver Wyman",
+      "location": "Gurugram, Haryana, India",
+      "employment_type": "Full-time",
+      "duration": "Jan 2025 - Present (8 mos)",
+      "mode": "Hybrid",
+      "responsibilities": [
+        "Fraud modelling of outgoing check fraud on consumer and non-consumer portfolio segments.",
+        "Communicate with clients to align project expectations and maintain transparency.",
+        "Help clients obtain the best insights by leveraging data science and machine learning."
+      ]
+    },
+    {
+      "title": "Assistant Manager",
+      "company": "Bank of America",
+      "location": "Gurugram, Haryana, India",
+      "employment_type": "Full-time",
+      "duration": "Oct 2023 - Jan 2025 (1 yr 4 mos)",
+      "mode": "On-site",
+      "responsibilities": [
+        "End-to-end modelling for various machine learning projects for an FMCG major."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Decision Tree Analytics",
+      "employment_type": "Full-time",
+      "duration": "",
+      "mode": "On-site"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Delhi University",
+      "degree": "Master of Science - MS",
+      "field": "Statistics",
+      "period": "2018 - 2020"
+    },
+    {
+      "school": "St. Xavier's College (Autonomous), Kolkata",
+      "degree": "Bachelor of Science - BS",
+      "field": "Statistics",
+      "period": "2015 - 2018"
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Supervised Machine Learning: Regression and Classification",
+      "provider": "Coursera / associated platform",
+      "type": "Completion Certificate"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Data Visualization",
+      "endorsements": 3
+    },
+    {
+      "name": "Python (Programming Language)",
+      "endorsements": 6
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Data Analytics and Machine Learning"
+    },
+    {
+      "name": "Statistics"
+    }
+  ]
+}
+```

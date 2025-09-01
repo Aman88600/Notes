@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Nupp, et lisada rakendusele arvustus.",
+      "message": "Lisa arvustus"
+   },
+   "allowPermissions": {
+      "description": "Nuppude silt, mis lubab rakendusele load.",
+      "message": "Luba load"
+   },
+   "autoScroll": {
+      "description": "Lüliti silt, mis kontrollib, kas iga elemendi kogumisel toimub automaatne kerimine.",
+      "message": "Automaatkerimine"
+   },
+   "back": {
+      "description": "Silt nupule, mis viib eelmisele ekraanile tagasi.",
+      "message": "Tagasi"
+   },
+   "cancel": {
+      "description": "Silt tühistamise toimingu jaoks.",
+      "message": "Tühista"
+   },
+   "changeList": {
+      "description": "Nupu silt nimekirja muutmiseks.",
+      "message": "Muuda nimekirja"
+   },
+   "changeSelectionLevel": {
+      "description": "Tegevuse kirjeldus, mis muudab elemendi valimisel valiku taset.",
+      "message": "Muuda valiku tase"
+   },
+   "chooseFile": {
+      "description": "Silt nupule, et valida üleslaadimiseks fail.",
+      "message": "Vali fail"
+   },
+   "click": {
+      "description": "Silt klõpsamise toimingu jaoks.",
+      "message": "Klõpsa"
+   },
+   "clickLoadMore": {
+      "description": "Silt valiku jaoks, et klõpsata nuppu ja laadida samal lehel rohkem esemeid.",
+      "message": "Klõpsa nuppu, et laadida rohkem esemeid samale lehele"
+   },
+   "clickNextPage": {
+      "description": "Silt valiku kohta klõpsata linki, et liikuda järgmisele lehele ja laadida rohkem üksusi skreipimisel.",
+      "message": "Klõpsake linki, et liikuda järgmisele lehele"
+   },
+   "column": {
+      "description": "Silt \u003Cselect> elemendile valimiseks, mis veerg sisaldab CSV-st kraabitavaid URL-e.",
+      "message": "Veerg"
+   },
+   "confirm": {
+      "description": "Silt kinnitustegevuse jaoks.",
+      "message": "Kinnita"
+   },
+   "continue": {
+      "description": "Silt nupule, et jätkata järgmisele ekraanile.",
+      "message": "Jätka"
+   },
+   "copy": {
+      "description": "Nuppu silt andmete lõikelauale kopeerimiseks.",
+      "message": "Kopeeri"
+   },
+   "csvFile": {
+      "description": "Silt faili sisendi märgistamiseks CSV-faili üleslaadimiseks",
+      "message": "$FILE_TYPE$ fail",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Vaikimisi nimi üksikasjade lehtede kraapijale.",
+      "message": "Hangi andmeid domeenilt $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Menüüelemendi silt puhastaja kustutamiseks.",
+      "message": "Kustuta"
+   },
+   "dismiss": {
+      "description": "Tegevus hoiatuse eiramiseks.",
+      "message": "Lükka tagasi"
+   },
+   "duration": {
+      "description": "Silt, mis näitab praeguse skreipi kestust.",
+      "message": "Kestus"
+   },
+   "esc": {
+      "description": "Silt Escape klahvi jaoks.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Menüüelemendi silt kraapija eksportimiseks.",
+      "message": "Ekspordi"
+   },
+   "extractData": {
+      "description": "Menüüelementi silt, et käivitada skreipimine ja andmete ekstraktimine igalt URL-ilt.",
+      "message": "Ekstrakti andmed"
+   },
+   "finish": {
+      "description": "Nuppude silt elementide valimise lõpetamiseks lehel.",
+      "message": "Lõpeta"
+   },
+   "headerRow": {
+      "description": "Abitekst selgitamaks, et üleslaaditud CSV-fail peab alustama päisereaga.",
+      "message": "Peab alustama päisereaga"
+   },
+   "headerRowRequired": {
+      "description": "Hoiatus, mis kuvatakse, kui üles laaditud CSV-st tundub puuduvat päiserida.",
+      "message": "Päiserida on nõutav"
+   },
+   "help": {
+      "description": "Nupp, et avada abi leht.",
+      "message": "Abi"
+   },
+   "hideOptions": {
+      "description": "Nupp, mis peidab rohkem valikuid andmete kogumiseks.",
+      "message": "Peida valikud"
+   },
+   "import": {
+      "description": "Menüüelemendi silt skreeperi importimiseks.",
+      "message": "Impordi"
+   },
+   "install": {
+      "description": "Nuppude silt rakenduse uusima versiooni paigaldamiseks.",
+      "message": "Paigalda uusim versioon"
+   },
+   "invalidTab": {
+      "description": "Veateade, kui sihtkaardil on piiratud sait avatud.",
+      "message": "See lehekülg on piiratud. Proovi mõnda teist saiti."
+   },
+   "invalidVersion": {
+      "description": "Juhenda kasutajat installeerima rakenduse viimast versiooni.",
+      "message": "$APP_NAME$ ei ole enam beetaversioonis! Installeeri viimane versioon, et saada uusimaid uuendusi.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Silt, mis näitab kraabitud üksuste arvu nimekirja kraapimisel.",
+      "message": "Üksused"
+   },
+   "loadMoreAction": {
+      "description": "Silt \u003Cselect> elemendi valimiseks, kuidas rohkem üksusi laadida, kui skreipimine toimub.",
+      "message": "Tegevus rohkemate üksuste laadimiseks"
+   },
+   "max": {
+      "description": "Silt sisestusele, mis juhib maksimaalse ooteaja määramist, kui laaditakse rohkem esemeid või lehekülgi.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Silt sisendi määramiseks, mis seab piiri kraabitavate esemete arvule.",
+      "message": "Maksimaalne esemete arv"
+   },
+   "maxItemsHelp": {
+      "description": "Abitekst, mis teavitab kasutajat, et maksimaalsete üksuste sisestusvälja tühjaks jätmisel ei seata limiiti.",
+      "message": "Jäta tühjaks, kui piirangut ei soovi"
+   },
+   "maxItemsReached": {
+      "description": "Hoiatuse kirjeldus, mis näitab, et kogutavate üksuste maksimaalne piir on saavutatud.",
+      "message": "Edukalt kogutud määratud limiidini. Jätkamiseks suurendage maksimaalsete üksuste valikut."
+   },
+   "mediaUrl": {
+      "description": "Silt meedia URL-i välja jaoks, mis on püütud elemendist.",
+      "message": "Meedia URL"
+   },
+   "min": {
+      "description": "Silt sisendi jaoks, mis reguleerib minimaalset aega, mida oodata elementide või lehtede laadimisel lisamisel.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Veateade, kui ei õnnestu sihtvahekaardi andmetele juurde pääseda.",
+      "message": "Vahekaart, mida selle ülesande jaoks kasutasite, on suletud. Palun sulge see aken ja proovi uuesti."
+   },
+   "missingTabPermission": {
+      "description": "Veateade, kui ei pääse sihtvahelehe andmetele ligi.",
+      "message": "Ei saa vahelehele juurdepääsu. Sulge see aken ja proovi uuesti."
+   },
+   "missingUrlColumn": {
+      "description": "Tõrketeade, kui CSV-failist puuduvad URL-idega veerud.",
+      "message": "Veerge URL-idega ei leitud. Palun valige teine fail."
+   },
+   "newScraper": {
+      "description": "Nupu silt uue kraapija loomiseks.",
+      "message": "Uus kraapija"
+   },
+   "noData": {
+      "description": "Kohatäide tabelis, kui andmeid pole kuvada.",
+      "message": "Andmeid pole"
+   },
+   "noFileChosen": {
+      "description": "Sõnum, mis kuvatakse, kui faili pole valitud.",
+      "message": "Faili pole valitud"
+   },
+   "noList": {
+      "description": "Koht, kus näidata, kui lehte ei leita.",
+      "message": "Ei leia lehte lehelt"
+   },
+   "none": {
+      "description": "Silt võimaluse kohta mitte laadida rohkem üksusi, kui kooritakse.",
+      "message": "Puudub"
+   },
+   "options": {
+      "description": "Nupp sildi kuvamiseks veebi kraapija valikute jaoks.",
+      "message": "Valikud"
+   },
+   "pages": {
+      "description": "Silt, mis näitab skreebitud lehekülgede arvu nimekirja skreebimisel.",
+      "message": "Leheküljed"
+   },
+   "permissionsDescription": {
+      "description": "Abitekst, mis selgitab, et rakendus vajab lisalubasid URL-idele juurdepääsuks ja nende kraapimiseks.",
+      "message": "$APP_NAME$ vajab lisalubasid URL-idele juurdepääsuks ja nende kraapimiseks",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Märgistekst, mis näitab, et kuvatavad andmed on skreeperist eelvaade.",
+      "message": "Eelvaade"
+   },
+   "remainingPages": {
+      "description": "Silt näitamaks järelejäänud lehtede arvu, mis vajavad andmete kogumist.",
+      "message": "Järelejäänud"
+   },
+   "rename": {
+      "description": "Menüüelementi nime muutmise silt.",
+      "message": "Nimeta ümber"
+   },
+   "reviewDescription": {
+      "description": "Paluda kasutajal jätta rakendusele arvustus.",
+      "message": "Tere, mina olen $NAME$. Lõin $APP_NAME$, et aidata inimestel aega säästa. Kui sulle meeldib seda kasutada, siis hindaksin väga 5-tärni hinnangut, et teisedki $APP_NAME$ avastaksid. Suur tänu!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Tänage kasutajat rakenduse kasutamise eest.",
+      "message": "Täname, et kasutate $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Silt valikule, mis näitab ekraani detaillehtede kogumiseks igale loendis olevale üksusele.",
+      "message": "Hangi üksikasjade kogumine"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Kirjeldus, et õpetada kasutajat detailide lehekülge kraapima.",
+      "message": "Iga URL-i kraapimiseks loendis valige loendi CSV-failina allalaadimise järel paremast ülanurgast menüüst \"$LABEL$\".",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Kraabi andmed"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Pealkiri vihje kohta, et harida kasutajat üksikasjade lehtede kaapimise kohta.",
+      "message": "Vihje: Üksikasjade lehtede kaapimine"
+   },
+   "scrapeList": {
+      "description": "Silt valiku kohta, mis näitab ekraani nimekirja kaapimiseks.",
+      "message": "Kaabi nimekiri"
+   },
+   "scrapedPages": {
+      "description": "Silt, mis näitab kraabitud lehtede arvu, kui kraabitakse üksikasjalikke lehti.",
+      "message": "Kraabitud"
+   },
+   "scrapingComplete": {
+      "description": "Hoiatuse pealkiri, mis näitab, et kaapimine on lõpetatud.",
+      "message": "Kaapimine lõpetatud"
+   },
+   "scrapingStatus": {
+      "description": "Silt, mis näitab, et andmete kaevandamine on käimas.",
+      "message": "Andmete kaevandamine..."
+   },
+   "scrollDelay": {
+      "description": "Silt sisendile, mis kontrollib, kui kaua millisekundites oodata iga elemendi juurde kerimisel andmete kogumise ajal.",
+      "message": "Kerimisviivitus (ms)"
+   },
+   "scrollDown": {
+      "description": "Silt valiku kohta, et kerida alla rohkemate üksuste laadimiseks skraapimisel.",
+      "message": "Kerige alla, et laadida rohkem üksusi"
+   },
+   "select": {
+      "description": "Nupp, et valida lehel element.",
+      "message": "Vali"
+   },
+   "selectElement": {
+      "description": "Pealkiri, mida kuvatakse elemendi valimisel.",
+      "message": "Vali element"
+   },
+   "selectField": {
+      "description": "Kirjeldus tegevusest välja valimiseks, mida jäädvustada.",
+      "message": "Vali väli"
+   },
+   "selectList": {
+      "description": "Pealkiri, mida kuvatakse nimekirja valimisel.",
+      "message": "Vali nimekiri"
+   },
+   "selectScraper": {
+      "description": "Sildi kirjeldus menüüelemendile, et valida iga URL-i kraapimiseks kasutatav skreeper.",
+      "message": "Vali skreeper"
+   },
+   "selectScraperOption": {
+      "description": "Juhis valimaks skreeperit hetkel kasutatavale domeenile.",
+      "message": "Valige skreeper domeenile $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Nupp, et näidata rohkem valikuid kraapimiseks.",
+      "message": "Näita valikuid"
+   },
+   "startScraping": {
+      "description": "Nupu silt kraapimise alustamiseks.",
+      "message": "Alusta kraapimist"
+   },
+   "stopScraping": {
+      "description": "Nupp, et lõpetada andmete kogumine.",
+      "message": "Lõpeta andmete kogumine"
+   },
+   "tabNotFound": {
+      "description": "Veateade, kui sihtmärki vahelehte ei eksisteeri.",
+      "message": "Vahelehte ei leitud. Sulge see aken ja proovi uuesti."
+   },
+   "testUrl": {
+      "description": "Sildi tekstisisendi märgis testimis-URL-i kasutamiseks kraapija valimisel.",
+      "message": "Test URL"
+   },
+   "text": {
+      "description": "Silt tekstiväljalt püütud elemendi jaoks.",
+      "message": "Tekst"
+   },
+   "uploadUrls": {
+      "description": "Menüüelemendi silt faili üleslaadimiseks URL-idega kraapimiseks.",
+      "message": "Laadi URL-id üles"
+   },
+   "url": {
+      "description": "Silt URL-välja jaoks, mis on püütud elemendist.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Hoiatus, mis kuvatakse, kui valitud veerunimi on URL ja CSV-fail võib olla ilma päiseridadeta.",
+      "message": "Veerunimi tundub olevat URL. Palun veenduge, et CSV-fail algab päiseridade reaga, mis sisaldab veergude nimesid."
+   },
+   "verify": {
+      "description": "Nupu silt valitud elemendi kinnitamiseks, tõstes selle lehel esile.",
+      "message": "Kinnita"
+   },
+   "waitTimeItems": {
+      "description": "Silt sisenditele, mis reguleerivad, kui kaua oodata sekundites, kui laaditakse rohkem üksusi.",
+      "message": "Ooteaeg täiendavate üksuste laadimiseks (sekundid)"
+   },
+   "waitTimePages": {
+      "description": "Silt sisenditele, mis kontrollivad, kui kaua sekundites lehti laadida.",
+      "message": "Ooteaeg lehtede laadimiseks (sekundid)"
+   }
+}

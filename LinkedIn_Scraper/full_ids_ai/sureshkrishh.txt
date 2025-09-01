@@ -1,0 +1,138 @@
+Here is a structured JSON representation of the profile you provided, mapping the data to the requested fields: Basic Info, Activity, Experience, Education, Certification, and Skills.
+
+```json
+{
+  "BasicInfo": {
+    "Name": "Suresh Krishna",
+    "Headline": "Data Scientist @ iOPEX Technologies || Data enthusiast || Trainer and Mentor || Tech Talent || Data Analyst || GCP || Machine learning || AI || SQL || Business intelligence || Educator",
+    "Location": "Chennai, Tamil Nadu, India",
+    "Languages": [
+      {
+        "Language": "English",
+        "Proficiency": "Full professional proficiency"
+      },
+      {
+        "Language": "Tamil",
+        "Proficiency": "Native or bilingual proficiency"
+      }
+    ],
+    "ContactInfo": {
+      "LinkedIn": "https://www.linkedin.com/in/sureshkrishh/"
+    },
+    "About": "The goal is to turn data into information, and information into insight. Data science enthusiast with experience of working on end to end analytics project that involves Data Analysis, Data Visualisation, ML Model building and ML Model Deployment. Quick learner with the ability to transform data into value for the organisation."
+  },
+  "Activity": [
+    {
+      "Type": "Post",
+      "Date": "3 months ago",
+      "Text": "HANDLING IMBALANCED DATASETS: Class imbalance is common... Over sampling techniques: SMOTE, ADASYN, SMOTETomek, SMOTEENN...",
+      "Hashtags": [
+        "#deeplearning", "#algorithms", "#artificialintelligence", "#machinelearning",
+        "#ai", "#statistics", "#research", "#analytics"
+      ],
+      "Reactions": 47,
+      "Comments": 1
+    },
+    {
+      "Type": "Post",
+      "Date": "",
+      "Text": "Tabular representation is the most common form of data representation... Inner join, Left join ... The below visualisations help to understand the outputs of joins.",
+      "Hashtags": [
+        "#datascience", "#dataanalytics", "#sql", "#ai", "#fullstackdeveloper",
+        "#jobsearch", "#datajobs", "#joins", "#tableau"
+      ]
+    },
+    {
+      "Type": "Post",
+      "Date": "",
+      "Text": "When it comes to #database, SQL is powerful. Command categories: DDL, DQL, DML, DCL, TCL...",
+      "Hashtags": [
+        "#sqlserver", "#sqlqueries", "#sqldatabase", "#sqldeveloper",
+        "#dataanalysis", "#etltools", "#etldeveloper", "#datascience", "#machinelearning"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Data Scientist",
+      "Company": "iOPEX Technologies",
+      "Location": "Chennai, Tamil Nadu, India (Hybrid)",
+      "Duration": "Aug 2021 - Present",
+      "Description": "Full-time. EDA, Python (Programming Language) and +9 skills."
+    },
+    {
+      "Title": "Machine Learning Consultant",
+      "Company": "Learnbay",
+      "Location": "Greater Bengaluru Area",
+      "Duration": "May 2021 - Jul 2021",
+      "Description": "Full-time. Machine Learning, Databases and +2 skills."
+    },
+    {
+      "Title": "Data Analyst",
+      "Company": "LIVEWIRE India",
+      "Location": "Tamil Nadu, India",
+      "Duration": "Nov 2019 - May 2021",
+      "Description": "Full-time."
+    }
+  ],
+  "Education": [
+    {
+      "School": "Liverpool John Moores University",
+      "Degree": "Master of Science - MS",
+      "FieldOfStudy": "Machine Learning and AI",
+      "Duration": "Aug 2023 - Mar 2024",
+      "SkillsLearned": [
+        "BERT (Language Model)", "Transformer Models"
+      ]
+    },
+    {
+      "School": "International Institute of Information Technology Bangalore",
+      "Degree": "Postgraduate Degree",
+      "FieldOfStudy": "Machine Learning & Artificial Intelligence",
+      "Duration": "Mar 2022 - May 2023",
+      "SkillsLearned": [
+        "Classification", "Regression Models"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "Title": "Attention Mechanism",
+      "Issuer": "Google Cloud Skills Boost",
+      "IssueDate": "May 2024",
+      "CredentialID": "9091499",
+      "Description": "Natural Language Processing (NLP) and Transformer Models"
+    },
+    {
+      "Title": "Encoder-Decoder Architecture",
+      "Issuer": "Google Cloud Skills Boost",
+      "IssueDate": "May 2024",
+      "CredentialID": "9090991"
+    }
+  ],
+  "Skills": [
+    "Python (Numpy, Pandas, SKLearn, Matplotlib, Statsmodel, D-Tale, Pandas-profiling, Sweet-viz)",
+    "SQL",
+    "Inferential Statistics",
+    "A/B Testing (Hypothesis testing)",
+    "Regression Analysis",
+    "Data Analysis",
+    "Data Visualization",
+    "Regression Modelling",
+    "Tree based models (Decision Tree, Random Forest)",
+    "KNN Classifier",
+    "Logistic Regression",
+    "Naive Bayes classifier",
+    "K-Means Clustering",
+    "Feature extraction (PCA)",
+    "Excel",
+    "Tableau",
+    "Microsoft PowerBI",
+    "Cloud: GCP (BigQuery, Cloud Storage, Cloud Composer Airflow, Dataflow, Cloud Function)",
+    "Databases",
+    "Data Management"
+  ]
+}
+```
+
+This JSON follows your requested field mapping and organizes the data for each section in a clear structure for further use or programmatic processing. If you need strict compliance to a JSON schema or any other additional fields, let me know.

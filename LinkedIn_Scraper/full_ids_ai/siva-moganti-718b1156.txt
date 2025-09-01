@@ -1,0 +1,90 @@
+```json
+{
+  "BasicInfo": {
+    "name": "SIVA MOGANTI",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQFyTb0UFXHNFA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1680520836040?e=1759363200&v=beta&t=SbPobIQAuA7JwDq45SDAefyJekFRQsWh6xwjf1vVgdc",
+    "headline": "Data Scientist at Light and Wonder",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "500+",
+    "followers": 832,
+    "linkedinUrl": "https://www.linkedin.com/in/siva-moganti-718b1156/"
+  },
+  "Activity": {
+    "recentPosts": [
+      {
+        "description": "Shared a post",
+        "imageUrl": "https://media.licdn.com/dms/image/v2/D5622AQFL5kThurYS5Q/feedshare-shrink_800/feedshare-shrink_800/0/1731924397131?e=1759363200&v=beta&t=jrhl6NfMe_eqSBUXtZW41ZnD71b2jAWjbXXaWaWhgJc",
+        "timestamp": "9 months ago"
+      },
+      {
+        "description": "Shared a post",
+        "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQFyTb0UFXHNFA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1680520836040?e=1759363200&v=beta&t=SbPobIQAuA7JwDq45SDAefyJekFRQsWh6xwjf1vVgdc",
+        "timestamp": "10 months ago"
+      }
+    ],
+    "comments": 14
+  },
+  "Experience": [
+    {
+      "company": "Light & Wonder India",
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQHS53h0f_u33g/company-logo_100_100/company-logo_100_100/0/1719880715688?e=1759363200&v=beta&t=Vbzq2rAgwfgFZ3rqke8B4ex0jSTZD1-es9iVivMzcDI",
+      "position": "Supervisor Data Scientist",
+      "employmentType": "Full-time",
+      "duration": "Apr 2024 to Present · 1 yr 5 mos",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Hybrid"
+    },
+    {
+      "company": "Light & Wonder India",
+      "position": "Lead Data Scientist",
+      "employmentType": "Full-time",
+      "duration": "Feb 2021 to Apr 2024 · 3 yrs 3 mos",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "company": "Scientific Games",
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQFq5S2_quv5Kg/company-logo_100_100/company-logo_100_100/0/1737132368259/scientific_games_logo?e=1759363200&v=beta&t=Hl6vMeF7hRg6aHNKSTjvW73hmMDwxkPEYAMx19rdMzY",
+      "position": "Data Scientist",
+      "employmentType": "Full-time",
+      "duration": "Apr 2018 to Feb 2021 · 2 yrs 11 mos",
+      "location": "Bangalore"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=1759363200&v=beta&t=te-qBnMSnflWB72WOO6hxr7WcScXxkapg7v4XaRxcKY",
+      "position": "Assistant Manager"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Andhra University",
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQEo6HZbQmfu1Q/company-logo_100_100/B56ZhbTeL.G0AQ-/0/1753878489957/andhra_university_logo?e=1759363200&v=beta&t=LnkRRrIiHzNd_UOal2gg6zcUJZdHHC9_rCVo1T2mU-8",
+      "degree": "Master of Science (M.Sc.)",
+      "field": "Computer Science and Statistics",
+      "years": "2009 - 2011"
+    },
+    {
+      "institution": "KGRL College (PG Courses)",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "field": "Mathematics and Computer Science",
+      "years": "2006 - 2009"
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Introduction to R",
+      "issuer": "DataCamp",
+      "credentialId": "1c868c37afac755f9794ab0454a06c7c9e6354a3"
+    }
+  ],
+  "Skills": [
+    "Tableau",
+    "Neural Networks",
+    "Machine Learning",
+    "Analytics",
+    "Artificial Intelligence (AI)",
+    "Amazon Web Services (AWS)"
+    // Assumed "+32 skills" and "+11 skills" can be represented as additional skills not listed here for brevity
+  ]
+}
+```

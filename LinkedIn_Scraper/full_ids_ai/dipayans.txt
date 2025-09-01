@@ -1,0 +1,114 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Ankit Jha",
+    "headline": "Senior Data Scientist @Delta Air Lines | Founder @PivotAI | Generative AI | Machine Learning | C++ | NLP | IIT Patna | Ex-Deutsche Telekom",
+    "current_location": "Bengaluru, Karnataka, India",
+    "summary": "I build AI systems that make sense. Currently, I’m a Senior Data Scientist at Delta Air Lines, working on Generative AI, NLP, and Causal Inference to solve real-world problems at scale. With a background in Machine Learning, Explainable AI, and C++, I specialize in creating AI models that are not just powerful but also interpretable and actionable. Beyond my role at Delta, I’m also building PivotAI, an initiative focused on AI-driven innovation. Previously, I worked at Deutsche Telekom, where I tackled complex ML challenges, optimizing large-scale AI applications.",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/D5603AQH3Ae3LjbUYBg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732862494864?e=1759363200&v=beta&t=jA3VH4N_mwUaDLcb4KANVA-AZBD4HswlPeYjrKjLuN0",
+    "connections": "500+",
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Full professional proficiency"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Native or bilingual proficiency"
+      }
+    ]
+  },
+  "Activity": [
+    {
+      "type": "Article",
+      "title": "How my team won the World's largest hackathon. Revealed.",
+      "url": "https://www.linkedin.com/pulse/how-my-team-won-worlds-largest-hackathon-revealed-ankit-jha",
+      "cover_image": "https://media.licdn.com/dms/image/v2/C5112AQFngiECUoMxMA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1553952051907?e=1762387200&v=beta&t=qv8OERIhIN7FNeEN_sqEZk3NIkO492W4mV7GHydddfM"
+    },
+    {
+      "type": "Article",
+      "title": "How to become a Machine Learning legend in 3 minutes and 56 seconds.",
+      "url": "https://www.linkedin.com/pulse/how-become-machine-learning-legend-3-minutes-56-seconds-ankit-jha",
+      "cover_image": "https://media.licdn.com/dms/image/v2/C5112AQGBTHNgJsjOQg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1563137559224?e=1762387200&v=beta&t=i2qLcC02jRS0B2tHAMCvoc-nSnDl10fl-zFX4D1Rivs"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Delta Air Lines",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "duration": "Jun 2024 - Present",
+      "description": "Working on Generative AI, NLP, and Causal Inference to solve real-world problems at scale. Specializes in scalable and interpretable ML solutions.",
+      "highlights": [
+        "Developed a novel approach to proactively identify broadband issues for customer satisfaction.",
+        "Leads AI innovation projects in Generative AI and causality."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Deutsche Telekom",
+      "duration": "Oct 2022 - Jun 2024",
+      "description": "Developed and deployed BERT models for text classification and process automation. Built and productionized feature engineering and ML toolkits.",
+      "highlights": [
+        "Created NLP pipelines and genetic algorithm-based feature engineering tools.",
+        "Led explainable AI efforts for transparency into ML processes."
+      ]
+    },
+    {
+      "title": "Data Science Associate",
+      "company": "ZS",
+      "duration": "Dec 2020 - Oct 2022",
+      "description": "Developed data-driven solutions and participated in scalable data processing with Big Data technologies."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Indian Institute of Technology, Patna",
+      "degree": "Master of Technology - MTech",
+      "field": "Artificial Intelligence",
+      "duration": "Feb 2023 - Jul 2025",
+      "description": "Spearheaded development of AI-powered digital security assistant; actively participated in hackathons and AI events."
+    },
+    {
+      "institution": "Institute of Technical Education and Research",
+      "degree": "Bachelor of Technology - BTech",
+      "field": "Computer Science Engineering",
+      "duration": "2016 - 2020"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Deep Learning A-Z",
+      "issuer": "Udemy",
+      "date": "Dec 2020",
+      "credential_id": "UC-dd5602b3-a320-473b-8c1b-02ecf3d4c198"
+    },
+    {
+      "name": "Machine Learning A-Z: AI, Python & R",
+      "issuer": "Udemy",
+      "date": "Jan 2019",
+      "credential_id": "UC-99b43aed-11cd-4dea-a9cf-9cb07ee7e71b"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "Natural Language Processing (NLP)",
+    "Machine Learning",
+    "Deep Learning",
+    "Large Language Models (LLM)",
+    "Causal Inference",
+    "Explainable AI",
+    "Scalable Machine Learning",
+    "High-Performance Computing (C++)",
+    "Object-Oriented Programming (OOP)",
+    "Data Architecture",
+    "Amazon Redshift",
+    "Python",
+    "Docker",
+    "Kubernetes",
+    "SQL",
+    "PySpark",
+    "Hadoop"
+  ]
+}
+```

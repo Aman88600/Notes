@@ -1,0 +1,13 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=8000 --user-data-dir="C:\Users\hp\Desktop\Coding\LinkedIn_Scraper\Chrome_Data"
+id = fenepi6892@aperiol.com
+id2 = tahefady@fxzig.com 
+id3 = riwakes418@lespedia.com
+neveke3278@noidem.com
+linkednin_password = linked_in_password
+releveance_ai_password = linked_in_passworD1
+
+data scientist site:linkedin.com/in
+
+
+
+

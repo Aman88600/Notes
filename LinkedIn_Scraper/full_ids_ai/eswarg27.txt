@@ -1,0 +1,65 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "ESWAR G",
+    "Headline": "Data Analyst | IABAC Certified Data Scientist | Python, SQL, Excel, Power BI, Tableau, Machine Learning | Turning Data into Business Insights",
+    "ProfilePhoto": "https://media.licdn.com/dms/image/v2/D5635AQHxYkPm7wDyDg/profile-framedphoto-shrink_100_100/B56ZiiKb7xHcAo-/0/1755067301992?e=1757271600&v=beta&t=7Ir6uzWThlahKmX1ox6jVoxgBBd4RidSwxaVZ7i3dwc",
+    "Location": null,
+    "Connections": "500+",
+    "Followers": 650,
+    "LinkedInURL": "https://www.linkedin.com/in/eswarg27"
+  },
+  "Activity": {
+    "Summary": "Loaded 9 Posts",
+    "RecentPosts": [
+      {
+        "Image": "https://media.licdn.com/dms/image/v2/D5622AQHoePDUd7QXDg/feedshare-shrink_800/B56ZSGb5X9HQAk-/0/1737422248954?e=1759363200&v=beta&t=VRRN6USdI07BqDnKOMNg92KR5VVdCloVI4NxxVRFue8"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Data Science Intern",
+      "Company": "Rubixe - AI Solutions Company",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C510BAQHg_uDSW0sFFg/company-logo_100_100/company-logo_100_100/0/1631435527114/rubixe_logo?e=1759363200&v=beta&t=wTtd8I--P02eL_R-3LsmYYSP2D2XFUc8OorPNmQ5xDE",
+      "Location": "Remote",
+      "Dates": "Jun 2024 - Dec 2024",
+      "Duration": "7 mos",
+      "Description": "Worked on a real-time project at Rubixe AI Solutions, gaining exposure to practical AI applications and machine learning workflows."
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "St. Joseph College of Arts & Science College (Autonomous), Cuddalore-607001",
+      "Degree": "Bachelor of Science - BS",
+      "FieldOfStudy": "Mathematics",
+      "Dates": "Jun 2021 - May 2024",
+      "Grade": "6.99"
+    }
+  ],
+  "Certification": [
+    {
+      "Title": "Certified Data Scientist",
+      "Issuer": "IABAC / Rubixe - AI Solutions Company",
+      "Url": null
+    }
+  ],
+  "Skills": [
+    "Python",
+    "Statistics",
+    "Machine Learning",
+    "Data Science",
+    "Power BI",
+    "Tableau",
+    "MySQL",
+    "Excel",
+    "NoSQL",
+    "Problem Solving",
+    "Data Visualization",
+    "Analytical Thinking",
+    "Certified Data Scientist"
+  ],
+  "About": "I hold a Bachelor's degree in Mathematics (B.Sc.) and have augmented my education with a certification in Data Science. I have hands-on experience in Python, Statistics, Machine learning, Data science, and visualization tools such as Power BI, Tableau, and MySQL. During my internship at Rubixe AI Solutions, I worked on a real-time project, gaining invaluable exposure to practical applications of AI. Additionally, I have completed several capstone projects, diving deep into Machine Learning (ML) and Deep Learning (DL) methodologies, further honing my analytical and problem-solving skills. I am passionate about leveraging data-driven insights to solve complex problems and am continuously expanding my skill set in the ever-evolving field of data science."
+}
+```
+This JSON structure organizes all the provided profile data into the requested fields: **Basic Info, Activity, Experience, Education, Certification, and Skills**. Unused or missing data (like specific locations or certification URLs) are set to null. If more granular "Courses" data or additional post/activity detail is needed, further expansion is possible.

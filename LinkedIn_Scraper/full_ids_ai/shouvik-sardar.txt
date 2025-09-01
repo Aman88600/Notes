@@ -1,0 +1,85 @@
+```json
+{
+  "Basic Info": {
+    "Name": "Shouvik Sardar",
+    "Current Title": "Principal Data Scientist & Global Technical Lead of AI-ML, Data Science division at Securonix",
+    "Location": "India",
+    "Languages": [
+      "Bengali",
+      "English"
+    ],
+    "Summary": "Strong knowledge in Machine Learning, Statistical models, Econometrics, Quantitative Finance. Over 10 years of industry experience in Data Science and Quantitative modelling. Proficient in R and Python. Experience in converting research prototypes into production. Completed Masters in Applications of Mathematics from Chennai Mathematical Institute and Bachelors in Statistics (Hons) from University of Calcutta.",
+    "LinkedIn": "https://www.linkedin.com/in/shouvik-sardar/",
+    "Connections": "500+"
+  },
+  "Activity": {
+    "Followers": 1162,
+    "Recent Posts": [
+      {
+        "Author": "Shouvik Sardar",
+        "Post Title": "Principal Data Scientist & Global Technical Lead of AI-ML, Data Science division at Securonix",
+        "Posted": "1 month ago"
+      },
+      {
+        "Author": "Sourish Das",
+        "Post Title": "Understanding Science with Data to Touch the Lives",
+        "Posted": "1 week ago"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Principal Data Scientist & Global Technical Lead of AI-ML, Data Science division",
+      "Company": "Securonix",
+      "Location": "India",
+      "Period": "Jan 2025 - Present",
+      "Duration": "8 months",
+      "Description": "Leading AI-ML/Data Science tech initiatives, building security solutions for digital environments. Focused on SIEM (Security Information and Event Management), innovation at intersection of AI-ML and cybersecurity."
+    },
+    {
+      "Title": "Senior Data Scientist",
+      "Company": "Virtana Corp.",
+      "Location": "Tamil Nadu, India",
+      "Period": "Jan 2020 - Jan 2025",
+      "Duration": "5 yrs 1 mo",
+      "Description": "Built statistical and machine learning models for performance assurance of cloud applications. Main projects included anomaly detection, scalability solutions, optimization, semi-supervised learning, dynamic SLO, extended visibility, automated root cause analysis (RCA), model pruning, and research-to-production."
+    },
+    {
+      "Title": "Data Scientist",
+      "Company": "HealthLucid",
+      "Location": "Bengaluru, Karnataka, India",
+      "Period": "Mar 2018 - Dec 2019",
+      "Duration": "1 yr 10 mos",
+      "Description": "Created machine learning models to reduce US healthcare expenses. Projects: Gaps in Care (chronic disease prediction, cost reduction), payment integrity (anomaly detection in claims), adoption strategies (A/B tests), episoding algorithm (predicting care episodes and costs)."
+    }
+  ],
+  "Education": [
+    {
+      "Institute": "Chennai Mathematical Institute",
+      "Degree": "Master's degree, Applied Mathematics",
+      "Years": "2012 - 2014"
+    },
+    {
+      "Institute": "University of Calcutta",
+      "Degree": "Bachelor of Science (BSc), Statistics (Honours), Mathematics, Economics",
+      "Years": "2009 - 2012"
+    }
+  ],
+  "Certification and Skills": {
+    "Certifications": [],
+    "Skills": [
+      "Machine Learning",
+      "Statistical Models",
+      "Econometrics",
+      "Quantitative Finance",
+      "Data Science",
+      "Quantitative Modelling",
+      "R",
+      "Python",
+      "Cloud Computing",
+      "Financial Risk Management"
+    ]
+  }
+}
+```
+This JSON organizes the supplied information under the requested fields in a clear and logical structure.

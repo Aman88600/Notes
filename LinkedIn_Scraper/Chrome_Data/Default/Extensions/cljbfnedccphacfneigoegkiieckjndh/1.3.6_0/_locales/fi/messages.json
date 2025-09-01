@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Napin tunniste, joka lisää arvostelun sovellukselle.",
+      "message": "Lisää arvostelu"
+   },
+   "allowPermissions": {
+      "description": "Nappulan teksti, joka sallii oikeudet sovellukselle.",
+      "message": "Salli oikeudet"
+   },
+   "autoScroll": {
+      "description": "Nimike kytkimelle, joka hallitsee, vieritetäänkö automaattisesti kunkin kohteen kohdalle skrapatessa.",
+      "message": "Automaattinen vieritys"
+   },
+   "back": {
+      "description": "Nimi painikkeelle, joka vie takaisin edelliseen näyttöön.",
+      "message": "Takaisin"
+   },
+   "cancel": {
+      "description": "Teksti peruutustoimintaa varten.",
+      "message": "Peruuta"
+   },
+   "changeList": {
+      "description": "Nappulan tunniste listan vaihtamiseksi.",
+      "message": "Vaihda lista"
+   },
+   "changeSelectionLevel": {
+      "description": "Kuvaus toiminnosta, jolla muutetaan valintatasoa elementtiä valittaessa.",
+      "message": "Muuta valintatasoa"
+   },
+   "chooseFile": {
+      "description": "Nappulan teksti tiedoston valitsemiseksi latausta varten.",
+      "message": "Valitse tiedosto"
+   },
+   "click": {
+      "description": "Merkintä klikkaustoiminnolle.",
+      "message": "Klikkaa"
+   },
+   "clickLoadMore": {
+      "description": "Nimike vaihtoehdolle napsauttaa painiketta, jotta samalle sivulle ladataan lisää kohteita skrapatessa.",
+      "message": "Napsauta painiketta ladataksesi lisää kohteita samalle sivulle"
+   },
+   "clickNextPage": {
+      "description": "Merkintä vaihtoehdolle napsauttaa linkkiä siirtyäkseen seuraavalle sivulle lisää kohteita ladattaessa.",
+      "message": "Napsauta linkkiä siirtyäksesi seuraavalle sivulle"
+   },
+   "column": {
+      "description": "Tunniste \u003Cselect>-elementille valitakseen sarakkeen, josta haetaan URL-osoitteita ladatusta CSV-tiedostosta.",
+      "message": "Sarake"
+   },
+   "confirm": {
+      "description": "Merkintä vahvistustoiminnolle.",
+      "message": "Vahvista"
+   },
+   "continue": {
+      "description": "Napin tunniste, jolla siirrytään seuraavaan näyttöön.",
+      "message": "Jatka"
+   },
+   "copy": {
+      "description": "Klikkaa tätä painiketta kopioidaksesi tiedot leikepöydälle.",
+      "message": "Kopioi"
+   },
+   "csvFile": {
+      "description": "Tunniste tiedostosyötölle CSV-tiedoston lataamiseksi",
+      "message": "$FILE_TYPE$ tiedosto",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Oletusnimi yksityiskohtien sivujen kaapparille.",
+      "message": "Poimi tiedot sivustolta $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "esimerkki.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Valikon kohdan nimi, jolla poistetaan scraper.",
+      "message": "Poista"
+   },
+   "dismiss": {
+      "description": "Toiminto hälytyksen hylkäämiseksi.",
+      "message": "Hylkää"
+   },
+   "duration": {
+      "description": "Merkintä näyttämään nykyisen haun keston.",
+      "message": "Kesto"
+   },
+   "esc": {
+      "description": "Merkintä Escape-näppäimelle.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Valikkokohteen selite tietojen viennille.",
+      "message": "Vie"
+   },
+   "extractData": {
+      "description": "Valikkokohteen nimi tietojen kaapimiseen ja keräämiseen jokaisesta URL-osoitteesta.",
+      "message": "Ota data talteen"
+   },
+   "finish": {
+      "description": "Nappulan teksti, jota käytetään kun elementtien valitseminen sivulla on saatu päätökseen.",
+      "message": "Valmis"
+   },
+   "headerRow": {
+      "description": "Ohjeteksti selittämään, että ladattavan CSV-tiedoston on alettava otsikkorivillä.",
+      "message": "On aloitettava otsikkorivillä"
+   },
+   "headerRowRequired": {
+      "description": "Varoitus näytetään, kun ladatusta CSV-tiedostosta näyttää puuttuvan otsakerivi.",
+      "message": "Otsakerivi vaaditaan"
+   },
+   "help": {
+      "description": "Nappulan selite, joka avaa ohjesivun.",
+      "message": "Apua"
+   },
+   "hideOptions": {
+      "description": "Nappulan teksti, joka piilottaa lisäasetuksia kaavinta varten.",
+      "message": "Piilota asetukset"
+   },
+   "import": {
+      "description": "Valikon kohteen nimi, jolla tuodaan skräpperi.",
+      "message": "Tuo"
+   },
+   "install": {
+      "description": "Nappulan teksti sovelluksen uusimman version asentamiseen.",
+      "message": "Asenna uusin versio"
+   },
+   "invalidTab": {
+      "description": "Virheviesti, kun kohdevälilehti on avoinna rajoitetulle sivustolle.",
+      "message": "Tämä sivu on rajoitettu. Kokeile toista sivustoa."
+   },
+   "invalidVersion": {
+      "description": "Kehotetaan käyttäjää asentamaan sovelluksen uusin versio.",
+      "message": "$APP_NAME$ ei ole enää betavaiheessa! Asenna uusin versio saadaksesi uusimmat päivitykset.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Merkintä, joka näyttää raavitun listan kohteiden määrän.",
+      "message": "Kohteet"
+   },
+   "loadMoreAction": {
+      "description": "Merkintä \u003Cselect> elementille valitakseen, miten lisää kohteita ladataan raaputtaessa.",
+      "message": "Toiminto lisää kohteiden lataamiseksi"
+   },
+   "max": {
+      "description": "Selite syötteelle, jolla säädellään enimmäisodotusaikaa, kun ladataan lisää kohteita tai sivuja.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Tunniste syöttökentälle, joka asettaa enimmäisrajan haettavien kohteiden määrälle.",
+      "message": "Enimmäismäärä kohteita"
+   },
+   "maxItemsHelp": {
+      "description": "Ohjeteksti, joka kertoo käyttäjälle, että maksimituotteiden syöttö tulee jättää tyhjäksi, jos rajoitusta ei haluta asettaa.",
+      "message": "Jätä tyhjäksi, jos rajoitusta ei ole"
+   },
+   "maxItemsReached": {
+      "description": "Hälytyksen kuvaus, joka osoittaa, että raavittavien kohteiden enimmäismäärän raja on saavutettu.",
+      "message": "Raavittu onnistuneesti määriteltyyn rajaan saakka. Jatka raapimista lisäämällä enimmäismäärän asetusta."
+   },
+   "mediaUrl": {
+      "description": "Merkintä mediasisällön URL-kentälle, joka on poimittu elementistä.",
+      "message": "Median URL"
+   },
+   "min": {
+      "description": "Tunniste syötteelle, jolla ohjataan vähimmäisodotusaikaa lisää elementtejä tai sivuja ladattaessa.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Virheilmoitus, kun kohdevälilehden tietoja ei voida käyttää.",
+      "message": "Välilehti, jota käytit tätä tehtävää varten, on suljettu. Sulje tämä ikkuna ja yritä uudelleen."
+   },
+   "missingTabPermission": {
+      "description": "Virheilmoitus, kun kohdevälilehden tietoihin ei pääse käsiksi.",
+      "message": "Välilehden käyttö ei onnistu. Sulje tämä ikkuna ja yritä uudelleen."
+   },
+   "missingUrlColumn": {
+      "description": "Virheilmoitus, kun CSV-tiedostosta puuttuu URL-sarakkeet.",
+      "message": "URL-saraketta ei löydy. Valitse toinen tiedosto."
+   },
+   "newScraper": {
+      "description": "Nappulan teksti uuden kaavimen luomiseksi.",
+      "message": "Uusi kaavin"
+   },
+   "noData": {
+      "description": "Paikkamerkintä taulukossa, kun näytettävää tietoa ei ole.",
+      "message": "Ei näytettäviä tietoja"
+   },
+   "noFileChosen": {
+      "description": "Viesti näytetään, kun tiedostoa ei ole valittu.",
+      "message": "Ei tiedostoa valittu"
+   },
+   "noList": {
+      "description": "Paikkamerkki, joka näytetään, kun luetteloa ei löydy sivulta.",
+      "message": "Luetteloa ei löydy sivulta"
+   },
+   "none": {
+      "description": "Merkintä vaihtoehdolle, ettei ladata lisää kohteita, kun haetaan tietoja.",
+      "message": "Ei mitään"
+   },
+   "options": {
+      "description": "Nappulan tunniste, joka näyttää tiedonkerääjän asetukset.",
+      "message": "Asetukset"
+   },
+   "pages": {
+      "description": "Merkintä näyttämään sivujen lukumäärän, kun kerätään tietoja listasta.",
+      "message": "Sivut"
+   },
+   "permissionsDescription": {
+      "description": "Ohjeteksti selittämään, että sovellus tarvitsee lisäoikeuksia päästäkseen käsiksi ja kaivaakseen URL-osoitteita.",
+      "message": "$APP_NAME$ tarvitsee lisäoikeuksia päästäkseen käsiksi ja kaivaakseen URL-osoitteita",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Merkintäteksti, joka ilmaisee, että näytettävät tiedot ovat raavin esikatselu.",
+      "message": "Esikatselu"
+   },
+   "remainingPages": {
+      "description": "Merkintä näyttämään jäljellä olevien sivujen määrä, kun kerätään tietoja yksityiskohtaisilta sivuilta.",
+      "message": "Jäljellä olevat"
+   },
+   "rename": {
+      "description": "Valikon kohteen nimeämistä varten oleva selite.",
+      "message": "Nimeä uudelleen"
+   },
+   "reviewDescription": {
+      "description": "Pyydä käyttäjää jättämään arvostelu sovellukselle.",
+      "message": "Hei, olen $NAME$. Loimme $APP_NAME$:n auttaaksemme ihmisiä säästämään aikaa. Jos nautit sen käytöstä, arvostaisin 5 tähden arvostelua, jotta auttaisit muita löytämään $APP_NAME$. Kiitos paljon!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Kiitä käyttäjää sovelluksen käytöstä.",
+      "message": "Kiitos, että käytät $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Tunniste vaihtoehdolle, joka näyttää näytön yksityiskohtien kaapimiseen jokaisesta listan kohteesta.",
+      "message": "Kaavi tiedot"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Kuvaus vinkistä, joka opettaa käyttäjää raaputtamaan yksityiskohtasivut.",
+      "message": "Raapiaksesi jokaisen URL-osoitteen luettelosta, valitse \"$LABEL$\" valikosta oikeassa yläkulmassa ladattuasi luettelon CSV-tiedostona.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Raaputa yksityiskohdat"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Otsikko vihjeelle, joka opettaa käyttäjää kaavimaan yksityiskohtien sivuja.",
+      "message": "Vinkki: Yksityiskohtien sivujen kaavinta"
+   },
+   "scrapeList": {
+      "description": "Nimike vaihtoehdolle, joka näyttää näytön listan raapimiseen.",
+      "message": "Raavi lista"
+   },
+   "scrapedPages": {
+      "description": "Tunniste, joka näyttää skrapattujen sivujen määrän kun skrapataan tietoja sivuilta.",
+      "message": "Skrapattu"
+   },
+   "scrapingComplete": {
+      "description": "Hälytyksen otsikko, joka osoittaa, että kaavinta on päättynyt.",
+      "message": "Kaavinta valmis"
+   },
+   "scrapingStatus": {
+      "description": "Merkintä, joka osoittaa, että tietojen kaavinta on käynnissä.",
+      "message": "Skrapataan..."
+   },
+   "scrollDelay": {
+      "description": "Merkintä syötteelle, jolla hallitaan, kuinka kauan millisekunteina odotetaan vierittäessä kunkin kohteen kohdalle kaavittaessa.",
+      "message": "Vieritysviive (ms)"
+   },
+   "scrollDown": {
+      "description": "Merkintä vaihtoehdolle vierittää alas ladatakseen lisää kohteita skrapatessa.",
+      "message": "Vieritä alas ladataksesi lisää kohteita"
+   },
+   "select": {
+      "description": "Nappulan selite, jolla valitaan elementti sivulta.",
+      "message": "Valitse"
+   },
+   "selectElement": {
+      "description": "Otsikko, joka näytetään elementtiä valittaessa.",
+      "message": "Valitse elementti"
+   },
+   "selectField": {
+      "description": "Kuvaus toiminnosta kentän valitsemiseksi tallennusta varten.",
+      "message": "Valitse kenttä"
+   },
+   "selectList": {
+      "description": "Otsikko näytettäessä listan valintaa.",
+      "message": "Valitse lista"
+   },
+   "selectScraper": {
+      "description": "Valikkokohdan tunniste kaavimen valitsemiseksi kutakin URL-osoitetta varten.",
+      "message": "Valitse kaavin"
+   },
+   "selectScraperOption": {
+      "description": "Ohje valita skraaperi nykyiselle verkkotunnukselle.",
+      "message": "Valitse skraaperi kohteelle $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "esimerkki.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Näppäin, joka näyttää lisää vaihtoehtoja tiedonkeruuseen.",
+      "message": "Näytä asetukset"
+   },
+   "startScraping": {
+      "description": "Nappulan etiketti kaavinnan aloittamiseksi.",
+      "message": "Aloita kaavinta"
+   },
+   "stopScraping": {
+      "description": "Nappulan teksti kaavinnan lopettamiseen.",
+      "message": "Lopeta kaavinta"
+   },
+   "tabNotFound": {
+      "description": "Virheilmoitus, kun kohdevälilehteä ei ole olemassa.",
+      "message": "Välilehteä ei löydy. Sulje tämä ikkuna ja yritä uudelleen."
+   },
+   "testUrl": {
+      "description": "Tekstisyötteen tunniste, jota käytetään raapijan valitsemiseen.",
+      "message": "Testaa URL"
+   },
+   "text": {
+      "description": "Merkintä tekstikentälle, joka on poimittu elementistä.",
+      "message": "Teksti"
+   },
+   "uploadUrls": {
+      "description": "Valikon kohteen tunniste tiedoston lataamiseksi, joka sisältää skräpättäviä URL-osoitteita.",
+      "message": "Lataa URL-osoitteita"
+   },
+   "url": {
+      "description": "Merkintä elementistä poimitulle URL-kentälle.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Varoitus näytettäväksi, kun valittu sarakkeen nimi on URL-osoite ja CSV-tiedosto saattaa puuttua otsikkorivi.",
+      "message": "Sarakkeen nimi vaikuttaa olevan URL-osoite. Varmista, että CSV-tiedosto alkaa otsikkorivillä, joka sisältää sarakkeiden nimet."
+   },
+   "verify": {
+      "description": "Painikkeen selite, jolla vahvistetaan valittu elementti korostamalla se sivulla.",
+      "message": "Vahvista"
+   },
+   "waitTimeItems": {
+      "description": "Merkintä syötteille, joilla hallitaan kuinka kauan sekunteina odotetaan, kun ladataan lisää tuotteita.",
+      "message": "Odotusaika lisää tuotteita ladattaessa (sekuntia)"
+   },
+   "waitTimePages": {
+      "description": "Merkintä syötteille, jotka ohjaavat kuinka kauan sekunteina odotetaan sivujen latautumisen yhteydessä.",
+      "message": "Odota sivujen latautumisaika (sekuntia)"
+   }
+}

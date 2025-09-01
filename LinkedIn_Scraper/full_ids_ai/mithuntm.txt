@@ -1,0 +1,155 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Mithun TM",
+    "Contact": {
+      "Email": "mithuntm7@gmail.com"
+    },
+    "CurrentTitle": "Lead Data Scientist",
+    "CurrentCompany": "Dream11",
+    "Location": "Mumbai, Maharashtra, India",
+    "LinkedIn": "https://www.linkedin.com/in/mithuntm/",
+    "Followers": 651,
+    "Summary": "Passionate about Computer Science and Machine Learning.",
+    "Languages": [
+      {
+        "Language": "English",
+        "Proficiency": "Native or bilingual proficiency"
+      },
+      {
+        "Language": "Hindi",
+        "Proficiency": "Full professional proficiency"
+      }
+    ]
+  },
+  "Activity": {
+    "Followers": 651,
+    "Volunteering": [
+      {
+        "Role": "Volunteer",
+        "Organization": "HasGeek",
+        "Description": "Volunteered for organising Deep Learning Conference and Fifth Elephant Conference by HasGeek",
+        "Sector": "Science and Technology",
+        "Duration": "Jun 2016 - Present"
+      }
+    ],
+    "Organizations": [
+      {
+        "Name": "Royal Institute of Naval Architecture",
+        "Role": "Student Member",
+        "Duration": "Jul 2014 - Present"
+      }
+    ],
+    "Causes": [
+      "Arts and Culture",
+      "Children",
+      "Civil Rights and Social Action",
+      "Economic Empowerment",
+      "Education",
+      "Environment",
+      "Health",
+      "Human Rights",
+      "Poverty Alleviation",
+      "Science and Technology",
+      "Social Services"
+    ],
+    "Projects": [
+      {
+        "Title": "Zero Shot Object Verification of Grocery Items",
+        "Duration": "Jul 2022 - Jun 2023",
+        "AssociatedWith": "Indian Institute of Science (IISc)",
+        "Description": "Developed an object detector and template-image verification system for in-store grocery image validation using SOTA models (Faster-RCNN, OWL-ViT, ResNet, Barlow-Twins, SIFT)."
+      },
+      {
+        "Title": "Response Study of Catamaran",
+        "Duration": "Oct 2014 - May 2015",
+        "AssociatedWith": "IIT Madras",
+        "Description": "Modeled twin hull vessel; analyzed motion response via MaxSurf Motions and established dependencies of responses on key vessel parameters."
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Lead Data Scientist",
+      "Company": "Dream11",
+      "Location": "Mumbai, Maharashtra, India",
+      "EmploymentType": "Full-time",
+      "Duration": "May 2024 - Present",
+      "Responsibilities": [],
+      "Logo": "https://media.licdn.com/dms/image/v2/C4E0BAQELwQFnENEysQ/company-logo_100_100/company-logo_100_100/0/1635409686719/dream11_logo?e=1759363200&v=beta&t=kLD727w7M8tfuAn1NFFFDkt3vvD-jQDpGWFfdsCGtoU"
+    },
+    {
+      "Title": "Senior Data Scientist",
+      "Company": "Swiggy",
+      "Location": "Bengaluru, Karnataka, India",
+      "EmploymentType": "Full-time",
+      "Duration": "Oct 2021 - Dec 2023",
+      "Responsibilities": [
+        "Recommendation System for 'What To Eat' feature",
+        "Payment Gateway Routing System",
+        "Restaurant recommendations on Food Page"
+      ],
+      "Logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=1759363200&v=beta&t=_KsJrXU8zHz9cN4vRe2XUH2zm-dwKCmmq9M8w-m8YEo"
+    },
+    {
+      "Title": "Data Scientist 2",
+      "Company": "Swiggy",
+      "Location": "Bengaluru, Karnataka, India",
+      "EmploymentType": "Full-time",
+      "Duration": "7 yrs 4 mos",
+      "Responsibilities": [
+        "Research Project on Optimization of hull shape to minimize resistance (CFD simulation of bulb shapes)",
+        "Model testing and sea keeping tests for vessels and offshore structures",
+        "Test coordination and client reporting"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "Institute": "Indian Institute of Science (IISc)",
+      "Degree": "Master of Technology - MTech",
+      "FieldOfStudy": "Data Science and Business Analytics",
+      "Duration": "Aug 2021 - Jun 2023",
+      "Activities": []
+    },
+    {
+      "Institute": "Indian Institute of Technology, Madras",
+      "Degree": "Bachelor's Degree",
+      "FieldOfStudy": "Naval Architecture and Ocean Engineering, minor in Management Studies",
+      "Duration": "2011 - 2015",
+      "Activities": [
+        "Organizing committee for Shaastra, Saarang, Wavez",
+        "Football and Water Polo teams, Jamuna Hostel"
+      ]
+    }
+  ],
+  "CertificationAndSkills": {
+    "TestScores": [
+      {
+        "Test": "GRE",
+        "Score": "321",
+        "Date": "Oct 2015"
+      },
+      {
+        "Test": "TOEFL",
+        "Score": "106",
+        "Date": "Oct 2015"
+      }
+    ],
+    "Skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Natural Language Processing (NLP)",
+      "Statistics",
+      "Computational Fluid Dynamics (CFD)",
+      "Java",
+      "C",
+      "C++",
+      "JavaScript",
+      "CSS",
+      "Project Management"
+    ]
+  }
+}
+```

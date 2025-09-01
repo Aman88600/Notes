@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Etykieta przycisku umożliwiającego dodanie recenzji aplikacji.",
+      "message": "Dodaj recenzję"
+   },
+   "allowPermissions": {
+      "description": "Etykieta przycisku do zezwalania na uprawnienia dla aplikacji.",
+      "message": "Zezwól na uprawnienia"
+   },
+   "autoScroll": {
+      "description": "Etykieta dla przełącznika służącego do kontrolowania automatycznego przewijania do każdego elementu podczas scrapowania.",
+      "message": "Automatyczne przewijanie"
+   },
+   "back": {
+      "description": "Etykieta przycisku umożliwiającego powrót do poprzedniego ekranu.",
+      "message": "Wstecz"
+   },
+   "cancel": {
+      "description": "Etykieta dla akcji anulowania.",
+      "message": "Anuluj"
+   },
+   "changeList": {
+      "description": "Etykieta przycisku do zmiany listy do scrapowania.",
+      "message": "Zmień listę"
+   },
+   "changeSelectionLevel": {
+      "description": "Opis działania zmiany poziomu zaznaczenia podczas wybierania elementu.",
+      "message": "Zmień poziom zaznaczenia"
+   },
+   "chooseFile": {
+      "description": "Etykieta przycisku do wyboru pliku do przesłania.",
+      "message": "Wybierz plik"
+   },
+   "click": {
+      "description": "Etykieta dla akcji kliknięcia.",
+      "message": "Kliknij"
+   },
+   "clickLoadMore": {
+      "description": "Etykieta dla opcji kliknięcia przycisku, aby załadować więcej elementów na tej samej stronie podczas scrapowania.",
+      "message": "Kliknij przycisk, aby załadować więcej elementów na tej samej stronie"
+   },
+   "clickNextPage": {
+      "description": "Etykieta dla opcji kliknięcia linku w celu przejścia do następnej strony i załadowania więcej elementów podczas scrapowania.",
+      "message": "Kliknij link, aby przejść do następnej strony"
+   },
+   "column": {
+      "description": "Etykieta dla elementu \u003Cselect> do wybierania kolumny zawierającej adresy URL do pobrania ze wczytanego pliku CSV.",
+      "message": "Kolumna"
+   },
+   "confirm": {
+      "description": "Etykieta dla akcji potwierdzenia.",
+      "message": "Potwierdź"
+   },
+   "continue": {
+      "description": "Etykieta przycisku do kontynuowania na następny ekran.",
+      "message": "Kontynuuj"
+   },
+   "copy": {
+      "description": "Etykieta dla przycisku do kopiowania danych do schowka.",
+      "message": "Kopiuj"
+   },
+   "csvFile": {
+      "description": "Etykieta dla wejścia pliku do przesłania pliku CSV",
+      "message": "Plik $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Domyślna nazwa dla skryptu pobierającego szczegóły stron.",
+      "message": "Pobierz szczegóły z $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "przyklad.pl"
+         }
+      }
+   },
+   "delete": {
+      "description": "Etykieta dla elementu menu do usunięcia scrapera.",
+      "message": "Usuń"
+   },
+   "dismiss": {
+      "description": "Akcja zamknięcia alertu.",
+      "message": "Odrzuć"
+   },
+   "duration": {
+      "description": "Etykieta pokazująca czas trwania bieżącego skrobania.",
+      "message": "Czas trwania"
+   },
+   "esc": {
+      "description": "Etykieta dla klawisza Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Etykieta dla elementu menu służącego do eksportowania skrapera.",
+      "message": "Eksportuj"
+   },
+   "extractData": {
+      "description": "Etykieta dla elementu menu do uruchomienia procesu pobierania i wyodrębniania danych z każdego adresu URL.",
+      "message": "Wyodrębnij dane"
+   },
+   "finish": {
+      "description": "Etykieta przycisku do zakończenia wybierania elementów na stronie.",
+      "message": "Zakończ"
+   },
+   "headerRow": {
+      "description": "Tekst pomocy wyjaśniający, że przesłany plik CSV musi zaczynać się od wiersza nagłówkowego.",
+      "message": "Musi zaczynać się od wiersza nagłówkowego"
+   },
+   "headerRowRequired": {
+      "description": "Ostrzeżenie pokazywane, gdy wydaje się, że brakuje wiersza nagłówkowego w przesłanym pliku CSV.",
+      "message": "Wymagany wiersz nagłówkowy"
+   },
+   "help": {
+      "description": "Etykieta przycisku do otwierania strony pomocy.",
+      "message": "Pomoc"
+   },
+   "hideOptions": {
+      "description": "Etykieta przycisku do ukrywania dodatkowych opcji skrobania.",
+      "message": "Ukryj opcje"
+   },
+   "import": {
+      "description": "Etykieta dla pozycji menu służącej do importowania skrapera.",
+      "message": "Importuj"
+   },
+   "install": {
+      "description": "Etykieta przycisku do instalacji najnowszej wersji aplikacji.",
+      "message": "Zainstaluj najnowszą wersję"
+   },
+   "invalidTab": {
+      "description": "Komunikat o błędzie, kiedy zakładka jest otwarta na stronę z ograniczeniami.",
+      "message": "Ta strona jest ograniczona. Spróbuj innego serwisu."
+   },
+   "invalidVersion": {
+      "description": "Zainstruuj użytkownika, aby zainstalował najnowszą wersję aplikacji.",
+      "message": "$APP_NAME$ wyszedł z wersji beta! Zainstaluj najnowszą wersję, aby otrzymać najnowsze aktualizacje.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Etykieta pokazująca liczbę pozyskanych elementów podczas scrapowania listy.",
+      "message": "Elementy"
+   },
+   "loadMoreAction": {
+      "description": "Etykieta dla elementu \u003Cselect> do wyboru sposobu ładowania większej liczby elementów podczas scrapowania.",
+      "message": "Akcja do ładowania więcej elementów"
+   },
+   "max": {
+      "description": "Etykieta dla pola kontrolnego maksymalnego czasu oczekiwania podczas ładowania więcej elementów lub stron.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Etykieta dla pola do ustawiania maksymalnego limitu liczby elementów do pobrania.",
+      "message": "Maksymalna liczba elementów"
+   },
+   "maxItemsHelp": {
+      "description": "Tekst pomocy informujący użytkownika, że powinien pozostawić puste pole liczby maksymalnych elementów, aby nie ustawiać limitu.",
+      "message": "Pozostaw puste, aby nie ustalać limitu"
+   },
+   "maxItemsReached": {
+      "description": "Opis alertu wskazujący, że osiągnięto maksymalny limit ilości danych do zebrania.",
+      "message": "Pomyślnie zebrano dane do określonego limitu. Zwiększ maksymalną liczbę elementów, aby kontynuować scrapowanie."
+   },
+   "mediaUrl": {
+      "description": "Etykieta dla pola adresu URL multimediów przechwyconego z elementu.",
+      "message": "Adres URL multimediów"
+   },
+   "min": {
+      "description": "Etykieta dla pola do kontrolowania minimalnego czasu oczekiwania podczas ładowania większej liczby elementów lub stron.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Wiadomość o błędzie, gdy nie można uzyskać dostępu do danych docelowej karty.",
+      "message": "Karta, której używałeś do tego zadania, została zamknięta. Zamknij to okno i spróbuj ponownie."
+   },
+   "missingTabPermission": {
+      "description": "Komunikat o błędzie, gdy nie można uzyskać dostępu do danych docelowej karty.",
+      "message": "Nie można uzyskać dostępu do karty. Zamknij to okno i spróbuj ponownie."
+   },
+   "missingUrlColumn": {
+      "description": "Komunikat o błędzie, gdy plik CSV nie zawiera kolumn z adresami URL.",
+      "message": "Nie znaleziono kolumny z adresami URL. Proszę wybrać inny plik."
+   },
+   "newScraper": {
+      "description": "Etykieta przycisku do tworzenia nowego skrapera.",
+      "message": "Nowy Skraper"
+   },
+   "noData": {
+      "description": "Symbol zastępczy w tabeli, gdy nie ma danych do wyświetlenia.",
+      "message": "Brak danych do wyświetlenia"
+   },
+   "noFileChosen": {
+      "description": "Komunikat wyświetlany, gdy nie wybrano żadnego pliku.",
+      "message": "Nie wybrano pliku"
+   },
+   "noList": {
+      "description": "Informacja wyświetlana, gdy nie można znaleźć listy na stronie.",
+      "message": "Nie można znaleźć listy na stronie"
+   },
+   "none": {
+      "description": "Etykieta dla opcji, która nie ładuje więcej elementów podczas scrapowania.",
+      "message": "Brak"
+   },
+   "options": {
+      "description": "Etykieta przycisku do wyświetlania opcji dla scraper.",
+      "message": "Opcje"
+   },
+   "pages": {
+      "description": "Etykieta pokazująca liczbę stron przetworzonych podczas scrapowania listy.",
+      "message": "Strony"
+   },
+   "permissionsDescription": {
+      "description": "Tekst pomocy wyjaśniający, że aplikacja potrzebuje dodatkowych uprawnień do dostępu i pobierania danych z adresów URL.",
+      "message": "$APP_NAME$ potrzebuje dodatkowych uprawnień do dostępu i pobierania danych z adresów URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Tekst odznaki wskazujący, że pokazane dane są podglądem skryptu do zbierania danych.",
+      "message": "Podgląd"
+   },
+   "remainingPages": {
+      "description": "Etykieta pokazująca liczbę stron pozostałych do przeskanowania podczas skanowania stron ze szczegółami.",
+      "message": "Pozostałe"
+   },
+   "rename": {
+      "description": "Etykieta dla elementu menu służącego do zmiany nazwy skryptu.",
+      "message": "Zmień nazwę"
+   },
+   "reviewDescription": {
+      "description": "Poproś użytkownika o zostawienie recenzji dla aplikacji.",
+      "message": "Cześć, jestem $NAME$. Stworzyłem $APP_NAME$, aby pomóc ludziom zaoszczędzić czas. Jeśli podoba Ci się korzystanie z niego, byłbym wdzięczny za ocenę 5 gwiazdek, aby pomóc innym odkryć $APP_NAME$. Dziękuję bardzo!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Podziękuj użytkownikowi za korzystanie z aplikacji.",
+      "message": "Dziękujemy za korzystanie z $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Etykieta opcji umożliwiającej wyświetlanie ekranu do pobierania szczegółowych stron dla każdego elementu na liście.",
+      "message": "Pobierz Szczegóły"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Opis wskazówki mającej na celu edukację użytkownika w zakresie zeskrobywania stron z detalami.",
+      "message": "Aby zeskrobać każdy URL na liście, wybierz \"$LABEL$\" z menu w prawym górnym rogu po pobraniu listy jako plik CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Skrobanie Szczegółów"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Tytuł wskazówki edukacyjnej dotyczącej zbierania danych ze stron szczegółowych.",
+      "message": "Wskazówka: Zbieranie danych ze stron szczegółowych"
+   },
+   "scrapeList": {
+      "description": "Etykieta dla opcji pokazania ekranu do scrapowania listy.",
+      "message": "Scrape Listy"
+   },
+   "scrapedPages": {
+      "description": "Etykieta pokazująca liczbę stron scrapowanych podczas zgłębiania szczegółów stron.",
+      "message": "Scrapowane"
+   },
+   "scrapingComplete": {
+      "description": "Nagłówek alertu informujący, że scrapowanie zostało zakończone.",
+      "message": "Scrapowanie zakończone"
+   },
+   "scrapingStatus": {
+      "description": "Etykieta wskazująca, że trwa pobieranie danych.",
+      "message": "Pobieranie danych..."
+   },
+   "scrollDelay": {
+      "description": "Etykieta dla pola wprowadzania służącego do kontrolowania, jak długo czekać w milisekundach podczas przewijania do każdego elementu podczas scrapowania.",
+      "message": "Opóźnienie przewijania (ms)"
+   },
+   "scrollDown": {
+      "description": "Etykieta dla opcji przewijania w dół w celu załadowania więcej elementów podczas scrapowania.",
+      "message": "Przewiń w dół, aby załadować więcej elementów"
+   },
+   "select": {
+      "description": "Etykieta przycisku do wybierania elementu na stronie.",
+      "message": "Wybierz"
+   },
+   "selectElement": {
+      "description": "Tytuł wyświetlany podczas wybierania elementu.",
+      "message": "Wybierz element"
+   },
+   "selectField": {
+      "description": "Opis działania polegającego na wybraniu pola do przechwycenia.",
+      "message": "Wybierz pole"
+   },
+   "selectList": {
+      "description": "Tytuł wyświetlany podczas wybierania listy.",
+      "message": "Wybierz listę"
+   },
+   "selectScraper": {
+      "description": "Etykieta dla elementu menu służącego do wyboru scrapera do skrobania każdego adresu URL.",
+      "message": "Wybierz scraper"
+   },
+   "selectScraperOption": {
+      "description": "Instrukcja wyboru scrapera dla bieżącej domeny.",
+      "message": "Wybierz scraper dla $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Etykieta przycisku, aby pokazać więcej opcji do scrapowania.",
+      "message": "Pokaż opcje"
+   },
+   "startScraping": {
+      "description": "Etykieta przycisku rozpoczynającego skrobanie.",
+      "message": "Rozpocznij skrobanie"
+   },
+   "stopScraping": {
+      "description": "Etykieta przycisku do zatrzymywania scrapowania.",
+      "message": "Zatrzymaj Scrapowanie"
+   },
+   "tabNotFound": {
+      "description": "Komunikat o błędzie, gdy nie istnieje docelowa karta.",
+      "message": "Nie znaleziono karty. Zamknij to okno i spróbuj ponownie."
+   },
+   "testUrl": {
+      "description": "Etykieta dla pola tekstowego do wprowadzania testowego adresu URL, używanego podczas wybierania skanera.",
+      "message": "Testuj URL"
+   },
+   "text": {
+      "description": "Etykieta dla pola tekstowego przechwyconego z elementu.",
+      "message": "Tekst"
+   },
+   "uploadUrls": {
+      "description": "Etykieta dla elementu menu umożliwiającego przesłanie pliku z adresami URL do scrapowania.",
+      "message": "Wgraj adresy URL"
+   },
+   "url": {
+      "description": "Etykieta dla pola URL przechwyconego z elementu.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Ostrzeżenie do wyświetlenia, gdy wybrana nazwa kolumny jest adresem URL, a w pliku CSV może brakować wiersza nagłówkowego.",
+      "message": "Nazwa kolumny wygląda na adres URL. Upewnij się, że plik CSV zaczyna się od wiersza nagłówkowego zawierającego nazwy kolumn."
+   },
+   "verify": {
+      "description": "Etykieta przycisku do weryfikacji wybranego elementu przez podświetlenie go na stronie.",
+      "message": "Zweryfikuj"
+   },
+   "waitTimeItems": {
+      "description": "Etykieta dla pól wejściowych do kontrolowania, jak długo czekać w sekundach, na załadowanie więcej elementów.",
+      "message": "Czas oczekiwania na załadowanie więcej elementów (sekundy)"
+   },
+   "waitTimePages": {
+      "description": "Etykieta dla pól wprowadzania, kontrolujących jak długo czekać w sekundach przy ładowaniu stron.",
+      "message": "Czas oczekiwania na załadowanie stron (sekundy)"
+   }
+}

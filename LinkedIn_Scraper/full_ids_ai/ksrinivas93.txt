@@ -1,0 +1,166 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "K. Srinivas",
+    "LinkedIn": "https://www.linkedin.com/in/ksrinivas93/",
+    "ProfilePhoto": "https://media.licdn.com/dms/image/v2/C5603AQGmtZ2co7fRWA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1589155602019?e=1759363200&v=beta&t=prijsM52ZUMZKA04sQdN0jyzu0Bpxgl6OYlaXoSKZAM",
+    "Connections": 361,
+    "Followers": 396,
+    "Headline": "Analyst passionate about innovation, data science, and financial technology",
+    "About": "I am an analyst who believes that innovation and data science can revolutionize the world. My objective is to help drive organizations and individuals adopt technologies that maximize their potential. Financial technology, in particular, is a passion.",
+    "ContactInfo": {
+      "ProfileURL": "https://www.linkedin.com/in/ksrinivas93/overlay/contact-info/"
+    },
+    "Languages": [
+      {
+        "Language": "English",
+        "Proficiency": "Native or bilingual"
+      },
+      {
+        "Language": "Hindi",
+        "Proficiency": "Native or bilingual"
+      }
+    ]
+  },
+  "Activity": {
+    "Followers": 396,
+    "RelevantPosts": [
+      "SBI Foundation Hub for Data Science and Analytics at CMInDS, IIT Bombay",
+      "Brij Disa Centre for Data Science and AI"
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Data Scientist (Deputy Manager)",
+      "Organization": "State Bank of India",
+      "Location": "",
+      "StartDate": "Apr 2017",
+      "EndDate": "Present",
+      "Description": "Development of solutions and AI models for enabling business decisions and detecting risk in SBI."
+    },
+    {
+      "Title": "Data Scientist",
+      "Organization": "State Bank of India",
+      "StartDate": "Sep 2020",
+      "EndDate": "Jan 2023",
+      "Description": ""
+    },
+    {
+      "Title": "Assistant Manager (Systems), Analytics Dept",
+      "Organization": "State Bank of India",
+      "StartDate": "Apr 2017",
+      "EndDate": "Sep 2020",
+      "Description": ""
+    },
+    {
+      "Title": "Management Trainee",
+      "Organization": "IBPIL",
+      "Location": "Hyderabad",
+      "StartDate": "Jan 2016",
+      "EndDate": "Jul 2016",
+      "Description": "Served as a management trainee, assisting executives in day-to-day decision making. Assisted in creating a reporting tool for metrics from remote offices."
+    },
+    {
+      "Title": "Asst. Software Engineer",
+      "Organization": "Franklin Templeton Investments",
+      "Location": "Hyderabad",
+      "StartDate": "Jun 2014",
+      "EndDate": "Jan 2016",
+      "Description": "Worked on Charles River IMS and Wall Street Office processes. Dealt with Crystal Reports, Control-M, and Linux (Red Hat) environments."
+    },
+    {
+      "Title": "Web Coordinator",
+      "Organization": "MJCC (Muffakham Jah Computing Club)",
+      "StartDate": "Mar 2013",
+      "EndDate": "Apr 2014",
+      "Description": "Responsible for design, setup, and maintenance of the MJCC website."
+    },
+    {
+      "Title": "Intern [IdeaKarnival]",
+      "Organization": "BITS Pilani, Hyderabad Campus",
+      "StartDate": "Mar 2013",
+      "EndDate": "May 2013",
+      "Description": "Participated in an entrepreneurship development program; led team in developing and marketing a web platform for advertising."
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Institute for Development and Research in Banking Technology (IDRBT)",
+      "Degree": "Post Graduate Diploma in Banking Technology",
+      "Field": "Banking and Payments Technology",
+      "Year": "2016 - 2017",
+      "Grade": "Distinction",
+      "Activities": [
+        "IEEE CS",
+        "MJCC"
+      ],
+      "Description": "A specialized program focusing on skills and technologies related to Banking and Finance, including IT Management and Data Analytics."
+    },
+    {
+      "Institution": "Osmania University (Muffakham Jah College of Engineering and Technology)",
+      "Degree": "Bachelor of Engineering (B.E.)",
+      "Field": "Computer Software Engineering",
+      "Year": "2010 - 2014",
+      "Description": "A program with focus on Computer Software Engineering. Activities: IEEE CS, MJCC."
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Certified Scrum Master",
+      "Issuer": "Agile Alliance",
+      "Date": "May 2024"
+    },
+    {
+      "Name": "CAIIB",
+      "Issuer": "Indian Institute of Banking & Finance (IIBF)",
+      "Date": "Aug 2022"
+    }
+  ],
+  "Skills": [
+    "Financial Technology",
+    "Data Analysis"
+  ],
+  "Projects": [
+    {
+      "Title": "RPA using Selenium for Complaint Resolution",
+      "AssociatedWith": "State Bank of India",
+      "StartDate": "May 2020",
+      "EndDate": "Present",
+      "Description": "Use of RPA to auto-file requests pertaining to complaints with payment intermediaries."
+    },
+    {
+      "Title": "ATM location optimization",
+      "AssociatedWith": "State Bank of India",
+      "StartDate": "Sep 2018",
+      "EndDate": "Present",
+      "Description": "A geospatial analytics tool to help decision makers identify and place ATMs in high traffic areas using satellite view."
+    }
+  ],
+  "Courses": [
+    {
+      "Name": "Agile Project Management",
+      "AssociatedWith": "State Bank of India"
+    },
+    {
+      "Name": "Analytics using Python",
+      "AssociatedWith": "State Bank of India"
+    }
+  ],
+  "HonorsAwards": [
+    {
+      "Title": "IIM-A ORSI Competition on Practice of Management Science and Analytics",
+      "Issuer": "IIM Ahmedabad & Operational Research Society of India",
+      "Date": "Jan 2025",
+      "AssociatedWith": "State Bank of India",
+      "Description": "Awarded for the Product Pre-approved Personal Loan for Non-Salaried Customers and introducing/productionizing open source tech in SBI Analytics."
+    },
+    {
+      "Title": "Rising Star Award",
+      "Issuer": "State Bank of India Global IT Centre",
+      "Date": "Jan 2018",
+      "AssociatedWith": "State Bank of India",
+      "Description": "Awarded for innovative contributions in analytics and technology."
+    }
+  ]
+}
+```

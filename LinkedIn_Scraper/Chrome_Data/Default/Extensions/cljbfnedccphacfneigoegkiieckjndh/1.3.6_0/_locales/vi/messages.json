@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Nhãn cho nút để thêm đánh giá cho ứng dụng.",
+      "message": "Thêm Đánh Giá"
+   },
+   "allowPermissions": {
+      "description": "Nhãn cho nút để cho phép quyền cho ứng dụng.",
+      "message": "Cho phép quyền"
+   },
+   "autoScroll": {
+      "description": "Nhãn cho công tắc để điều khiển việc có tự động cuộn tới từng mục khi đang cạo dữ liệu hay không.",
+      "message": "Tự động cuộn"
+   },
+   "back": {
+      "description": "Nhãn cho nút để quay lại màn hình trước.",
+      "message": "Quay lại"
+   },
+   "cancel": {
+      "description": "Nhãn cho hành động hủy.",
+      "message": "Hủy bỏ"
+   },
+   "changeList": {
+      "description": "Nhãn cho nút để thay đổi danh sách cần lấy thông tin.",
+      "message": "Đổi Danh Sách"
+   },
+   "changeSelectionLevel": {
+      "description": "Mô tả hành động thay đổi mức lựa chọn khi chọn một phần tử.",
+      "message": "Thay đổi mức lựa chọn"
+   },
+   "chooseFile": {
+      "description": "Nhãn cho nút để chọn một tệp để tải lên.",
+      "message": "Chọn Tệp"
+   },
+   "click": {
+      "description": "Nhãn cho hành động nhấp.",
+      "message": "Nhấp"
+   },
+   "clickLoadMore": {
+      "description": "Nhãn cho tùy chọn nhấn nút để tải thêm mục trên cùng trang khi thu thập dữ liệu.",
+      "message": "Nhấn nút để tải thêm mục trên cùng trang"
+   },
+   "clickNextPage": {
+      "description": "Nhãn cho tùy chọn nhấp vào liên kết để điều hướng đến trang tiếp theo để tải thêm mục khi thu thập dữ liệu.",
+      "message": "Nhấp vào liên kết để điều hướng đến trang tiếp theo"
+   },
+   "column": {
+      "description": "Nhãn cho phần tử \u003Cselect> để chọn cột chứa URL cần thu thập từ CSV đã tải lên.",
+      "message": "Cột"
+   },
+   "confirm": {
+      "description": "Nhãn cho hành động xác nhận.",
+      "message": "Xác nhận"
+   },
+   "continue": {
+      "description": "Nhãn cho nút để tiếp tục sang màn hình tiếp theo.",
+      "message": "Tiếp tục"
+   },
+   "copy": {
+      "description": "Nhãn cho nút để sao chép dữ liệu vào khay nhớ tạm.",
+      "message": "Sao chép"
+   },
+   "csvFile": {
+      "description": "Nhãn cho đầu vào tập tin để tải lên một tập tin CSV",
+      "message": "tập tin $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Tên mặc định cho trình thu thập thông tin các trang chi tiết.",
+      "message": "Lấy chi tiết từ $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Nhãn cho mục menu để xóa trình thu thập thông tin.",
+      "message": "Xóa"
+   },
+   "dismiss": {
+      "description": "Hành động để bỏ qua cảnh báo.",
+      "message": "Bỏ qua"
+   },
+   "duration": {
+      "description": "Nhãn để hiển thị thời lượng của lần thu thập hiện tại.",
+      "message": "Thời lượng"
+   },
+   "esc": {
+      "description": "Nhãn cho phím Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Nhãn cho mục menu để xuất bộ cạo.",
+      "message": "Xuất"
+   },
+   "extractData": {
+      "description": "Nhãn cho mục menu để chạy lấy dữ liệu và trích xuất dữ liệu từ từng URL.",
+      "message": "Trích xuất dữ liệu"
+   },
+   "finish": {
+      "description": "Nhãn cho nút để hoàn thành việc chọn các phần tử trên trang.",
+      "message": "Hoàn thành"
+   },
+   "headerRow": {
+      "description": "Văn bản trợ giúp để giải thích rằng tệp CSV được tải lên phải bắt đầu bằng hàng tiêu đề.",
+      "message": "Phải bắt đầu bằng hàng tiêu đề"
+   },
+   "headerRowRequired": {
+      "description": "Cảnh báo được hiển thị khi hàng tiêu đề dường như bị thiếu trong tệp CSV đã tải lên.",
+      "message": "Yêu cầu hàng tiêu đề"
+   },
+   "help": {
+      "description": "Nhãn cho nút để mở trang trợ giúp.",
+      "message": "Trợ giúp"
+   },
+   "hideOptions": {
+      "description": "Nhãn cho nút để ẩn thêm tùy chọn cho việc lấy dữ liệu.",
+      "message": "Ẩn Tùy Chọn"
+   },
+   "import": {
+      "description": "Nhãn cho mục menu để nhập một công cụ cào dữ liệu.",
+      "message": "Nhập"
+   },
+   "install": {
+      "description": "Nhãn cho nút để cài đặt phiên bản mới nhất của ứng dụng.",
+      "message": "Cài đặt phiên bản mới nhất"
+   },
+   "invalidTab": {
+      "description": "Thông báo lỗi khi tab đích được mở trên một trang bị hạn chế.",
+      "message": "Trang này bị hạn chế. Hãy thử một trang khác."
+   },
+   "invalidVersion": {
+      "description": "Hướng dẫn người dùng cài đặt phiên bản mới nhất của ứng dụng.",
+      "message": "$APP_NAME$ đã không còn trong phiên bản beta! Cài đặt phiên bản mới nhất để nhận các cập nhật mới nhất.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Nhãn hiển thị số lượng mục đã lấy khi lấy dữ liệu từ một danh sách.",
+      "message": "Mục"
+   },
+   "loadMoreAction": {
+      "description": "Nhãn cho phần tử \u003Cselect> để chọn cách tải thêm mục khi thu thập dữ liệu.",
+      "message": "Hành động để tải thêm mục"
+   },
+   "max": {
+      "description": "Nhãn cho đầu vào để điều khiển thời gian chờ tối đa khi tải thêm các mục hoặc trang.",
+      "message": "Tối đa"
+   },
+   "maxItems": {
+      "description": "Nhãn cho mục nhập để đặt giới hạn tối đa về số lượng mục cần thu thập.",
+      "message": "Số mục tối đa"
+   },
+   "maxItemsHelp": {
+      "description": "Văn bản trợ giúp để thông báo cho người dùng rằng họ nên để trống không ghi gì vào mục số lượng mục tối đa để không đặt giới hạn.",
+      "message": "Để trống để không giới hạn"
+   },
+   "maxItemsReached": {
+      "description": "Mô tả cảnh báo để chỉ ra rằng đã đạt đến giới hạn tối đa về số lượng mục cần cạo.",
+      "message": "Đã cạo thành công đến giới hạn chỉ định. Tăng tùy chọn mục tối đa để tiếp tục cạo."
+   },
+   "mediaUrl": {
+      "description": "Nhãn cho trường URL phương tiện được thu thập từ một phần tử.",
+      "message": "URL của phương tiện"
+   },
+   "min": {
+      "description": "Nhãn cho đầu vào để điều khiển thời gian chờ tối thiểu khi tải thêm các mục hoặc trang.",
+      "message": "Tối thiểu"
+   },
+   "missingTabError": {
+      "description": "Thông báo lỗi khi không thể truy cập dữ liệu thẻ mục tiêu.",
+      "message": "Thẻ bạn đang sử dụng cho tác vụ này đã bị đóng. Vui lòng đóng cửa sổ này và thử lại."
+   },
+   "missingTabPermission": {
+      "description": "Thông báo lỗi khi không truy cập được dữ liệu tab đích.",
+      "message": "Không thể truy cập vào tab. Đóng cửa sổ này và thử lại."
+   },
+   "missingUrlColumn": {
+      "description": "Thông báo lỗi khi tệp CSV thiếu cột chứa URL.",
+      "message": "Không thể tìm thấy cột với các URL. Vui lòng chọn tệp khác."
+   },
+   "newScraper": {
+      "description": "Nhãn cho nút để tạo một scraper mới.",
+      "message": "Scraper Mới"
+   },
+   "noData": {
+      "description": "Trình giữ chỗ trong bảng khi không có dữ liệu để hiển thị.",
+      "message": "Không có dữ liệu để hiển thị"
+   },
+   "noFileChosen": {
+      "description": "Thông báo hiển thị khi không có tệp nào được chọn.",
+      "message": "Không có tệp được chọn"
+   },
+   "noList": {
+      "description": "Nơi dành để hiển thị khi không tìm thấy danh sách trên trang.",
+      "message": "Không thể tìm thấy danh sách trên trang"
+   },
+   "none": {
+      "description": "Nhãn cho tùy chọn không tải thêm các mục khi thu thập dữ liệu.",
+      "message": "Không"
+   },
+   "options": {
+      "description": "Nhãn cho nút để hiển thị tùy chọn cho công cụ cạo.",
+      "message": "Tùy chọn"
+   },
+   "pages": {
+      "description": "Nhãn hiển thị số lượng trang đã được tải khi tải một danh sách.",
+      "message": "Trang"
+   },
+   "permissionsDescription": {
+      "description": "Văn bản hỗ trợ giải thích rằng ứng dụng cần thêm quyền để truy cập và thu thập dữ liệu từ các URL.",
+      "message": "$APP_NAME$ cần thêm quyền để truy cập và thu thập dữ liệu từ các URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Văn bản huy hiệu để chỉ ra rằng dữ liệu được hiển thị là bản xem trước của trình thu thập dữ liệu.",
+      "message": "Xem trước"
+   },
+   "remainingPages": {
+      "description": "Nhãn hiển thị số trang còn lại cần được thu thập khi thu thập các trang chi tiết.",
+      "message": "Còn lại"
+   },
+   "rename": {
+      "description": "Nhãn cho mục menu để đổi tên trình thu thập dữ liệu.",
+      "message": "Đổi tên"
+   },
+   "reviewDescription": {
+      "description": "Yêu cầu người dùng để lại đánh giá cho ứng dụng.",
+      "message": "Xin chào, tôi là $NAME$. Tôi đã tạo $APP_NAME$ để giúp mọi người tiết kiệm thời gian. Nếu bạn thích sử dụng nó, tôi sẽ rất biết ơn nếu bạn đánh giá 5 sao để giúp người khác khám phá $APP_NAME$. Cảm ơn bạn rất nhiều!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Cảm ơn người dùng đã sử dụng ứng dụng.",
+      "message": "Cảm ơn bạn đã sử dụng $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Nhãn cho tùy chọn để hiển thị màn hình lấy thông tin chi tiết trang cho từng mục trong danh sách.",
+      "message": "Lấy Chi Tiết"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Mô tả để hướng dẫn người dùng về việc thu thập dữ liệu từ các trang chi tiết.",
+      "message": "Để thu thập dữ liệu từ mỗi URL trong danh sách, chọn \"$LABEL$\" từ menu ở góc trên bên phải sau khi tải danh sách xuống dưới dạng tệp CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Thu Thập Chi Tiết"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Tiêu đề cho mẹo để hướng dẫn người dùng về việc trích xuất dữ liệu từ các trang chi tiết.",
+      "message": "Mẹo: Trích xuất dữ liệu từ trang chi tiết"
+   },
+   "scrapeList": {
+      "description": "Nhãn cho tùy chọn để hiển thị màn hình trích xuất danh sách.",
+      "message": "Danh sách Trích xuất"
+   },
+   "scrapedPages": {
+      "description": "Nhãn hiển thị số trang đã lấy khi lấy chi tiết các trang.",
+      "message": "Đã lấy"
+   },
+   "scrapingComplete": {
+      "description": "Tiêu đề cảnh báo để chỉ ra rằng quá trình thu thập đã hoàn thành.",
+      "message": "Quá trình thu thập đã hoàn tất"
+   },
+   "scrapingStatus": {
+      "description": "Nhãn hiển thị việc thu thập dữ liệu đang diễn ra.",
+      "message": "Đang thu thập dữ liệu..."
+   },
+   "scrollDelay": {
+      "description": "Nhãn cho phần nhập để kiểm soát thời gian chờ bằng mili giây khi cuộn đến từng mục khi khai thác.",
+      "message": "Độ trễ cuộn (ms)"
+   },
+   "scrollDown": {
+      "description": "Nhãn cho tùy chọn cuộn xuống để tải thêm mục khi thu thập dữ liệu.",
+      "message": "Cuộn xuống để tải thêm mục"
+   },
+   "select": {
+      "description": "Nhãn cho nút để chọn một phần tử trên trang.",
+      "message": "Chọn"
+   },
+   "selectElement": {
+      "description": "Tiêu đề hiển thị khi chọn một phần tử.",
+      "message": "Chọn phần tử"
+   },
+   "selectField": {
+      "description": "Mô tả hành động chọn trường để ghi nhận.",
+      "message": "Chọn trường"
+   },
+   "selectList": {
+      "description": "Tiêu đề hiển thị khi lựa chọn danh sách.",
+      "message": "Chọn danh sách"
+   },
+   "selectScraper": {
+      "description": "Nhãn cho mục trình đơn để chọn một trình thu thập dữ liệu để sử dụng cho việc thu thập dữ liệu từ mỗi URL.",
+      "message": "Chọn trình thu thập dữ liệu"
+   },
+   "selectScraperOption": {
+      "description": "Hướng dẫn chọn scraper cho miền hiện tại.",
+      "message": "Chọn scraper cho $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Nhãn cho nút để hiển thị thêm các tùy chọn cho việc scraping.",
+      "message": "Hiển thị Tùy chọn"
+   },
+   "startScraping": {
+      "description": "Nhãn cho nút để bắt đầu cào.",
+      "message": "Bắt đầu cào"
+   },
+   "stopScraping": {
+      "description": "Nhãn cho nút để dừng lấy dữ liệu.",
+      "message": "Dừng Lấy Dữ Liệu"
+   },
+   "tabNotFound": {
+      "description": "Thông báo lỗi khi không tìm thấy tab mục tiêu.",
+      "message": "Không tìm thấy tab. Đóng cửa sổ này và thử lại."
+   },
+   "testUrl": {
+      "description": "Nhãn cho nhập liệu văn bản cho URL kiểm tra khi chọn bộ cạo dữ liệu.",
+      "message": "URL Kiểm tra"
+   },
+   "text": {
+      "description": "Nhãn cho trường văn bản được thu thập từ một phần tử.",
+      "message": "Văn bản"
+   },
+   "uploadUrls": {
+      "description": "Nhãn cho mục menu để tải lên tệp với các URL để cào.",
+      "message": "Tải lên URL"
+   },
+   "url": {
+      "description": "Nhãn cho trường URL được thu thập từ một phần tử.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Cảnh báo hiển thị khi tên cột được chọn là một URL và tệp CSV có thể thiếu hàng tiêu đề.",
+      "message": "Tên cột có vẻ là một URL. Xin hãy đảm bảo rằng tệp CSV bắt đầu với một hàng tiêu đề chứa tên của các cột."
+   },
+   "verify": {
+      "description": "Nhãn cho nút để xác minh một phần tử đã chọn bằng cách làm nổi bật nó trên trang.",
+      "message": "Xác minh"
+   },
+   "waitTimeItems": {
+      "description": "Nhãn cho các nhập liệu để kiểm soát thời gian chờ trong bao lâu khi tải thêm các mục.",
+      "message": "Thời gian chờ để tải thêm các mục (giây)"
+   },
+   "waitTimePages": {
+      "description": "Nhãn cho các đầu vào để điều khiển thời gian chờ bao lâu khi tải trang tính bằng giây.",
+      "message": "Thời gian chờ để tải trang (giây)"
+   }
+}

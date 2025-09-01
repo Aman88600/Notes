@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "為應用程式新增評論的按鈕標籤。",
+      "message": "新增評論"
+   },
+   "allowPermissions": {
+      "description": "允許應用程序權限的按鈕標籤。",
+      "message": "允許權限"
+   },
+   "autoScroll": {
+      "description": "控制在抓取時是否自動滾動至每個項目的開關標籤。",
+      "message": "自動滾動"
+   },
+   "back": {
+      "description": "標籤用於返回至前一個畫面的按鈕。",
+      "message": "返回"
+   },
+   "cancel": {
+      "description": "取消動作的標籤。",
+      "message": "取消"
+   },
+   "changeList": {
+      "description": "更改要抓取的清單的按鈕標籤。",
+      "message": "更改清單"
+   },
+   "changeSelectionLevel": {
+      "description": "更改選取元素時選擇等級的動作描述。",
+      "message": "更改選擇等級"
+   },
+   "chooseFile": {
+      "description": "上傳檔案時按鈕的標籤。",
+      "message": "選擇檔案"
+   },
+   "click": {
+      "description": "點擊動作的標籤。",
+      "message": "點擊"
+   },
+   "clickLoadMore": {
+      "description": "標籤用於選項，點擊按鈕在同一頁面加載更多項目以進行抓取。",
+      "message": "點擊按鈕以在同一頁面加載更多項目"
+   },
+   "clickNextPage": {
+      "description": "當進行數據抓取時，點擊鏈接以導航到下一頁以加載更多項目的選項標籤。",
+      "message": "點擊鏈接以導航至下一頁"
+   },
+   "column": {
+      "description": "用於\u003Clabel>元素，以選擇從上傳的CSV中抓取URL所在的欄。",
+      "message": "欄"
+   },
+   "confirm": {
+      "description": "確認操作的標籤。",
+      "message": "確認"
+   },
+   "continue": {
+      "description": "繼續到下一個畫面的按鈕標籤。",
+      "message": "繼續"
+   },
+   "copy": {
+      "description": "按鈕的標籤，用於將資料複製到剪貼簿。",
+      "message": "複製"
+   },
+   "csvFile": {
+      "description": "標籤用於上傳 CSV 檔案的檔案輸入",
+      "message": "$FILE_TYPE$ 檔案",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "詳細頁面抓取器的默認名稱。",
+      "message": "從 $DOMAIN$ 抓取細節",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "刪除刮刀的菜單項目標籤。",
+      "message": "刪除"
+   },
+   "dismiss": {
+      "description": "關閉警報的動作。",
+      "message": "關閉"
+   },
+   "duration": {
+      "description": "顯示當前抓取持續時間的標籤。",
+      "message": "持續時間"
+   },
+   "esc": {
+      "description": "Escape 鍵的標籤。",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "匯出刮刀的菜單項目標籤。",
+      "message": "匯出"
+   },
+   "extractData": {
+      "description": "運行抓取並從每個網址提取數據的菜單項標籤。",
+      "message": "提取數據"
+   },
+   "finish": {
+      "description": "完成選擇頁面元素的按鈕標籤。",
+      "message": "完成"
+   },
+   "headerRow": {
+      "description": "幫助文本解釋上傳的CSV文件必須從標題行開始。",
+      "message": "必須從標題行開始"
+   },
+   "headerRowRequired": {
+      "description": "當上傳的CSV檔案似乎缺少標題行時顯示此警告。",
+      "message": "需要標題行"
+   },
+   "help": {
+      "description": "開啟幫助頁面按鈕的標籤。",
+      "message": "幫助"
+   },
+   "hideOptions": {
+      "description": "隱藏更多抓取選項的按鈕標籤。",
+      "message": "隱藏選項"
+   },
+   "import": {
+      "description": "導入刮刀的菜單項目標籤。",
+      "message": "導入"
+   },
+   "install": {
+      "description": "安裝應用程序最新版本的按鈕標籤。",
+      "message": "安裝最新版本"
+   },
+   "invalidTab": {
+      "description": "當目標標籤頁打開一個受限網站時的錯誤訊息。",
+      "message": "此頁面已受限制。請嘗試其他網站。"
+   },
+   "invalidVersion": {
+      "description": "指示用戶安裝應用程序的最新版本。",
+      "message": "$APP_NAME$已經結束Beta測試階段！安裝最新版本以獲得最新更新。",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "抓取清單時顯示已抓取項目數量的標籤。",
+      "message": "項目"
+   },
+   "loadMoreAction": {
+      "description": "標籤用於\u003Cselect>元素，選擇在抓取時如何載入更多項目。",
+      "message": "載入更多項目的操作"
+   },
+   "max": {
+      "description": "標籤用於控制載入更多項目或頁面時的最大等待時間。",
+      "message": "最大"
+   },
+   "maxItems": {
+      "description": "設定抓取項目數量上限的輸入標籤。",
+      "message": "最大項目數"
+   },
+   "maxItemsHelp": {
+      "description": "幫助文本告知用戶如果不設置限制，應將最大項目輸入留空。",
+      "message": "留空則無限制"
+   },
+   "maxItemsReached": {
+      "description": "警示描述，表示已達到抓取項目數量的最大限制。",
+      "message": "已成功抓取到指定上限。增加最大項目選項以繼續抓取。"
+   },
+   "mediaUrl": {
+      "description": "從元素捕獲的媒體 URL 欄位的標籤。",
+      "message": "媒體網址"
+   },
+   "min": {
+      "description": "控制加載更多項目或頁面時等待的最小時間的輸入標籤。",
+      "message": "最小值"
+   },
+   "missingTabError": {
+      "description": "無法訪問目標標籤頁數據時的錯誤信息。",
+      "message": "您用於此任務的標籤頁已關閉。請關閉此窗口並重試。"
+   },
+   "missingTabPermission": {
+      "description": "無法訪問目標標籤頁數據時的錯誤信息。",
+      "message": "無法訪問標籤頁。請關閉此窗口後重試。"
+   },
+   "missingUrlColumn": {
+      "description": "當 CSV 文件中缺少包含網址的欄位時的錯誤訊息。",
+      "message": "無法找到包含網址的欄位。請選擇另一個文件。"
+   },
+   "newScraper": {
+      "description": "創建新擷取器按鈕的標籤。",
+      "message": "新建擷取器"
+   },
+   "noData": {
+      "description": "當表中沒有數據顯示時的占位符。",
+      "message": "沒有數據顯示"
+   },
+   "noFileChosen": {
+      "description": "當未選擇文件時顯示的訊息。",
+      "message": "未選擇任何文件"
+   },
+   "noList": {
+      "description": "當頁面上找不到列表時顯示的占位符。",
+      "message": "無法在頁面上找到列表"
+   },
+   "none": {
+      "description": "當進行資料抓取時，用於不加載更多項目的選項標籤。",
+      "message": "無"
+   },
+   "options": {
+      "description": "顯示刮刀選項的按鈕標籤。",
+      "message": "選項"
+   },
+   "pages": {
+      "description": "抓取列表時顯示已抓取頁數的標籤。",
+      "message": "頁面"
+   },
+   "permissionsDescription": {
+      "description": "解釋應用程序需要額外權限來訪問和抓取網址的幫助文本。",
+      "message": "$APP_NAME$ 需要額外的權限來訪問和抓取網址",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "徽章文字，用以指示所顯示的數據是抓取器的預覽。",
+      "message": "預覽"
+   },
+   "remainingPages": {
+      "description": "當抓取詳細頁面時，顯示還剩多少頁面需要被抓取的標籤。",
+      "message": "剩餘"
+   },
+   "rename": {
+      "description": "重新命名抓取工具的菜單項標籤。",
+      "message": "重新命名"
+   },
+   "reviewDescription": {
+      "description": "請用戶為應用程序留下評價。",
+      "message": "嗨，我是$NAME$。我創建了$APP_NAME$來幫助人們節省時間。如果您喜歡使用它，我會非常感激您給予5星評價，以幫助其他人發現$APP_NAME$。非常感謝！",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "感謝用戶使用應用程序。",
+      "message": "感謝您使用$APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "標籤選項，顯示為每個列表中的項目抓取詳細頁面的屏幕。",
+      "message": "抓取詳情"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "提示用戶關於抓取詳細頁面的說明。",
+      "message": "要抓取列表中的每個 URL，請在將列表下載為 CSV 文件後，從右上角的菜單中選擇 \"$LABEL$\"。",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "抓取詳情"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "提示用戶有關抓取詳細頁面的標題。",
+      "message": "提示：抓取詳細頁面"
+   },
+   "scrapeList": {
+      "description": "顯示抓取列表畫面選項的標籤。",
+      "message": "抓取列表"
+   },
+   "scrapedPages": {
+      "description": "顯示抓取詳情頁面時已抓取的頁數的標籤。",
+      "message": "已抓取"
+   },
+   "scrapingComplete": {
+      "description": "提示標題表示抓取已經完成。",
+      "message": "抓取完成"
+   },
+   "scrapingStatus": {
+      "description": "標籤表示抓取進行中。",
+      "message": "正在抓取..."
+   },
+   "scrollDelay": {
+      "description": "控制在抓取每個項目時滾動等待時間長度（以毫秒計）的輸入標籤。",
+      "message": "滾動延遲（毫秒）"
+   },
+   "scrollDown": {
+      "description": "當進行數據抓取時，為向下滾動以載入更多項目的選項標籤。",
+      "message": "向下滾動以載入更多項目"
+   },
+   "select": {
+      "description": "用於選擇頁面元素的按鈕標籤。",
+      "message": "選擇"
+   },
+   "selectElement": {
+      "description": "選擇元素時顯示的標題。",
+      "message": "選擇元素"
+   },
+   "selectField": {
+      "description": "選擇要捕捉的欄位的動作描述。",
+      "message": "選擇欄位"
+   },
+   "selectList": {
+      "description": "選擇列表時顯示的標題。",
+      "message": "選擇列表"
+   },
+   "selectScraper": {
+      "description": "選單項目的標籤，用於選擇抓取每個網址的抓取工具。",
+      "message": "選擇抓取工具"
+   },
+   "selectScraperOption": {
+      "description": "指示用戶為目前的網域選擇抓取工具。",
+      "message": "為 $DOMAIN$ 選擇抓取工具",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "顯示更多網頁擷取選項的按鈕標籤。",
+      "message": "顯示選項"
+   },
+   "startScraping": {
+      "description": "啟動抓取的按鈕標籤。",
+      "message": "開始抓取"
+   },
+   "stopScraping": {
+      "description": "停止抓取的按鈕標籤。",
+      "message": "停止抓取"
+   },
+   "tabNotFound": {
+      "description": "當目標標籤不存在時的錯誤訊息。",
+      "message": "未找到標籤。請關閉此視窗並重試。"
+   },
+   "testUrl": {
+      "description": "選擇抓取工具時使用的測試網址輸入框標籤。",
+      "message": "測試網址"
+   },
+   "text": {
+      "description": "從元素捕獲的文本字段的標籤。",
+      "message": "文字"
+   },
+   "uploadUrls": {
+      "description": "用於上傳包含欲抓取網址的文件的菜單項目標籤。",
+      "message": "上傳網址"
+   },
+   "url": {
+      "description": "從元素捕獲的 URL 欄位的標籤。",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "當選定的列名是網址且 CSV 檔案可能缺少標題行時顯示的警告。",
+      "message": "欄位名稱似乎是一個網址。請確保 CSV 檔案從包含列名的標題行開始。"
+   },
+   "verify": {
+      "description": "通過在頁面上突顯顯示來驗證所選元素的按鈕標籤。",
+      "message": "驗證"
+   },
+   "waitTimeItems": {
+      "description": "控制加載更多項目時等待秒數的輸入標籤。",
+      "message": "加載更多項目的等待時間（秒）"
+   },
+   "waitTimePages": {
+      "description": "控制加載頁面時等待幾秒的輸入標籤。",
+      "message": "加載頁面的等待時間（秒）"
+   }
+}

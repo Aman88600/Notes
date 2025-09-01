@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Címke a gombhoz, amely lehetővé teszi egy vélemény hozzáadását az alkalmazáshoz.",
+      "message": "Vélemény hozzáadása"
+   },
+   "allowPermissions": {
+      "description": "Címke a gombhoz, amely engedélyt ad az alkalmazás számára.",
+      "message": "Engedélyek megadása"
+   },
+   "autoScroll": {
+      "description": "Címke a kapcsolóhoz, amely szabályozza, hogy a rendszer automatikus görgetést végezzen-e minden elem felkaparása közben.",
+      "message": "Automatikus görgetés"
+   },
+   "back": {
+      "description": "Címke a gombhoz, amely visszavisz az előző képernyőre.",
+      "message": "Vissza"
+   },
+   "cancel": {
+      "description": "Címke a megszakítás művelethez.",
+      "message": "Mégse"
+   },
+   "changeList": {
+      "description": "Felirat a lista megváltoztatásához szolgáló gombhoz.",
+      "message": "Lista módosítása"
+   },
+   "changeSelectionLevel": {
+      "description": "Leírás az elem kijelölésekor a kijelölési szint megváltoztatásának műveletéről.",
+      "message": "Válasszon kiválasztási szintet"
+   },
+   "chooseFile": {
+      "description": "Címke a fájl feltöltéséhez szükséges gomb megnevezésére.",
+      "message": "Válasszon fájlt"
+   },
+   "click": {
+      "description": "Címke a kattintás művelethez.",
+      "message": "Kattintás"
+   },
+   "clickLoadMore": {
+      "description": "Felirat a több elem azonos oldalon való betöltéséhez történő gombra kattintás lehetőségéhez.",
+      "message": "Kattintson a gombra, hogy több elemet töltsön be azonos oldalon"
+   },
+   "clickNextPage": {
+      "description": "Címke a lehetőséghez, hogy kattintson egy hivatkozásra a következő oldalra történő navigáláshoz, hogy több elemet töltsön be a scrape-elés során.",
+      "message": "Kattintson a hivatkozásra a következő oldalra való navigáláshoz"
+   },
+   "column": {
+      "description": "Címke a \u003Cselect> elemhez, amely kiválasztja azt az oszlopot, amely tartalmazza az URL-eket a feltöltött CSV-ből való lehíváshoz.",
+      "message": "Oszlop"
+   },
+   "confirm": {
+      "description": "Címke a megerősítési művelethez.",
+      "message": "Megerősít"
+   },
+   "continue": {
+      "description": "Címke a következő képernyőre lépés gombjához.",
+      "message": "Folytatás"
+   },
+   "copy": {
+      "description": "Gomb felirata az adatok vágólapra másolásához.",
+      "message": "Másolás"
+   },
+   "csvFile": {
+      "description": "Címke a CSV fájl feltöltéséhez szükséges fájlbevitelhez",
+      "message": "$FILE_TYPE$ fájl",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Alapértelmezett név a részletek oldalainak lekérésére",
+      "message": "Részletek lekérése innen: $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "pelda.hu"
+         }
+      }
+   },
+   "delete": {
+      "description": "Címke az elem törléséhez a menüben.",
+      "message": "Törlés"
+   },
+   "dismiss": {
+      "description": "Művelet az értesítés elutasítására.",
+      "message": "Elutasít"
+   },
+   "duration": {
+      "description": "Címke a jelenlegi lekérés időtartamának megjelenítésére.",
+      "message": "Időtartam"
+   },
+   "esc": {
+      "description": "Címke az Escape billentyűhöz.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Címke az exportáló scraper menüelemhez.",
+      "message": "Exportálás"
+   },
+   "extractData": {
+      "description": "Címke a menüelemhez, amely elindítja a lekérdezést és kinyeri az adatokat minden URL-ről.",
+      "message": "Adatok kinyerése"
+   },
+   "finish": {
+      "description": "Címke a gombhoz, amely befejezi az elemek kiválasztását az oldalon.",
+      "message": "Befejez"
+   },
+   "headerRow": {
+      "description": "Segítség magyarázat arra, hogy a feltöltött CSV fájlnak fejléc sorral kell kezdődnie.",
+      "message": "Egy fejléc sorral kell kezdődnie"
+   },
+   "headerRowRequired": {
+      "description": "Figyelmeztetés, amely akkor jelenik meg, amikor úgy tűnik, hogy hiányzik a fejléc sor a feltöltött CSV-ből.",
+      "message": "Fejléc sor szükséges"
+   },
+   "help": {
+      "description": "Címke a súgó oldal megnyitására szolgáló gombhoz.",
+      "message": "Segítség"
+   },
+   "hideOptions": {
+      "description": "Címke a gombhoz, amely további lehetőségeket rejt el a scrape-eléshez.",
+      "message": "Elrejtési lehetőségek"
+   },
+   "import": {
+      "description": "Menüelem címke a scraper importálásához.",
+      "message": "Importálás"
+   },
+   "install": {
+      "description": "Címke a gombhoz, amely a legújabb verzió telepítésére szolgál.",
+      "message": "Telepítse a legújabb verziót"
+   },
+   "invalidTab": {
+      "description": "Hibaüzenet, amikor a cél fül korlátozott oldalon van nyitva.",
+      "message": "Ez az oldal korlátozott. Próbáljon meg egy másik oldalt."
+   },
+   "invalidVersion": {
+      "description": "Utasítsa a felhasználót, hogy telepítse az alkalmazás legújabb verzióját.",
+      "message": "$APP_NAME$ kilépett a bétából! Telepítse a legújabb verziót a legfrissebb frissítésekért.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Címke, amely az adatbányászat során kinyert elemek számát mutatja.",
+      "message": "Elemek"
+   },
+   "loadMoreAction": {
+      "description": "Címke a \u003Cselect> elemhez, hogy kiválassza, hogyan töltse be több elemet az adatgyűjtés során.",
+      "message": "További elemek betöltésének művelete"
+   },
+   "max": {
+      "description": "Címke a vezérlőszámára, amely megadja a maximálisan várakozási időt, amikor több elemet vagy oldalt tölt be.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Címke a beviteli mezőhöz, amely meghatározza a scrape-elendő elemek maximális számát.",
+      "message": "Maximális elemek száma"
+   },
+   "maxItemsHelp": {
+      "description": "Segítség szöveg arról, hogy az felhasználónak üresen kell hagynia a maximális tételek bemenetét, ha nem kíván korlátot beállítani.",
+      "message": "Hagyja üresen korlát nélkül"
+   },
+   "maxItemsReached": {
+      "description": "Figyelmeztető leírás arra vonatkozóan, hogy elérte a kinyerni kívánt elemek maximális számát.",
+      "message": "Sikeresen lekértük a megadott limitig. A további scrapinghez növelje a maximális elemek számának beállítását."
+   },
+   "mediaUrl": {
+      "description": "Címke a médiából származó URL mezőhöz.",
+      "message": "Média URL"
+   },
+   "min": {
+      "description": "Címke a beviteli mezőhöz, amely szabályozza a minimális várakozási időt, miközben további elemek vagy oldalak töltődnek.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Hibaüzenet, amikor nem lehet hozzáférni a céllap adatainak eléréséhez.",
+      "message": "A feladat végrehajtásához használt lapot bezárták. Kérjük, zárja be ezt az ablakot, és próbálja újra."
+   },
+   "missingTabPermission": {
+      "description": "Hibaüzenet, amikor nem lehet hozzáférni a cél fül adataihoz.",
+      "message": "Nem lehet hozzáférni a fülhöz. Zárja be ezt az ablakot és próbálja újra."
+   },
+   "missingUrlColumn": {
+      "description": "Hibaüzenet, amikor a CSV-fájlból hiányoznak az URL-ekkel rendelkező oszlopok.",
+      "message": "Nem található oszlop URL-ekkel. Kérjük, válasszon másik fájlt."
+   },
+   "newScraper": {
+      "description": "Címke a gombhoz, amellyel új lekérdezőt lehet létrehozni.",
+      "message": "Új Lekérdező"
+   },
+   "noData": {
+      "description": "Helykitöltő szöveg a táblázatban, ha nincs megjeleníthető adat.",
+      "message": "Nincs megjeleníthető adat"
+   },
+   "noFileChosen": {
+      "description": "Üzenet, amely akkor jelenik meg, ha nem választottak fájlt.",
+      "message": "Nem lett fájl kiválasztva"
+   },
+   "noList": {
+      "description": "Helykitöltő szöveg, amely akkor jelenik meg, ha nem található lista az oldalon.",
+      "message": "Nem található lista az oldalon"
+   },
+   "none": {
+      "description": "Címke az opcióhoz, hogy ne töltse be több elemet scrape-elés közben.",
+      "message": "Egyik sem"
+   },
+   "options": {
+      "description": "Címke a kaparó beállításaihoz tartozó gomb megjelenítésére.",
+      "message": "Beállítások"
+   },
+   "pages": {
+      "description": "Címke a scrape-elt lista oldalainak számának megjelenítésére.",
+      "message": "Oldalak"
+   },
+   "permissionsDescription": {
+      "description": "Segítség szövege annak magyarázatára, hogy az alkalmazásnak további engedélyekre van szüksége az URL-ek hozzáféréséhez és lekaparásához.",
+      "message": "$APP_NAME$ további engedélyekre van szüksége az URL-ek hozzáféréséhez és lekaparásához",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Jelvény szöveg, amely azt jelzi, hogy az adatok előnézete a scrapernek.",
+      "message": "Előnézet"
+   },
+   "remainingPages": {
+      "description": "Címke a hátralévő oldalak számának megjelenítésére, amikor részletek oldalait bányásszák.",
+      "message": "Hátralévő"
+   },
+   "rename": {
+      "description": "Címke a menüelemhez, hogy átnevezze a kaparót.",
+      "message": "Átnevezés"
+   },
+   "reviewDescription": {
+      "description": "Kérd meg a felhasználót, hogy írjon véleményt az alkalmazásra.",
+      "message": "Szia, én vagyok $NAME$. A(z) $APP_NAME$ alkalmazást azért hoztam létre, hogy az emberek időt spóroljanak. Ha élvezettel használod, nagyra értékelném egy 5 csillagos értékelést, hogy mások is felfedezhessék a(z) $APP_NAME$ alkalmazást. Nagyon köszönöm!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Köszönetet mond a felhasználónak az alkalmazás használatáért.",
+      "message": "Köszönjük, hogy használja a(z) $APP_NAME$-t",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Címke az opcióhoz, amely megjeleníti a képernyőt részletek lekérésére minden egyes elemhez a listában.",
+      "message": "Adatok lekérése"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Útmutató leírás arról, hogy hogyan lehet az oldal részleteit lemásolni a felhasználónak.",
+      "message": "Ahhoz, hogy az URL-listát le tudd másolni, válaszd ki a \"$LABEL$\" lehetőséget a jobb felső sarokban található menüben, miután a listát CSV fájlként letöltötted.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Részletek Lemásolása"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Cím azokról a tippekről, amelyek arra oktatják a felhasználót, hogyan kaparjon le részletező oldalakat.",
+      "message": "Tipp: Részletek oldalainak kaparása"
+   },
+   "scrapeList": {
+      "description": "Címke az opcióhoz, amely megmutatja a lista scrape-elésének képernyőjét.",
+      "message": "Lista lehúzása"
+   },
+   "scrapedPages": {
+      "description": "Címke a részleteket tartalmazó oldalak letakarításakor feldolgozott oldalak számának megjelenítésére.",
+      "message": "Letakarított"
+   },
+   "scrapingComplete": {
+      "description": "Riasztási fejléc, amely azt jelzi, hogy a kaparás befejeződött.",
+      "message": "Kaparás befejeződött"
+   },
+   "scrapingStatus": {
+      "description": "Címke, amely jelzi, hogy az adatgyűjtés folyamatban van.",
+      "message": "Adatgyűjtés..."
+   },
+   "scrollDelay": {
+      "description": "Címke a bemenethez, amely szabályozza, hogy mennyit kell várni milliszekundumban, miközben elemeket lapozunk végig az adatgyűjtés során.",
+      "message": "Görgetési késleltetés (ms)"
+   },
+   "scrollDown": {
+      "description": "Címke az opciót jelölve, hogy a lefelé görgetéssel több elem betölthető lapozás közben.",
+      "message": "Görgessen le több elem betöltéséhez"
+   },
+   "select": {
+      "description": "Címke az oldalon lévő elem kiválasztására szolgáló gombhoz.",
+      "message": "Kiválaszt"
+   },
+   "selectElement": {
+      "description": "Cím, amikor egy elemet választanak ki.",
+      "message": "Elem kiválasztása"
+   },
+   "selectField": {
+      "description": "Leírás az elfogandó mező kiválasztásának műveletéhez.",
+      "message": "Mező kiválasztása"
+   },
+   "selectList": {
+      "description": "A címet jeleníti meg, amikor listát választ.",
+      "message": "Lista kiválasztása"
+   },
+   "selectScraper": {
+      "description": "Címke a menüelemhez, amely kiválasztja a scrapert, amelyet minden URL-hez használni kell.",
+      "message": "Válassz scrapert"
+   },
+   "selectScraperOption": {
+      "description": "Utasítás az aktuális domainhez tartozó scraper kiválasztására.",
+      "message": "Válassz scrape-ert a $DOMAIN$ számára",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "pelda.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Címke a gombhoz, amely további lehetőségeket nyújt az adatgyűjtéshez.",
+      "message": "Opciók megjelenítése"
+   },
+   "startScraping": {
+      "description": "Címke a gombhoz az adatgyűjtés elindításához.",
+      "message": "Adatgyűjtés indítása"
+   },
+   "stopScraping": {
+      "description": "Felirat a scrapelést leállító gombhoz.",
+      "message": "Scrapelés leállítása"
+   },
+   "tabNotFound": {
+      "description": "Hibaüzenet, amikor a cél fül nem létezik.",
+      "message": "Nincs fül található. Zárja be ezt az ablakot és próbálja újra."
+   },
+   "testUrl": {
+      "description": "Címke a teszt URL szövegmezőjéhez, amikor egy scraper kiválasztásra kerül.",
+      "message": "Teszt URL"
+   },
+   "text": {
+      "description": "Címke a szövegmezőhöz, amelyet egy elemből rögzítenek.",
+      "message": "Szöveg"
+   },
+   "uploadUrls": {
+      "description": "Címke a menüelemhez, amely fájlt tölt fel az URL-ek scrape-eléséhez.",
+      "message": "URL-ek feltöltése"
+   },
+   "url": {
+      "description": "Címke az elemről rögzített URL mezőhöz.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Figyelmeztetés megjelenítése, amikor a kiválasztott oszlop neve URL, és előfordulhat, hogy a CSV fájlban hiányzik a fejléc sor.",
+      "message": "Az oszlop neve URL-nek tűnik. Kérjük, győződjön meg róla, hogy a CSV fájl fejléc sorral kezdődik, amely tartalmazza az oszlopok neveit."
+   },
+   "verify": {
+      "description": "Címke gombhoz, amely kiválasztott elem ellenőrzését végzi a lap kiemelésével.",
+      "message": "Ellenőriz"
+   },
+   "waitTimeItems": {
+      "description": "Címke a beviteli mezőkhöz, amelyek szabályozzák, hogy mennyit kell várni másodpercben a több elem betöltésekor.",
+      "message": "Várakozási idő a több elem betöltéséhez (másodpercek)"
+   },
+   "waitTimePages": {
+      "description": "Címke a beviteli mezőkhöz, amelyek szabályozzák, hogy mennyit kell várni másodpercekben az oldalak betöltésekor.",
+      "message": "Oldalak betöltésének várakozási ideje (másodpercek)"
+   }
+}

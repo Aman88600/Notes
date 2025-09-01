@@ -1,0 +1,91 @@
+Here is the requested content arranged in a structured JSON format, using the fields **Basic Info**, **Activity**, **Experience**, **Education**, **Certification and Skills**. Details are derived and grouped according to the appropriate category, using flat or nested objects as relevant[1][2][5]:
+
+```json
+{
+  "BasicInfo": {
+    "name": "Amit Jain",
+    "current_title": "Lead Data Scientist @ Nestlé",
+    "connections": "500+",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/C5603AQG2EaP3d_xJeg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1603779602166?e=1759363200&v=beta&t=athtWaeXHmCEcp3la8rDNgQTBtVcQwLffuY8Xs74pHs",
+    "about": "Nestlé benefits from a Lead Data Scientist with over five years of experience in advanced machine learning and NLP applications. The team leverages expertise in statistical analysis and pricing strategies to deliver data-driven insights for the consumer packaged goods (CPG) sector. Focus areas include transforming complex datasets into actionable intelligence to enhance operational efficiency and decision-making. Previous roles at IQVIA included leading NLP projects to digitize and extract information from unstructured documents using SPACY and deep learning models. Committed to driving innovation and collaboration, the focus remains on solving complex business challenges through AI and data science."
+  },
+  "Activity": {
+    "followers": 674,
+    "posts": 9,
+    "recent_comments": 3,
+    "sample_recent_post": {
+      "title": "Lead Data Scientist @ Nestlé | Masters in AI",
+      "author": "Amit Jain",
+      "visibility": "Visible to anyone on or off LinkedIn",
+      "profile_photo": "https://media.licdn.com/dms/image/v2/C5603AQG2EaP3d_xJeg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1603779602166?e=1759363200&v=beta&t=athtWaeXHmCEcp3la8rDNgQTBtVcQwLffuY8Xs74pHs"
+    }
+  },
+  "Experience": [
+    {
+      "organization": "Nestlé",
+      "title": "Lead Data Scientist",
+      "type": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "duration": "Sep 2024 to Present · 1 yr",
+      "description": "Worked as a lead data scientist in NLP projects, digitizing documents from PDF/Word to XML and extracting information using SPACY and deep learning models."
+    },
+    {
+      "organization": "IQVIA",
+      "title": "Senior Data Scientist",
+      "type": "Full-time",
+      "duration": "Aug 2022 to Oct 2024 · 2 yrs 3 mos",
+      "description": "Lead Data Scientist, IQVIA: Led NLP projects extracting information from unstructured documents."
+    },
+    {
+      "organization": "Morgan Stanley",
+      "title": "Data Engineer",
+      "type": "Full-time",
+      "duration": "Aug 2020 to Aug 2022 · 2 yrs 1 mo",
+      "description": "Created data flow architecture for big data including DB design, ETL flow (Pentaho), and reporting (Tableau)."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Birla Institute of Technology and Science, Pilani",
+      "degree": "Master's degree, Artificial Intelligence",
+      "year": "Mar 2024",
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHJcHjUCqWVbA/company-logo_100_100/company-logo_100_100/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=1759363200&v=beta&t=MO2KMGS38OR4KjCbLrOwPibAUTXM_goW8wQt40czfIg"
+    },
+    {
+      "institution": "International Institute of Information Technology Bangalore",
+      "degree": "PG in Datascience, Data Science",
+      "year": "2018 - 2019",
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQE_nLNex0UufA/company-logo_100_100/company-logo_100_100/0/1735036209832/iiitbofficial_logo?e=1759363200&v=beta&t=gx896ic5DI4T9BuI_ZKaVDz-ZgUIGdRZQGhFOxvVJZ4"
+    }
+  ],
+  "CertificationAndSkills": {
+    "skills": [
+      "Statistical Analysis",
+      "Consumer Packaged Goods (CPG)",
+      "NLP",
+      "Python",
+      "Hadoop",
+      "Machine Learning",
+      "AI"
+    ],
+    "certifications": [
+      {
+        "title": "PG in Datascience, Data Science",
+        "institution": "International Institute of Information Technology Bangalore",
+        "year": "2018 - 2019"
+      },
+      {
+        "title": "Master's degree, Artificial Intelligence",
+        "institution": "Birla Institute of Technology and Science, Pilani",
+        "year": "Mar 2024"
+      }
+    ]
+  }
+}
+```
+
+**Notes:**
+- Redundant, unclear, or decorative input strings are omitted as they do not map to data fields.
+- The "Volunteering" and "Recommendations" sections were omitted as your requested fields did not include them, as were "Languages," "Interests," and "Causes." If needed, these can be structured in similar objects or arrays.
+- Grouped certifications and skills under "CertificationAndSkills."
+- The JSON object follows nested structures for education and experience and arrays for lists, as recommended for clarity and schema best practices[1][5].

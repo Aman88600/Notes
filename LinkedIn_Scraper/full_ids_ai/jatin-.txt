@@ -1,0 +1,179 @@
+Here is a structured JSON object based on your content and requested fields. All relevant details are grouped under **Basic Info**, **Activity**, **Experience**, **Education**, **Certification and Skills**.
+
+```json
+{
+  "BasicInfo": {
+    "name": "Jatin",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQEv7zliU4PXBg/profile-displayphoto-shrink_100_100/B56ZTpyyY1GQAU-/0/1739089193472?e=1759363200&v=beta&t=ZKOhC0c70jQa_aqYudpVE-dBiHf4icZUe4mDZnB6u_I",
+    "headline": "Data Scientist | AI/ML | Generative AI",
+    "about": "A Passionate Data Scientist, ML Expert, and Innovator with around 3 years of hands-on experience. Expertise in Statistics, Data Science, Deep Learning, NLP, specializing in Large Language Models (LLMs) with Python, PyTorch, and TensorFlow. Skilled in cloud platforms (GCP, AWS), various frameworks (PyTorch, TensorFlow, Keras, OpenCV, Flask, Docker), and database management (PostgreSQL, MySQL, MongoDB). Known for leadership, time management, communication, and continuous innovation.",
+    "location": "Delhi, India",
+    "connections": "500+",
+    "followers": 2144,
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Professional working proficiency"
+      },
+      {
+        "name": "Hindi",
+        "proficiency": "Full professional proficiency"
+      }
+    ]
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Studying Infant Mortality in South Asia",
+      "description": "Analysis of the massive decrease in worldwide infant mortality, visualized using Python and Choropleth Maps.",
+      "image": "https://media.licdn.com/dms/image/v2/C4E22AQF9beCLD6p83A/feedshare-shrink_480/feedshare-shrink_480/0/1622122647033?e=1759363200&v=beta&t=_tTm-Vy65-lwbBQn3ByRkqgPHh0nE_2NjNN207vHlBo",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:6803675513245245440?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6803675513245245440%29",
+      "hashtags": ["#dataisbeautiful", "#python3", "#dataanalysis"]
+    },
+    {
+      "type": "Post",
+      "title": "Recognition for AI/ML Work",
+      "description": "Appreciation and recognition for work in machine learning, Google, and gratefulness.",
+      "image": "https://media.licdn.com/dms/image/v2/C4D22AQEZOmIKmXQyiQ/feedshare-shrink_480/feedshare-shrink_480/0/1671980636000?e=1759363200&v=beta&t=9e7jtz_5i1h7PNRRrkyKBA2O6me9rj1OKAYXVNdRCIU",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7012795077651501057"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Knowledge Excel",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEFsC4vgeo7dg/company-logo_100_100/company-logo_100_100/0/1697282607331/knowledgexcel_logo?e=1759363200&v=beta&t=olI_MC6Gn5V436onO9kblv0S7JqBNpR8q3gyjfeVvaY",
+      "location": "Delhi, India",
+      "employmentType": "Full-time",
+      "startDate": "Sep 2024",
+      "endDate": "Present",
+      "description": "Developed an advanced AI interview platform, built and deployed cloud-based chatbots, implemented NLP solutions using OpenAI API and Llama 3.1."
+    },
+    {
+      "title": "AI Engineer",
+      "company": "MythyaVerse",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFpbkywYVOeBw/company-logo_100_100/company-logo_100_100/0/1678720929021?e=1759363200&v=beta&t=fZWjtFbjVTR9jk5hgnRry8GMrBeIAWYUuCi93L4oWnA",
+      "location": null,
+      "employmentType": "Full-time",
+      "startDate": "Feb 2024",
+      "endDate": "Aug 2024",
+      "description": "Worked on AI agents and cloud deployment for advanced user interaction."
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "MNC GROUP - PT MNC ASIA HOLDING TBK (VRPlaced)",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGNkCbFaQ_t2w/company-logo_100_100/company-logo_100_100/0/1661511599396/mnc_corporation_logo?e=1759363200&v=beta&t=9uN4QLXB2_R3K6ZtXA3vjKREX6xxRk_W-088UWvs12M",
+      "location": "Gurugram, Haryana, India",
+      "employmentType": "Full-time",
+      "startDate": "Aug 2022",
+      "endDate": "Jan 2024",
+      "description": "Developed E-KYC motion pay (OCR, Liveness), OTT recommendation systems using collaborative filtering and graph databases. Tech: Pytorch, OpenCV, Flask, Docker, AWS Neptune, MongoDB."
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "DU BEAT",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQE-Qt8A_Mq69Q/company-logo_100_100/company-logo_100_100/0/1631375387950?e=1759363200&v=beta&t=nwblNhf0KcKBv-7_WdI_xg9Ab1ciY5ri0YMYI4WNgAk",
+      "employmentType": "Full-time"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Jamia Millia Islamia",
+      "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHryGEa2JsVLw/company-logo_100_100/company-logo_100_100/0/1631334691255?e=1759363200&v=beta&t=ZvHQuy6eL7PYSdDztaPtOOtnZES2PitFPWBHA-V0Oto",
+      "degree": "Master of Computer Applications (MCA)",
+      "startDate": "Jul 2020",
+      "endDate": "Jul 2022",
+      "coursework": [
+        "Algorithmics & Program Design",
+        "Database Management Systems",
+        "Software Engineering",
+        "Advanced Data Structures",
+        "Data Communication & Networks",
+        "Operating Systems & Shell Programming",
+        "Artificial Intelligence & Machine Learning",
+        "Analysis & Design of Algorithms",
+        "Information & Cyber Security",
+        "Data Mining & Warehousing"
+      ],
+      "grade": null
+    },
+    {
+      "school": "Hansraj College",
+      "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEVGs7U1fPCKA/company-logo_100_100/company-logo_100_100/0/1631319435431?e=1759363200&v=beta&t=KTXmEqIsMHbNg7YuAYNyahJRqMdSWU1skDyOI3rNCa8",
+      "degree": "Bachelor of Science (Hons.), Computer Science",
+      "startDate": "Jul 2016",
+      "endDate": "May 2019",
+      "coursework": [
+        "Calculus",
+        "Linear Algebra",
+        "Differential Equations",
+        "Numerical Methods",
+        "Theory of Computation",
+        "Computer System Architecture",
+        "Operating Systems",
+        "Computer Networks",
+        "Database Management Systems",
+        "Discrete Structures",
+        "Microprocessor",
+        "Computer Graphics",
+        "Android Programming",
+        "System Programming",
+        "PHP Programming",
+        "Internet Technologies",
+        "Programming Fundamentals using C++ & Java",
+        "Data Structures",
+        "Design & Analysis of Algorithms",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Mining"
+      ],
+      "grade": "8.99 CGPA"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Summer Analytics 2022",
+      "issuer": "Indian Institute of Technology, Guwahati",
+      "issuedDate": "Aug 2022",
+      "credentialID": "e886d86d-fdc3-471e-b999-e8528bb35afe",
+      "certificateUrl": "https://certificate.givemycertificate.com/c/e886d86d-fdc3-471e-b999-e8528bb35afe"
+    },
+    {
+      "name": "Google Cloud Certified Professional Cloud Architect",
+      "issuer": "Google Developer Student Clubs",
+      "issuedDate": "Nov 2021",
+      "certificateUrl": "https://drive.google.com/file/d/1QrKKcm2Ot3d3Xas7jH30jXmR4axa4SDi/view?usp=sharing"
+    }
+  ],
+  "Skills": [
+    "Deep Learning",
+    "NLP",
+    "Large Language Models (LLM)",
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Keras",
+    "OpenCV",
+    "Flask",
+    "Docker",
+    "GCP",
+    "AWS",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Windows",
+    "Linux",
+    "PyCharm",
+    "Jupyter Notebook",
+    "GitHub",
+    "GitLab",
+    "Leadership",
+    "Time Management",
+    "Communication",
+    "Adobe Photoshop"
+  ]
+}
+```
+
+You can expand any field and nest further if required (for multi-position experience details, languages, etc.), but this JSON captures the requested structure with all essential profile content included.

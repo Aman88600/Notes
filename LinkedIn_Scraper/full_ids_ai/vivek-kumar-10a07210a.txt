@@ -1,0 +1,123 @@
+```json
+{
+  "Basic Info": {
+    "name": "Vivek Kumar",
+    "role": "Senior Data Scientist",
+    "location": "Noida, Uttar Pradesh, India (Remote)",
+    "linkedin": "https://www.linkedin.com/in/vivek-kumar-10a07210a/",
+    "portfolio": "https://sites.google.com/view/vivekdata",
+    "connections": "500+",
+    "followers": "5,383",
+    "about": "I am a data scientist with a passion for storytelling. During the day, I am usually programming, working to derive insight from large datasets. My skills include Python, SQL, Data visualization, BI Tools (Tableau & PowerBI), Python Libraries (Seaborn & Matplotlib), Alteryx, Exploratory Data Analysis, Hypothesis Testing, Machine learning. I have developed a strong acumen for problem-solving. I often work on end-to-end data science projects that usually begin by collecting data from third-party sources and end with delivering business insight in the form of customer segments. Sometimes, I create personal projects and I also enjoy going on sites like HackerRank, Datalameur, and Leetcode to try out their programming challenges. Please go through my Portfolio to take a look at my work."
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "content": "I've been getting a lot of DMs for guidance, so decided to take action on it. I'm excited to help folks out and give back to the community via Topmate. Feel free to reach out if you have any questions or just want to say hi!",
+      "link": "https://topmate.io/careerwithhina/"
+    }
+  ],
+  "Experience": [
+    {
+      "organization": "Paytm",
+      "roles": [
+        {
+          "title": "Senior Data Scientist",
+          "type": "Full-time",
+          "duration": "Jan 2023 - Present",
+          "location": "Noida, Uttar Pradesh, India · Remote",
+          "projects": [
+            {
+              "name": "Install to signup Model",
+              "description": "Built an XGBoost Bivariate model to predict users which may not signup after install. Organisation took adequate measures to target such customers. This model helped higher conversion of installs into signups over control."
+            },
+            {
+              "name": "Location based Bank recommendation",
+              "description": "Built a recommender system to suggest top 3/5 banks to customers, reducing churn during UPI registration and enhancing customer satisfaction."
+            },
+            {
+              "name": "Customer Retention n30",
+              "description": "Built XGBoost multivariate model to predict 30-day retention behavior using last 60 days of data."
+            }
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "duration": "Sep 2023 - Present",
+          "note": "Dates overlap with Senior Data Scientist, possibly an internal promotion or concurrent roles."
+        }
+      ]
+    },
+    {
+      "organization": "PwC",
+      "role": "Associate-2 (Data Analyst)",
+      "type": "Full-time",
+      "duration": "Nov 2021 - Jan 2023",
+      "location": "Bangalore Urban, Karnataka, India",
+      "projects": [
+        {
+          "name": "Web Scraping & BI Dashboard",
+          "description": "Entire project life cycle: Web Scrapping using Python (Request-html, Beautifulsoup), data cleaning in Alteryx, and Power BI Dashboard highlighting data related to a company and its competitors."
+        }
+      ]
+    },
+    {
+      "organization": "Infosys",
+      "role": "Data Analyst (project association)",
+      "projects": [
+        {
+          "name": "Underwriting data mart",
+          "description": "Created a data pipeline using SQL for constructing a Data Mart utilized for insurance underwriting."
+        }
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Scaler",
+      "program": "Certificate Program, Data Science",
+      "activities": "Data Science"
+    },
+    {
+      "institution": "UIET Panjab University",
+      "degree": "Bachelor of Engineering - BE",
+      "field": "Electrical, Electronics and Communications Engineering",
+      "years": "2015 - 2019"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Hackerrank SQL Advanced Certification",
+      "issuer": "HackerRank",
+      "date": "Oct 2022",
+      "credential_url": "https://www.hackerrank.com/certificates/e8b352b8b497"
+    },
+    {
+      "name": "Alteryx Core Certified"
+    },
+    {
+      "name": "Financial accounting & analysis",
+      "issuer": "Indian Institute of Management Bangalore",
+      "date": "Dec 2023"
+    }
+  ],
+  "Skills": [
+    "Python",
+    "SQL",
+    "Data Visualization",
+    "Machine Learning",
+    "Tableau",
+    "Alteryx",
+    "Power BI",
+    "Seaborn",
+    "Matplotlib",
+    "Exploratory Data Analysis",
+    "Hypothesis Testing",
+    "A/B Testing",
+    "Statistical Data Analysis",
+    "Data Analytics",
+    "Data Engineering"
+  ]
+}
+```
+This JSON is structured according to your specified categories, aggregating and organizing the relevant extracted information under each heading.

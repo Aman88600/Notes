@@ -1,0 +1,149 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Karissa",
+    "profileLink": "https://www.linkedin.com/in/karissaa/",
+    "contactInfoLink": "https://www.linkedin.com/in/karissaa/overlay/contact-info/",
+    "about": "Being a class of 2020 graduates is sure a big challenge. After couple of months projecting myself sending CVs to a couple of companies, walk in into interviews, and start to work enthusiastically, suddenly dropped after seeing a lots of companies layoffs due to the pandemic. And of course, my hope on getting into a job in a short time after I graduated slowly fading away. But that doesn't stops me. After figuring out some alternatives to not wasting my precious time, I decided to spend my whole quarantine by conducting a research with my friends, hoping that we could give an impact especially for the NLP community. (Check it out here! https://lnkd.in/gZVNvdT)\n\nI remember trying so hard on assembly programming, linear algebra, fourier series not knowing what can I do with studying these bunch of difficult subjects. But then suddenly it all clicked when I jumped into Data Scientist career as an intern and began my interest in machine learning. That feeling when you found some insights on the data you assembled and visualize, and how you can build algorithms to solve your mystery through machine learning never fails to enthralling me until today. With all the not-fully-relevant basics, I jump easily to python and I love spending hours on improving my codes.\n\nDuring my internship, I implemented my python skills for data scientist applications such as building a model on a specific purpose, and also did a lot of feature engineering. I continue my journey by working as a Final Year Student Research doing an NLU (NLP) tasks on text classification using Deep Learning approach. I did all my work on Python, with the help of PyTorch and also Tensorflow, and other libraries such as Pandas, Numpy, Scikit-learn, Matplotlib and a lot more. On my final semester, I assisted on visual programming laboratory by teaching basic computer vision using PIL, OpenCV, CNN on Keras, and etc.\n\nI am well-known as someone who communicates well, a team player, organized, easily adapt, having a good problem solving abilities, and would love to connect with you!"
+  },
+  "Activity": [
+    {
+      "title": "IndoNLU Paper Accepted at AACL-IJNLP",
+      "description": "We proudly present our paper IndoNLU, that is recently accepted at AACL-IJNLP! It is the first-ever large benchmark for Indonesian with 12 NLU tasks along with the resources and pretrained models. I'm really glad to have had a chance to do this research in this huge collaboration!",
+      "link": "https://lnkd.in/gZVNvdT",
+      "hashtags": [
+        "#IndoNLU",
+        "#naturallanguageprocessing",
+        "#NLPBahasa"
+      ],
+      "collaborators": [
+        "Bryan Wilie", "Genta Indra Winata", "Samuel Cahyawijaya", "Xiaohong Li", "Zane Lim (林智渊 )", "Sidik Soleman", "Rahmad Mahendra", "Pascale Fung", "Syafri Bahar FRM®", "Ayu Purwarianti"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "position": "Senior Data Scientist",
+      "company": "JULO",
+      "companyLink": "https://www.linkedin.com/company/13639073/",
+      "location": "Jakarta Metropolitan Area",
+      "employmentType": "Full-time",
+      "duration": "Jun 2022 to Jun 2025 · 3 yrs 1 mo",
+      "responsibilities": [
+        "End-to-end Adoption Model for the first time customer to predict the probability to adopt",
+        "Optimized the Credit Scoring model pipeline to enhance efficiency, significantly reduce resource requirements, and accelerate the process.",
+        "Constructed end-to-end Collection Models for predicting payment propensity, resulting in a noteworthy increase in repayment rates.",
+        "Spearheaded the implementation of Bank Name Validation pass, leading to a statistically significant increase in acceptance rates within the population and reducing the workload on verification agents.",
+        "End-to-end RFM Customer Segmentation project and developing AB Test Experiment with the cross-functional teams on incentives optimization.",
+        "Designed, planned, and provided consultation for the Tailored Collection Experiment Implementation and Evaluation for better collection treatments.",
+        "Lead various projects involving teams of up to 6 members",
+        "Assisting DS Manager on hiring a team of data scientists and interns."
+      ]
+    },
+    {
+      "position": "Data Scientist",
+      "company": "JULO",
+      "companyLink": "https://www.linkedin.com/company/13639073/",
+      "location": "Jakarta Metropolitan Area",
+      "employmentType": "Full-time",
+      "duration": "Jun 2020 to May 2022 · 2 yrs",
+      "responsibilities": [
+        "Led the development of an end-to-end Best Time to Call model for predicting what time would be the best propensity to Right Person Calls (RPC).",
+        "Revamped and designed credit scoring features, resulting in improved AUC.",
+        "Utilized Large Language Models (LLMs) for aspect-based Sentiment Analysis of Playstore reviews, generating valuable insights for marketing strategies. From 3 days of manual checking to just few seconds.",
+        "Managed and monitored a model for extracting salary and payday information from bank statements, for better due date assignment.",
+        "Developed the in-house OCR system using Google services and text recognition logic.",
+        "Developed collection models for pre and post-due date treatments, resulting in statistically significant higher repayment rate."
+      ]
+    },
+    {
+      "position": "Contributor",
+      "company": "IndoNLP",
+      "companyLink": "https://indonlp.github.io/",
+      "location": "Remote",
+      "employmentType": "Freelance",
+      "duration": "Jan 2020 - Dec 2023 · 4 yrs",
+      "description": "Research community for Indonesian and its local languages."
+    }
+  ],
+  "Education": [
+    {
+      "school": "BINUS University",
+      "degree": "Master of Science - MS",
+      "fieldOfStudy": "Computer Science",
+      "duration": "2021 - 2022",
+      "activitiesAndSocieties": "President of ACES"
+    },
+    {
+      "school": "Universitas Multimedia Nusantara",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldOfStudy": "Computer Engineering",
+      "duration": "2016 - 2020",
+      "activitiesAndSocieties": "Research on Indonesian Language Model for Final Project"
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Best Performing Team on AWS Gameday",
+      "issuer": "AWS",
+      "date": "Jun 2019",
+      "associatedWith": "Universitas Multimedia Nusantara"
+    },
+    {
+      "title": "1st Place ReNom GUI Competition",
+      "issuer": "PT. Renom Infrastruktur Indonesia",
+      "date": "May 2019",
+      "associatedWith": "Universitas Multimedia Nusantara"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "Decision Sciences",
+    "Exploratory Data Analysis",
+    "Python (including PyTorch, TensorFlow, Pandas, Numpy, Scikit-learn, Matplotlib)",
+    "Machine Learning",
+    "Natural Language Processing (NLP)",
+    "Computer Vision (PIL, OpenCV, CNN, Keras)"
+  ],
+  "Recommendations": [
+    {
+      "from": "Liliek Darmawan Th",
+      "position": "Business Analyst | Fintech Lending | Credit Strategy & Customer Growth Optimization",
+      "date": "December 8, 2024",
+      "type": "Received",
+      "text": "Karissa is an exceptional data scientist with a keen attention to detail, ensuring her models are not only accurate but also actionable and impactful. She has a remarkable ability to understand her models thoroughly and effectively communicate their use cases to both technical and non-technical stakeholders. Beyond her technical expertise, Karissa stands out for her leadership and presence, having served as a speaker and judge in numerous events, showcasing her deep knowledge and inspiring others in the field. Her combination of analytical skills, clear communication, and dedication makes her a valuable asset to any team, and I am confident in her potential to excel further."
+    },
+    {
+      "from": "Nugroho Satrijandi",
+      "position": "Head of AI & Data Engineering @ PT Bank Neo Commerce Tbk | ex-Gojek",
+      "date": "November 3, 2023",
+      "type": "Received",
+      "text": "I had the pleasure of working alongside Karissa at JULO for almost 3 years, and it was during this time that I witnessed the exceptional skills and the dedication that make her a standout Senior Data Scientist. Karissa possesses a rare combination of analytical brilliance and a warm team spirit that fosters an environment of collaboration and innovation. She spearheaded numerous projects with a focus on collection models and natural language processing (NLP), and her ability to unravel complex data puzzles was nothing short of remarkable. Beyond her technical expertise, what really sets Karissa apart is her commitment to applying data science for social good. She has led initiatives that leverage big data to drive decisions that benefit not just our company, but the community at large. Her work has not only improved our bottom line but has also made a tangible difference in people’s lives. Moreover, Karissa's mentorship has helped to elevate the skills of those around her. Her willingness to share knowledge and provide guidance with patience and insight is a testament to her character and professional ethos. I can confidently say that any organization would be fortunate to have Karissa as a part of their team. She is not just a credit to the field of data science; she is a genuine asset to any endeavor she is part of. If you have any questions or need further insights into her incredible work ethic and achievements, please feel free to reach out to me."
+    }
+  ],
+  "Languages": [
+    {
+      "language": "English",
+      "proficiency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Indonesian",
+      "proficiency": "Full professional proficiency"
+    }
+  ],
+  "Organizations": [
+    {
+      "name": "KataK Campus Theatre",
+      "role": "Member",
+      "duration": "Sep 2016 - Jan 2020",
+      "associatedWith": "Universitas Multimedia Nusantara"
+    },
+    {
+      "name": "Himpunan Mahasiswa Sistem Komputer UMN",
+      "role": "Secretary and Treasurer",
+      "duration": "Dec 2017 - Dec 2018",
+      "associatedWith": "Universitas Multimedia Nusantara"
+    }
+  ]
+}
+```

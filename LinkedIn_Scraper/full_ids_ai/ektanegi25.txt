@@ -1,0 +1,127 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Ankit Jha",
+    "headline": "Senior Data Scientist @ Delta Air Lines | Founder @ PivotAI | Generative AI | Machine Learning | C++ | NLP | IIT Patna | Ex-Deutsche Telekom",
+    "location": "Bengaluru, Karnataka, India",
+    "profilePhotoUrl": "https://media.licdn.com/dms/image/v2/D5603AQH3Ae3LjbUYBg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732862494864?e=1759363200&v=beta&t=jA3VH4N_mwUaDLcb4KANVA-AZBD4HswlPeYjrKjLuN0",
+    "about": "I build AI systems that make sense. Currently, I’m a Senior Data Scientist at Delta Air Lines, working on Generative AI, NLP, and Causal Inference. With a background in Machine Learning, Explainable AI, and C++, I specialize in creating interpretable and actionable AI models. Beyond my role at Delta, I’m building PivotAI, focusing on AI-driven innovation. Ex-Deutsche Telekom. Interested in cutting-edge AI research, high-impact problems, and collaboration.",
+    "connections": "500+",
+    "followers": 5215,
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Full professional proficiency"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Native or bilingual proficiency"
+      }
+    ]
+  },
+  "Activity": {
+    "posts": [
+      {
+        "title": "How my team won the World's largest hackathon. Revealed.",
+        "type": "Article",
+        "url": "https://www.linkedin.com/pulse/how-my-team-won-worlds-largest-hackathon-revealed-ankit-jha",
+        "coverImage": "https://media.licdn.com/dms/image/v2/C5112AQFngiECUoMxMA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1553952051907?e=1762387200&v=beta&t=qv8OERIhIN7FNeEN_sqEZk3NIkO492W4mV7GHydddfM"
+      },
+      {
+        "title": "How to become a Machine Learning legend in 3 minutes and 56 seconds.",
+        "type": "Article",
+        "url": "https://www.linkedin.com/pulse/how-become-machine-learning-legend-3-minutes-56-seconds-ankit-jha",
+        "coverImage": "https://media.licdn.com/dms/image/v2/C5112AQGBTHNgJsjOQg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1563137559224?e=1762387200&v=beta&t=i2qLcC02jRS0B2tHAMCvoc-nSnDl10fl-zFX4D1Rivs"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Delta Air Lines",
+      "type": "Full-time",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "startDate": "Jun 2024",
+      "endDate": "Present",
+      "description": "Working on Generative AI, NLP, and Causal Inference to solve real-world problems at scale. Actively collaborating with international teams, focusing on advanced ML, explainable AI models, and scalable ML deployment using C++.",
+      "skills": [
+        "Generative AI",
+        "NLP",
+        "Causal Inference",
+        "Scalable Machine Learning",
+        "High-Performance Computing (C++)"
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Deutsche Telekom",
+      "type": "Full-time",
+      "startDate": "Oct 2022",
+      "endDate": "Jun 2024",
+      "description": "Developed pipelines for text-to-SQL translation, engineered genetic algorithm-based RFM feature tooling, built extreme classification and clustering toolkits, implemented explainability for ML models, ported solutions to AWS, and leveraged big data frameworks like Hadoop, PySpark, and SQL."
+    },
+    {
+      "title": "Data Science Associate",
+      "company": "ZS",
+      "type": "Full-time",
+      "startDate": "Dec 2020",
+      "endDate": "Oct 2022",
+      "description": "Developed approaches to proactively identify broadband issues, increase customer satisfaction, collaborated in global Agile teams, extracted insights from complex data, and drove NPS improvements."
+    }
+  ],
+  "Education": [
+    {
+      "school": "Indian Institute of Technology, Patna",
+      "degree": "Master of Technology - MTech",
+      "fieldOfStudy": "Artificial Intelligence",
+      "startDate": "Feb 2023",
+      "endDate": "Jul 2025",
+      "description": "Spearheaded AI-powered digital assistant development, with active hackathon and AI event participation showcasing innovation and entrepreneurship."
+    },
+    {
+      "school": "Institute of Technical Education and Research",
+      "degree": "Bachelor of Technology - BTech",
+      "fieldOfStudy": "Computer Science Engineering",
+      "startDate": "2016",
+      "endDate": "2020"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Deep Learning A-Z",
+      "organization": "Udemy",
+      "issueDate": "Dec 2020",
+      "credentialID": "UC-dd5602b3-a320-473b-8c1b-02ecf3d4c198",
+      "skills": [
+        "Artificial Neural Networks",
+        "Long Short-term Memory (LSTM)"
+      ]
+    },
+    {
+      "name": "Machine Learning A-Z: AI, Python & R",
+      "organization": "Udemy",
+      "issueDate": "Jan 2019",
+      "credentialID": "UC-99b43aed-11cd-4dea-a9cf-9cb07ee7e71b",
+      "skills": [
+        "Classification",
+        "Statistics"
+      ]
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "Natural Language Processing (NLP)",
+    "Machine Learning",
+    "Deep Learning",
+    "Large Language Models (LLM)",
+    "Object-Oriented Programming (OOP)",
+    "Amazon Redshift",
+    "Causal Inference",
+    "Python",
+    "Docker",
+    "Kubernetes",
+    "Big Data Technologies",
+    "Data Architecture"
+  ]
+}
+```

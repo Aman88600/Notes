@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Oznaka za gumb za dodajanje ocene za aplikacijo.",
+      "message": "Dodaj oceno"
+   },
+   "allowPermissions": {
+      "description": "Oznaka za gumb, ki omogoča dovoljenja za aplikacijo.",
+      "message": "Dovoli dovoljenja"
+   },
+   "autoScroll": {
+      "description": "Oznaka za stikalo za nadzor samodejnega pomikanja do vsakega elementa med strganjem.",
+      "message": "Samodejno pomikanje"
+   },
+   "back": {
+      "description": "Oznaka za gumb za vrnitev na prejšnji zaslon.",
+      "message": "Nazaj"
+   },
+   "cancel": {
+      "description": "Oznaka za dejanje preklica.",
+      "message": "Prekliči"
+   },
+   "changeList": {
+      "description": "Oznaka za gumb za spremembo seznama za strganje.",
+      "message": "Spremeni seznam"
+   },
+   "changeSelectionLevel": {
+      "description": "Opis dejanja za spremembo ravni izbire pri izbiri elementa.",
+      "message": "Spremeni raven izbire"
+   },
+   "chooseFile": {
+      "description": "Napis na gumbu za izbiro datoteke za nalaganje.",
+      "message": "Izberi datoteko"
+   },
+   "click": {
+      "description": "Oznaka za dejanje klik.",
+      "message": "Klikni"
+   },
+   "clickLoadMore": {
+      "description": "Oznaka za možnost klikanja na gumb za naloženje več elementov na isti strani med strganjem.",
+      "message": "Kliknite gumb za naloženje več elementov na isti strani"
+   },
+   "clickNextPage": {
+      "description": "Oznaka za možnost klikanja povezave za navigacijo na naslednjo stran za nalaganje več elementov pri zajemanju podatkov.",
+      "message": "Kliknite povezavo za navigacijo na naslednjo stran"
+   },
+   "column": {
+      "description": "Oznaka za element \u003Cselect> za izbiro stolpca, ki vsebuje URL-je za zajem iz naložene CSV datoteke.",
+      "message": "Stolpec"
+   },
+   "confirm": {
+      "description": "Oznaka za potrditveno dejanje.",
+      "message": "Potrdi"
+   },
+   "continue": {
+      "description": "Oznaka za gumb za nadaljevanje na naslednji zaslon.",
+      "message": "Nadaljuj"
+   },
+   "copy": {
+      "description": "Oznaka za gumb za kopiranje podatkov v odložišče.",
+      "message": "Kopiraj"
+   },
+   "csvFile": {
+      "description": "Oznaka za vhod datoteke za nalaganje CSV datoteke",
+      "message": "$FILE_TYPE$ datoteka",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Privzeto ime za orodje za pridobivanje podatkov s spletnih strani.",
+      "message": "Pridobi podatke iz $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "primer.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Oznaka za menijski element za brisanje scraperja.",
+      "message": "Izbriši"
+   },
+   "dismiss": {
+      "description": "Dejanje za odpoved opozorila.",
+      "message": "Odpovej"
+   },
+   "duration": {
+      "description": "Oznaka za prikaz trajanja trenutnega zajemanja.",
+      "message": "Trajanje"
+   },
+   "esc": {
+      "description": "Oznaka za tipko Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Oznaka za menijski element za izvoz orodja za strganje.",
+      "message": "Izvozi"
+   },
+   "extractData": {
+      "description": "Oznaka za menijski element za izvedbo strganja in izvlečenje podatkov iz posameznih URL-jev.",
+      "message": "Izvleči podatke"
+   },
+   "finish": {
+      "description": "Nalepka za gumb za dokončanje izbiranja elementov na strani.",
+      "message": "Končaj"
+   },
+   "headerRow": {
+      "description": "Pomožno besedilo za razlago, da mora naložena datoteka CSV začeti z vrstico z glavo.",
+      "message": "Mora začeti z vrstico z glavo"
+   },
+   "headerRowRequired": {
+      "description": "Opozorilo, ki se prikaže, ko zdi, da v naloženi CSV datoteki manjka zaglavna vrstica.",
+      "message": "Zaglavna vrstica je obvezna"
+   },
+   "help": {
+      "description": "Oznaka za gumb za odpiranje strani za pomoč.",
+      "message": "Pomoč"
+   },
+   "hideOptions": {
+      "description": "Oznaka za gumb za skrivanje dodatnih možnosti za zajem.",
+      "message": "Skrij možnosti"
+   },
+   "import": {
+      "description": "Oznaka za menijski element za uvoz strgalnika.",
+      "message": "Uvozi"
+   },
+   "install": {
+      "description": "Oznaka za gumb za namestitev najnovejše različice aplikacije.",
+      "message": "Namesti najnovejšo različico"
+   },
+   "invalidTab": {
+      "description": "Sporočilo o napaki, ko je ciljni zavihek odprt na omejeni strani.",
+      "message": "Ta stran je omejena. Poskusite na drugi strani."
+   },
+   "invalidVersion": {
+      "description": "Navodila uporabniku za namestitev najnovejše različice aplikacije.",
+      "message": "$APP_NAME$ ni več v beta različici! Namestite najnovejšo različico, da dobite najnovejše posodobitve.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Oznaka za prikaz števila predmetov, pridobljenih med strganjem seznama.",
+      "message": "Predmeti"
+   },
+   "loadMoreAction": {
+      "description": "Oznaka za element \u003Cselect> za izbiro načina nalaganja več predmetov med scrapanjem.",
+      "message": "Dejanje za nalaganje več predmetov"
+   },
+   "max": {
+      "description": "Oznaka za vnos za nadzor največjega časa čakanja pri nalaganju več predmetov ali strani.",
+      "message": "Največ"
+   },
+   "maxItems": {
+      "description": "Oznaka za vnos za določitev največje omejitve števila elementov za pridobivanje.",
+      "message": "Največ elementov"
+   },
+   "maxItemsHelp": {
+      "description": "Pomožno besedilo za obveščanje uporabnika, da naj pusti vnos za maksimalno število elementov prazen, če ne želi nastaviti omejitve.",
+      "message": "Pustite prazno za brez omejitve"
+   },
+   "maxItemsReached": {
+      "description": "Opis opozorila, ki nakazuje, da je bila dosežena največja omejitev števila elementov za pridobivanje.",
+      "message": "Uspešno pridobljeno do določene omejitve. Povečajte največje število elementov, da nadaljujete s pridobivanjem."
+   },
+   "mediaUrl": {
+      "description": "Oznaka za polje URL medija, zajetega iz elementa.",
+      "message": "URL medijev"
+   },
+   "min": {
+      "description": "Oznaka za vnos za nadzor minimalnega časa čakanja pri nalaganju dodatnih elementov ali strani.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Sporočilo o napaki, ko ni mogoče dostopati do podatkov ciljne kartice.",
+      "message": "Zavihek, ki ste ga uporabljali za to nalogo, je bil zaprt. Zaprite to okno in poskusite znova."
+   },
+   "missingTabPermission": {
+      "description": "Sporočilo o napaki ko dostop do ciljnega zavihka ni mogoč.",
+      "message": "Dostop do zavihka ni mogoč. Zaprite to okno in poskusite znova."
+   },
+   "missingUrlColumn": {
+      "description": "Sporočilo o napaki, ko datoteki CSV manjkajo stolpci z URL-ji.",
+      "message": "Ni mogoče najti stolpca z URL-ji. Prosimo, izberite drugo datoteko."
+   },
+   "newScraper": {
+      "description": "Oznaka za gumb za ustvarjanje novega strgalca.",
+      "message": "Nov strgalec"
+   },
+   "noData": {
+      "description": "Nadomestno besedilo v tabeli, ko ni podatkov za prikaz.",
+      "message": "Ni podatkov za prikaz"
+   },
+   "noFileChosen": {
+      "description": "Sporočilo prikazano, ko ni izbrane nobene datoteke.",
+      "message": "Ni izbrane datoteke"
+   },
+   "noList": {
+      "description": "Nadomestno besedilo, ko seznama ni mogoče najti na strani.",
+      "message": "Ne najdem seznama na strani"
+   },
+   "none": {
+      "description": "Oznaka za možnost, da ne naložite več elementov med strganjem.",
+      "message": "Noben"
+   },
+   "options": {
+      "description": "Oznaka za gumb za prikaz možnosti za strgalo.",
+      "message": "Možnosti"
+   },
+   "pages": {
+      "description": "Oznaka za prikaz števila strani, pridobljenih pri strganju seznama.",
+      "message": "Strani"
+   },
+   "permissionsDescription": {
+      "description": "Pomožno besedilo za pojasnitev, da aplikacija potrebuje dodatna dovoljenja za dostop in pridobivanje podatkov iz URL-jev.",
+      "message": "$APP_NAME$ potrebuje dodatna dovoljenja za dostop in pridobivanje podatkov iz URL-jev",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Besedilo značke, ki označuje, da so prikazani podatki predogled orodja za zajem podatkov.",
+      "message": "Predogled"
+   },
+   "remainingPages": {
+      "description": "Oznaka za prikaz števila preostalih strani za strganje, ko strgate podrobnostne strani.",
+      "message": "Preostale"
+   },
+   "rename": {
+      "description": "Oznaka za menijski element za preimenovanje postrgalnika.",
+      "message": "Preimenuj"
+   },
+   "reviewDescription": {
+      "description": "Prosite uporabnika, naj pusti oceno za aplikacijo.",
+      "message": "Živijo, jaz sem $NAME$. Ustvaril sem $APP_NAME$, da bi ljudem pomagal prihraniti čas. Če vam je uporaba všeč, bi cenil oceno s 5 zvezdicami, da bi tudi drugi odkrili $APP_NAME$. Najlepša hvala!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Zahvalite se uporabniku za uporabo aplikacije.",
+      "message": "Hvala, da uporabljate $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Oznaka za možnost prikaza zaslona za pridobivanje podrobnih strani za vsak element na seznamu.",
+      "message": "Pridobi podrobnosti"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Opis za nasvet, kako uporabnika naučiti o strganju podrobnih strani.",
+      "message": "Če želite strgati vsak URL na seznamu, izberite \"$LABEL$\" iz menija v zgornjem desnem kotu po prenosu seznama kot CSV datoteke.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Strgaj podrobnosti"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Naslov za nasvet za izobraževanje uporabnika o pridobivanju podatkov s strani z podrobnostmi.",
+      "message": "Nasvet: Pridobivanje podatkov s strani z podrobnostmi"
+   },
+   "scrapeList": {
+      "description": "Oznaka za možnost prikaza zaslona za postrganje seznama.",
+      "message": "Postrgaj seznam"
+   },
+   "scrapedPages": {
+      "description": "Oznaka za prikaz števila strani, pridobljenih med zajemanjem podrobnosti strani.",
+      "message": "Pobrano"
+   },
+   "scrapingComplete": {
+      "description": "Opozorilni naslov, ki označuje, da je strganje zaključeno.",
+      "message": "Strganje dokončano"
+   },
+   "scrapingStatus": {
+      "description": "Oznaka za označevanje, da je strganje v teku.",
+      "message": "Strganje..."
+   },
+   "scrollDelay": {
+      "description": "Oznaka za vnos, ki nadzoruje, kako dolgo čakati v milisekundah pri drsenju do vsakega elementa med strganjem.",
+      "message": "Zakasnitev drsenja (ms)"
+   },
+   "scrollDown": {
+      "description": "Oznaka za možnost pomikanja navzdol za nalaganje več predmetov med zajemanjem.",
+      "message": "Pomaknite se navzdol, da naložite več predmetov"
+   },
+   "select": {
+      "description": "Oznaka za gumb za izbiro elementa na strani.",
+      "message": "Izberi"
+   },
+   "selectElement": {
+      "description": "Naslov za prikaz pri izbiri elementa.",
+      "message": "Izberite element"
+   },
+   "selectField": {
+      "description": "Opis dejanja za izbiro polja za zajem.",
+      "message": "Izberi polje"
+   },
+   "selectList": {
+      "description": "Naslov za prikaz pri izbiri seznama.",
+      "message": "Izberi seznam"
+   },
+   "selectScraper": {
+      "description": "Nalepka za menijski element za izbor scraperja za pridobivanje podatkov z vsakega URL-ja.",
+      "message": "Izberi scraper"
+   },
+   "selectScraperOption": {
+      "description": "Navodila za izbiro scraperja za trenutno domeno.",
+      "message": "Izberi scraper za $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Oznaka za gumb za prikaz več možnosti za scraping.",
+      "message": "Prikaži možnosti"
+   },
+   "startScraping": {
+      "description": "Oznaka za gumb za začetek zbiranja podatkov.",
+      "message": "Začni z zbiranjem podatkov"
+   },
+   "stopScraping": {
+      "description": "Oznaka za gumb za prekinitev zbiranja.",
+      "message": "Prenehajte z zbiranjem"
+   },
+   "tabNotFound": {
+      "description": "Sporočilo o napaki, ko ciljni zavihek ne obstaja.",
+      "message": "Zavihka ni najden. Zaprite to okno in poskusite znova."
+   },
+   "testUrl": {
+      "description": "Nalepka za besedilni vnos za testni URL, ki se uporablja pri izbiri zajemalnika.",
+      "message": "Testni URL"
+   },
+   "text": {
+      "description": "Oznaka za besedilno polje, zajeto iz elementa.",
+      "message": "Besedilo"
+   },
+   "uploadUrls": {
+      "description": "Oznaka za menijski element za nalaganje datoteke z URL-ji za strganje.",
+      "message": "Naloži URL-je"
+   },
+   "url": {
+      "description": "Oznaka za polje URL, zajeto iz elementa.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Opozorilo, ki se prikaže, ko je izbrano ime stolpca URL in CSV datoteki morda manjka vrstica z glavo.",
+      "message": "Ime stolpca se zdi, da je URL. Prosimo, preverite, da se CSV datoteka začne z glavo, ki vsebuje imena stolpcev."
+   },
+   "verify": {
+      "description": "Oznaka za gumb za preverjanje izbranega elementa z njegovim označevanjem na strani.",
+      "message": "Preveri"
+   },
+   "waitTimeItems": {
+      "description": "Oznaka za vhode za nadzor časa čakanja v sekundah pri nalaganju več predmetov.",
+      "message": "Čas čakanja za nalaganje več predmetov (sekunde)"
+   },
+   "waitTimePages": {
+      "description": "Nalepka za vhodne podatke za nadzor časa čakanja v sekundah pri nalaganju strani.",
+      "message": "Čas čakanja za nalaganje strani (sekunde)"
+   }
+}

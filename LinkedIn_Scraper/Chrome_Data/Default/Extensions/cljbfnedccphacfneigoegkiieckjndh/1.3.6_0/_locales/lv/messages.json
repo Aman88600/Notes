@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Pogas etiķete, lai pievienotu pārskatu par lietotni.",
+      "message": "Pievienot atsauksmi"
+   },
+   "allowPermissions": {
+      "description": "Pogas etiķete, lai atļautu atļaujas lietojumprogrammai.",
+      "message": "Atļaut atļaujas"
+   },
+   "autoScroll": {
+      "description": "Apzīmējums slēdzim, lai kontrolētu vai automātiski ritināt līdz katram vienumam, veicot datus iegūšanu.",
+      "message": "Automātiskā ritināšana"
+   },
+   "back": {
+      "description": "Pogas etiķete, lai atgrieztos iepriekšējā ekrānā.",
+      "message": "Atpakaļ"
+   },
+   "cancel": {
+      "description": "Etiķete atcelšanas darbībai.",
+      "message": "Atcelt"
+   },
+   "changeList": {
+      "description": "Pogas iezīme, lai mainītu sarakstu, ko skrāpēt.",
+      "message": "Mainīt sarakstu"
+   },
+   "changeSelectionLevel": {
+      "description": "Apraksts darbībai, kas maina atlases līmeni, atlasot elementu.",
+      "message": "Mainīt atlases līmeni"
+   },
+   "chooseFile": {
+      "description": "Pogas etiķete, lai izvēlētos failu augšupielādei.",
+      "message": "Izvēlēties failu"
+   },
+   "click": {
+      "description": "Etiķete klikšķa darbībai.",
+      "message": "Klikšķināt"
+   },
+   "clickLoadMore": {
+      "description": "Etiķete opcijai noklikšķināt pogu, lai ielādētu vairāk vienumu uz tās pašas lapas, izgūstot datus.",
+      "message": "Noklikšķiniet pogu, lai ielādētu vairāk vienumu tajā pašā lapā"
+   },
+   "clickNextPage": {
+      "description": "Etiķete opcijai noklikšķināt uz saites, lai pārvietotos uz nākamo lapu un ielādētu vairāk vienumu, izmantojot skrāpēšanu.",
+      "message": "Noklikšķiniet uz saites, lai pārietu uz nākamo lapu"
+   },
+   "column": {
+      "description": "Etiķete \u003Cselect> elementam, lai izvēlētos kolonnu, kurā atrodas URL, no kuriem veikt datu ieguvi no augšupielādētā CSV.",
+      "message": "Kolonna"
+   },
+   "confirm": {
+      "description": "Etiķete apstiprināšanas darbībai.",
+      "message": "Apstiprināt"
+   },
+   "continue": {
+      "description": "Pogas etiķete, lai turpinātu uz nākamo ekrānu.",
+      "message": "Turpināt"
+   },
+   "copy": {
+      "description": "Poga, lai kopētu datus uz starpliktuvi.",
+      "message": "Kopēt"
+   },
+   "csvFile": {
+      "description": "Etiķete faila ievades laukam, lai augšupielādētu CSV failu",
+      "message": "$FILE_TYPE$ fails",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Noklusējuma nosaukums detaļu lapas skrāperim.",
+      "message": "Izgūt informāciju no $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Iezīme izvēlnes vienumam, lai izdzēstu skrāpētāju.",
+      "message": "Dzēst"
+   },
+   "dismiss": {
+      "description": "Darbība, lai atmestu brīdinājumu.",
+      "message": "Atmest"
+   },
+   "duration": {
+      "description": "Etiķete, lai parādītu pašreizējās skrāpēšanas ilgumu.",
+      "message": "Ilgums"
+   },
+   "esc": {
+      "description": "Etiķete bēgšanas taustiņam.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Izvēlnes vienības etiķete skrāpera eksportēšanai.",
+      "message": "Eksportēt"
+   },
+   "extractData": {
+      "description": "Etiķete izvēlnes vienumam, lai palaiž skrāpēšanu un izvelk datus no katra URL.",
+      "message": "Izgūt datus"
+   },
+   "finish": {
+      "description": "Pogas etiķete, lai pabeigtu elementu izvēli lapā.",
+      "message": "Pabeigt"
+   },
+   "headerRow": {
+      "description": "Palīdzības teksts, kas skaidro, ka augšupielādējamajam CSV failam jāsākas ar galvenes rindu.",
+      "message": "Jāsākas ar galvenes rindu"
+   },
+   "headerRowRequired": {
+      "description": "Brīdinājums, kas jāparāda, kad augšupielādētajā CSV šķiet, ka trūkst galvenes rindas.",
+      "message": "Nepieciešama galvenes rinda"
+   },
+   "help": {
+      "description": "Pogas etiķete, lai atvērtu palīdzības lapu.",
+      "message": "Palīdzība"
+   },
+   "hideOptions": {
+      "description": "Pogas etiķete, lai slēptu papildu opcijas datu ieguvei.",
+      "message": "Paslēpt Opcijas"
+   },
+   "import": {
+      "description": "Izvēlnes vienuma etiķete skrepera importēšanai.",
+      "message": "Importēt"
+   },
+   "install": {
+      "description": "Pogas etiķete, lai instalētu programmas jaunāko versiju.",
+      "message": "Instalēt jaunāko versiju"
+   },
+   "invalidTab": {
+      "description": "Kļūdas ziņojums, kad mērķa cilne ir atvērta ierobežotā vietnē.",
+      "message": "Šī lapa ir ierobežota. Pamēģiniet citu vietni."
+   },
+   "invalidVersion": {
+      "description": "Norādiet lietotājam instalēt lietojumprogrammas jaunāko versiju.",
+      "message": "$APP_NAME$ ir izgājis no beta versijas! Instalējiet jaunāko versiju, lai saņemtu jaunākos atjauninājumus.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Etiķete, lai parādītu izrautā saraksta vienumu skaitu.",
+      "message": "Vienumi"
+   },
+   "loadMoreAction": {
+      "description": "Etiķete \u003Cselect> elementam, lai izvēlētos, kā ielādēt vairāk vienumus, skrāpējot.",
+      "message": "Darbība, lai ielādētu vairāk vienumus"
+   },
+   "max": {
+      "description": "Iezīme ievades kontrolēšanai, lai regulētu maksimālo laiku, gaidot, kad tiek ielādētas vairāk vienības vai lapas.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Iezīme ievades laukam, lai iestatītu maksimālo limitu izvelkamo vienību skaitam.",
+      "message": "Maksimālais vienību skaits"
+   },
+   "maxItemsHelp": {
+      "description": "Palīdzības teksts, lai informētu lietotāju, ka maksimālo vienību ievades lodziņš jāatstāj tukšs, ja nav jāiestata limits.",
+      "message": "Atstājiet tukšu, ja nav limita"
+   },
+   "maxItemsReached": {
+      "description": "Brīdinājuma apraksts, kas norāda, ka sasniegts maksimālais ierobežojums par izgūstamo vienību skaitu.",
+      "message": "Veiksmīgi izgūti dati līdz norādītajam limitam. Palieliniet maksimālo vienību skaitu, lai turpinātu iegūšanu."
+   },
+   "mediaUrl": {
+      "description": "Etiķete mediju URL laukam, kas iegūts no elementa.",
+      "message": "Mediju URL"
+   },
+   "min": {
+      "description": "Iezīme ievades laukam, lai kontrolētu minimālo laiku, kas jāgaida, ielādējot vairāk vienumu vai lapu.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Kļūdas ziņojums, kad nevar piekļūt mērķa cilnes datiem.",
+      "message": "Cilne, kuru izmantojāt šim uzdevumam, ir aizvērta. Lūdzu, aizveriet šo logu un mēģiniet vēlreiz."
+   },
+   "missingTabPermission": {
+      "description": "Kļūdas ziņojums, kad nevar piekļūt mērķa cilnes datiem.",
+      "message": "Nevar piekļūt cilnei. Aizveriet šo logu un mēģiniet vēlreiz."
+   },
+   "missingUrlColumn": {
+      "description": "Kļūdas ziņojums, kad CSV failā trūkst kolonnu ar URL.",
+      "message": "Nevar atrast kolonnu ar URL. Lūdzu, izvēlieties citu failu."
+   },
+   "newScraper": {
+      "description": "Pogas nosaukums jauna skrāpētāja izveidošanai.",
+      "message": "Jauns skrāpis"
+   },
+   "noData": {
+      "description": "Vietturis tabulā, kad nav datu, ko rādīt.",
+      "message": "Nav datu ko rādīt"
+   },
+   "noFileChosen": {
+      "description": "Ziņojums, kas parādīts, kad nav izvēlēts neviens fails.",
+      "message": "Nav izvēlēts neviens fails"
+   },
+   "noList": {
+      "description": "Vietturis, lai parādītu, kad lapā nevar atrast sarakstu.",
+      "message": "Nevar atrast sarakstu lapā"
+   },
+   "none": {
+      "description": "Etiķete opcijai, kad skrāpējot nevajag ielādēt vairāk vienumus.",
+      "message": "Nav"
+   },
+   "options": {
+      "description": "Pogas etiķete, lai parādītu opcijas skrāperim.",
+      "message": "Iespējas"
+   },
+   "pages": {
+      "description": "Etiķete, lai parādītu lapu skaitu, kas iegūts, izguļot sarakstu.",
+      "message": "Lapas"
+   },
+   "permissionsDescription": {
+      "description": "Palīdzības teksts, kas skaidro, ka lietotnei ir nepieciešamas papildu atļaujas, lai piekļūtu un izgūtu datus no URL.",
+      "message": "$APP_NAME$ ir nepieciešamas papildu atļaujas, lai piekļūtu un izgūtu datus no URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Nozīmes teksts, lai norādītu, ka parādītie dati ir skrāpera priekšskatījums.",
+      "message": "Priekšskatījums"
+   },
+   "remainingPages": {
+      "description": "Etiķete, lai parādītu atlikušo lapu skaitu, kas jāizskata, skrāpējot detaļu lapas.",
+      "message": "Atlikušās"
+   },
+   "rename": {
+      "description": "Etiķete izvēlnes vienumam, lai pārdēvētu skrēperi.",
+      "message": "Pārdēvēt"
+   },
+   "reviewDescription": {
+      "description": "Lūgt lietotāju atstāt atsauksmi par lietojumprogrammu.",
+      "message": "Sveiki, esmu $NAME$. Es izveidoju $APP_NAME$, lai palīdzētu cilvēkiem ietaupīt laiku. Ja Jums patīk to izmantot, es novērtētu 5 zvaigžņu novērtējumu, lai palīdzētu citiem atklāt $APP_NAME$. Liels paldies!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Pateikties lietotājam par lietotnes izmantošanu.",
+      "message": "Paldies, ka lietojat $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Uzraksts opcijai, lai parādītu ekrānu, kurā notiek detaļu lapu skrāpēšana katram vienumam sarakstā.",
+      "message": "Iegūt detaļas"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Padoma apraksts, lai izglītotu lietotāju par detalizētu lapu nokasīšanu.",
+      "message": "Lai nokasītu katru URL sarakstā, izvēlieties \"$LABEL$\" no izvēlnes augšējā labajā stūrī pēc saraksta lejupielādes kā CSV failu.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Nokasīt detaļas"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Padoma virsraksts, lai izglītotu lietotāju par detaļu lapu nokasīšanu.",
+      "message": "Padoms: Datu iegūšana no detaļu lapām"
+   },
+   "scrapeList": {
+      "description": "Etiķete opcijai rādīt ekrānu saraksta izgūšanai.",
+      "message": "Izgūt sarakstu"
+   },
+   "scrapedPages": {
+      "description": "Etiķete, lai parādītu noskrapēto lapu skaitu, skrāpējot detaļu lapas.",
+      "message": "Noskrapēts"
+   },
+   "scrapingComplete": {
+      "description": "Brīdinājuma virsraksts, kas norāda, ka izgāšana ir pabeigta.",
+      "message": "Izgāšana pabeigta"
+   },
+   "scrapingStatus": {
+      "description": "Etiķete, lai norādītu, ka notiek skrāpēšana.",
+      "message": "Notiek skrāpēšana..."
+   },
+   "scrollDelay": {
+      "description": "Iezīme ievades laukumam, lai kontrolētu, cik ilgi gaidīt milisekundēs, ritinot līdz katram vienumam, veicot skrāpēšanu.",
+      "message": "Ritināšanas aizkave (ms)"
+   },
+   "scrollDown": {
+      "description": "Etiķete opcijai ritināt uz leju, lai ielādētu vairāk vienumu, kad notiek datu ieguve.",
+      "message": "Ritiniet uz leju, lai ielādētu vairāk vienumu"
+   },
+   "select": {
+      "description": "Pogas nosaukums, lai izvēlētos elementu lapā.",
+      "message": "Izvēlēties"
+   },
+   "selectElement": {
+      "description": "Virsraksts, kas jāparāda, izvēloties elementu.",
+      "message": "Izvēlieties elementu"
+   },
+   "selectField": {
+      "description": "Apraksts par darbību lauka izvēlei, ko fiksēt.",
+      "message": "Izvēlēties lauku"
+   },
+   "selectList": {
+      "description": "Virsraksts, kas jāparāda, izvēloties sarakstu.",
+      "message": "Izvēlēties sarakstu"
+   },
+   "selectScraper": {
+      "description": "Iezīmes nosaukums izvēlnes punktam, lai izvēlētos skrāperi, ko izmantot katras URL izskrāpēšanai.",
+      "message": "Izvēlieties skrāperi"
+   },
+   "selectScraperOption": {
+      "description": "Instrukcija, lai izvēlētos skrāpētāju pašreizējam domēnam.",
+      "message": "Izvēlieties skrāpētāju domēnam $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Pogas etiķete, lai parādītu vairāk opciju skrāpēšanai.",
+      "message": "Rādīt opcijas"
+   },
+   "startScraping": {
+      "description": "Pogas etiķete, lai sāktu izgūšanu.",
+      "message": "Sākt izgūšanu"
+   },
+   "stopScraping": {
+      "description": "Pogas etiķete, lai pārtrauktu saskrāpēšanu.",
+      "message": "Pārtraukt saskrāpēšanu"
+   },
+   "tabNotFound": {
+      "description": "Kļūdas ziņojums, kad mērķa cilne neeksistē.",
+      "message": "Cilnes nav atrasts. Aizveriet šo logu un mēģiniet vēlreiz."
+   },
+   "testUrl": {
+      "description": "Etiķete teksta ievadlaukam testa URL izvēlei, izvēloties skrāperi.",
+      "message": "Testa URL"
+   },
+   "text": {
+      "description": "Etiķete tekstlaukam, kas noķerts no elementa.",
+      "message": "Teksts"
+   },
+   "uploadUrls": {
+      "description": "Iezīmes nosaukums izvēlnes vienumam, lai augšupielādētu failu ar URL, ko skrāpēt.",
+      "message": "Augšupielādēt URL"
+   },
+   "url": {
+      "description": "Etiķete URL laukam, kas iegūts no elementa.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Brīdinājums, kas jāparāda, kad izvēlētais kolonnas nosaukums ir URL un CSV failā var pietrūkt galvenes rindas.",
+      "message": "Kolonnas nosaukums izskatās pēc URL. Lūdzu, pārliecinieties, ka CSV fails sākas ar galvenes rindu, kurā ir norādīti kolonnu nosaukumi."
+   },
+   "verify": {
+      "description": "Pogas etiķete, lai apstiprinātu izvēlēto elementu, to izceļot lapā.",
+      "message": "Apstiprināt"
+   },
+   "waitTimeItems": {
+      "description": "Iezīmes nosaukums ievades laukiem, lai kontrolētu, cik ilgi gaidīt sekundēs, kad tiek ielādētas vairāk vienību.",
+      "message": "Gaidīšanas laiks, lai ielādētu vairāk vienību (sekundes)"
+   },
+   "waitTimePages": {
+      "description": "Iezīme ievades laukiem, lai kontrolētu, cik ilgi gaidīt sekundēs, ielādējot lapas.",
+      "message": "Gaidīšanas laiks lapu ielādei (sekundes)"
+   }
+}

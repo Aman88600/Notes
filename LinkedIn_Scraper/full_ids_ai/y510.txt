@@ -1,0 +1,134 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Yash",
+    "Headline": "Senior Data Scientist at Oracle",
+    "Summary": "Senior Data scientist with 5 years of experience working for Oracle, Target, EY and IBM. Holds an EPGP (Executive Post Graduate Program) in Data Science and AI from IIM Bangalore. Technical skills include machine learning, Python, SQL (Hive), and natural language processing (NLP).",
+    "Location": "India · Hybrid",
+    "Connections": "500+",
+    "ContactInfo": [
+      "https://www.linkedin.com/in/y510/overlay/contact-info/",
+      "https://beacons.ai/cazualdatatalks"
+    ]
+  },
+  "Activity": [
+    {
+      "Type": "Post",
+      "Title": "Data Analyst to Senior Data Scientist in 1.5 Years!",
+      "Content": "Excited to announce I joined Oracle as Senior Data Scientist. Sharing experience: Pursuing courses is a small part; qualities like self-belief, perseverance, opportunity creation, curiosity, and continuous learning are key for breakout growth in Data Science.",
+      "Mentions": [
+        "Nitish Singh (CampusX)",
+        "Shankar Venkatagiri (IIM Bangalore)"
+      ],
+      "Hashtags": [
+        "growth", "DataScience", "Dataanalyst", "Dataengineer", "CareerAdvice", "interview", "placement",
+        "ProfessionalGrowth", "SelfBelief", "Curiosity", "Perseverance", "DataAnalytics",
+        "CareerDevelopment", "LearningJourney", "OpportunityCreation", "ContinuousLearning",
+        "DataScientistMindset", "CareerTransition", "TechSkills", "PersonalGrowth", "Empowerment",
+        "Oracle", "Faang", "Promotion"
+      ],
+      "Links": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7188190783022198785?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7188190783022198785%29"
+      ],
+      "Images": [
+        "https://media.licdn.com/dms/image/v2/D5622AQGokrH8UW4heA/feedshare-shrink_480/feedshare-shrink_480/0/1713798230926?e=1759363200&v=beta&t=d8gA39Yci3qPeqGQDTGSVIWYE6YiOAXb8l2-5aiGmrA"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Senior Data Scientist",
+      "Company": "Oracle",
+      "EmploymentType": "Full-time",
+      "StartDate": "Apr 2024",
+      "EndDate": "Present",
+      "Location": "India · Hybrid",
+      "Duration": "1 yr 5 mos"
+    },
+    {
+      "Title": "Data Analyst",
+      "Company": "Target",
+      "EmploymentType": "Full-time",
+      "StartDate": "Aug 2022",
+      "EndDate": "Apr 2024",
+      "Duration": "1 yr 9 mos"
+    },
+    {
+      "Title": "Consultant - Data & Analytics",
+      "Company": "EY",
+      "EmploymentType": "Full-time",
+      "StartDate": "Feb 2022",
+      "EndDate": "Jul 2022",
+      "Duration": "6 mos",
+      "Location": "Pune, Maharashtra, India"
+    },
+    {
+      "Title": "Associate Consultant - Data & Analytics",
+      "Company": "EY",
+      "EmploymentType": "Full-time",
+      "StartDate": "Sep 2021",
+      "EndDate": "Jan 2022",
+      "Duration": "5 mos",
+      "Location": "Pune, Maharashtra, India"
+    },
+    {
+      "Title": "Business Intelligence - Tableau developer",
+      "Company": "IBM",
+      "EmploymentType": "Full-time",
+      "StartDate": "Aug 2020",
+      "EndDate": "Sep 2021",
+      "Duration": "1 yr 2 mos"
+    },
+    {
+      "Title": "Oracle JD Edwards",
+      "Company": "IBM",
+      "EmploymentType": "Full-time",
+      "StartDate": "Jun 2019",
+      "EndDate": "Jul 2020",
+      "Duration": "1 yr 2 mos"
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Indian Institute of Management Bangalore",
+      "Program": "Executive Programme, Data Science & AI",
+      "Degree": "EPGP",
+      "StartDate": "Sep 2022",
+      "EndDate": "Jul 2023"
+    },
+    {
+      "Institution": "Jabalpur Engineering College",
+      "Degree": "Bachelor of Engineering - BE",
+      "FieldOfStudy": "Electronics and Communications Engineering",
+      "StartDate": "2015",
+      "EndDate": "2019"
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "IIBA-Entry Certificate in Business Analysis™ (ECBA™)",
+      "Issuer": "IIBA",
+      "IssueDate": "Mar 2021",
+      "CredentialUrl": "https://badges.iiba.org/72e37d43-b5bb-4019-9c04-50a07b59142c"
+    },
+    {
+      "Name": "Microsoft Excel Expert (Microsoft 365 Apps and Office 2019)",
+      "Issuer": "Microsoft",
+      "IssueDate": "Mar 2021",
+      "CredentialUrl": "https://www.youracclaim.com/badges/de1041a2-7ab2-4456-b13c-29bfc0ea573b?source=linked_in_profile"
+    }
+  ],
+  "Skills": [
+    "Machine Learning",
+    "Python",
+    "SQL (Hive)",
+    "Natural Language Processing (NLP)",
+    "LangChain",
+    "Artificial Intelligence (AI)",
+    "Generative AI",
+    "Langgraph",
+    "Business Intelligence",
+    "Tableau"
+  ]
+}
+```

@@ -1,0 +1,138 @@
+Here is the requested profile content structured as a JSON object using the fields: **Basic Info**, **Activity**, **Experience**, **Education**, **Certification and Skills**. Only relevant, deduplicated, and well-categorized information is included.
+
+```json
+{
+  "BasicInfo": {
+    "fullName": "Sourabh Sahu",
+    "headline": "Helping people to become a Data Scientist | MS Certified Data Scientist | MCT | Handled TBs of Data | Mentor",
+    "currentTitle": "Scientist, Government of India",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "profilePhoto": "https://media.licdn.com/dms/image/v2/D4D03AQHB4Mg0yTivEQ/profile-displayphoto-shrink_100_100/B4DZYYwMG4H4AU-/0/1744172009059?e=1759363200&v=beta&t=sl9h2EcdbfY9IM3lH9PfWoXmd2gnHZYn2qjXmjafDnE",
+    "about": "Hi, I'm Sourabh Sahu, a Certified Data Scientist and Scientist at Government of India. I have 13+ Years of experience in the IT industry and 11+ Years of experience in Government Domain working on Big Data. I am a recipient of National e-Governance Award by Government of India. I was among the few who has worked on Big data handling Tera Bytes of Data before the popular advancement and adoption of public cloud providers. I help businesses define data-driven architecture and scalable cloud data platforms. Tech enthusiast passionate about Data Science, educator, and mentor. All views are personal."
+  },
+  "Activity": {
+    "followers": 16056,
+    "recentPostHeadline": "Helping people to become a Data Scientist | MS Certified Data Scientist | MCT | Handled TBs of Data | Mentor | 15K+ LinkedIn",
+    "lastActive": "2 weeks ago"
+  },
+  "Experience": [
+    {
+      "title": "Scientist C",
+      "organization": "National Informatics Centre, MeitY, Government of India",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "tenure": "Jul 2017 – Present",
+      "description": "Full-time. Working on eGovernance and mGovernance domain."
+    },
+    {
+      "title": "Scientist B",
+      "organization": "National Informatics Centre, MeitY, Government of India",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "tenure": "Mar 2014 – Jun 2017",
+      "description": "Full-time, worked in eGovernance/mGovernance domains."
+    },
+    {
+      "title": "Scientific Officer/DIO",
+      "organization": "National Informatics Centre, MeitY, Government of India",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "tenure": "Apr 2010 – Mar 2014",
+      "description": "Software development, project implementation, project coordination, team lead in e-Governance Domain."
+    },
+    {
+      "title": "Mac & iPhone Consultant",
+      "organization": "Aloha Technology Pvt. Ltd.",
+      "tenure": "Mar 2010 – Apr 2010",
+      "description": "Consultant on iOS/Mac OSX application development, testing, project management tools, scrum process."
+    },
+    {
+      "title": "Software Developer & Trainer",
+      "organization": "Databases",
+      "tenure": "N/A",
+      "description": "Software development & training (details unspecified)."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Barkatullah Vishwavidyalaya",
+      "degree": "MTech Computer Science & Engineering",
+      "years": "2014–2017",
+      "grade": "A"
+    },
+    {
+      "institution": "National Law Institute University, Bhopal",
+      "degree": "Post Graduate Diploma in Cyber Law, Cyber/Computer Forensics and Counterterrorism",
+      "years": "2015–2016",
+      "grade": "A",
+      "activities": [
+        "Data Structures",
+        "DBMS",
+        "Parallel Computing",
+        "Computer Graphics",
+        "Cyber Threats",
+        "Cyber Law",
+        "Cyber Forensics"
+      ]
+    }
+  ],
+  "CertificationAndSkills": {
+    "Certifications": [
+      {
+        "name": "AI and Machine Learning",
+        "issuer": "Indian Institute of Technology, Roorkee",
+        "credentialId": "CEC 1077/2021-22/18",
+        "issued": "Mar 2022"
+      },
+      {
+        "name": "Diplôme d'études en langue française A1",
+        "issuer": "France's Ministry of Education",
+        "issued": "Sep 2015"
+      },
+      {
+        "name": "DP100 Certificate",
+        "issuer": "Microsoft",
+        "type": "Document"
+      }
+    ],
+    "Skills": [
+      "Data Science",
+      "Python",
+      "Statistics",
+      "SQL",
+      "Data Analytics",
+      "Tableau",
+      "Power BI",
+      "Azure ML Studio",
+      "Tensorflow",
+      "Scikit Learn",
+      "Cloud Platforms (AWS, Azure, GCP)",
+      "MLFlow",
+      "Project Management",
+      "Analytics"
+    ]
+  },
+  "HonorsAndAwards": [
+    {
+      "name": "National eGovernance Award",
+      "issuer": "Department of Administrative Reforms and Public Grievances, Government of India",
+      "date": "Feb 2018",
+      "description": "For e-Governance for Education Portal serving more than 5 lakh users in Education Department"
+    },
+    {
+      "name": "Award of Appreciation",
+      "issuer": "Government of Madhya Pradesh",
+      "date": "Jun 2017",
+      "description": "Associated with National Informatics Centre, MeitY"
+    }
+  ],
+  "Languages": [
+    {
+      "language": "English",
+      "proficiency": "Limited working proficiency"
+    },
+    {
+      "language": "French",
+      "proficiency": "Native or bilingual proficiency"
+    }
+  ]
+}
+```
+This JSON captures the most relevant elements of the provided profile in a **clean, structured way** for use in APIs, databases, or schema-driven systems.

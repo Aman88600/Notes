@@ -1,0 +1,127 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Tajamul Khan",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQEK__Iv1--NDQ/profile-displayphoto-shrink_100_100/B56ZP7cybnHoAU-/0/1735090450383?e=1759363200&v=beta&t=7fbNZl58yt5vudcAXRR1szjryiLjlMFTNDQBWk67XKU",
+    "linkedin": "https://www.linkedin.com/in/tajamulkhann/",
+    "title": "Senior Data Scientist | Writes to 75K+ | Top Data Voice | Top 0.1% Mentor @Topmate | MITian | Ex-Google & Ex-Amazon",
+    "summary": "I'm Tajamul, Senior Data Scientist, Career Mentor, Author, Content Creator, Brand Owner and a YouTube Educator, ready to help you achieve your data dreams! With experiences from big names like Google and Amazon, and a prestigious degree in data from MIT, I can confidently say I'm a data veteran.",
+    "location": "Hyderabad, Telangana, India",
+    "followers": 76677,
+    "connections": "500+",
+    "websites": [
+      { "label": "Linktree", "url": "https://linktr.ee/tajamul_khan" },
+      { "label": "Topmate", "url": "https://topmate.io/tajamulkhan" },
+      { "label": "Instagram", "url": "https://www.instagram.com/tajamul.datascientist/" },
+      { "label": "Telegram", "url": "https://t.me/+yLhtT8pVsWsxNDA1" },
+      { "label": "WhatsApp Channel", "url": "https://www.whatsapp.com/channel/0029VaYs05jJkK7JKCesw42f?_fb_noscript=1" },
+      { "label": "GitHub", "url": "https://github.com/tajamulkhann" }
+    ]
+  },
+  "Activity": {
+    "recentPosts": [
+      {
+        "description": "13 hours ago • Visible to anyone on or off LinkedIn",
+        "source": "LinkedIn"
+      },
+      {
+        "description": "1 day ago • Visible to anyone on or off LinkedIn",
+        "source": "LinkedIn"
+      }
+    ],
+    "metric": {
+      "followers": 76677,
+      "comments": 47
+    }
+  },
+  "Experience": [
+    {
+      "jobTitle": "Advanced Data Scientist",
+      "company": "Eastman",
+      "employmentType": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "dateRange": "Jul 2023 - Present",
+      "duration": "2 yrs 2 mos",
+      "domains": [
+        "Retail", "E-commerce", "Market Research", "Customer Support", "Supply Chain", "HR"
+      ],
+      "services": [
+        "Data Analysis", "Statistics", "Reporting", "Research", "Machine Learning", "AI & Data Engineering"
+      ],
+      "skills": ["Extract, Transform, Load (ETL)", "Python (Programming Language)", "Power BI", "Machine Learning", "SQL", "Artificial Intelligence"]
+    },
+    {
+      "jobTitle": "Senior Data Executive",
+      "company": "Google",
+      "employmentType": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "dateRange": "Dec 2019 - Jun 2023",
+      "duration": "3 yrs 7 mos",
+      "domains": [
+        "Retail", "Market Research", "Digital Marketing", "Google Adwords"
+      ],
+      "services": [
+        "Data Analysis", "Statistics", "Reporting", "Research", "Machine Learning", "AI"
+      ],
+      "skills": ["Python (Programming Language)", "Tableau"]
+    },
+    {
+      "jobTitle": "Data Quality Specialist",
+      "company": "Amazon",
+      "employmentType": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "dateRange": "Nov 2018 - Oct 2019",
+      "duration": "1 yr",
+      "domains": [
+        "Retail", "E-commerce", "Market Research", "Supply Chain", "Geo Data Analysis"
+      ],
+      "services": [
+        "Data Analysis", "Statistical Analysis", "Research", "Reporting", "Visualisation"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Postgraduate Degree",
+      "fieldOfStudy": "Data Science and AI",
+      "dateRange": "May 2022 - Jun 2023"
+    },
+    {
+      "school": "Kurukshetra University",
+      "degree": "Master of Technology - MTech",
+      "fieldOfStudy": "Engineering",
+      "dateRange": "Mar 2018 - Aug 2020"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Microsoft Certified: Fabric Analytics Engineer Associate",
+      "organization": "Microsoft",
+      "credentialId": "FC2468EB9C248AF8",
+      "dateIssued": "May 2025",
+      "skills": ["Microsoft Azure", "Microsoft Power BI"]
+    },
+    {
+      "name": "Microsoft Certified: Fabric Data Engineer Associate",
+      "organization": "Microsoft",
+      "credentialId": "E641E5D41A3C1734",
+      "dateIssued": "Apr 2025",
+      "skills": ["PySpark", "KQL"]
+    }
+  ],
+  "Skills": [
+    "Python (Programming Language)",
+    "SQL",
+    "Microsoft Power BI",
+    "Machine Learning",
+    "Artificial Intelligence (AI)",
+    "Generative AI",
+    "PySpark",
+    "KQL",
+    "Data Engineering",
+    "Tableau"
+  ]
+}
+```
+This JSON captures the essential details as requested, mapping each content area to the specified keys, with lists for experiences, education, certifications, activities, and skills for a structured representation suitable for profiles.

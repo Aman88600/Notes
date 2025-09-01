@@ -1,0 +1,195 @@
+Here is a **structured JSON object** organizing the provided content according to the requested fields: `Basic Info`, `Activity`, `Experience`, `Education`, `Certification`, and `Skills`.
+
+```json
+{
+  "BasicInfo": {
+    "Name": "Aishwarya Jayadas",
+    "Headline": "Transforming Data into Decisions | Data Scientist | Product Management | Numerator",
+    "ProfileURL": "https://www.linkedin.com/in/aishwaryajayadas18/",
+    "Photo": "https://media.licdn.com/dms/image/v2/C5603AQHnTYgFW62UTA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646331566286?e=1759363200&v=beta&t=J1s_Q-meF3wepRflO9_5urZqO3ldG4jaJeSrSdJYEGw",
+    "Connections": "500+",
+    "Summary": "Passionate and results-driven professional in the tech industry, thriving on the challenges of the ever-evolving data science field. Dedicated to harnessing technology for innovation and positive change. Global perspective cultivated from working with diverse teams across industries. Firm believer in continuous learning and upskilling.",
+    "Location": "Gandhinagar (remote work experience)"
+  },
+
+  "Activity": [
+    {
+      "Type": "Post",
+      "Title": "Hack Day at Numerator",
+      "Description": "Teamed up with Eric Wang and Chandrakant Salutagi for Numerator Hack Day. Achieved 1st place (Snowflake Pick) and 2nd place (Data Hack). Project: 'LLM-Powered Banner Detection'. Awarded for innovation and business impact.",
+      "Links": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7265581833948471297?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7265581833948471297%29"
+      ],
+      "Hashtags": [
+        "#HackDay",
+        "#Innovation",
+        "#DataScience",
+        "#LLM",
+        "#Snowflake",
+        "#Teamwork",
+        "#numerator"
+      ]
+    },
+    {
+      "Type": "LinkedIn News Feature",
+      "Description": "Post featured in LinkedIn News under 'Tech Firm Focus on Upskilling'."
+    }
+  ],
+
+  "Experience": [
+    {
+      "Title": "Data Science Analyst, Data BizOps",
+      "Company": "Numerator",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFdyszdgI__Yw/company-logo_100_100/B4EZfF5WstGcAU-/0/1751371836812/numerator_logo?e=1759363200&v=beta&t=mYcMX6LHVtVBByECiL5K0gEY5OWupktQZ1JwrVvPzCo",
+      "Department": "Product Management",
+      "Products": ["Numerator Insights", "TruView"],
+      "Duration": "Jan 2023 - Present (2 yrs 8 mos)",
+      "Location": "Remote",
+      "Responsibilities": "B2B data/SaaS platform, market share analytics, consumer behavior insights, project management.",
+      "SkillsUsed": [
+        "Data analysis",
+        "Data visualization",
+        "SQL",
+        "Mode Analytics",
+        "Google Data Studio",
+        "Python",
+        "Snowflake",
+        "Advanced Excel",
+        "Airflow",
+        "Docker"
+      ]
+    },
+    {
+      "Title": "Data Analyst, Team Data Triage",
+      "Company": "Numerator",
+      "Duration": "Oct 2021 - Apr 2023 (1 yr 7 mos)",
+      "Location": "Remote"
+    },
+    {
+      "Title": "Research Analyst",
+      "Company": "Numerator",
+      "Duration": "May 2021 - Oct 2021 (6 mos)",
+      "Location": "Remote",
+      "Department": "Professional services",
+      "Responsibilities": "Survey Data Analysis"
+    },
+    {
+      "Title": "Business Analytics (Freelance)",
+      "Company": "Self-employed",
+      "Duration": "Feb 2019 - Apr 2021 (2 yrs 3 mos)",
+      "Location": "Remote",
+      "Responsibilities": "Business data analysis for SMEs; improving sales, cutting costs, understanding consumer trends."
+    },
+    {
+      "Title": "Machine Learning Intern",
+      "Company": "Bhaskaracharya Institute For Space Applications and Geo-Informatics",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFmFmvzRkvrJQ/company-logo_100_100/company-logo_100_100/0/1630642709333/bhaskaracharya_institute_for_space_applications_and_geo_informatics_logo?e=1759363200&v=beta&t=Bdgule1T98zDWAFKoNVHZjFWB-T44mnytnG2N1BsXhY",
+      "Duration": "Jul 2019 - Aug 2020 (1 yr 2 mos)",
+      "Department": "Professional services",
+      "Responsibilities": "Survey Data Analysis and central-level project contributions"
+    }
+  ],
+
+  "Education": [
+    {
+      "School": "L.D. College of Engineering",
+      "Program": "Master of Technology (MTech), Communication Systems and Artificial Intelligence",
+      "Activities": [
+        "IEEE Committee Member"
+      ],
+      "Notes": [
+        "Ranked 6th in PGCET MTech entrance exam (Gujarat state)",
+        "Courses: Business Analytics, Pattern Recognition & ML, Advanced Engineering Mathematics, Research Methodology & IPR, Advanced Digital Signal Processing, Advanced Image Processing"
+      ]
+    },
+    {
+      "School": "Gujarat Technological University (GTU)",
+      "Program": "Bachelor of Engineering (BE), Electronics and Communication",
+      "Year": "2013 - 2017",
+      "Activities": [
+        "Tech Fest",
+        "Fine Arts",
+        "Clay Modelling"
+      ]
+    }
+  ],
+
+  "Certification": [
+    {
+      "Title": "Databases and SQL for Data Science with Python",
+      "Issuer": "IBM",
+      "CredentialURL": "https://coursera.org/share/303efa1482bffbbb5ada31dea16fcf2a"
+    },
+    {
+      "Title": "Amazon Web Services (AWS)",
+      "Issuer": "HCL GUVI",
+      "CredentialID": "n18y211u5m3502kz87",
+      "IssueDate": "Feb 2021",
+      "Verification": "https://www.guvi.in/verify-certificate?id=n18y211u5m3502kz87"
+    },
+    {
+      "Title": "AI with Deep Learning Certification",
+      "Issuer": "GUVI, IIT Madras"
+    }
+  ],
+
+  "Skills": [
+    "Data analysis",
+    "Data visualization",
+    "SQL",
+    "Mode Analytics",
+    "Google Data Studio",
+    "Python",
+    "Numerator Insights",
+    "Snowflake",
+    "Advanced Excel",
+    "Airflow",
+    "Docker",
+    "Teamwork",
+    "Team Leadership",
+    "Predictive Analytics",
+    "Business Analytics",
+    "Project Management",
+    "Critical Thinking",
+    "Presentations"
+  ],
+
+  "Other": {
+    "Volunteering": [
+      {
+        "Role": "Volunteer",
+        "Organization": "Isha Foundation",
+        "Duration": "Jul 2021 - Present (4 yrs 2 mos)",
+        "Description": "Dining/Kitchen/Cleaning/Call-Support teams for various programs"
+      },
+      {
+        "Role": "Student Coordinator",
+        "Organization": "IEEE, LDCE",
+        "Duration": "Jan 2019 - Mar 2020 (1 yr 3 mos)",
+        "Description": "Monitor and assist IEEE programs and activities"
+      }
+    ],
+    "Publications": [
+      {
+        "Title": "Error Reduced Adaptive Learning Machines",
+        "Source": "Compliance Engineering Journal-UGC CARE",
+        "Date": "Jul 1, 2020"
+      }
+    ],
+    "Courses": [
+      "5 Week Machine Learning Bootcamp (DPhi)",
+      "AI with Deep Learning Certification (GUVI, IIT Madras)"
+    ],
+    "Interests": [
+      "Education",
+      "Health",
+      "Environment",
+      "Tech",
+      "Leadership",
+      "Innovation"
+    ]
+  }
+}
+```
+
+This format provides a clear, machine-readable summary consistent with accepted resume and portfolio JSON schema practices[1][2][4]. If you need another schema or wish to add more fields from your LinkedIn profile data, let me know for further customization.

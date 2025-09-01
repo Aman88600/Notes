@@ -1,0 +1,105 @@
+```json
+{
+  "Basic Info": {
+    "Name": "Dr. Veena H Bhat",
+    "Current Title": "Principal Data Scientist, Data Science and Artificial Intelligence",
+    "Location": "Bengaluru, Karnataka, India",
+    "Profile Summary": "I am passionate about data science. I have over 30 years of comprehensive experience, encompassing 15+ years in an industrial setting and 14+ years in an academic setting. My areas of industry related expertise encompass data science, data engineering, project management, product development. My areas of expertise in the academic sector include research and teaching. I have exceptional experience in building data fabric and business intelligence products. I have been involved in strategic planning of data products, project management, and cross-functional collaborations. I have also excelled in providing technical leadership to the data science function, delivering innovative solutions, and offering thought leadership in designing analytical approaches to address key issues. I have the capability to work in a high-stress environment and maintain professionalism with focus on key deliverables. I have brought together diverse functions and teams for successful data-driven projects, collaborating with business and technical teams across the world. I enjoy mentoring younger professionals, given my long years in academics and industry. My doctoral thesis was in data forensics, a data mining application. My curiosity is reflected in my love for crime fiction, travel, food, and gardening."
+  },
+  "Activity": {
+    "Followers": 1219,
+    "Recent Posts": [
+      {
+        "Title": "Post by Dr. Veena H Bhat",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7275350259403235328/",
+        "Date": "8 months ago",
+        "Company": "Quiklytics",
+        "Image": "https://media.licdn.com/dms/image/v2/C5103AQHa3CxUSBffvw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1544781990718?e=1759363200&v=beta&t=ThFv8rkO4Do3NsgO3koOSuA2xn0vLW6kR6Ql3nRE_Co"
+      }
+      // Add more posts as needed
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Principal Data Scientist",
+      "Company": "Quiklytics",
+      "Type": "Full-time",
+      "Location": "Bengaluru, Karnataka, India · Remote",
+      "StartDate": "Jul 2024",
+      "EndDate": "Present",
+      "Duration": "1 yr 2 mos"
+    },
+    {
+      "Title": "Visiting Professor",
+      "Company": "ICFAI Business School",
+      "Location": "Bengaluru, Karnataka, India",
+      "StartDate": "Oct 2024",
+      "EndDate": "Present",
+      "Duration": "11 mos"
+    },
+    {
+      "Title": "Mentor",
+      "Company": "CHRIST University, Yeshwanthpur Campus (BYC)",
+      "StartDate": "Apr 2024",
+      "EndDate": "Present",
+      "Duration": "1 yr 5 mos"
+    },
+    {
+      "Title": "Independent Consultant - Data Science",
+      "Company": "Self-employed",
+      "Location": "Bengaluru, Karnataka, India",
+      "StartDate": "Jan 2024",
+      "EndDate": "Present",
+      "Duration": "1 yr 8 mos"
+    },
+    {
+      "Title": "Senior Data Scientist, Data Science and Artificial Intelligence",
+      "Company": "Maersk Digital",
+      "Location": "Mumbai Metropolitan Region",
+      "StartDate": "Nov 2016",
+      "EndDate": "Present",
+      "Duration": "8 yrs 10 mos"
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Bangalore University",
+      "Degree": "Doctor of Philosophy (PhD)",
+      "Field": "Data Mining, Computer Science and Engineering",
+      "StartYear": "2008",
+      "EndYear": "2012",
+      "Areas of Interest": [
+        "Data Mining",
+        "Digital Forensic",
+        "Steganography",
+        "Business Intelligence",
+        "Data Preprocessing"
+      ]
+    },
+    {
+      "Institution": "University Visvesvaraya College of Engineering",
+      "Degree": "ME",
+      "Field": "Information Technology",
+      "StartYear": "2003",
+      "EndYear": "2005"
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Psychological First Aid",
+      "Issuer": "Coursera",
+      "IssueDate": "Sep 2024"
+    },
+    {
+      "Name": "Introduction to Psychology",
+      "Issuer": "Coursera",
+      "IssueDate": "Feb 2024"
+    }
+  ],
+  "Skills": [
+    "Team Management",
+    "Business Analysis"
+    // Add more if needed
+  ]
+}
+```

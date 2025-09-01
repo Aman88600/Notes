@@ -1,0 +1,100 @@
+Here is the provided content structured in JSON format according to the requested fields: **Basic Info**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills**.
+
+```json
+{
+  "BasicInfo": {
+    "name": "Adlen",
+    "accountType": "{:badgeType}",
+    "headline": "Data is always around you, all you need is the right pair of skills and viewpoints to reap its benefits. That is where I come into your picture. Building simple-to-use and customer-friendly Dashboards, ML Models, and KPIs that enable your organization's performance and sales to elevate exponentially.",
+    "company": "LTIMindtree",
+    "profileUrl": "https://www.linkedin.com/in/adlendsouza19/"
+  },
+  "Activity": [
+    {
+      "followers": 496,
+      "comments": [
+        { "text": "Congrats SATADRU! 🎉", "date": "1mo" },
+        { "text": "Congrats Vishnu! 🎉", "date": "2mo" },
+        { "text": "Congrats Aayush! 🎉", "date": "2mo" }
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "LTIMindtree",
+      "type": "Full-time",
+      "location": "Powai · Hybrid",
+      "period": "Jun 2025 to Present",
+      "description": "Predictive models, Power BI visuals and Database visual"
+    },
+    {
+      "title": "Jr. Data Scientist",
+      "company": "AkzoNobel Global Business Services",
+      "type": "Full-time",
+      "location": "Hybrid",
+      "period": "Apr 2024 to Jun 2025",
+      "description": "Azure Databricks, Large Language Models (LLM) and +1 skill"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "GeoServe",
+      "type": "Full-time",
+      "location": "Mumbai, Maharashtra, India · On-site",
+      "period": "Jan 2022 to Feb 2024",
+      "description": "Predictive models, Power BI visuals and Database visual"
+    },
+    {
+      "title": "Operations Data Analyst",
+      "company": "LTIMindtree",
+      "type": "Full-time",
+      "location": "Powai · Hybrid",
+      "period": "Jun 2025 - Present",
+      "description": null
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Manipal Academy of Higher Education",
+      "degree": "Master's degree",
+      "field": "Big Data Analytics",
+      "period": "2019 - 2021",
+      "grade": "8.24"
+    },
+    {
+      "institution": "Visvesvaraya Technological University",
+      "degree": "Bachelors",
+      "field": "Electronics and Communication",
+      "period": "2014 - 2018",
+      "grade": null
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Aadrai Jungle Trek Certificate",
+      "issuer": "Treks and Trails India",
+      "credentialId": "f167931bbe214a5b8bd005afd5103d4c",
+      "issueDate": "Jul 2024",
+      "url": "https://certopus.com/c/f167931bbe214a5b8bd005afd5103d4c"
+    },
+    {
+      "title": "Kalsubai Trek - Highest Peak of Maharashtra Certificate",
+      "issuer": "Treks and Trails India",
+      "credentialId": "0bf12bde444a40b18699858960eadac7",
+      "issueDate": "Oct 2023",
+      "url": "https://certopus.com/c/0bf12bde444a40b18699858960eadac7"
+    }
+  ],
+  "Skills": [
+    "Azure Databricks",
+    "Large Language Models (LLM)",
+    "SQL",
+    "Microsoft Excel"
+  ]
+}
+```
+
+**Notes:**
+- Only relevant and structured data from your input is included.
+- Each field aligns with standard JSON resume schemas and general profile representation conventions[2][4].
+- You may expand or nest individual list items for richer detail if required by specific use cases.

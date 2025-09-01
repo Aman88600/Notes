@@ -1,0 +1,100 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Sheshanth AS",
+    "current_title": "Senior Data Scientist",
+    "current_company": "athenahealth",
+    "location": "Bengaluru, Karnataka, India",
+    "about": "Armed with a passion to solve real-world business challenges using data analytics. Proficient in building and deploying complex Machine Learning and Deep Learning models. Skilled in Python (Programming Language), Java, SQL, Data Science with a Post Graduate Diploma focused in Machine Learning and Artificial Intelligence from International Institute of Information Technology – Bangalore.",
+    "profile_photo": "https://media.licdn.com/dms/image/v2/C5103AQGwwWtJ_AcaLw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1577240727711?e=1759363200&v=beta&t=zsTauULSZplU_ckKYeQhbp8JmY6eD9K3atqsilsnrc4",
+    "languages": ["English", "Hindi"],
+    "connections": "500+",
+    "followers": 4411,
+    "linkedin_url": "https://www.linkedin.com/in/sheshanthas/"
+  },
+  "Activity": [
+    {
+      "description": "Building insights from data. Data Analyst || Data Governance Data Engineer || Power BI & Azure",
+      "time": "10 months ago",
+      "author": "Abhirup Bhattacharjee"
+    },
+    {
+      "description": "Senior Data Scientist at athenahealth | Machine Learning | Deep Learning | NLP | Statistics | Python",
+      "time": "4 years ago",
+      "author": "Sheshanth AS"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "athenahealth",
+      "employment_type": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "period": "May 2022 - Present",
+      "duration": "3 yrs 4 mos"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Tech Mahindra",
+      "employment_type": "Full-time",
+      "location": "Bangalore Urban, Karnataka, India",
+      "period": "Sep 2021 - Apr 2022",
+      "duration": "8 mos"
+    },
+    {
+      "title": "Software Engineer 3",
+      "company": "Cerner Corporation",
+      "employment_type": "Full-time",
+      "period": "Oct 2019 - Sep 2021",
+      "duration": "2 yrs"
+    },
+    {
+      "title": "Software Engineer 2",
+      "company": "Cerner Corporation",
+      "employment_type": "Full-time",
+      "period": "Oct 2018 - Oct 2019",
+      "duration": "1 yr 1 mo"
+    }
+  ],
+  "Education": [
+    {
+      "school": "International Institute of Information Technology Bangalore",
+      "degree": "Post Graduate Diploma",
+      "field_of_study": "Machine Learning and Artificial Intelligence",
+      "period": "2018 - 2019"
+    },
+    {
+      "school": "Visvesvaraya Technological University",
+      "degree": "Master of Technology (M.Tech.)",
+      "period": "2013 - 2015"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Model Context Protocol (MCP): Hands-On with Agentic AI",
+      "issuer": "LinkedIn",
+      "date_issued": "Aug 2025"
+    },
+    {
+      "name": "Basic Pytorch Tensor Manipulation for Machine Learning",
+      "issuer": "Educative",
+      "credential_id": "m78JMWwmlz9sPYY6ZA2D4AI4DAmRDXBLZT8",
+      "date_issued": "Sep 2024"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "Deep Learning",
+    "Machine Learning",
+    "Artificial Intelligence (AI)",
+    "Python",
+    "Java",
+    "SQL",
+    "Natural Language Processing (NLP)",
+    "PyTorch",
+    "Large Language Models (LLM)",
+    "Mastering LLMs: Training, Fine-tuning and Best Practices"
+  ]
+}
+```
+This JSON captures and organizes the requested professional details under the specified categories, providing a clear structure for further applications or API integration[1][2].

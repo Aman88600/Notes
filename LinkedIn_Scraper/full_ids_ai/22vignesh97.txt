@@ -1,0 +1,129 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Vignesh S",
+    "headline": "Data Scientist | Credit Risk & ML Pipelines | Vertex AI | Predictive Analytics",
+    "location": "Chennai, Tamil Nadu, India",
+    "currentCompany": "Dun & Bradstreet South Asia Middle East Ltd.",
+    "profileLink": "https://www.linkedin.com/in/22vignesh97/",
+    "about": "Data Scientist with hands-on experience in credit risk modeling, ML pipeline automation, and business analytics. Skilled in building scalable solutions using Vertex AI, BigQuery, and Tableau to drive insights and decisions. Focused on model monitoring, explainability, and solving real-world banking problems with data.",
+    "connections": "500+"
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "date": "recent",
+      "title": "Completed Generative AI for Natural Language Processing course",
+      "content": "Excited to share that I have successfully completed the Generative AI for Natural Language Processing course program! A big thank you to the instructors and peers who made this journey insightful. Looking forward to applying these skills to solve real-world problems and drive innovation.",
+      "hashtags": [
+        "#AI",
+        "#NaturalLanguageProcessing",
+        "#GenerativeAI",
+        "#MachineLearning"
+      ],
+      "certificateLink": "https://www.mygreatlearning.com/certificate/DAXBDZPI"
+    },
+    {
+      "type": "Post",
+      "title": "Modern Olympic Games Analysis (#mavenolympicschallenge)",
+      "content": "The data represents the overview of the Modern Olympic Games from 1896 to 2016. I presented all the achievements insights on country INDIA. Explore more insights with live report published at: https://lnkd.in/dQGzJtb.",
+      "hashtags": [
+        "#mavenolympicschallenge",
+        "#analytics",
+        "#visualization",
+        "#tableau",
+        "#data_analytics"
+      ]
+    },
+    {
+      "type": "Article",
+      "title": "STATISTICS FOR DATA SCIENCE",
+      "content": "Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.",
+      "platform": "Medium"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Dun & Bradstreet South Asia Middle East Ltd.",
+      "location": "Chennai, Tamil Nadu, India",
+      "employmentType": "Full-time",
+      "startDate": "Nov 2024",
+      "endDate": "Present",
+      "description": "Credit risk modelling using Traditional AI (ML models). Rapid response on Ad hoc task which helps business to make decision (Database – Google cloud platform GCP). Analyzed customer groups to answer key business questions on behavioral change (Machine learning) used H20 to make cluster less computational & save time, cost."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "TheMathCompany",
+      "location": "Bengaluru, Karnataka, India",
+      "employmentType": "Full-time",
+      "startDate": "Jul 2023",
+      "endDate": "Oct 2024",
+      "description": "Evaluated client performance with its competitors leveraging third party provided transactional data. Developed data pipelines to generate customer and competitor centric metrics on a regular basis. Created Looker dashboards to visualize KPI metrics. Handling EV related projects in testing and report building (Dashboarding)."
+    },
+    {
+      "title": "Data Analyst",
+      "company": "TheMathCompany",
+      "location": "Bengaluru, Karnataka, India",
+      "employmentType": "Full-time",
+      "startDate": "Nov 2021",
+      "endDate": "Jun 2023",
+      "description": "Evaluated client performance with its competitors leveraging third party provided transactional data. Developed data pipelines to generate customer and competitor centric metrics on a regular basis. Created Looker dashboards to visualize KPI metrics."
+    }
+  ],
+  "Education": [
+    {
+      "degree": "Post Graduate Programme in Management (PGPM)",
+      "field": "Management",
+      "institution": "Great Lakes Institute of Management",
+      "dates": "Mar 2021 - Oct 2021",
+      "grade": "First class"
+    },
+    {
+      "degree": "Bachelor of Engineering - BE",
+      "field": "Electrical and Electronics Engineering",
+      "institution": "St. Joseph's Institute of Technology",
+      "dates": "Mar 2014 - May 2018",
+      "grade": "First class"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "SQL BASIC",
+      "issuedBy": "HackerRank",
+      "issueDate": "May 2021",
+      "credentialID": "3F88B2239187",
+      "credentialURL": "https://www.hackerrank.com/certificates/3f88b2239187"
+    },
+    {
+      "name": "Python BASIC",
+      "issuedBy": "HackerRank",
+      "issueDate": "May 2021",
+      "credentialID": "75BE0DD4C135",
+      "credentialURL": "https://www.hackerrank.com/certificates/75be0dd4c135"
+    },
+    {
+      "name": "Generative AI for Natural Language Processing",
+      "issuedBy": "Great Learning",
+      "credentialURL": "https://www.mygreatlearning.com/certificate/DAXBDZPI"
+    }
+  ],
+  "Skills": [
+    "MYSQL",
+    "Python (Programming Language)",
+    "Predictive Modeling",
+    "Tableau",
+    "Data Analytics",
+    "Google Cloud Platform (GCP)",
+    "Vertex AI",
+    "BigQuery",
+    "Business Analytics",
+    "Model Monitoring",
+    "Explainability",
+    "Looker",
+    "Machine Learning",
+    "Cluster Analysis",
+    "Dashboarding"
+  ]
+}
+```

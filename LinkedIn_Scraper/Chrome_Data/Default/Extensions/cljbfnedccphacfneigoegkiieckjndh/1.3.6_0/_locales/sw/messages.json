@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Lebo ya kitufe cha kuongeza maoni kwa ajili ya maombi.",
+      "message": "Ongeza Maoni"
+   },
+   "allowPermissions": {
+      "description": "Lebo ya kitufe cha kuruhusu ruhusa za programu.",
+      "message": "Ruhusu ruhusa"
+   },
+   "autoScroll": {
+      "description": "Lebo ya kuwasha au kuzima kitabu cha moja kwa moja wakati wa kupakua data.",
+      "message": "Kitabu cha moja kwa moja"
+   },
+   "back": {
+      "description": "Lebo ya kitufe cha kurudi kwenye skrini iliyopita.",
+      "message": "Rudi"
+   },
+   "cancel": {
+      "description": "Lebo kwa hatua ya kughairi.",
+      "message": "Ghairi"
+   },
+   "changeList": {
+      "description": "Lebo ya kitufe cha kubadili orodha ya kukuna.",
+      "message": "Badilisha Orodha"
+   },
+   "changeSelectionLevel": {
+      "description": "Maelezo ya hatua ya kubadilisha kiwango cha uchaguzi wakati wa kuchagua elementi.",
+      "message": "Badilisha kiwango cha uchaguzi"
+   },
+   "chooseFile": {
+      "description": "Lebo ya kitufe cha kuchagua faili ya kupakia.",
+      "message": "Chagua Faili"
+   },
+   "click": {
+      "description": "Lebo ya kitendo cha kubofya.",
+      "message": "Bofya"
+   },
+   "clickLoadMore": {
+      "description": "Lebo ya chaguo la kubonyeza kitufe ili kupakia vitu zaidi kwenye ukurasa uo huo wakati wa kupakua.",
+      "message": "Bonyeza kitufe ili kupakia vitu zaidi kwenye ukurasa ule ule"
+   },
+   "clickNextPage": {
+      "description": "Lebo ya chaguo la kubonyeza kiungo ili kusogea kwenye ukurasa unaofuata kupakia vitu zaidi wakati wa kuchakata.",
+      "message": "Bonyeza kiungo ili uende kwenye ukurasa unaofuata"
+   },
+   "column": {
+      "description": "Lebo kwa elementi ya \u003Cselect> ili kuchagua safu inayoh contain URL za kung'oa kutoka kwa CSV iliyopakiwa.",
+      "message": "Safu"
+   },
+   "confirm": {
+      "description": "Lebo ya kitendo cha kuthibitisha.",
+      "message": "Thibitisha"
+   },
+   "continue": {
+      "description": "Lebo ya kitufe cha kuendelea hadi skrini inayofuata.",
+      "message": "Endelea"
+   },
+   "copy": {
+      "description": "Lebo kwa kitufe cha kunakili data kwenye ubao wa kunakili.",
+      "message": "Nakili"
+   },
+   "csvFile": {
+      "description": "Lebo ya ingizo la faili ili kupakia faili ya CSV",
+      "message": "Faili ya $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Jina chaguomsingi la kokotoaji maelezo ya kurasa.",
+      "message": "Kokotoa maelezo kutoka $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Lebo ya kipengele cha menyu kufuta kipeperushi.",
+      "message": "Futa"
+   },
+   "dismiss": {
+      "description": "Kitendo cha kupuuza taarifa.",
+      "message": "Puuza"
+   },
+   "duration": {
+      "description": "Lebo ya kuonyesha muda wa kukwangua wa sasa.",
+      "message": "Muda"
+   },
+   "esc": {
+      "description": "Lebo ya kitufe cha Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Lebo kwa ajili ya kipengele cha menyu kusafirisha kipeperushi.",
+      "message": "Hamisha"
+   },
+   "extractData": {
+      "description": "Lebo ya kipengee cha menyu kwa ajili ya kukimbia kuchakata na kutoa data kutoka kila URL.",
+      "message": "Toa data"
+   },
+   "finish": {
+      "description": "Lebo ya kitufe cha kumaliza kuchagua vitu kwenye ukurasa.",
+      "message": "Maliza"
+   },
+   "headerRow": {
+      "description": "Maelezo ya msaada kuonyesha kwamba faili ya CSV iliyopakiwa lazima ianze na safu ya kichwa.",
+      "message": "Lazima uanze na safu ya kichwa"
+   },
+   "headerRowRequired": {
+      "description": "Onyo la kuonyesha wakati safu ya kichwa inaonekana kukosekana kutoka CSV iliyopakiwa.",
+      "message": "Safu ya kichwa inahitajika"
+   },
+   "help": {
+      "description": "Lebo ya kitufe cha kufungua ukurasa wa msaada.",
+      "message": "Msaada"
+   },
+   "hideOptions": {
+      "description": "Lebo ya kitufe cha kuficha chaguo zaidi za kuchakata.",
+      "message": "Ficha Chaguo"
+   },
+   "import": {
+      "description": "Lebo ya kipengee cha menyu kwa ajili ya kuingiza kipeperushi.",
+      "message": "Ingiza"
+   },
+   "install": {
+      "description": "Lebo ya kitufe cha kusakinisha toleo la hivi karibuni la programu.",
+      "message": "Sakinisha toleo la hivi karibuni"
+   },
+   "invalidTab": {
+      "description": "Ujumbe wa kosa wakati ukurasa unaolengwa umefunguliwa kwenye tovuti iliyozuiwa.",
+      "message": "Ukurasa huu umewekewa mipaka. Jaribu tovuti nyingine."
+   },
+   "invalidVersion": {
+      "description": "Elekeza mtumiaji kusakinisha toleo la hivi karibuni la programu.",
+      "message": "$APP_NAME$ imetoka beta! Sakinisha toleo la hivi karibuni kupata masasisho mapya.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Lebo ya kuonyesha idadi ya vipengee vilivyokusanywa wakati wa kukusanya orodha.",
+      "message": "Vipengee"
+   },
+   "loadMoreAction": {
+      "description": "Lebo ya elementi ya \u003Cselect> kuchagua jinsi ya kupakia vitu zaidi wakati wa kuchakata.",
+      "message": "Hatua ya kupakia vitu zaidi"
+   },
+   "max": {
+      "description": "Lebo ya kiingizo ili kudhibiti muda wa juu wa kusubiri wakati wa kupakia vitu zaidi au kurasa.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Lebo ya kuingiza ili kuweka kikomo cha juu cha idadi ya vitu vya kukwangua.",
+      "message": "Bidhaa za Juu"
+   },
+   "maxItemsHelp": {
+      "description": "Maandishi ya msaada kumjulisha mtumiaji kwamba wanapaswa kuacha kipengele cha idadi ya vitu kikiwa tupu ili kutoweka kikomo.",
+      "message": "Acha tupu kwa kikomo"
+   },
+   "maxItemsReached": {
+      "description": "Maelezo ya tahadhari kuashiria kuwa kikomo cha juu cha idadi ya vitu vya kukusanya kimefikiwa.",
+      "message": "Imefanikiwa kukusanya hadi kikomo kilichowekwa. Ongeza kikomo cha vitu vingi ili kuendelea kukusanya."
+   },
+   "mediaUrl": {
+      "description": "Lebo ya uwanja wa URL ya vyombo vya habari iliyonaswa kutoka kwa kipengele.",
+      "message": "URL ya Vyombo vya Habari"
+   },
+   "min": {
+      "description": "Lebo ya ingizo la kudhibiti muda wa chini wa kusubiri wakati wa kupakia vitu zaidi au kurasa.",
+      "message": "Dak"
+   },
+   "missingTabError": {
+      "description": "Ujumbe wa kosa wakati haiwezekani kufikia data za kichupo lengwa.",
+      "message": "Kichupo ulichokuwa unatumia kwa kazi hii kimefungwa. Tafadhali funga dirisha hili na jaribu tena."
+   },
+   "missingTabPermission": {
+      "description": "Ujumbe wa makosa wakati hauwezi kupata data ya kichupo kilicholengwa.",
+      "message": "Haiwezi kupata kichupo. Funga dirisha hili na ujaribu tena."
+   },
+   "missingUrlColumn": {
+      "description": "Ujumbe wa hitilafu wakati faili ya CSV inakosa safu zilizo na URL.",
+      "message": "Haiwezi kupata safu na URL. Tafadhali chagua faili nyingine."
+   },
+   "newScraper": {
+      "description": "Lebo ya kitufe cha kutengeneza kisafishaji kipya.",
+      "message": "Kisafishaji Kipya"
+   },
+   "noData": {
+      "description": "Sehemu ya kujaza katika jedwali wakati hakuna data ya kuonyesha.",
+      "message": "Hakuna data ya kuonyesha"
+   },
+   "noFileChosen": {
+      "description": "Ujumbe unaonyeshwa wakati hakuna faili iliyochaguliwa.",
+      "message": "Hakuna faili iliyochaguliwa"
+   },
+   "noList": {
+      "description": "Sehemu ya kuweka wakati orodha haiwezi kupatikana kwenye ukurasa.",
+      "message": "Haiwezi kupata orodha kwenye ukurasa"
+   },
+   "none": {
+      "description": "Lebo ya chaguo la kutokupakia vitu zaidi wakati wa kuchakata.",
+      "message": "Hakuna"
+   },
+   "options": {
+      "description": "Lebo ya kitufe cha kuonyesha chaguo za kikwamua.",
+      "message": "Chaguo"
+   },
+   "pages": {
+      "description": "Lebo ya kuonyesha idadi ya kurasa zilizokwaruzwa wakati wa kukwaruza orodha.",
+      "message": "Kurasa"
+   },
+   "permissionsDescription": {
+      "description": "Maandishi ya msaada kuelezea kwamba programu inahitaji ruhusa za ziada kufikia na kukusanya data kutoka URL.",
+      "message": "$APP_NAME$ inahitaji ruhusa za ziada kufikia na kukusanya data kutoka URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Maandishi ya beji kuonyesha kwamba data inayooneshwa ni hakikisho la chakataji.",
+      "message": "Hakikisho"
+   },
+   "remainingPages": {
+      "description": "Lebo ya kuonyesha idadi ya kurasa zilizobaki kuchambuliwa wakati wa kuchambua kurasa za maelezo.",
+      "message": "Zilizobaki"
+   },
+   "rename": {
+      "description": "Lebo ya kipengele cha menyu ya kubadilisha jina la kipeperushi.",
+      "message": "Paita Jina"
+   },
+   "reviewDescription": {
+      "description": "Muombe mtumiaji kuacha maoni kwa ajili ya programu.",
+      "message": "Habari, mimi ni Namu. Niliunda Easy Scraper ili kusaidia watu kuokoa muda. Iwapo unafurahia kutumia, ningethamini kupata kiwango cha nyota 5 ili kuwasaidia wengine kugundua Easy Scraper. Asante sana!",
+      "placeholders": {
+         "app_name": {
+            "content": "Easy Scraper",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Mshukuru mtumiaji kwa kutumia programu.",
+      "message": "Asante kwa kutumia $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Lebo ya chaguo la kuonyesha skrini ya kukakoa kurasa za maelezo kwa kila kipengee kwenye orodha.",
+      "message": "Kakoa Maelezo"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Maelezo kuhusu kidokezo cha kumuelimisha mtumiaji kuhusu kuchanganua kurasa za maelezo.",
+      "message": "Ili kuchanganua kila URL kwenye orodha, chagua \"$LABEL$\" kutoka kwa menyu kwenye kona ya juu kulia baada ya kupakua orodha kama faili ya CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Changanua Maelezo"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Kichwa cha kidokezo cha kumuelimisha mtumiaji kuhusu kukusanya data kutoka kurasa za undani.",
+      "message": "Kidokezo: Kukusanya data kutoka kurasa za undani"
+   },
+   "scrapeList": {
+      "description": "Lebo ya chaguo la kuonyesha skrini ya kukwaruza orodha.",
+      "message": "Orodhesha Ukurasa"
+   },
+   "scrapedPages": {
+      "description": "Lebo ya kuonyesha idadi ya kurasa zilizopigwa wakati wa kuchambua kurasa za maelezo.",
+      "message": "Imepigwa"
+   },
+   "scrapingComplete": {
+      "description": "Kichwa cha arifu kuashiria kwamba ukataji umekamilika.",
+      "message": "Ukataji umekamilika"
+   },
+   "scrapingStatus": {
+      "description": "Lebo ya kuonyesha kuwa uchakataji unaendelea.",
+      "message": "Inachakata..."
+   },
+   "scrollDelay": {
+      "description": "Lebo ya tundu la kuingiza ili kudhibiti muda wa kusubiri kwa millisecondi wakati wa kuskroli kila kipengee wakati wa kukwangua.",
+      "message": "Kuchelewa kwa skroli (ms)"
+   },
+   "scrollDown": {
+      "description": "Lebo ya chaguo la kutembeza chini kupakia vitu zaidi wakati wa kuchakata.",
+      "message": "Tembeza chini kupakia vitu zaidi"
+   },
+   "select": {
+      "description": "Lebo ya kitufe cha kuchagua elementi kwenye ukurasa.",
+      "message": "Chagua"
+   },
+   "selectElement": {
+      "description": "Kichwa cha kuonyesha wakati wa kuchagua kipengele.",
+      "message": "Chagua Kipengele"
+   },
+   "selectField": {
+      "description": "Maelezo ya hatua ya kuchagua uwanja wa kunasa.",
+      "message": "Chagua uwanja"
+   },
+   "selectList": {
+      "description": "Kichwa cha kuonyesha wakati wa kuchagua orodha.",
+      "message": "Chagua Orodha"
+   },
+   "selectScraper": {
+      "description": "Lebo ya kipengee cha menyu kuchagua kikwanguaji cha kutumia kukwangua kila URL.",
+      "message": "Chagua kikwanguaji"
+   },
+   "selectScraperOption": {
+      "description": "Maelekezo ya kuchagua kikusanyaji takwimu kwa domain iliyopo.",
+      "message": "Chagua kikusanyaji takwimu kwa $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Lebo ya kitufe cha kuonyesha chaguo zaidi za kuchakata.",
+      "message": "Onyesha Chaguo"
+   },
+   "startScraping": {
+      "description": "Lebo ya kitufe cha kuanza kuchakata.",
+      "message": "Anza Kuchakata"
+   },
+   "stopScraping": {
+      "description": "Lebo ya kitufe cha kuacha kukwarua.",
+      "message": "Acha Kukwarua"
+   },
+   "tabNotFound": {
+      "description": "Ujumbe wa kosa wakati kichupo kilicholengwa hakipo.",
+      "message": "Hakuna kichupo kilichopatikana. Funga dirisha hili na ujaribu tena."
+   },
+   "testUrl": {
+      "description": "Lebo ya kuingiza maandishi kwa URL ya majaribio ya kutumia wakati wa kuchagua kikwaruzi.",
+      "message": "Jaribu URL"
+   },
+   "text": {
+      "description": "Lebo ya kijisehemu cha maandishi kilichonakiliwa kutoka kipengele.",
+      "message": "Maandishi"
+   },
+   "uploadUrls": {
+      "description": "Lebo ya kipengele cha menyu ya kupakia faili iliyo na URL za kuchambua.",
+      "message": "Pakia URL"
+   },
+   "url": {
+      "description": "Lebo kwa sehemu ya URL iliyonakiliwa kutoka kipengele.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Onyo la kuonyesha wakati jina la safu lililochaguliwa ni URL na faili ya CSV inaweza kukosa mstari wa kichwa.",
+      "message": "Jina la safu linaonekana kuwa URL. Tafadhali hakikisha faili ya CSV inaanza na mstari wa kichwa unaobeba majina ya safu."
+   },
+   "verify": {
+      "description": "Lebo ya kitufe cha kuthibitisha elementi iliyochaguliwa kwa kuangazia kwenye ukurasa.",
+      "message": "Thibitisha"
+   },
+   "waitTimeItems": {
+      "description": "Lebo ya vipimo vya kudhibiti muda wa kusubiri kwa sekunde wakati wa kupakia vitu zaidi.",
+      "message": "Muda wa kusubiri kupakia vitu zaidi (sekunde)"
+   },
+   "waitTimePages": {
+      "description": "Lebo ya vipengele vya kudhibiti muda wa kusubiri kwa sekunde wakati wa kupakia kurasa.",
+      "message": "Muda wa kusubiri ukurasa kupakia (sekunde)"
+   }
+}

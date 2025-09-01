@@ -1,0 +1,83 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "Sneharth Bhajani",
+    "CurrentTitle": "Senior Data Scientist - Product Data Science",
+    "CurrentCompany": "New Relic",
+    "Location": "Bengaluru, Karnataka, India",
+    "ContactInfo": {
+      "LinkedIn": "https://www.linkedin.com/in/sneharth/",
+      "Connections": "500+"
+    },
+    "About": "I see each day as a fresh opportunity to learn, unlearn, and refine my understanding of the world—especially through the lens of data. With a strong intuition for numbers and patterns, I enjoy transforming raw data into meaningful insights and building systems that are both innovative and impactful. I’m particularly drawn to the mathematical depths of Machine Learning, constantly pushing myself to explore its nuances and applications. At New Relic, I work with the Product Data Science team, where I focus on strategy, operations, and team efficiency. I lead the architecture and implementation of scalable systems powered by Classical ML, LLMs, Agentic AI, helping CXOs understand and act on customer retention signals, and integrating data-driven intelligence into core operational workflows. Previously at Gabit, I worked at the intersection of Fitness, Nutrition, and Skincare, where I led the development of an AI-powered real-time personal trainer. Using just a phone’s front camera, it could detect exercises and count reps—bringing intelligent fitness coaching to everyone’s pocket. Before that, at Dunzo, I contributed to several key ML projects: from product deduplication and ETA optimization to overhauling recommendation algorithms for Search and Checkout. These efforts significantly enhanced user experience and operational performance."
+  },
+  "Activity": {
+    "Followers": 5652,
+    "RecentActivity": [
+      "Hiring technology innovators at New Relic",
+      "Posts on Data Science and Machine Learning topics"
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Senior Data Scientist - Product Data Science",
+      "Company": "New Relic",
+      "Type": "Full-time",
+      "Location": "Bengaluru, Karnataka, India · Hybrid",
+      "StartDate": "Nov 2024",
+      "EndDate": "Present",
+      "Duration": "10 mos",
+      "Description": "Focus on strategy, operations, and team efficiency. Lead architecture and implementation of scalable data science systems using Classical ML, LLMs, Agentic AI for CXO insights and operational workflows."
+    },
+    {
+      "Title": "Machine Learning Engineer",
+      "Company": "Gabit",
+      "Type": "Full-time",
+      "Location": "Gurugram, Haryana, India · On-site",
+      "StartDate": "Sep 2023",
+      "EndDate": "Jul 2024",
+      "Duration": "11 mos",
+      "Description": "Led development of an AI-powered real-time personal trainer using computer vision for fitness, nutrition, and skincare applications."
+    },
+    {
+      "Title": "Data Scientist",
+      "Company": "Dunzo",
+      "Description": "Contributed to product deduplication, ETA optimization, and recommendation systems for Search and Checkout, improving user experience and operational performance."
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Sardar Vallabhbhai National Institute of Technology, Surat",
+      "Degree": "Bachelor of Technology",
+      "Field": "Computer Engineering",
+      "Year": "2019"
+    }
+  ],
+  "Certification": [],
+  "Skills": [
+    "Machine Learning",
+    "Agentic AI",
+    "Classical ML",
+    "Large Language Models (LLMs)",
+    "MCP"
+  ],
+  "Recommendations": [
+    {
+      "From": "Giri Venkat",
+      "FromTitle": "Principal Data Scientist @Walmart | Ex Dunzo | Data Science, Machine Learning",
+      "Date": "July 30, 2023",
+      "Type": "Received",
+      "Relationship": "Managed Sneharth directly at Dunzo",
+      "Text": "Sneharth showcased exceptional skills and dedication, making a significant impact on our projects. Outstanding contributions to recommendation systems, efficient, quick at understanding and applying complex concepts. Proactive, innovative, up-to-date with latest trends, skilled in deploying models to production, collaborative and supportive team member."
+    },
+    {
+      "From": "Fahad Barchiwale",
+      "FromTitle": "Product @ GoDaddy | Ex- Dunzo",
+      "Date": "July 24, 2023",
+      "Type": "Received",
+      "Relationship": "Fahad was senior to Sneharth but didn't manage him directly",
+      "Text": "Worked closely on ML based recommendation models at Dunzo. Strong technical, business understanding, and communication skills. Effective in presenting solutions for all stakeholders and quick to incorporate feedback."
+    }
+  ]
+}
+```

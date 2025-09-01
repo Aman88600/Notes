@@ -1,0 +1,35 @@
+2025/08/31-20:07:09.484 3d00 Creating DB C:\Users\hp\Desktop\Coding\LinkedIn_Scraper\Chrome_Data\Default\Session Storage since it was missing.
+2025/08/31-20:07:09.571 3d00 Reusing MANIFEST C:\Users\hp\Desktop\Coding\LinkedIn_Scraper\Chrome_Data\Default\Session Storage/MANIFEST-000001
+2025/08/31-23:14:55.242 3d00 Level-0 table #5: started
+2025/08/31-23:14:55.285 3d00 Level-0 table #5: 22577 bytes OK
+2025/08/31-23:14:55.296 3d00 Delete type=0 #3
+2025/08/31-23:30:01.172 3d00 Level-0 table #7: started
+2025/08/31-23:30:01.187 3d00 Level-0 table #7: 29734 bytes OK
+2025/08/31-23:30:01.190 3d00 Delete type=0 #4
+2025/08/31-23:56:18.273 3d00 Level-0 table #9: started
+2025/08/31-23:56:18.313 3d00 Level-0 table #9: 25521 bytes OK
+2025/08/31-23:56:18.316 3d00 Delete type=0 #6
+2025/09/01-00:03:31.694 3394 Level-0 table #11: started
+2025/09/01-00:03:31.708 3394 Level-0 table #11: 37246 bytes OK
+2025/09/01-00:03:31.711 3394 Delete type=0 #8
+2025/09/01-00:10:57.850 3d00 Level-0 table #13: started
+2025/09/01-00:10:57.893 3d00 Level-0 table #13: 35257 bytes OK
+2025/09/01-00:10:57.906 3d00 Delete type=0 #10
+2025/09/01-00:16:20.166 3d00 Level-0 table #15: started
+2025/09/01-00:16:20.215 3d00 Level-0 table #15: 36728 bytes OK
+2025/09/01-00:16:20.265 3d00 Delete type=0 #12
+2025/09/01-00:16:20.267 3d00 Compacting 4@0 + 1@1 files
+2025/09/01-00:16:20.282 3d00 Generated table #16@0: 97 keys, 5250 bytes
+2025/09/01-00:16:20.282 3d00 Compacted 4@0 + 1@1 files => 5250 bytes
+2025/09/01-00:16:20.283 3d00 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/01-00:16:20.286 3d00 Delete type=2 #7
+2025/09/01-00:16:20.286 3d00 Delete type=2 #9
+2025/09/01-00:16:20.286 3d00 Delete type=2 #11
+2025/09/01-00:16:20.286 3d00 Delete type=2 #13
+2025/09/01-00:16:20.287 3d00 Delete type=2 #15
+2025/09/01-00:21:31.694 3d00 Level-0 table #18: started
+2025/09/01-00:21:31.719 3d00 Level-0 table #18: 36319 bytes OK
+2025/09/01-00:21:31.727 3d00 Delete type=0 #14
+2025/09/01-00:27:31.693 3394 Level-0 table #20: started
+2025/09/01-00:27:31.711 3394 Level-0 table #20: 34817 bytes OK
+2025/09/01-00:27:31.715 3394 Delete type=0 #17

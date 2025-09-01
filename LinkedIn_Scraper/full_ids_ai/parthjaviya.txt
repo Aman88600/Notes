@@ -1,0 +1,111 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Shouvik Sardar",
+    "ProfilePhoto": "https://media.licdn.com/dms/image/v2/C5603AQGifDERyzev6w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1591704663126?e=1759363200&v=beta&t=CMr0ggyvrw4EM8dcTpVbvM1k3fMpfJOqzdVbjOC9Tss",
+    "Headline": "Principal Data Scientist & Global Technical Lead of AI-ML, Data Science division at Securonix",
+    "Location": "India",
+    "Connections": "500+",
+    "ContactInfoURL": "https://www.linkedin.com/in/shouvik-sardar/overlay/contact-info/"
+  },
+  "Activity": {
+    "Followers": 1162,
+    "RecentPosts": [
+      {
+        "Author": "Sourish Das",
+        "Content": "Understanding Science with Data to Touch the Lives",
+        "Time": "1 week ago",
+        "Visibility": "Public"
+      },
+      {
+        "Author": "Shouvik Sardar",
+        "Content": "Principal Data Scientist & Global Technical Lead of AI-ML, Data Science division at Securonix",
+        "Time": "1 month ago",
+        "Visibility": "Public"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Principal Data Scientist & Global Technical Lead of AI-ML, Data Science division",
+      "Company": "Securonix",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGgdRWg8twatg/company-logo_100_100/company-logo_100_100/0/1720723773459/securonix_logo?e=1759363200&v=beta&t=-zBBONPcklijUYqwCh-YMRthO83ieBCmBzn_u5Y2qVA",
+      "Duration": "Jan 2025 - Present",
+      "Location": "",
+      "Description": "Leading AI-ML and Data Science tech initiatives, building intelligent security solutions for digital environments. Focus on cybersecurity and SIEM.",
+      "KeyProjects": []
+    },
+    {
+      "Title": "Senior Data Scientist",
+      "Company": "Virtana Corp.",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQG5g2AdNY6d7Q/company-logo_100_100/company-logo_100_100/0/1631302384081?e=1759363200&v=beta&t=QncXT8KyXi9uwGQtNKuai5iiCZkFqw5DT38QG2PvaJU",
+      "Duration": "Jan 2020 - Jan 2025",
+      "Location": "Tamil Nadu, India",
+      "Description": "Built statistical and ML models for cloud app performance. Tasks included anomaly detection, scalability, optimization, semi-supervised learning, SLO automation, visibility, automated RCA, model pruning, and research to production.",
+      "KeyProjects": [
+        "Anomaly Detection (ML models)", "Optimization (business/product focus)", "Automated RCA (Root Cause Analysis)"
+      ]
+    },
+    {
+      "Title": "Data Scientist",
+      "Company": "HealthLucid",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=1759363200&v=beta&t=38I3bvp0_NVwN8njENYPZSP_5qRy6gTPzEafyisF6rk",
+      "Duration": "Mar 2018 - Dec 2019",
+      "Location": "Bengaluru, Karnataka, India",
+      "Description": "Developed ML models to reduce US healthcare expenses. Projects included Gaps in Care (chronic diseases), Payment Integrity (insurance claims), Adoption strategies, Episoding Algorithm (care episodes).",
+      "KeyProjects": [
+        "Gaps In Care feature", "Payment Integrity (claims fraud)", "Episoding Algorithm"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Chennai Mathematical Institute",
+      "Degree": "Master's degree",
+      "Field": "Applied Mathematics",
+      "Years": "2012 - 2014",
+      "Logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEIUm97oKo_tA/company-logo_100_100/company-logo_100_100/0/1631334828246?e=1759363200&v=beta&t=HQC2awFisZgujpTdShl6FbQC2EVwLamBvSwlk3EWf0M"
+    },
+    {
+      "Institution": "University of Calcutta",
+      "Degree": "Bachelor of Science (BSc)",
+      "Field": "Statistics (Honours), Mathematics, Economics",
+      "Years": "2009 - 2012",
+      "Logo": "https://media.licdn.com/dms/image/v2/C560BAQFqP6aB_0FMWg/company-logo_100_100/company-logo_100_100/0/1630596701008/university_of_calcutta_cu_logo?e=1759363200&v=beta&t=5IX-lsB8DYLxehFbKyNjYJ-DVDRC2tbl09HsMqVRv-A"
+    }
+  ],
+  "Certification": [],
+  "Skills": [
+    "Machine Learning",
+    "Statistical Models",
+    "Econometrics",
+    "Quantitative Finance",
+    "R",
+    "Python",
+    "Data Science",
+    "Quantitative Modelling",
+    "Cloud Computing",
+    "Financial Risk Management",
+    "PD Model Validation",
+    "Quantitative Research Analysis"
+  ],
+  "Languages": [
+    "Bengali",
+    "English"
+  ],
+  "Recommendations": [
+    {
+      "Type": "Received",
+      "From": "Aloke Guha",
+      "Date": "November 7, 2023",
+      "Summary": "Shouvik possesses excellent quantitative analytical skills, is open to researching new technologies, persistent in solving complex problems, and a great asset for any data science team."
+    },
+    {
+      "Type": "Received",
+      "From": "Souvik Paul",
+      "Date": "February 10, 2023",
+      "Summary": "Shouvik has in-depth industry knowledge, smart working habits, strong communication skills, leadership ability, intrinsic knowledge in Statistics and Mathematics, and excellent coding skills (Python/R)."
+    }
+  ]
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Unnati",
+    "Current Title": "Chief Data Scientist, Co-Founder",
+    "Summary": "Over 15 years of experience in Analytics/Data Science Consulting and Training with expertise in Fraud Management, Credit Risk, and Customer Analytics. Extensive industry exposure across Retail Banking, Wealth Management, Telecom, Entertainment, and Micro Finance. Experienced trainer in machine learning and data science for non-technical audiences. Entrepreneur, currently managing an analytics/data science firm.",
+    "Followers": 1983,
+    "Interests": [
+      "Education",
+      "Environment",
+      "Health"
+    ]
+  },
+  "Activity": {
+    "Recent Activity": [
+      {
+        "Type": "Comment",
+        "Content": "Dr Sandeep congrats !...",
+        "Timeframe": "5mo"
+      },
+      {
+        "Type": "Comment",
+        "Content": "Congrats sir",
+        "Timeframe": "6mo"
+      },
+      {
+        "Type": "Comment",
+        "Content": "Thanks sir",
+        "Timeframe": "6mo"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Chief Data Scientist, Co-Founder",
+      "Company": "Unnati",
+      "StartDate": "Oct 2023",
+      "EndDate": "Present",
+      "Duration": "1 yr 11 mos",
+      "Location": "On-site"
+    },
+    {
+      "Title": "Co-founder, Chief Data Scientist",
+      "Company": "MathLogic",
+      "StartDate": "Apr 2012",
+      "EndDate": "Present",
+      "Duration": "13 yrs 5 mos"
+    },
+    {
+      "Title": "Senior Manager",
+      "Company": "Unnati",
+      "StartDate": "Oct 2023",
+      "EndDate": "Present",
+      "Duration": "1 yr 11 mos"
+    }
+  ],
+  "Education": [
+    {
+      "School": "Management Development Institute, Gurgaon",
+      "Degree": "Master of Business Administration (MBA), Finance, General",
+      "StartYear": 2000,
+      "EndYear": 2002
+    },
+    {
+      "School": "Indian Institute of Technology, Delhi",
+      "Degree": "Bachelor of Technology (BTech), Textile Sciences and Engineering",
+      "StartYear": 1994,
+      "EndYear": 1998
+    }
+  ],
+  "Certification": [],
+  "Skills": [
+    {
+      "Skill": "Machine Learning",
+      "Details": "Classification, regression, clustering, feature engineering (Random Forest, Gradient Boosting, Support Vector Machine, Neural Networks, Deep Learning)"
+    },
+    {
+      "Skill": "SAS Programming",
+      "Endorsements": 4,
+      "Endorsed by": [
+        "2 colleagues at American Express"
+      ]
+    },
+    {
+      "Skill": "Banking"
+    }
+  ]
+}
+```

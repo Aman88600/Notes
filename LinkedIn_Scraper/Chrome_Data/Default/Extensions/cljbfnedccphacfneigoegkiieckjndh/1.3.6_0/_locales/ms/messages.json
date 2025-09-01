@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Label untuk butang menambah ulasan untuk aplikasi.",
+      "message": "Tambah Ulasan"
+   },
+   "allowPermissions": {
+      "description": "Label untuk butang yang membenarkan kebenaran untuk aplikasi.",
+      "message": "Benarkan kebenaran"
+   },
+   "autoScroll": {
+      "description": "Label untuk suis untuk mengawal sama ada untuk skrol secara automatik ke setiap item semasa mengikis.",
+      "message": "Autoskrol"
+   },
+   "back": {
+      "description": "Label untuk butang untuk kembali ke skrin sebelumnya.",
+      "message": "Kembali"
+   },
+   "cancel": {
+      "description": "Label untuk tindakan batal.",
+      "message": "Batal"
+   },
+   "changeList": {
+      "description": "Label untuk butang untuk menukar senarai untuk dikikis.",
+      "message": "Tukar Senarai"
+   },
+   "changeSelectionLevel": {
+      "description": "Penerangan tindakan untuk menukar tahap pemilihan semasa memilih elemen.",
+      "message": "Tukar tahap pemilihan"
+   },
+   "chooseFile": {
+      "description": "Label untuk butang memilih fail untuk dimuat naik.",
+      "message": "Pilih Fail"
+   },
+   "click": {
+      "description": "Label untuk tindakan klik.",
+      "message": "Klik"
+   },
+   "clickLoadMore": {
+      "description": "Label untuk pilihan mengklik butang untuk memuat lebih banyak item pada halaman yang sama semasa mengikis.",
+      "message": "Klik butang untuk muat lebih banyak item pada halaman yang sama"
+   },
+   "clickNextPage": {
+      "description": "Label untuk pilihan mengklik pautan untuk navigasi ke halaman seterusnya bagi memuatkan lebih banyak item semasa mengikis.",
+      "message": "Klik pautan untuk navigasi ke halaman seterusnya"
+   },
+   "column": {
+      "description": "Label untuk elemen \u003Cselect> untuk memilih kolum yang mengandungi URL untuk digali daripada CSV yang dimuat naik.",
+      "message": "Kolum"
+   },
+   "confirm": {
+      "description": "Label untuk tindakan mengesahkan.",
+      "message": "Sahkan"
+   },
+   "continue": {
+      "description": "Label untuk butang untuk meneruskan ke skrin seterusnya.",
+      "message": "Teruskan"
+   },
+   "copy": {
+      "description": "Label butang untuk menyalin data ke papan klip.",
+      "message": "Salin"
+   },
+   "csvFile": {
+      "description": "Label untuk input fail untuk memuat naik fail CSV",
+      "message": "fail $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Nama lalai untuk pemungut maklumat halaman.",
+      "message": "Kutip maklumat dari $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Label untuk item menu untuk memadam pengikis.",
+      "message": "Padam"
+   },
+   "dismiss": {
+      "description": "Tindakan untuk mengabaikan amaran.",
+      "message": "Abaikan"
+   },
+   "duration": {
+      "description": "Label untuk menunjukkan tempoh mengikis semasa.",
+      "message": "Tempoh"
+   },
+   "esc": {
+      "description": "Label bagi kekunci Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Label untuk item menu untuk mengeksport pengikis.",
+      "message": "Eksport"
+   },
+   "extractData": {
+      "description": "Label untuk item menu untuk menjalankan scrape dan mengekstrak data dari setiap URL.",
+      "message": "Ekstrak data"
+   },
+   "finish": {
+      "description": "Label untuk butang untuk menyelesaikan pemilihan elemen pada halaman.",
+      "message": "Selesai"
+   },
+   "headerRow": {
+      "description": "Teks bantuan untuk menjelaskan bahawa fail CSV yang dimuat naik mesti bermula dengan baris tajuk.",
+      "message": "Mesti bermula dengan baris tajuk"
+   },
+   "headerRowRequired": {
+      "description": "Amaran untuk ditunjukkan apabila baris tajuk kelihatan hilang dari CSV yang dimuat naik.",
+      "message": "Diperlukan baris tajuk"
+   },
+   "help": {
+      "description": "Label untuk butang membuka halaman bantuan.",
+      "message": "Bantuan"
+   },
+   "hideOptions": {
+      "description": "Label untuk butang untuk menyembunyi lebih banyak pilihan untuk mengikis.",
+      "message": "Sembunyi Pilihan"
+   },
+   "import": {
+      "description": "Label untuk item menu untuk mengimport scraper.",
+      "message": "Import"
+   },
+   "install": {
+      "description": "Label untuk butang memasang versi terkini aplikasi.",
+      "message": "Pasang versi terkini"
+   },
+   "invalidTab": {
+      "description": "Mesej ralat apabila tab sasaran dibuka ke laman web yang terhad.",
+      "message": "Laman ini adalah terhad."
+   },
+   "invalidVersion": {
+      "description": "Arahan untuk pengguna memasang versi terkini aplikasi.",
+      "message": "$APP_NAME$ sudah keluar dari beta! Pasang versi terkini untuk mendapatkan kemas kini terbaru.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Label untuk menunjukkan bilangan barang yang dikutip semasa mengutip senarai.",
+      "message": "Barang"
+   },
+   "loadMoreAction": {
+      "description": "Label untuk elemen \u003Cselect> untuk memilih bagaimana memuat lebih banyak item ketika mengikis.",
+      "message": "Tindakan untuk memuat lebih banyak item"
+   },
+   "max": {
+      "description": "Label untuk input untuk mengawal masa maksimum menunggu semasa memuat lebih banyak item atau halaman.",
+      "message": "Maks"
+   },
+   "maxItems": {
+      "description": "Label untuk input untuk menetapkan had maksimum pada jumlah item untuk dikutip.",
+      "message": "Item maksimum"
+   },
+   "maxItemsHelp": {
+      "description": "Teks bantuan untuk memaklumkan pengguna supaya meninggalkan input maksimum item kosong untuk tidak menetapkan had.",
+      "message": "Biarkan kosong untuk tiada had"
+   },
+   "maxItemsReached": {
+      "description": "Penerangan amaran untuk menunjukkan bahawa had maksimum bilangan item yang akan dikikis telah dicapai.",
+      "message": "Berjaya mengikis sehingga had yang ditetapkan. Tingkatkan opsyen maksimum item untuk terus mengikis."
+   },
+   "mediaUrl": {
+      "description": "Label untuk bidang URL media yang ditangkap dari elemen.",
+      "message": "URL Media"
+   },
+   "min": {
+      "description": "Label untuk input untuk mengawal masa minimum menunggu semasa memuat lebih banyak item atau halaman.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Mesej ralat apabila tidak dapat mengakses data tab sasaran.",
+      "message": "Tab yang anda gunakan untuk tugas ini telah ditutup. Sila tutup tetingkap ini dan cuba lagi."
+   },
+   "missingTabPermission": {
+      "description": "Mesej ralat apabila tidak dapat mengakses data tab sasaran.",
+      "message": "Tidak dapat mengakses tab. Tutup tetingkap ini dan cuba lagi."
+   },
+   "missingUrlColumn": {
+      "description": "Mesej ralat apabila fail CSV tiada lajur dengan URL.",
+      "message": "Tidak dapat mencari lajur dengan URL. Sila pilih fail lain."
+   },
+   "newScraper": {
+      "description": "Label untuk butang untuk membuat pencakar baru.",
+      "message": "Pencakar Baru"
+   },
+   "noData": {
+      "description": "Tempat letak dalam jadual apabila tiada data untuk dipaparkan.",
+      "message": "Tiada data untuk dipaparkan"
+   },
+   "noFileChosen": {
+      "description": "Mesej yang ditunjukkan apabila tiada fail yang dipilih.",
+      "message": "Tiada fail dipilih"
+   },
+   "noList": {
+      "description": "Placeholder ditunjukkan apabila senarai tidak dapat ditemui pada halaman.",
+      "message": "Tidak dapat menemui senarai pada halaman"
+   },
+   "none": {
+      "description": "Label untuk pilihan untuk tidak memuat lebih banyak item ketika mengikis.",
+      "message": "Tiada"
+   },
+   "options": {
+      "description": "Label untuk butang yang menunjukkan pilihan untuk pengikis.",
+      "message": "Pilihan"
+   },
+   "pages": {
+      "description": "Label untuk menunjukkan bilangan halaman yang dikorek apabila mengorek senarai.",
+      "message": "Halaman"
+   },
+   "permissionsDescription": {
+      "description": "Teks bantuan untuk menjelaskan bahwa aplikasi memerlukan keizinan tambahan untuk mengakses dan mengikis URL.",
+      "message": "$APP_NAME$ memerlukan keizinan tambahan untuk mengakses dan mengikis URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Teks lencana untuk menunjukkan bahawa data yang ditunjukkan adalah pratonton pengikis.",
+      "message": "Pratonton"
+   },
+   "remainingPages": {
+      "description": "Label untuk menunjukkan bilangan halaman yang tinggal untuk dikikis ketika mengikis halaman-halaman terperinci.",
+      "message": "Baki"
+   },
+   "rename": {
+      "description": "Label untuk item menu untuk menamakan semula pengikis.",
+      "message": "Namakan Semula"
+   },
+   "reviewDescription": {
+      "description": "Minta pengguna untuk meninggalkan ulasan untuk aplikasi tersebut.",
+      "message": "Hai, saya $NAME$. Saya mencipta $APP_NAME$ untuk membantu orang menjimatkan masa. Jika anda menikmati menggunakannya, saya akan menghargai penilaian 5 bintang untuk membantu orang lain menemui $APP_NAME$. Terima kasih banyak!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Ucapkan terima kasih kepada pengguna kerana menggunakan aplikasi.",
+      "message": "Terima kasih kerana menggunakan $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Label untuk pilihan untuk menunjukkan skrin bagi memecah details halaman bagi setiap item dalam senarai.",
+      "message": "Butir Pecahan"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Penerangan untuk petua bagi mendidik pengguna tentang mendapatkan halaman butiran.",
+      "message": "Untuk mendapatkan setiap URL dalam senarai, pilih \"$LABEL$\" dari menu di bahagian kanan atas selepas memuat turun senarai sebagai fail CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Dapatkan Butiran"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Tajuk untuk petua mendidik pengguna tentang mengikis halaman butiran.",
+      "message": "Petua: Mengikis halaman butiran"
+   },
+   "scrapeList": {
+      "description": "Label untuk pilihan untuk menunjukkan skrin untuk mengutip senarai.",
+      "message": "Senarai Kutipan"
+   },
+   "scrapedPages": {
+      "description": "Label untuk menunjukkan jumlah halaman yang dikikis ketika mengikis halaman detail.",
+      "message": "Dikikis"
+   },
+   "scrapingComplete": {
+      "description": "Tajuk amaran untuk menunjukkan bahawa pengorekan telah selesai.",
+      "message": "Pengorekan selesai"
+   },
+   "scrapingStatus": {
+      "description": "Label untuk menunjukkan bahawa pengikisan sedang berjalan.",
+      "message": "Mengikis..."
+   },
+   "scrollDelay": {
+      "description": "Label untuk input untuk mengawal berapa lama menunggu dalam milisaat semasa menggeser ke setiap item semasa mengikis.",
+      "message": "Kegeseran tunda (ms)"
+   },
+   "scrollDown": {
+      "description": "Label untuk pilihan menatal ke bawah untuk memuatkan lebih banyak item ketika mengikis.",
+      "message": "Tatal ke bawah untuk memuatkan lebih banyak item"
+   },
+   "select": {
+      "description": "Label untuk butang untuk memilih elemen di halaman.",
+      "message": "Pilih"
+   },
+   "selectElement": {
+      "description": "Tajuk untuk dipaparkan semasa memilih elemen.",
+      "message": "Pilih Elemen"
+   },
+   "selectField": {
+      "description": "Keterangan tindakan untuk memilih bidang yang akan ditangkap.",
+      "message": "Pilih bidang"
+   },
+   "selectList": {
+      "description": "Tajuk untuk dipaparkan semasa memilih senarai.",
+      "message": "Pilih Senarai"
+   },
+   "selectScraper": {
+      "description": "Label untuk item menu untuk memilih peraut yang digunakan untuk mengaut setiap URL.",
+      "message": "Pilih peraut"
+   },
+   "selectScraperOption": {
+      "description": "Arahan untuk memilih pengikis untuk domain semasa.",
+      "message": "Pilih pengikis untuk $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Label untuk butang untuk menunjukkan lebih banyak pilihan untuk mengikis.",
+      "message": "Tunjukkan Pilihan"
+   },
+   "startScraping": {
+      "description": "Label untuk butang untuk memulakan pengikisan.",
+      "message": "Mulakan Mengikis"
+   },
+   "stopScraping": {
+      "description": "Label untuk butang menghentikan pengikisan.",
+      "message": "Hentikan Pengikisan"
+   },
+   "tabNotFound": {
+      "description": "Mesej ralat apabila tab sasaran tidak wujud.",
+      "message": "Tiada tab dijumpai. Tutup tetingkap ini dan cuba lagi."
+   },
+   "testUrl": {
+      "description": "Label untuk input teks untuk URL ujian yang digunakan ketika memilih penyelak.",
+      "message": "Uji URL"
+   },
+   "text": {
+      "description": "Label untuk medan teks yang ditangkap dari suatu elemen.",
+      "message": "Teks"
+   },
+   "uploadUrls": {
+      "description": "Label untuk item menu untuk memuat naik fail dengan URL untuk diambil.",
+      "message": "Muat Naik URL"
+   },
+   "url": {
+      "description": "Label untuk medan URL yang dirakam daripada elemen.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Amaran untuk dipaparkan apabila nama kolum yang dipilih adalah URL dan fail CSV mungkin tiada baris tajuk.",
+      "message": "Nama kolum kelihatan seperti URL. Sila pastikan fail CSV bermula dengan baris tajuk yang mengandungi nama-nama kolum."
+   },
+   "verify": {
+      "description": "Label untuk butang bagi mengesahkan elemen yang dipilih dengan menonjolkan ia pada halaman.",
+      "message": "Sahkan"
+   },
+   "waitTimeItems": {
+      "description": "Label untuk input untuk mengawal berapa lama untuk menunggu dalam saat ketika memuat lebih banyak item.",
+      "message": "Masa menunggu untuk memuat lebih banyak item (saat)"
+   },
+   "waitTimePages": {
+      "description": "Label untuk input untuk mengawal berapa lama untuk menunggu dalam saat ketika memuat halaman.",
+      "message": "Masa menunggu untuk memuat halaman (saat)"
+   }
+}

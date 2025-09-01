@@ -1,0 +1,158 @@
+Here is the requested content arranged in a **structured JSON format** under the specified fields (`Basic Info`, `Activity`, `Experience`, `Education`, `Certification and Skills`). All available semantic elements have been mapped to the relevant sections.
+
+```json
+{
+  "Basic Info": {
+    "name": "Sanjay B",
+    "headline": "Data Scientist 🥼@Syngenta | IIT Madras | AI & ML | Data Science & GenAI📈| Python | Financial Risk Management | Python Web Developer | Good and quick learner | Conversationalist",
+    "profile_url": "https://www.linkedin.com/in/sanjay-b-data-analyst/",
+    "profile_image": "https://media.licdn.com/dms/image/v2/D5603AQGwMsyMOCMDJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1724089524181?e=1759363200&v=beta&t=WbjTiGgrqkFreh-ts9cvJYPviAUYzk0gXqRtkKpHH3s",
+    "location": "Pune, Maharashtra, India",
+    "connections": "500+",
+    "summary": "Balancing the pursuit of dual degrees in Data Science from IIT Madras and Health Science from the University of the People alongside a full-time job since the age of 18 has been both challenging and rewarding. This journey has not only strengthened my ability to manage time effectively under intense pressure but also shaped me into a resilient and adaptable professional. Through my academic endeavors, I have developed a strong foundation in data analysis, statistical modeling, and programming, with a focus on practical applications in fields such as mental health trends and marketing success rates. My professional experience spans over three years in the banking and finance sector, particularly in credit card operations, where I have excelled in both individual and leadership roles. I have successfully managed teams of sales professionals, driving the acquisition and promotion of financial products and consistently achieving and exceeding sales targets. I have devised customer-focused campaigns, provided personalized consultations, and conducted training sessions to enhance team performance and conversion rates. In my previous roles, I guided clients in selecting suitable financial solutions, educated them about credit scores, and surpassed sales targets through tailored interactions. I have also developed strong expertise in telesales, open-market strategies, and dispute resolution, which laid the foundation for my success in customer-centric sales and marketing. Beyond my professional accomplishments, my technical proficiency includes Python, SQL, Jupyter, and Microsoft Office. I have utilized these tools in various academic projects, such as designing predictive machine learning models, analyzing social trends, and creating functional web applications. My ability to merge technical expertise with real-world problem-solving has been a significant asset in delivering impactful solutions. Passionate about continuous self-improvement, I am committed to learning and evolving in every role I undertake. My academic projects, including studies on social media impact and leadership strategies, reflect my dedication to understanding diverse perspectives and applying innovative solutions to complex challenges. Looking ahead, I aim to leverage my unique combination of technical knowledge, leadership experience, and a customer-centric approach to make a meaningful impact in dynamic and challenging environments. \"If something holds you back, burn them with your wings of fire.\""
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "content": "I'm incredibly happy to share that I've joined Syngenta as a Data Scientist! This journey has been nothing short of transformative, and I owe a huge part of it to the IIT Madras BS in Data Science Programme, which helped me pivot and grow in a field I’ve become truly passionate about. A few years ago, I couldn’t secure a government seat through NEET—not because I failed, but because my score didn’t meet the cutoff. While it was disappointing at the time, it opened the door to new possibilities. Choosing a different path wasn’t easy, but it turned out to be the path meant for me. Grateful for the guidance, the learning, and everyone who's supported me along the way. Here's to new beginnings, unexpected journeys, and the incredible power of perseverance! 💫",
+      "hashtags": [
+        "#DataScientist",
+        "#Syngenta",
+        "#IITMadras",
+        "#DataScience",
+        "#CareerJourney",
+        "#Resilience",
+        "#Gratitude",
+        "#LifelongLearning",
+        "#NewBeginnings"
+      ],
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7359369217298583553"
+    },
+    {
+      "type": "Post",
+      "content": "Hi friends at IIT Madras BS in Data Science Programme! 👋 I’ve put together a simple note for Machine Learning Practice to help understand the theoretical concepts behind the project. I hope this resource proves useful for your #project! 🚀 Feel free to check it out and share your thoughts. Let’s keep learning together! 💡📚",
+      "hashtags": [
+        "#MachineLearning",
+        "#IITMBS",
+        "#DataScience",
+        "#LearningTogether"
+      ],
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7294602002280456194"
+    },
+    {
+      "type": "Post",
+      "content": "Celebrating the fruits of my relentless dedication!🌟 Completed my Associate in Health Sciences at the University of the People through grit, determination, and late-night study sessions. Ready to channel this hard work into meaningful contributions to the healthcare landscape. 💼🏥",
+      "hashtags": [
+        "#HardWorkPaysOff",
+        "#HealthSciencesJourney",
+        "#NextChapter"
+      ],
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7321482331645489152"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Syngenta",
+      "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHRsIANXm5wEg/company-logo_100_100/company-logo_100_100/0/1726820689834/syngenta_logo?e=1759363200&v=beta&t=qCjCF5rVk9j6-zD3mVM8kmueYeYO3_OTQhVJUSSiiG0",
+      "employment_type": "Full-time",
+      "location": "Pune, Maharashtra, India",
+      "date": "Aug 2025 - Present",
+      "description": ""
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "CII Institute of Logistics",
+      "employment_type": "Internship",
+      "location": "Chennai, Tamil Nadu, India (Remote)",
+      "date": "Mar 2025 - Present",
+      "description": "Developed supplier rating models by analyzing multi-dimensional data, enabling objective assessment and selection of suppliers for enhanced supply chain performance. Conducted warehouse inspections to identify operational inefficiencies, recommended strategies for process improvement, and optimized logistics and global network operations for greater efficiency. Provided actionable insights on demand forecasting and supply chain management, helping companies resolve key challenges and improve overall operational effectiveness."
+    },
+    {
+      "title": "Tutor",
+      "company": "Course Hero",
+      "employment_type": "Part-time",
+      "location": "Remote",
+      "date": "Mar 2025 - Jul 2025",
+      "description": ""
+    },
+    {
+      "title": "Business Development Executive (EXIM Analyst)",
+      "company": "The Dollar Business",
+      "employment_type": "Full-time",
+      "location": "Teynampet Chennai",
+      "date": "Feb 2025 - Mar 2025",
+      "description": "As an Export-Import Analyst at The Dollar Business, I work with EXIM, a cloud-based trade analytics tool that provides insights into global import-export trends, with a strong focus on India. My role involves analyzing trade data based on countries, ports, companies, specific products, and trade types (import/export) to help businesses make informed decisions. Additionally, I train and assist customers in utilizing the EXIM software effectively. To drive business growth, I actively engage with export-import businesses, providing insights and demonstrating the value of EXIM to help them optimize their trade strategies."
+    },
+    {
+      "title": "Career Break",
+      "company": "",
+      "date": "Oct 2024 - Feb 2025",
+      "description": "Career transition"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Indian Institute of Technology, Madras",
+      "degree": "Bachelor of Science - BS, Data Science and Applications",
+      "start_date": "Sep 2022",
+      "end_date": "May 2026",
+      "grade": "90%",
+      "activities": ["sem1= 92%", "sem2= 88%"]
+    },
+    {
+      "school": "WorldQuant University",
+      "degree": "Master's degree, Financial Engineering",
+      "start_date": "Apr 2025",
+      "end_date": "Apr 2027",
+      "grade": "90%"
+    }
+  ],
+  "Certification and Skills": {
+    "Certifications": [
+      {
+        "name": "Foundations of Financial Engineering",
+        "issuer": "WorldQuant University",
+        "issued": "Jul 2025"
+      },
+      {
+        "name": "Data Mining",
+        "issuer": "NPTEL",
+        "issued": "Apr 2025",
+        "expires": "Apr 2035",
+        "credential_id": "NPTEL25CS19S443303930"
+      }
+    ],
+    "Skills": [
+      "Python (Programming Language)",
+      "Communication",
+      "Teamwork",
+      "Data Analysis",
+      "Jupyter",
+      "Data Analytics",
+      "Data Visualization",
+      "Algorithm Development",
+      "Business Analysis",
+      "Full-Stack Development",
+      "MACHINE LEARNING",
+      "SQL",
+      "Microsoft Office"
+    ],
+    "Languages": [
+      {
+        "language": "English",
+        "proficiency": "Full professional proficiency"
+      },
+      {
+        "language": "Sanskrit",
+        "proficiency": "Elementary proficiency"
+      }
+    ]
+  }
+}
+```
+
+- This JSON structure captures all the major semantic blocks: **profile details, a summary, activity, experience, education, certifications, skills, and languages**.
+- *Descriptions* and *summaries* are included per field where available.
+- Activity posts and hashtags are individually preserved under `Activity`.
+- Multiple employments, posts, education, certificates, and skills are modeled as lists for extensibility.

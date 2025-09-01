@@ -1,0 +1,123 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Srivathsa",
+    "location": "Bengaluru, Karnataka, India",
+    "currentTitle": "Chief Data Scientist | AI & ML Strategist | Business Impact through Innovation",
+    "profileSummary": "Chief Data Scientist with 25 years’ experience turning complex data challenges into real-world impact through AI, machine learning, deep learning, and generative AI (GenAI). Skilled at delivering scalable solutions in financial services and e-commerce, blending strategic vision and hands-on technical depth. Experience in leading global teams, mentoring, and delivering ROI-driven, practical AI systems. Lifelong learner exploring next-generation technologies with a focus on practical application."
+  },
+  "Activity": {
+    "followers": 5082,
+    "recentPosts": [],
+    "note": "Recent posts Srivathsa shares will be displayed here."
+  },
+  "Experience": [
+    {
+      "title": "Chief Data Scientist",
+      "company": "KrazyBee",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQH5jWd5teXsjA/company-logo_100_100/company-logo_100_100/0/1631420964004/krazybee_logo?e=1759363200&v=beta&t=tGumjwUZe8vXT7mAfij0o7BqtUPNQbM-lvTcueh2ZfU",
+      "location": "Bengaluru, Karnataka, India",
+      "employmentType": "Full-time",
+      "startDate": "Jun 2017",
+      "endDate": "Present",
+      "description": null
+    },
+    {
+      "title": "Vice President Software Development",
+      "company": "Rrap Software Pvt. Ltd.",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQF9mbXpsP5cfg/company-logo_100_100/company-logo_100_100/0/1643858711249/rrap_software_pvt_ltd_logo?e=1759363200&v=beta&t=3LwJqU4x5VhayhxRTgxz15-oHlUnpKuk6Dw23fe5iyc",
+      "location": "Greater Bengaluru Area",
+      "employmentType": null,
+      "startDate": "May 2004",
+      "endDate": "Mar 2017",
+      "description": "- Setup the Overseas E-Commerce Platform team from scratch for Honor product Line that will be deployed for markets other than China.\n- Managed, Developed, enhanced, and maintained products for Pinebush Technologies that has a suite of applications for consumers mostly in the EDA space.\n- E-Commerce solutions with Magento\n- PPPoE Driver and Dialer\n- Porting toolchain and GNU debugger (gdb) for uClinux on BF533 processor"
+    },
+    {
+      "title": "Managing Owner",
+      "company": "Srinivasa Pathalogy Laborotories",
+      "companyLogo": null,
+      "location": null,
+      "employmentType": null,
+      "startDate": null,
+      "endDate": null,
+      "description": "- H.263 software video codec porting from TMN stack to H.324 framework"
+    }
+  ],
+  "Education": [
+    {
+      "schoolName": "Harvard University",
+      "degree": "4-course graduate-level certificate in Data Science",
+      "fieldOfStudy": "Data Science",
+      "startDate": "2016",
+      "endDate": "2018",
+      "grade": "A"
+    },
+    {
+      "schoolName": "Indian Institute of Science (IISc)",
+      "degree": "Advanced Programme in AI and MLOps",
+      "fieldOfStudy": "AI, ML, MLOps",
+      "startDate": "Jul 2024",
+      "endDate": "Jul 2025",
+      "grade": "A"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Neural Networks and Deep Learning",
+      "issuer": "Coursera",
+      "issueDate": "Sep 2017",
+      "credentialId": "WR4Y8GYEUQTZ",
+      "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/WR4Y8GYEUQTZ"
+    },
+    {
+      "name": "Data Science and Engineering with Spark",
+      "issuer": "edX",
+      "issueDate": "Sep 2016",
+      "credentialId": "0e4063afecb948dba625c99756cb3fe5",
+      "credentialUrl": "https://credentials.edx.org/credentials/0e4063afecb948dba625c99756cb3fe5/"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Machine Learning",
+      "endorsements": 6,
+      "notedEndorsements": "Endorsed by 2 colleagues at KrazyBee"
+    },
+    {
+      "name": "Statistical Data Analysis",
+      "endorsements": 6
+    },
+    {
+      "name": "Deep Learning"
+    },
+    {
+      "name": "Generative AI (GenAI)"
+    },
+    {
+      "name": "AI Strategy"
+    },
+    {
+      "name": "Software Architecture"
+    },
+    {
+      "name": "Scalable Solution Design"
+    },
+    {
+      "name": "Agile Delivery"
+    },
+    {
+      "name": "Cross-Functional Leadership"
+    },
+    {
+      "name": "Global Client Collaboration"
+    },
+    {
+      "name": "ML Ops"
+    },
+    {
+      "name": "End-to-End AI"
+    }
+  ]
+}
+```
+This JSON structure organizes the provided information under the requested fields: **Basic Info**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills**. Fields not requested (such as Languages and Interests) are omitted for clarity.

@@ -1,0 +1,104 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "Monal Kumar",
+    "Headline": "Data Scientist | Gen AI | Computer vision | Machine learning | AI | Video Analytics | Freelancer",
+    "Location": "India",
+    "ProfilePhotoURL": "https://media.licdn.com/dms/image/v2/D4D03AQFkdCCEOZ835g/profile-displayphoto-shrink_100_100/B4DZXYDFIzHAAU-/0/1743086442082?e=1759363200&v=beta&t=Y787zQszWnytEEmizbwZuw_kutz-_PvpNCGHneMdF1M",
+    "Connections": "500+",
+    "Followers": "5,411",
+    "About": "Computer science engineer also a fitness enthusiast passionate about finding the power of technology, being a quick learner it helps me find various domains of programming also. I have found that I am drawn towards perfection, solving problems, facing challenges that led me to grow my future."
+  },
+  "Activity": {
+    "RecentPosts": [
+      {
+        "Author": "Monal Kumar",
+        "Title": "Data Scientist | Gen AI | Computer vision | Machine learning | AI | Video Analytics | Freelancer",
+        "Date": "2 months ago",
+        "Visibility": "Anyone on or off LinkedIn"
+      }
+    ],
+    "Comments": 8
+  },
+  "Experience": [
+    {
+      "Title": "Sr. Software Developer (AI / Machine learning)",
+      "Company": "Visionify.ai",
+      "Location": "Colorado, United States",
+      "Type": "Full-time",
+      "Duration": "Jul 2023 - Apr 2024",
+      "TimeSpan": "10 mos"
+    },
+    {
+      "Title": "AI Deep Learning Engineer (DLE 1)",
+      "Company": "Detect Technologies",
+      "Location": "Chennai, Tamil Nadu, India",
+      "Type": "Full-time",
+      "Duration": "Aug 2022 - Jul 2023",
+      "TimeSpan": "1 yr"
+    },
+    {
+      "Title": "CV Deep Learning Engineer - I",
+      "Company": "Detect Technologies",
+      "Location": "Chennai, Tamil Nadu, India",
+      "Type": "Full-time",
+      "Duration": "May 2022 - Jul 2022",
+      "TimeSpan": "3 mos"
+    },
+    {
+      "Title": "Jr. Data Scientist",
+      "Company": "iNeuron.ai",
+      "Location": "Karnataka, India",
+      "Type": "Full-time",
+      "Duration": "Nov 2021 - May 2022",
+      "TimeSpan": "7 mos"
+    },
+    {
+      "Title": "Deep learning Intern",
+      "Company": "Harptec Software Pvt Ltd",
+      "Location": "Gujarat, India",
+      "Type": "Freelance",
+      "Duration": "May 2021 - Dec 2021",
+      "TimeSpan": "8 mos"
+    },
+    {
+      "Title": "Associate Consultant",
+      "Company": "Detect Technologies",
+      "Type": "Full-time",
+      "Duration": "1 yr 3 mos",
+      "Location": "Chennai, Tamil Nadu, India"
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "Shri Shankaracharya Technical Campus",
+      "Degree": "Bachelor of Technology - BTech",
+      "Field": "Computer Science",
+      "Years": "2016 - 2020"
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Apache Airflow: The Hands-On Guide",
+      "Issuer": "Udemy",
+      "IssueDate": "Sep 2024",
+      "CredentialID": "UC-90682358-c8d9-4b80-92cb-ea58060d0fa4"
+    },
+    {
+      "Name": "GSI NVIDIA Technologies Curriculum (2025)",
+      "Issuer": "NVIDIA",
+      "IssueDate": "Jun 2025",
+      "Document": "Certificate_GSI NVIDIA_Technologies_Curriculum_(2025).pdf"
+    }
+  ],
+  "Skills": [
+    "PyTorch",
+    "Benchmarking",
+    "Research and Development (R&D)",
+    "Debugging",
+    "Apache Airflow",
+    "Airflow"
+  ]
+}
+```
+This JSON provides a cleanly structured profile for the specified individual, segmenting details under **BasicInfo**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills** as requested[1][2][4][5].

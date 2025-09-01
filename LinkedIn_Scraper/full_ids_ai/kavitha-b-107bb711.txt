@@ -1,0 +1,70 @@
+{
+  "Basic Info": {
+    "Location": "Bengaluru, Karnataka, India",
+    "About": "Experienced Data Scientist with a demonstrated history of working in the information technology and services industry. Skilled in Analytical Skills, Statistical Modeling, Market Research, Predictive Analytics, and Business Intelligence. Strong engineering professional with a Master's degree focused in Statistics from University of Agricultural Sciences, Dharwad."
+  },
+  "Activity": {
+    "Followers": 788,
+    "Recent Posts": "Kavitha shares will be displayed here."
+  },
+  "Experience": [
+    {
+      "Title": "Data Scientist",
+      "Company": "Cognizant",
+      "Location": "Bangaon, West Bengal, India",
+      "Start Date": "Jan 2016",
+      "End Date": "Present",
+      "Duration": "9 yrs 8 mos"
+    },
+    {
+      "Title": "Assistant Manager",
+      "Company": "GENPACT",
+      "Start Date": "Jun 2015",
+      "End Date": "Dec 2015",
+      "Duration": "7 mos"
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "University of Agricultural Sciences, Dharwad",
+      "Degree": "Master's degree",
+      "Field": "Statistics",
+      "Start Year": 2008,
+      "End Year": 2010
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Data Science Foundations - Level 1",
+      "Issuer": "IBM",
+      "Issued": "Aug 2018"
+    },
+    {
+      "Name": "Advance Machine Learning",
+      "Issuer": "Wiley",
+      "Issued": "Aug 2016"
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Analytical Skills"
+    },
+    {
+      "Name": "Statistical Modeling"
+    },
+    {
+      "Name": "Market Research"
+    },
+    {
+      "Name": "Predictive Analytics"
+    },
+    {
+      "Name": "Business Intelligence"
+    },
+    {
+      "Name": "Business Analysis",
+      "Endorsements": 27,
+      "Endorsed By": "3 colleagues at Cognizant"
+    }
+  ]
+}

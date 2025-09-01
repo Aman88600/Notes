@@ -1,0 +1,85 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Sneharth Bhajani",
+    "currentTitle": "Senior Data Scientist - Product Data Science",
+    "currentCompany": "New Relic",
+    "location": "Bengaluru, Karnataka, India",
+    "linkedin": "https://www.linkedin.com/in/sneharth/",
+    "about": "I see each day as a fresh opportunity to learn, unlearn, and refine my understanding of the world—especially through the lens of data. With a strong intuition for numbers and patterns, I enjoy transforming raw data into meaningful insights and building systems that are both innovative and impactful. I’m particularly drawn to the mathematical depths of Machine Learning, constantly pushing myself to explore its nuances and applications. At New Relic, I work with the Product Data Science team, where I focus on strategy, operations, and team efficiency. I lead the architecture and implementation of scalable systems powered by Classical ML, LLMs, Agentic AI, helping CXOs understand and act on customer retention signals, and integrating data-driven intelligence into core operational workflows. Previously at Gabit, I worked at the intersection of Fitness, Nutrition, and Skincare, where I led the development of an AI-powered real-time personal trainer. Using just a phone’s front camera, it could detect exercises and count reps—bringing intelligent fitness coaching to everyone’s pocket. Before that, at Dunzo, I contributed to several key ML projects: from product deduplication and ETA optimization to overhauling recommendation algorithms for Search and Checkout. These efforts significantly enhanced user experience and operational performance."
+  },
+  "Activity": {
+    "followers": 5652,
+    "connections": "500+",
+    "recentPostsOrComments": [
+      {
+        "author": "Kiran Teja C",
+        "comment": "Show all posts"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Senior Data Scientist - Product Data Science",
+      "company": "New Relic",
+      "employmentType": "Full-time",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "startDate": "Nov 2024",
+      "endDate": "Present",
+      "duration": "10 mos",
+      "description": "Work with the Product Data Science team focusing on strategy, operations, team efficiency, and leading architecture and implementation of scalable ML/LLM/Agentic AI systems."
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Gabit",
+      "employmentType": "Full-time",
+      "location": "Gurugram, Haryana, India · On-site",
+      "startDate": "Sep 2023",
+      "endDate": "Jul 2024",
+      "duration": "11 mos",
+      "description": "Developed AI personal trainer using front camera, enabling real-time exercise detection and counting."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Dunzo",
+      "description": "Contributed to ML projects: product deduplication, ETA optimization, and overhauling recommendation algorithms for Search and Checkout."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Sardar Vallabhbhai National Institute of Technology, Surat",
+      "degree": "Bachelor of Technology",
+      "fieldOfStudy": "Computer Engineering",
+      "year": 2019
+    }
+  ],
+  "Certification": [],
+  "Skills": [
+    "Agentic AI",
+    "Classical Machine Learning (ML)",
+    "Large Language Models (LLMs)",
+    "Team Leadership",
+    "Recommendation Systems",
+    "Operational Efficiency",
+    "Strategy",
+    "MCP"
+  ],
+  "Recommendations": [
+    {
+      "author": "Giri Venkat",
+      "authorTitle": "Principal Data Scientist @Walmart | Ex Dunzo | Data Science, Machine Learning",
+      "date": "July 30, 2023",
+      "relationship": "Giri managed Sneharth directly",
+      "text": "I am delighted to write a recommendation for Sneharth, who worked as a Data Scientist on my team at Dunzo. During his tenure, Sneharth showcased exceptional skills and dedication, making a significant impact on our projects. Sneharth's contributions to the development and execution of the recommendation system were truly outstanding. Despite working on a tight timeline, he displayed remarkable efficiency and delivered impressive results. His ability to understand complex concepts quickly and apply them effectively is a testament to his strong analytical and problem-solving capabilities. One of Sneharth's standout qualities is his proactiveness. He consistently took the initiative to explore new ideas and solutions, driving innovation within the team. Moreover, Sneharth's eagerness to learn and adapt to new technologies and methodologies was truly commendable. He was always up-to-date with the latest trends in data science and machine learning, which positively impacted our team's performance. Furthermore, Sneharth's expertise in deploying models played a crucial role in translating our data science efforts into real-world applications. He demonstrated a deep understanding of the deployment process, ensuring seamless integration of our models into production systems. In addition to his technical prowess, Sneharth's collaborative and team-oriented approach made him a pleasure to work with. He actively engaged with team members, fostering a supportive and productive work environment. Overall, I am confident that Sneharth's skills and work ethic make him an asset to any data science team. I highly recommend Sneharth and believe that he will continue to excel in his future endeavors."
+    },
+    {
+      "author": "Fahad Barchiwale",
+      "authorTitle": "Product @ GoDaddy | Ex-Dunzo",
+      "date": "July 24, 2023",
+      "relationship": "Fahad was senior to Sneharth but didn't manage Sneharth directly",
+      "text": "I have worked closely with Sneharth for ML-based recommendations models that we built at Dunzo. Along with having a good hold on the technical aspect of things, he has also displayed good understanding of business sense and contribute to the solutions while working on personalised recommendations for users. He has displayed the ability to present the solution in a very easy to understand fashion for all stakeholders through simulations, and incorporate feedback in a quick and efficient manner."
+    }
+  ]
+}
+```
+This JSON is structured per your specified fields: **BasicInfo**, **Activity**, **Experience**, **Education**, **Certification**, **Skills**, and **Recommendations**, and accurately organizes the distinct data from your provided content.

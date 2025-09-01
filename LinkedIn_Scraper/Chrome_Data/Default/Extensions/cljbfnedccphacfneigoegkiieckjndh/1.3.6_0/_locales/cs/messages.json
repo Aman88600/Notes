@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Popisek tlačítka pro přidání recenze aplikace.",
+      "message": "Přidat recenzi"
+   },
+   "allowPermissions": {
+      "description": "Popisek tlačítka pro povolení oprávnění aplikace.",
+      "message": "Povolit oprávnění"
+   },
+   "autoScroll": {
+      "description": "Popisek pro přepínač, který ovládá, zda se má automaticky rolovat na každou položku při scrapování.",
+      "message": "Automatické rolování"
+   },
+   "back": {
+      "description": "Popiska tlačítka pro návrat na předchozí obrazovku.",
+      "message": "Zpět"
+   },
+   "cancel": {
+      "description": "Popisek pro akci zrušení.",
+      "message": "Zrušit"
+   },
+   "changeList": {
+      "description": "Popisek tlačítka pro změnu seznamu pro scrapování.",
+      "message": "Změnit seznam"
+   },
+   "changeSelectionLevel": {
+      "description": "Popis akce pro změnu úrovně výběru při výběru prvku.",
+      "message": "Změnit úroveň výběru"
+   },
+   "chooseFile": {
+      "description": "Popisek pro tlačítko pro výběr souboru k nahrání.",
+      "message": "Vybrat soubor"
+   },
+   "click": {
+      "description": "Popisek pro akci kliknutí.",
+      "message": "Klikněte"
+   },
+   "clickLoadMore": {
+      "description": "Popisek pro možnost kliknutí na tlačítko pro načtení více položek na téže stránce při scrapování.",
+      "message": "Klikněte na tlačítko pro načtení více položek na stejné stránce"
+   },
+   "clickNextPage": {
+      "description": "Popisek pro možnost kliknutí na odkaz pro navigaci na další stránku pro načtení dalších položek při scrapování.",
+      "message": "Klikněte na odkaz pro přechod na další stránku"
+   },
+   "column": {
+      "description": "Označení pro prvek \u003Cselect> pro výběr sloupce obsahujícího URL pro stahování z nahraného CSV souboru.",
+      "message": "Sloupec"
+   },
+   "confirm": {
+      "description": "Označení pro akci potvrzení.",
+      "message": "Potvrdit"
+   },
+   "continue": {
+      "description": "Popisek tlačítka pro pokračování na další obrazovku.",
+      "message": "Pokračovat"
+   },
+   "copy": {
+      "description": "Popisek pro tlačítko k zkopírování dat do schránky.",
+      "message": "Kopírovat"
+   },
+   "csvFile": {
+      "description": "Štítek pro vstupní soubor k nahrání CSV souboru",
+      "message": "soubor $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Výchozí název pro scraper detailních stránek.",
+      "message": "Získejte podrobnosti z $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Označení položky nabídky pro smazání scraperu.",
+      "message": "Smazat"
+   },
+   "dismiss": {
+      "description": "Akce pro zrušení upozornění.",
+      "message": "Zavřít"
+   },
+   "duration": {
+      "description": "Popisek zobrazující dobu trvání aktuálního sběru dat.",
+      "message": "Doba trvání"
+   },
+   "esc": {
+      "description": "Popisek pro klávesu Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Popisek položky menu pro export scraperu.",
+      "message": "Exportovat"
+   },
+   "extractData": {
+      "description": "Popisek pro položku menu pro spuštění sběru a extrakce dat z každé URL.",
+      "message": "Extrahuj data"
+   },
+   "finish": {
+      "description": "Popisek pro tlačítko pro dokončení výběru prvků na stránce.",
+      "message": "Dokončit"
+   },
+   "headerRow": {
+      "description": "Pomocný text vysvětlující, že nahraný CSV soubor musí začínat záhlavím.",
+      "message": "Musí začínat záhlavím"
+   },
+   "headerRowRequired": {
+      "description": "Upozornění, které se zobrazí, pokud se zdá, že v nahrávaném CSV chybí záhlaví řádku.",
+      "message": "Požadován záhlaví řádku"
+   },
+   "help": {
+      "description": "Popisek tlačítka pro otevření stránky nápovědy.",
+      "message": "Pomoc"
+   },
+   "hideOptions": {
+      "description": "Popisek tlačítka pro skrytí dalších možností pro scrapování.",
+      "message": "Skrýt možnosti"
+   },
+   "import": {
+      "description": "Popisek pro položku menu pro import scraperu.",
+      "message": "Importovat"
+   },
+   "install": {
+      "description": "Označení tlačítka pro instalaci nejnovější verze aplikace.",
+      "message": "Instalovat nejnovější verzi"
+   },
+   "invalidTab": {
+      "description": "Chybová zpráva, když je cílová karta otevřena na omezenou stránku.",
+      "message": "Tato stránka je omezena. Zkuste jinou stránku."
+   },
+   "invalidVersion": {
+      "description": "Instruovat uživatele k instalaci nejnovější verze aplikace.",
+      "message": "$APP_NAME$ již není ve verzi beta! Nainstalujte nejnovější verzi, abyste získali nejnovější aktualizace.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Označení pro zobrazení počtu položek získaných při scrapování seznamu.",
+      "message": "Položky"
+   },
+   "loadMoreAction": {
+      "description": "Popisek pro prvek \u003Cselect> pro výběr způsobu, jak načíst více položek při scrapování.",
+      "message": "Akce pro načtení více položek"
+   },
+   "max": {
+      "description": "Popisek pro vstup pro kontrolu maximální doby čekání při načítání dalších položek nebo stránek.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Popisek pro vstup, který nastavuje maximální limit počtu položek k extrakci.",
+      "message": "Maximální počet položek"
+   },
+   "maxItemsHelp": {
+      "description": "Pomocný text informující uživatele, že by měl nechat pole pro maximální počet položek prázdné, pokud nechce nastavit limit.",
+      "message": "Ponechte prázdné pro neomezený počet"
+   },
+   "maxItemsReached": {
+      "description": "Popis upozornění, který naznačuje, že bylo dosaženo maximálního limitu počtu položek k extrakci.",
+      "message": "Úspěšně extrahováno do stanoveného limitu. Zvyšte maximální počet položek, aby bylo možné pokračovat ve scrapování."
+   },
+   "mediaUrl": {
+      "description": "Popisek pro pole URL média zachyceného z prvku.",
+      "message": "URL média"
+   },
+   "min": {
+      "description": "Štítek pro vstup k ovládání minimálního času čekání při načítání dalších položek nebo stránek.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Chybová zpráva při nemožnosti přistupovat k datům cílové karty.",
+      "message": "Karta, kterou jste používali pro tento úkol, byla zavřena. Zavřete toto okno a zkuste to znovu."
+   },
+   "missingTabPermission": {
+      "description": "Chybová zpráva, pokud nelze přistupovat k datům cílové záložky.",
+      "message": "Nelze přistupovat k záložce. Zavřete toto okno a zkuste to znovu."
+   },
+   "missingUrlColumn": {
+      "description": "Chybová zpráva, když v CSV souboru chybí sloupce s URL adresami.",
+      "message": "Nelze najít sloupec s URL adresami. Vyberte prosím jiný soubor."
+   },
+   "newScraper": {
+      "description": "Popisek tlačítka pro vytvoření nového skraperu.",
+      "message": "Nový skraper"
+   },
+   "noData": {
+      "description": "Zástupný text v tabulce, pokud nejsou k dispozici žádná data.",
+      "message": "Žádná data k zobrazení"
+   },
+   "noFileChosen": {
+      "description": "Zpráva zobrazená, když není vybrán žádný soubor.",
+      "message": "Není vybrán žádný soubor"
+   },
+   "noList": {
+      "description": "Zástupný text zobrazený, když na stránce nelze najít seznam.",
+      "message": "Nelze najít seznam na stránce"
+   },
+   "none": {
+      "description": "Popisek pro možnost nenačítat více položek při scrapování.",
+      "message": "Žádné"
+   },
+   "options": {
+      "description": "Popisek tlačítka pro zobrazení možností scraperu.",
+      "message": "Možnosti"
+   },
+   "pages": {
+      "description": "Označení pro zobrazení počtu stránek scrapovaných při scrapování seznamu.",
+      "message": "Stránky"
+   },
+   "permissionsDescription": {
+      "description": "Pomocný text vysvětlující, že aplikace potřebuje další oprávnění pro přístup a extrakci URL.",
+      "message": "$APP_NAME$ potřebuje další oprávnění pro přístup a extrakci URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Text odznaku, který indikuje, že zobrazená data jsou náhledem scraperu.",
+      "message": "Náhled"
+   },
+   "remainingPages": {
+      "description": "Štítek zobrazující počet zbývajících stránek k prohledání při scrapování detailních stránek.",
+      "message": "Zbývající"
+   },
+   "rename": {
+      "description": "Štítek pro položku menu pro přejmenování scraperu.",
+      "message": "Přejmenovat"
+   },
+   "reviewDescription": {
+      "description": "Požádat uživatele, aby zanechal recenzi na aplikaci.",
+      "message": "Ahoj, jmenuji se $NAME$. Vytvořil jsem $APP_NAME$, aby lidem ušetřil čas. Pokud se vám aplikace líbí, ocenil bych 5-hvězdičkové hodnocení, které pomůže dalším objevit $APP_NAME$. Moc děkuji!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Poděkování uživateli za použití aplikace.",
+      "message": "Děkujeme za používání $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Popisek pro možnost zobrazení obrazovky pro extrakci detailních stránek pro každou položku v seznamu.",
+      "message": "Extrahovat detaily"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Popis tipu pro vzdělávání uživatele o seškrabování stránek s podrobnostmi.",
+      "message": "Chcete-li seškrábat každou URL v seznamu, vyberte „$LABEL$“ z nabídky v pravém horním rohu po stažení seznamu jako souboru CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Seškrábat podrobnosti"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Název pro tip, jak poučit uživatele o škrábání detailních stránek.",
+      "message": "Tip: Škrábání detailních stránek"
+   },
+   "scrapeList": {
+      "description": "Popisek pro možnost zobrazení obrazovky pro scrapování seznamu.",
+      "message": "Scrapovat seznam"
+   },
+   "scrapedPages": {
+      "description": "Označení pro zobrazení počtu prozkoumaných stránek při prozkoumávání detailních stránek.",
+      "message": "Prozkoumané"
+   },
+   "scrapingComplete": {
+      "description": "Upozornění označující dokončení sběru dat.",
+      "message": "Sběr dat dokončen"
+   },
+   "scrapingStatus": {
+      "description": "Označení, že probíhá scraping.",
+      "message": "Probíhá scraping..."
+   },
+   "scrollDelay": {
+      "description": "Popisek pro vstup sloužící k nastavení, jak dlouho čekat v milisekundách při scrollování na každou položku během scrapování.",
+      "message": "Zpoždění scrollování (ms)"
+   },
+   "scrollDown": {
+      "description": "Popisek pro možnost posunout se dolů pro načtení dalších položek při scrapování.",
+      "message": "Posuňte dolů pro načtení dalších položek"
+   },
+   "select": {
+      "description": "Popisek tlačítka pro výběr prvku na stránce.",
+      "message": "Vybrat"
+   },
+   "selectElement": {
+      "description": "Název zobrazený při výběru prvku.",
+      "message": "Vyberte prvek"
+   },
+   "selectField": {
+      "description": "Popis akce pro výběr pole k zachycení.",
+      "message": "Vybrat pole"
+   },
+   "selectList": {
+      "description": "Název pro zobrazení při výběru seznamu.",
+      "message": "Vyberte seznam"
+   },
+   "selectScraper": {
+      "description": "Popisek pro položku menu k výběru scraperu pro zpracování každé URL.",
+      "message": "Vyberte scraper"
+   },
+   "selectScraperOption": {
+      "description": "Pokyn k výběru scraperu pro aktuální doménu.",
+      "message": "Vyberte scraper pro $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Označení tlačítka pro zobrazení dalších možností pro scrapování.",
+      "message": "Zobrazit možnosti"
+   },
+   "startScraping": {
+      "description": "Popisek tlačítka pro zahájení skenování.",
+      "message": "Začít skenování"
+   },
+   "stopScraping": {
+      "description": "Popisek tlačítka pro zastavení skenování.",
+      "message": "Zastavit skenování"
+   },
+   "tabNotFound": {
+      "description": "Chybová zpráva, když cílová karta neexistuje.",
+      "message": "Žádná karta nenalezena. Zavřete toto okno a zkuste to znovu."
+   },
+   "testUrl": {
+      "description": "Popisek pro textové pole pro testovací URL používané při výběru scraperu.",
+      "message": "Testovací URL"
+   },
+   "text": {
+      "description": "Označení pro textové pole zachycené z prvku.",
+      "message": "Text"
+   },
+   "uploadUrls": {
+      "description": "Popisek pro položku nabídky pro nahrání souboru s adresami URL k extrakci.",
+      "message": "Nahrát adresy URL"
+   },
+   "url": {
+      "description": "Štítek pro pole URL, zachycené z prvku.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Varování, které se zobrazí, když vybraný název sloupce je URL a souboru CSV může chybět řádek záhlaví.",
+      "message": "Název sloupce vypadá jako URL. Ujistěte se, že soubor CSV začíná řádkem záhlaví obsahujícím názvy sloupců."
+   },
+   "verify": {
+      "description": "Popisek tlačítka pro ověření vybraného prvku zvýrazněním na stránce.",
+      "message": "Ověřit"
+   },
+   "waitTimeItems": {
+      "description": "Popisek pro vstupy k ovládání délky čekání ve vteřinách při načítání dalších položek.",
+      "message": "Doba čekání na načtení dalších položek (sekundy)"
+   },
+   "waitTimePages": {
+      "description": "Popisek pro vstupy ovládající dobu čekání ve vteřinách při načítání stránek.",
+      "message": "Doba čekání na načtení stránek (sekundy)"
+   }
+}

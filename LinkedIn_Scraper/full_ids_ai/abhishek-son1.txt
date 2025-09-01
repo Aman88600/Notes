@@ -1,0 +1,243 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Abhishek Soni",
+    "headline": "Data Scientist @ Amazon | Machine Learning Expert | Educator",
+    "location": "Bengaluru, Karnataka, India",
+    "summary": "Self-taught Data Scientist with 5+ years of experience in product-based companies, leader in AI-driven initiatives, and proactive contributor to the data science community.",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/abhishek-son1/",
+      "medium": "https://datacommunity.medium.com/"
+    },
+    "followers": 5375,
+    "connections": "500+"
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Guidance on Data Scientist Journey",
+      "summary": "Posted a series covering foundational to advanced guidance for aspiring data scientists, including learning paths, applications, and interview prep.",
+      "hashtags": [
+        "#datasciencejourney",
+        "#linkedinguidance",
+        "#datascientisttips",
+        "#careeradvice",
+        "#datasciencefoundation",
+        "#interviewpreparation",
+        "#linkedincommunity",
+        "#learningtogether",
+        "#newbeginnings",
+        "#professionaldevelopment",
+        "#buildcareer",
+        "#learnwithabhishek"
+      ],
+      "engagement": {
+        "comments": 5,
+        "reactions": 54
+      }
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Site Lead Data Scientist",
+      "company": "Amazon",
+      "employmentType": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Oct 2022",
+      "endDate": "Present",
+      "description": "Leads efforts to detect and mitigate bot activity in advertisements to enhance platform security."
+    },
+    {
+      "title": "Site Lead Data Scientist",
+      "company": "Cipla",
+      "employmentType": "Full-time",
+      "location": "Mumbai, Maharashtra, India (Hybrid)",
+      "startDate": "Jan 2022",
+      "endDate": "Oct 2022",
+      "description": [
+        "Recognized for operational excellence and transformative contributions to manufacturing, resulting in the prestigious Global Lighthouse Award by CTO and World Economic Forum.",
+        "Developed a compression optimization model (Azure, Databricks) reducing iterations by 80%.",
+        "Resolved bottlenecks with a Multi-stage Stacked Regression Model; improved OEE and increased annual production output by 100,000 tablets (+₹2.2M revenue)."
+      ]
+    },
+    {
+      "title": "Engr–II Data Science",
+      "company": "Verizon",
+      "employmentType": "Full-time",
+      "location": "Greater Hyderabad Area",
+      "startDate": "Sep 2021",
+      "endDate": "Jan 2022",
+      "description": [
+        "Analyzed sales/discrepancy data – reduced discrepancies by 7% month on month.",
+        "Modeled agent retention, increasing retention program participation with a $1.43M annual impact."
+      ]
+    },
+    {
+      "title": "Engr–I Data Science",
+      "company": "Verizon",
+      "employmentType": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "Jul 2019",
+      "endDate": "Sep 2021",
+      "description": [
+        "Predictive model for BHR device replacement; improved customer experience (89% accurate pop-up replacements).",
+        "Created database architecture for compensation calculation; automated shared commission processing."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Nirmaan Organization",
+      "employmentType": "Part-time",
+      "startDate": "Oct 2022",
+      "endDate": "Present"
+    }
+  ],
+  "Education": [
+    {
+      "degree": "Bachelor of Technology",
+      "major": "Computer Science Engineering",
+      "institution": "Galgotias University",
+      "startYear": 2015,
+      "endYear": 2019,
+      "grade": "9.0",
+      "activities": [
+        "Member of coding groups"
+      ],
+      "projects": [
+        "Facial expression detection with Machine Learning",
+        "N-Queen solver (70% reduced time complexity)",
+        "Obstacle avoidance algorithm (N^2 complexity)",
+        "4-star coder on CodeChef"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Machine Learning",
+      "issuer": "Stanford University / Coursera",
+      "credentialID": "LJHSRX9ZLHYJ",
+      "issueDate": "Apr 2020",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/LJHSRX9ZLHYJ"
+    },
+    {
+      "name": "Mathematics for Machine Learning: Multivariate Calculus",
+      "issuer": "Imperial College London / Coursera",
+      "credentialID": "SWVN5897UV84",
+      "issueDate": "May 2021",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/SWVN5897UV84"
+    },
+    {
+      "name": "Linear Algebra",
+      "issuer": "Imperial College London",
+      "issueDate": null
+    },
+    {
+      "name": "Statistical Inference",
+      "issuer": "Johns Hopkins University",
+      "issueDate": null
+    },
+    {
+      "name": "Machine Learning By IIT Madras",
+      "issuer": "IIT Madras",
+      "issueDate": null
+    }
+  ],
+  "Skills": {
+    "programmingLanguages": [
+      "C",
+      "Python",
+      "R",
+      "Java"
+    ],
+    "databases": [
+      "SQL",
+      "PL/SQL",
+      "Oracle",
+      "Octave/Matlab"
+    ],
+    "machineLearningAlgorithms": [
+      "Regression",
+      "ANN",
+      "K-Means",
+      "KNN",
+      "Naïve Bayes",
+      "SVM",
+      "PCA",
+      "XGBoost",
+      "CatBoost"
+    ],
+    "nlpDeepLearning": [
+      "Stemming",
+      "Word2Vec",
+      "LSTM",
+      "Lemmatization",
+      "Sentiment Analysis",
+      "TfIdf",
+      "Transfer Learning",
+      "Object Detection",
+      "CNN",
+      "Computer Vision",
+      "Sequence Models",
+      "Bidirectional RNN",
+      "Word Embedding"
+    ],
+    "libraries": [
+      "Pandas",
+      "OpenCV",
+      "Numpy",
+      "XGBoost",
+      "LightGBM",
+      "Keras",
+      "TensorFlow",
+      "Sklearn",
+      "Matplotlib",
+      "Flask",
+      "NLTK"
+    ],
+    "statisticsProbability": [
+      "Confidence Interval",
+      "T Confidence",
+      "Hypothesis Testing",
+      "P-values",
+      "Power",
+      "Bootstrapping",
+      "Binomial Distribution",
+      "Bernoulli Distribution",
+      "Normal Distribution",
+      "Poisson Distribution",
+      "PMF",
+      "PDF",
+      "Central Limit Theorem"
+    ],
+    "bigDataCloud": [
+      "Hadoop",
+      "MapReduce",
+      "Spark",
+      "Hive",
+      "Azure",
+      "Databricks",
+      "Data Factory",
+      "AWS EC2",
+      "SageMaker",
+      "S3"
+    ],
+    "mathematicsML": [
+      "Optimization (Hessian, Jacobian, Taylor Series, Newton-Raphson)",
+      "Matrix Transformations (Reflection, Rotation)",
+      "Page Rank Algorithm",
+      "Vectors",
+      "Eigen Vectors/Values",
+      "Gram-Schmidt Process"
+    ],
+    "topSkills": [
+      "Machine Learning",
+      "Deep Learning",
+      "PySpark",
+      "SQL",
+      "Amazon Web Services (AWS)",
+      "Data Analysis",
+      "Data Structures"
+    ]
+  }
+}
+```

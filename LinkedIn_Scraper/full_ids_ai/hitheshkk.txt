@@ -1,0 +1,110 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Hithesh KK",
+    "headline": "Data Scientist (Level 2) at Kantar",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQFbDVJXFxfqQw/profile-displayphoto-scale_100_100/B4DZg9sgZ1GgAc-/0/1753381736546?e=1759363200&v=beta&t=-9atV2SkaOn7t2r2MObHDDznbjk427ZbXWkjSWbNOcY",
+    "email": "hithesh111@gmail.com",
+    "github": "https://github.com/hithesh111",
+    "location": "Chennai, India",
+    "summary": "Data Scientist (Level 2) with 3 years of industry experience (6.5 years hands-on in Data Science & ML tools). Strong foundation in mathematics and core problem solving. Specializes in Optimization, Feature Pipelines, Predictive Model Pipelines, Retrieval Augmented Generation, and Agentic AI. Background: BMath (Hons) at ISI Kolkata, MSc Data Science at Chennai Mathematical Institute."
+  },
+  "Activity": {
+    "followers": 1764,
+    "connections": 500,
+    "notablePostsCount": 9
+  },
+  "Experience": [
+    {
+      "title": "Data Scientist 2",
+      "company": "Kantar",
+      "location": "Chennai · Hybrid",
+      "type": "Full-time",
+      "date": "Aug 2024 - Present",
+      "duration": "1 yr 1 mo",
+      "description": "Received DSI Impact Player Award for ML model and feature pipeline contributions for LinkAI. Worked on LLM use cases for custom copilots, RAG capabilities, and convex optimization in Multi-Touch Attribution."
+    },
+    {
+      "title": "Data Scientist 1",
+      "company": "Kantar",
+      "location": "Chennai · Hybrid",
+      "type": "Full-time",
+      "date": "Jun 2022 - Jul 2024",
+      "duration": "2 yrs 2 mos",
+      "description": "Worked on projects spanning feature pipelines, predictive pipelines, optimization, RAG, Agentic AI. Addressed client needs in budgeting, ad testing, concept testing, and internal efficiencies."
+    },
+    {
+      "title": "Project Mentor - Alumni Internships",
+      "company": "Chennai Mathematical Institute",
+      "location": "Chennai · Remote",
+      "type": "Part-time",
+      "date": "Jan 2025 - Present",
+      "duration": "8 mos",
+      "description": "Mentored 2 internship projects (3 students), guiding industry-focused Data Science work."
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "Kinaxis",
+      "location": "Canada · Remote",
+      "date": "Feb 2022 - May 2022",
+      "duration": "4 mos",
+      "description": "Worked on ML Feature Pipeline in supply chain demand forecasting. Improved technical, collaborative, and communication skills; applied MSc learnings to industry practice."
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Synergy Marine Group",
+      "location": "Chennai, Tamil Nadu, India",
+      "date": "Jul 2021 - Sep 2021",
+      "duration": "3 mos",
+      "description": "Data preprocessing for analysis, developed custom network visualization tool for purchase optimization at ports."
+    },
+    {
+      "title": "Statistics and Probability Expert",
+      "company": "Chegg Inc.",
+      "type": "Freelance",
+      "description": "Provided detailed solutions and clarifications on probability/statistics for students to undergraduate level."
+    }
+  ],
+  "Education": [
+    {
+      "institute": "Chennai Mathematical Institute",
+      "degree": "MSc. Data Science",
+      "date": "Nov 2020 - May 2022",
+      "courses": ["Deep Learning", "Machine Learning", "Applied Data Science"]
+    },
+    {
+      "institute": "Indian Statistical Institute, Kolkata",
+      "degree": "BMath (Hons), Mathematics, Statistics and Computer Science",
+      "date": "2017 - 2020",
+      "courses": ["Mathematics", "Programming Languages", "Abstract Algebra", "Big Data"]
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Generative AI with Large Language Models",
+      "issuer": "DeepLearning.AI",
+      "dateIssued": "Feb 2025",
+      "skills": ["Applied Machine Learning", "Deep Learning", "Generative AI"]
+    },
+    {
+      "title": "Agentic Design Patterns with Autogen",
+      "issuer": "DeepLearning.AI",
+      "dateIssued": "Nov 2023",
+      "skills": ["Agentic AI", "Autogen Patterns"]
+    }
+  ],
+  "Skills": [
+    "Optimization",
+    "Feature Pipelines",
+    "Predictive Model Pipelines",
+    "Retrieval Augmented Generation (RAG)",
+    "Agentic AI",
+    "Project Management",
+    "Mentoring",
+    "Data Engineering",
+    "Collaborative Development",
+    "MLOps",
+    "Data Visualization"
+  ]
+}
+```

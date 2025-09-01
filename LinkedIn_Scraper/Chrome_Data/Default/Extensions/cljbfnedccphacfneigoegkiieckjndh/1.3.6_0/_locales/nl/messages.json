@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Label voor de knop om een beoordeling toe te voegen aan de applicatie.",
+      "message": "Voeg een beoordeling toe"
+   },
+   "allowPermissions": {
+      "description": "Label voor de knop om machtigingen voor de applicatie toe te staan.",
+      "message": "Machtigingen toestaan"
+   },
+   "autoScroll": {
+      "description": "Label voor de schakelaar om te controleren of er automatisch naar elk item gescrold moet worden tijdens het schrapen.",
+      "message": "Automatisch scrollen"
+   },
+   "back": {
+      "description": "Label voor de knop om terug te gaan naar het vorige scherm.",
+      "message": "Terug"
+   },
+   "cancel": {
+      "description": "Label voor de annuleeractie.",
+      "message": "Annuleren"
+   },
+   "changeList": {
+      "description": "Label voor de knop om de lijst te veranderen die gescraped moet worden.",
+      "message": "Verander lijst"
+   },
+   "changeSelectionLevel": {
+      "description": "Beschrijving van de actie om het selectieniveau te wijzigen bij het selecteren van een element.",
+      "message": "Selectieniveau wijzigen"
+   },
+   "chooseFile": {
+      "description": "Label voor de knop om een bestand te kiezen om te uploaden.",
+      "message": "Kies bestand"
+   },
+   "click": {
+      "description": "Label voor de klikactie.",
+      "message": "Klikken"
+   },
+   "clickLoadMore": {
+      "description": "Label voor de optie om op een knop te klikken om meer items op dezelfde pagina te laden tijdens het scrapen.",
+      "message": "Klik op de knop om meer items op dezelfde pagina te laden"
+   },
+   "clickNextPage": {
+      "description": "Label voor de optie om op een link te klikken om naar de volgende pagina te navigeren om meer items te laden tijdens het scrapen.",
+      "message": "Klik op link om naar de volgende pagina te navigeren"
+   },
+   "column": {
+      "description": "Label voor het \u003Cselect>-element om de kolom te selecteren die URL's bevat om te scrapen uit de geüploade CSV.",
+      "message": "Kolom"
+   },
+   "confirm": {
+      "description": "Label voor de bevestigingsactie.",
+      "message": "Bevestigen"
+   },
+   "continue": {
+      "description": "Label voor de knop om door te gaan naar het volgende scherm.",
+      "message": "Doorgaan"
+   },
+   "copy": {
+      "description": "Label voor de knop om de gegevens naar het klembord te kopiëren.",
+      "message": "Kopiëren"
+   },
+   "csvFile": {
+      "description": "Label voor de bestandsinvoer om een CSV-bestand te uploaden",
+      "message": "$FILE_TYPE$ bestand",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Standaardnaam voor een gegevensscraper voor detailpagina's.",
+      "message": "Scrape gegevens van $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "voorbeeld.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Label voor het menu-item om de scraper te verwijderen.",
+      "message": "Verwijderen"
+   },
+   "dismiss": {
+      "description": "Actie om het alarm te negeren.",
+      "message": "Afwijzen"
+   },
+   "duration": {
+      "description": "Label om de duur van de huidige scrape weer te geven.",
+      "message": "Duur"
+   },
+   "esc": {
+      "description": "Label voor de Escape-toets.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Label voor het menu-item om de scraper te exporteren.",
+      "message": "Exporteren"
+   },
+   "extractData": {
+      "description": "Label voor het menu-item om de scrape uit te voeren en gegevens van elke URL te extraheren.",
+      "message": "Gegevens extraheren"
+   },
+   "finish": {
+      "description": "Label voor de knop om het selecteren van elementen op de pagina te voltooien.",
+      "message": "Afronden"
+   },
+   "headerRow": {
+      "description": "Helptekst om uit te leggen dat het geüploade CSV-bestand moet beginnen met een koptekstrij.",
+      "message": "Moet beginnen met een koptekstrij"
+   },
+   "headerRowRequired": {
+      "description": "Waarschuwing om te tonen wanneer het lijkt dat de koprij ontbreekt in de geüploade CSV.",
+      "message": "Koprij vereist"
+   },
+   "help": {
+      "description": "Label voor de knop om de hulppagina te openen.",
+      "message": "Help"
+   },
+   "hideOptions": {
+      "description": "Label voor de knop om meer opties voor het schrapen te verbergen.",
+      "message": "Opties verbergen"
+   },
+   "import": {
+      "description": "Label voor het menu-item om een scraper te importeren.",
+      "message": "Importeren"
+   },
+   "install": {
+      "description": "Label voor de knop om de nieuwste versie van de applicatie te installeren.",
+      "message": "Installeer de nieuwste versie"
+   },
+   "invalidTab": {
+      "description": "Foutmelding wanneer het doeltabblad is geopend op een beperkte site.",
+      "message": "Deze pagina is beperkt. Probeer een andere site."
+   },
+   "invalidVersion": {
+      "description": "Instruct de gebruiker om de nieuwste versie van de applicatie te installeren.",
+      "message": "$APP_NAME$ is uit de bèta! Installeer de nieuwste versie om de nieuwste updates te krijgen.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Label om het aantal geschraapte items weer te geven bij het schrapen van een lijst.",
+      "message": "Items"
+   },
+   "loadMoreAction": {
+      "description": "Label voor het \u003Cselect>-element om te kiezen hoe meer items te laden bij het scrapen.",
+      "message": "Actie om meer items te laden"
+   },
+   "max": {
+      "description": "Label voor de invoer om de maximale tijd te bepalen om te wachten bij het laden van meer items of pagina's.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Label voor de invoer om een maximale limiet in te stellen op het aantal items dat gescraped moet worden.",
+      "message": "Maximale items"
+   },
+   "maxItemsHelp": {
+      "description": "Helptekst om de gebruiker te informeren dat ze het invoerveld voor maximale items leeg moeten laten om geen limiet in te stellen.",
+      "message": "Laat leeg voor geen limiet"
+   },
+   "maxItemsReached": {
+      "description": "Waarschuwingsbeschrijving om aan te geven dat de maximale limiet van het aantal te schrapen items is bereikt.",
+      "message": "Succesvol geschraapt tot aan de opgegeven limiet. Verhoog de optie voor maximale items om door te gaan met schrapen."
+   },
+   "mediaUrl": {
+      "description": "Label voor het medi-URL-veld dat van een element is vastgelegd.",
+      "message": "Media-URL"
+   },
+   "min": {
+      "description": "Label voor de invoer om de minimale tijd te bepalen bij het laden van meer items of pagina's.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Foutmelding wanneer het niet mogelijk is toegang te krijgen tot de gegevens van het doel-tabblad.",
+      "message": "Het tabblad dat u voor deze taak gebruikte, is gesloten. Sluit dit venster en probeer het opnieuw."
+   },
+   "missingTabPermission": {
+      "description": "Foutmelding wanneer geen toegang mogelijk is tot de gegevens van het doeltabblad.",
+      "message": "Kan geen toegang krijgen tot tabblad. Sluit dit venster en probeer opnieuw."
+   },
+   "missingUrlColumn": {
+      "description": "Foutmelding wanneer het CSV-bestand kolommen met URL's mist.",
+      "message": "Kan kolom met URL's niet vinden. Selecteer een ander bestand."
+   },
+   "newScraper": {
+      "description": "Label voor de knop om een nieuwe schraper te maken.",
+      "message": "Nieuwe Schraper"
+   },
+   "noData": {
+      "description": "Tijdelijke aanduiding in tabel wanneer er geen gegevens zijn om te tonen.",
+      "message": "Geen gegevens om te tonen"
+   },
+   "noFileChosen": {
+      "description": "Bericht getoond wanneer er geen bestand is gekozen.",
+      "message": "Geen bestand gekozen"
+   },
+   "noList": {
+      "description": "Tijdelijke tekst die wordt getoond wanneer de lijst niet op de pagina gevonden kan worden.",
+      "message": "Lijst op pagina niet gevonden"
+   },
+   "none": {
+      "description": "Label voor de optie om geen extra items te laden tijdens het scrapen.",
+      "message": "Geen"
+   },
+   "options": {
+      "description": "Label voor de knop om opties voor de scraper te tonen.",
+      "message": "Opties"
+   },
+   "pages": {
+      "description": "Label om het aantal gescrapte pagina's te tonen wanneer een lijst wordt gescrapet.",
+      "message": "Pagina's"
+   },
+   "permissionsDescription": {
+      "description": "Hulptekst voor het uitleggen dat de applicatie extra toestemmingen nodig heeft om toegang te krijgen tot en URL's te schrapen.",
+      "message": "$APP_NAME$ heeft extra toestemmingen nodig om toegang te krijgen tot en URL's te schrapen",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Badgetekst om aan te geven dat de getoonde gegevens een voorbeeld van de scraper zijn.",
+      "message": "Voorbeeld"
+   },
+   "remainingPages": {
+      "description": "Label om het aantal resterende pagina's te tonen die nog gescraped moeten worden bij het scrapen van detailpagina's.",
+      "message": "Resterend"
+   },
+   "rename": {
+      "description": "Label voor het menu-item om de scraper te hernoemen.",
+      "message": "Hernoemen"
+   },
+   "reviewDescription": {
+      "description": "Vraag de gebruiker om een beoordeling voor de applicatie achter te laten.",
+      "message": "Hallo, ik ben $NAME$. Ik heb $APP_NAME$ gemaakt om mensen tijd te besparen. Als je het leuk vindt om het te gebruiken, zou ik een 5-sterren beoordeling waarderen om anderen te helpen $APP_NAME$ te ontdekken. Hartelijk bedankt!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Bedank de gebruiker voor het gebruik van de applicatie.",
+      "message": "Bedankt voor het gebruik van $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Label voor de optie om het scherm weer te geven voor het schrapen van detailpagina's voor elk item in een lijst.",
+      "message": "Scrape Details"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Beschrijving van de tip om de gebruiker te informeren over het scrapen van detailpagina's.",
+      "message": "Om elke URL in de lijst te scrapen, selecteert u \"$LABEL$\" uit het menu in de rechterbovenhoek nadat u de lijst als een CSV-bestand hebt gedownload.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Scrape Details"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Titel voor de tip om de gebruiker te informeren over het scrapen van gedetailleerde pagina's.",
+      "message": "Tip: Gedetailleerde pagina's scrapen"
+   },
+   "scrapeList": {
+      "description": "Label voor de optie om het scherm te tonen voor het scrapen van een lijst.",
+      "message": "Scrapelijst"
+   },
+   "scrapedPages": {
+      "description": "Label om het aantal geschraapte pagina's te tonen wanneer detailpagina's worden geschraapt.",
+      "message": "Geschraapt"
+   },
+   "scrapingComplete": {
+      "description": "Meldingskop om aan te geven dat het scrapen is voltooid.",
+      "message": "Scrapen voltooid"
+   },
+   "scrapingStatus": {
+      "description": "Label om aan te geven dat het scrapen bezig is.",
+      "message": "Scrapen..."
+   },
+   "scrollDelay": {
+      "description": "Label voor de invoer om te bepalen hoe lang te wachten in milliseconden bij het scrollen naar elk item tijdens het scrapen.",
+      "message": "Scroll vertraging (ms)"
+   },
+   "scrollDown": {
+      "description": "Label voor de optie om omlaag te scrollen om meer items te laden tijdens het scrapen.",
+      "message": "Scrol omlaag om meer items te laden"
+   },
+   "select": {
+      "description": "Label voor de knop om een element op de pagina te selecteren.",
+      "message": "Selecteer"
+   },
+   "selectElement": {
+      "description": "Titel om weer te geven bij het selecteren van een element.",
+      "message": "Selecteer element"
+   },
+   "selectField": {
+      "description": "Beschrijving van de actie om het veld te selecteren dat moet worden vastgelegd.",
+      "message": "Selecteer veld"
+   },
+   "selectList": {
+      "description": "Titel die wordt getoond bij het selecteren van een lijst.",
+      "message": "Selecteer lijst"
+   },
+   "selectScraper": {
+      "description": "Label voor het menu-item om een schraper te selecteren om elke URL te schrapen.",
+      "message": "Selecteer schraper"
+   },
+   "selectScraperOption": {
+      "description": "Instructie om een scraper te selecteren voor het huidige domein.",
+      "message": "Selecteer scraper voor $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "voorbeeld.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Label voor de knop om meer opties voor het schrapen te tonen.",
+      "message": "Opties weergeven"
+   },
+   "startScraping": {
+      "description": "Label voor de knop om met scrapen te beginnen.",
+      "message": "Start met Scrapen"
+   },
+   "stopScraping": {
+      "description": "Label voor de knop om te stoppen met scrapen.",
+      "message": "Stop met scrapen"
+   },
+   "tabNotFound": {
+      "description": "Foutmelding wanneer het doel-tabblad niet bestaat.",
+      "message": "Geen tabblad gevonden. Sluit dit venster en probeer het opnieuw."
+   },
+   "testUrl": {
+      "description": "Label voor de tekst invoer voor de test-URL die gebruikt wordt bij het selecteren van een scraper.",
+      "message": "Test-URL"
+   },
+   "text": {
+      "description": "Label voor het tekstveld dat van een element is vastgelegd.",
+      "message": "Tekst"
+   },
+   "uploadUrls": {
+      "description": "Label voor het menu-item om een bestand met URL's te uploaden om te scrapen.",
+      "message": "URL's uploaden"
+   },
+   "url": {
+      "description": "Label voor het URL-veld dat van een element is vastgelegd.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Waarschuwing om weer te geven wanneer de geselecteerde kolomnaam een URL is en het CSV-bestand mogelijk een koptekst mist.",
+      "message": "Kolomnaam lijkt een URL te zijn. Zorg ervoor dat het CSV-bestand begint met een koptekst met de namen van de kolommen."
+   },
+   "verify": {
+      "description": "Label voor de knop om een geselecteerd element te verifiëren door het op de pagina te markeren.",
+      "message": "Verifiëren"
+   },
+   "waitTimeItems": {
+      "description": "Label voor de invoeren om te bepalen hoe lang er gewacht moet worden in seconden bij het laden van meer items.",
+      "message": "Wachttijd voor het laden van meer items (seconden)"
+   },
+   "waitTimePages": {
+      "description": "Label voor de invoervelden om te regelen hoe lang er gewacht moet worden in seconden bij het laden van pagina's.",
+      "message": "Wachttijd voor het laden van pagina's (seconden)"
+   }
+}

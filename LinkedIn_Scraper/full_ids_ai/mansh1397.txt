@@ -1,0 +1,138 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Tajamul Khan",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQEK__Iv1--NDQ/profile-displayphoto-shrink_100_100/B56ZP7cybnHoAU-/0/1735090450383?e=1759363200&v=beta&t=7fbNZl58yt5vudcAXRR1szjryiLjlMFTNDQBWk67XKU",
+    "headline": "Senior Data Scientist | Writes to 75K+ | Top Data Voice | Top 0.1% Mentor @Topmate | MITian | Ex-Google & Ex-Amazon",
+    "connections": "500+",
+    "followers": 76677,
+    "location": "Hyderabad, Telangana, India",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/tajamulkhann/",
+      "Personal": "https://linktr.ee/tajamul_khan",
+      "Topmate": "https://topmate.io/tajamulkhan",
+      "Instagram": "https://www.instagram.com/tajamul.datascientist/",
+      "Telegram": "https://t.me/+yLhtT8pVsWsxNDA1",
+      "WhatsApp": "https://www.whatsapp.com/channel/0029VaYs05jJkK7JKCesw42f?_fb_noscript=1",
+      "GitHub": "https://github.com/tajamulkhann"
+    },
+    "about": "I'm Tajamul, Senior Data Scientist, Career Mentor, Author, Content Creator, Brand Owner and a YouTube Educator, ready to help you achieve your data dreams! With experiences from big names like Google and Amazon, and a prestigious degree in data from MIT, I can confidently say I'm a data veteran."
+  },
+  "Activity": {
+    "recentPostsLink": "https://www.linkedin.com/in/tajamulkhann?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA1qYkEBhaYGiGMUx99Z4pjPel61wtTp09E",
+    "latestPostCount": 47,
+    "comments": 47,
+    "postSample": "Senior Data Scientist | Writes to 75K+ | Top Data Voice | Top 0.1% Mentor @Topmate | MITian | Ex-Google & Ex-Amazon"
+  },
+  "Experience": [
+    {
+      "title": "Advanced Data Scientist",
+      "company": "Eastman",
+      "location": "Hyderabad, Telangana, India",
+      "period": "Jul 2023 - Present",
+      "duration": "2 yrs 2 mos",
+      "domains": [
+        "Retail", 
+        "E-commerce", 
+        "Market Research", 
+        "Customer Support", 
+        "Supply Chain", 
+        "HR"
+      ],
+      "services": [
+        "Data Analysis", 
+        "Statistics", 
+        "Reporting", 
+        "Research", 
+        "Machine Learning", 
+        "AI & Data Engineering"
+      ]
+    },
+    {
+      "title": "Senior Data Executive",
+      "company": "Google",
+      "location": "Hyderabad, Telangana, India",
+      "period": "Dec 2019 - Jun 2023",
+      "duration": "3 yrs 7 mos",
+      "domains": [
+        "Retail", 
+        "Market Research", 
+        "Digital Marketing", 
+        "Google Adwords"
+      ],
+      "services": [
+        "Data Analysis", 
+        "Statistics", 
+        "Reporting", 
+        "Research", 
+        "Machine Learning", 
+        "AI"
+      ]
+    },
+    {
+      "title": "Data Quality Specialist",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, India",
+      "period": "Nov 2018 - Oct 2019",
+      "duration": "1 yr",
+      "domains": [
+        "Retail", 
+        "E-commerce", 
+        "Market Research", 
+        "Supply Chain", 
+        "Geo Data Analysis"
+      ],
+      "services": [
+        "Data Analysis", 
+        "Statistical Analysis", 
+        "Research", 
+        "Reporting", 
+        "Visualisation"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "Postgraduate Degree",
+      "field": "Data Science and AI",
+      "period": "May 2022 - Jun 2023"
+    },
+    {
+      "institution": "Kurukshetra University",
+      "degree": "Master of Technology - MTech",
+      "field": "Engineering",
+      "period": "Mar 2018 - Aug 2020"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Microsoft Certified: Fabric Analytics Engineer Associate",
+      "issuer": "Microsoft",
+      "issueDate": "May 2025",
+      "credentialID": "FC2468EB9C248AF8"
+    },
+    {
+      "name": "Microsoft Certified: Fabric Data Engineer Associate",
+      "issuer": "Microsoft",
+      "issueDate": "Apr 2025",
+      "credentialID": "E641E5D41A3C1734"
+    }
+  ],
+  "Skills": [
+    "Python (Programming Language)",
+    "SQL",
+    "Microsoft Power BI",
+    "Machine Learning",
+    "Artificial Intelligence (AI)",
+    "PySpark",
+    "KQL",
+    "Generative AI",
+    "Data Analysis",
+    "Statistics",
+    "ETL",
+    "Tableau"
+  ]
+}
+```
+This JSON schema organizes the provided data under the fields **BasicInfo**, **Activity**, **Experience**, **Education**, **Certification**, and **Skills** as requested. Complex, multi-item fields (experience, education, certifications, skills) are represented as arrays for clarity and completeness[1][2][5].

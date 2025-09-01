@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "መተግበሪያውን እይታ ለመጨመር የሚያግዙ አዝራር መለያዎች።",
+      "message": "ግምገማ ያክሉ"
+   },
+   "allowPermissions": {
+      "description": "መተግበሪያውን ለፍቃዶች የሚፈቅድ ቁልፍ መለያ ተግባር.",
+      "message": "ፍቃዶችን ፍቀድ"
+   },
+   "autoScroll": {
+      "description": "በመነጨበነቻ ላይ እያንዳንዱን እቃ ለመሸብሸብ በራስ እንዲያደርግ መቆጣጠሪያውን ለመቆየት መቀያየሪያን መልዕክት ላብል.",
+      "message": "ራስ-መሸብሸብ"
+   },
+   "back": {
+      "description": "ወደ ቀድሞው መስክ ለመመለስ የሚጠቀምበት አዝራር መለያ።",
+      "message": "ተመለስ"
+   },
+   "cancel": {
+      "description": "ለሽር እርምጃ መለየት",
+      "message": "ይቅርታ"
+   },
+   "changeList": {
+      "description": "የሚሰበስበውን ዝርዝር ለመቀየር የሚጠቀም ቁልፍ መለያ መንግስተሰብሳሉ",
+      "message": "የዝርዝር ለውጥ"
+   },
+   "changeSelectionLevel": {
+      "description": "አንድ እሴትን ሲመርጡ የምርጫ ደረጃን ለመቀየር የሚያሳይ እርምጃ መግለጫ።",
+      "message": "የምርጫ ደረጃን ቀይር"
+   },
+   "chooseFile": {
+      "description": "ፋይል ለማስገባት የሚጠቀም አዝራር መለያበቻ መለያ",
+      "message": "ፋይል ይምረጡ"
+   },
+   "click": {
+      "description": "የጠቅ እርምጃ መለያ.",
+      "message": "ጠቅ ያድርጉ"
+   },
+   "clickLoadMore": {
+      "description": "በአንድ ገጽ ላይ ስላሉት እቃዎች ተጨማሪነትን ለመጫን ከአንድ አዝራር መጫን ምርጫ መለያ መታወቂያ ማቅረቢያ።",
+      "message": "በአንድ ገጽ ላይ ሁለቱን ተጨማሪ እቃዎችን ለመጫን አዝራሩን ይጫኑ"
+   },
+   "clickNextPage": {
+      "description": "ቅንብር ሲሰራ የሚከተለውን ገጽ ለመጫንና እቃዎችን በተጨማሪ ለማስፈላጊያ የተመረጠ አማራጭ መልክት.",
+      "message": "ለመቀጠል ለቀጣይ ገጽ መስመር መጫን"
+   },
+   "column": {
+      "description": "የዩአርኤልን መለየት የሚኖሩበትን አምድ ለመምረጥ ለ\u003Cselect> ክፍል መለያ መሰየሚያ.",
+      "message": "አምድ"
+   },
+   "confirm": {
+      "description": "ለማረጋገጥ እርምጃ መለያ ቃል።",
+      "message": "አረጋግጥ"
+   },
+   "continue": {
+      "description": "የቀጣይ መስክ ለመቀጠል የሚሆን አንቀጽ መሀል የሚሆን የአዝራር መሰየሚያ.",
+      "message": "ቀጥል"
+   },
+   "copy": {
+      "description": "ውሂብን ወደ ቅንጥበት ሰሌዳ ለመቅዳት የተሰጠ ማስረጃ ለአዝራር.",
+      "message": "ቅዳ"
+   },
+   "csvFile": {
+      "description": "የፋይል ግቤትን ለመስቀል የ CSV ፋይል መግቢያ",
+      "message": "ፋይል አይነት $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "ለዝርዝሮች ገፅ መለያ ነባር ስም።",
+      "message": "$DOMAIN$ ከዝርዝር ያጥሩ",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "መጠበቂያን ለመሰረዝ የሚገኙ ምናሌ አስገራሚ መዘርዘሪያ.",
+      "message": "ሰርዝ"
+   },
+   "dismiss": {
+      "description": "ማንቂያውን ለመቅረት የሚደረግ እርምጃ።",
+      "message": "አስወግድ"
+   },
+   "duration": {
+      "description": "የአሁኑን መለማመድ ቆይታ ለማሳየት መለያ።",
+      "message": "ቆይታ"
+   },
+   "esc": {
+      "description": "የእብድ ቁልፍ መለያ መልእክት።",
+      "message": "ኤስክ"
+   },
+   "export": {
+      "description": "የምንቅስቃሴ ማስዋጋ መነሻ ማዘጋጀት አረጋግጥ።",
+      "message": "መላክ"
+   },
+   "extractData": {
+      "description": "ከእያንዳንድ URL የሚሰበስበውን እና የሚወጣውን መረጃ መውጣት ለማድረግ የመንዙሪያ እቃ መለያ።",
+      "message": "ውሂድን አውጣ"
+   },
+   "finish": {
+      "description": "ገጹ ላይ እርሶችን መምረጥን ለመጨረሻ የሚጠቀም የአዝራር መለያ።",
+      "message": "ጨርስ"
+   },
+   "headerRow": {
+      "description": "የሚስጥርያው CSV ፋይል በመጀመሪያ ተራ ርእስ መጀመር እንደሚገባ ማብራሪያ ጽሑፍ.",
+      "message": "በመጀመሪያ ተራ ርእስ መጀመር አለበት"
+   },
+   "headerRowRequired": {
+      "description": "ከተሰቀለው CSV ፋይል ራስጌ ረድፍ መጠፈኛ ስለሚመስል ጊዜ ለመጠበቅ ማስጠንቅቂያ ማሳያ።",
+      "message": "ራስጌ ረድፍ ያስፈልጋል"
+   },
+   "help": {
+      "description": "የእርዳታ ገፅን መክፈቻ የሚሆን አዝራር መለያ።",
+      "message": "እርዳታ"
+   },
+   "hideOptions": {
+      "description": "ለማከፋፈል ከፍተኛ አማራጭዎች ማየት ከፍተኛ የሚያስችል አዝራር የመቀለቻን መለያ.",
+      "message": "አማራጮችን ደብቅ"
+   },
+   "import": {
+      "description": "ፈረሰኛን ለመምጣት የምናቀርብውን ምናሌ አካል ማመልከቻ መለያ።",
+      "message": "አስመጣ"
+   },
+   "install": {
+      "description": "የመተግበሪያውን የቅድመ ምርት ለመጫን የሚሆን አዝራር መሰየሚያ።",
+      "message": "የቅድመ ምርት መጫን"
+   },
+   "invalidTab": {
+      "description": "የስህተት መልዕክት ጊዜ የተከለከለ ጣቢያ በተከልክለው ሳይት ላይ በመክፈት ላይ ሲገኝ።",
+      "message": "ይህ ገጽ ተከልክሏል። ሌላ ሳይት ይሞክሩ።"
+   },
+   "invalidVersion": {
+      "description": "ተጠቃሚውን አፕሊኬሽኑን የቅርብ ጊዜ ስሪት መጫን ማስመከር።",
+      "message": "$APP_NAME$ ከቤታ ወጥቷል! አዲሱን የመጨረሻውን እትም ለመግኛት የቅርብ ጊዜውን ስሪት ይጫኑ።",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "ዝርዝር ሲሳሽ የተነሱትን እቃዎች ቁጥር ለማሳየት መሰረታዊ መልክምተ ግልጋሎት መጠቀም።",
+      "message": "እቃዎች"
+   },
+   "loadMoreAction": {
+      "description": "በመሳሪጃ ላይ ተጨማሪ እቃዎችን ሲሰበስብ እንዴት መጫን እንደሚቻል ለመምረጥ \u003Cselect> ክፍል መልእክት መያዣ ነው።",
+      "message": "ተጨማሪ እቃዎችን ለመጫን እርምጃ"
+   },
+   "max": {
+      "description": "ተጨማሪ ንጥሎች ወይም ገጾችን ሲጫኑ ማጠቢያውን ለመቆጣጠር ሚጠበቅ በሙሉ ጊዜ የሚቆጣጠርን እሴት ለመቆጣጠር መሳሪያ.",
+      "message": "ከፍተኛ"
+   },
+   "maxItems": {
+      "description": "ለመጠንከር ማስተካከያ ላይ ከተወሰነ ቁጥር የሚለዋጭ ንጥረ ነገሮች ማንሳትን ለመወሰን ላበረዘነው መመዘኛ.",
+      "message": "ከፍተኛ ዕቃዎች"
+   },
+   "maxItemsHelp": {
+      "description": "ከፍተኛ እቃዎች አማራጭ ላይ ገደማ መደበኛ አቋም ለማይችል እንዲሆን ባዶ ማስቀመጥ እንዲቀር ለተጠቃሚው የሚያስተዋውቅ እርዳታ ጽሁፍ ነው።",
+      "message": "ይቅርታ ለማድረግ ባዶ ይተዉ"
+   },
+   "maxItemsReached": {
+      "description": "መነሻ ላይ ለሚቀነስ እቃዎች ብዛት መድረሻ እንደ ተደረሰ መግለጫ ለማመልከቻ።",
+      "message": "እስከ ተጠንቀቁት ወጪ መጨረሻ ስኬፕ ተገኝቷል። ስኬፕን ለመቀጠል የከፍተኛ እቃዎችን አማራጭ ያጨርሱ።"
+   },
+   "mediaUrl": {
+      "description": "ከኤሌመንት የተያዘ ሚዲያ ኡርኤል መስክ ላይ መሰየሚያ መልዕክት።",
+      "message": "ሚዲያ ኡርኤል"
+   },
+   "min": {
+      "description": "ተጨማሪ ንጥረናት ወይም ገጾችን ሲጫኑ በመጠበቅ ላይ እጥፍ ማገዝ መቆየት ላይ የሚገባውን አነስተኛ ጊዜ ማስተዳደር ለመቆየት ላቀረቦ መሆኑን መግለጫ.",
+      "message": "አነስተኛ"
+   },
+   "missingTabError": {
+      "description": "ከታማኝ ትምባለቂ ውሂብ ማግኘት የማልከን ጊዜ የሚታይ የተሳሳት መልዕክት።",
+      "message": "ይህን ስራ ለማከናወን የተጠቀሙት ትምባለቂ ተዘግቷል። እባክዎን ይህን መስኮት ዝጋቶ እንደገና ይሞክሩ።"
+   },
+   "missingTabPermission": {
+      "description": "ትእዛዝ መልክት ማዳመጥ ያልተቻለበት ጊዜ የሚታያወቅ ስህተት መልእክት።",
+      "message": "ትእዛዙ መልክት ተይዞ አልቻለም። ይህንን መስኮት ዝጋ እና እንደ ገና ሞክር።"
+   },
+   "missingUrlColumn": {
+      "description": "የCSV ፋይል ማይቦኑ የURL ዓምዶችን ማጣት ላይ የሚታይ የስህተት መልእክት።",
+      "message": "እባክዎን ሌላ ፋይል ይምረጡ። URL ያሉበትን ዓምድ ማግኘት አልቻልንም።"
+   },
+   "newScraper": {
+      "description": "አዲስ ጠበቅ ለመፍጠር የሚሆን አዝራር መሰለያ.",
+      "message": "አዲስ ጠበቅ"
+   },
+   "noData": {
+      "description": "ቦታ ባለው ሰንጠረዥ ምንም ውሂብ ለማሳየት ሲጓድቡ.",
+      "message": "ምንም ውሂብ ለማሳየት የለም"
+   },
+   "noFileChosen": {
+      "description": "እንደሚታይ መልእክት ፋይል ሲማረጥ",
+      "message": "ፋይል አልተመረጠም"
+   },
+   "noList": {
+      "description": "ዝርዝሩ በገፁ ላይ ሳይገኝ ለማሳየት የተዘጋጀ ቦታ.",
+      "message": "በገፁ ዝርዝር ማግኘት አልተቻለም"
+   },
+   "none": {
+      "description": "ሲሳብ ተጨማሪ ነገሮችን ለመጫን እንቅስቃሴ አልያዝ ማለት ነው።",
+      "message": "ምንም የለም"
+   },
+   "options": {
+      "description": "ለመነሻ አማራጮች አዝራሮች የሚሆን ቁልፍ መለያዎችን ለመቅረጽ የተመለከተ መለያ.",
+      "message": "አማራጮች"
+   },
+   "pages": {
+      "description": "ዝርዝር ሲቀየር የተቀረፉትን ገጾች ቍጥር ለማሳየት መለያ.",
+      "message": "ገጾች"
+   },
+   "permissionsDescription": {
+      "description": "መተግበሪያው ለURL መረጃ እና ለማስጠንጠን ተጨማሪ ፈቃዶች መጠየቅ እንዲፈልግ ለማብራራት የረዳት ጽሁፍ።",
+      "message": "$APP_NAME$ ለURL መረጃ እና ለማስጠንጠን ተጨማሪ ፈቃዶች ይፈልጋል",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "ቀላል ተከላካይ"
+         }
+      }
+   },
+   "preview": {
+      "description": "ውሂባቸው ማሳያ መንገድ እንደሆነ ለመግለጽ የተሰጠ ምልክት ጽሑፍ።",
+      "message": "አሳይ"
+   },
+   "remainingPages": {
+      "description": "የሚሰራመው ማመልከቻ ዝርዝር ገጾችን ሲመረመር የቀረውን ገጽ ብዛት ለማሳየት መለያ መሰየሚ.",
+      "message": "የቀረ"
+   },
+   "rename": {
+      "description": "ስካፔሩን ለመነጠል የሚሆን ምናሌ እርዕስ መሰየሚያ።",
+      "message": "እንደገና ስም ይስጡ"
+   },
+   "reviewDescription": {
+      "description": "ለተመንህት አፕሊኬሽን ተጠቃሚ እንዲሰጥ ለማሻል።",
+      "message": "ሰላም፣ እኔ $NAME$ ነኝ። $APP_NAME$ ለሰዎች ጊዜ ለማስቀምጥ ፈጠርኩት። እሱን በመጠቀም ያዝን እንደሆናችሁ፣ ሌሎች $APP_NAME$ እንዲያገኙ እኔን ለማገዝ አምስት ኮከብ አስተያየት በመስጠት አወድሳለሁ። ብዙ አመሰግናለሁ!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "ኢዝይ ስካፐር"
+         },
+         "name": {
+            "content": "ናሙ"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "ተጠቃሚውን ስለ መተግበሪያው መጠቀም እናመሰግን",
+      "message": "$APP_NAME$ እንደተጠቀሙ እናመሰግናለን",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "በዝርዝር ውስጥ ያሉትን እያንዳንዱ እቃ ለመስራት የሚሆን ማእከል ማሳያ አማራጭ መክፈቻ መሠረት መደበኛ።",
+      "message": "ዝርዝሮችን መጠበቅ"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "ተጠቃሚውን ስለ ዝርዝር ገጾች ማጥለቅ ለማማረር መልእክት ማብራሪያ።",
+      "message": "የዝርዝርን ማንኛውንም ዩአርኤል ለማጥለቅ ዝርዝሩን እንደ ሲኤስቪ ፋይል ከማውረድ በኋላ ከላይ ቀኝ ማንደሻ ከሚገኘው ምናሌ የ\"$LABEL$\" አማራጭን ይምረጡ።",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "ዝርዝሮችን ምግባር"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "ተጠቃሚውን ዝርዝር ገጾችን ማንኛት ላይ ለመማር አንቀጽ እንደሚከሰት ጽሑፍ:",
+      "message": "ምክር: ዝርዝር ገጾችን መቅንት"
+   },
+   "scrapeList": {
+      "description": "የመረጃ ዝርዝር ለማግኘት የተዘጋጀ ነገር ተዘጋጁ።",
+      "message": "የመረጃ ዝርዝር እፈልጋለሁ"
+   },
+   "scrapedPages": {
+      "description": "የተነጠቁ ገጾችን መጠን ሲሰሩ ለመቅረጽ የሚታይ መሰየሚያ.",
+      "message": "ተነጥቀዋል"
+   },
+   "scrapingComplete": {
+      "description": "ማሳወቂያ ርዕስ ለመግለጽ እንደተጠናቀቀ የመረጃ መሰብ እንደተጠናቋል.",
+      "message": "መረጃመሰብ ተጠናቋል"
+   },
+   "scrapingStatus": {
+      "description": "መሰል እንዲካሄድ ማመልከቻ መልክማማች።",
+      "message": "በመሰልም ላይ..."
+   },
+   "scrollDelay": {
+      "description": "በማጠራጀት ሂደት ላይ እያንዳንዱ እቃ ወደ እሱ መሳቅ በመሆን መጠበቅ እንደሚገባ ሚሊሴኮንድ ጊዜ መቆጣጠሪያን መቆመት ለመቆጣጠር ላብል.",
+      "message": "መሳቅ ዘመን (ሚ.ሴ)"
+   },
+   "scrollDown": {
+      "description": "ሲስጣም በመጭን ጊዜ ተጨማሪ ንጥሎችን ለመምጫት እንዲያቀርቡ አማራጭ መልክዕ.",
+      "message": "ተጨማሪ ንጥሎችን ለመጫን ወደ ታች ይንቀሳቀሱ"
+   },
+   "select": {
+      "description": "ገጽ ላይ አንድ ኤሌመንት ለመምረጥ የተመለከተ የአዝራር መልዕክት መልክት።",
+      "message": "ይምረጡ"
+   },
+   "selectElement": {
+      "description": "እርምጃ እየተመረጠ መታየት ያለበት ርዕስ።",
+      "message": "ክፍል ይምረጡ"
+   },
+   "selectField": {
+      "description": "መስተዋወቅ ቦታን ለመይዝ እንቅስቃሴውን መግለጫ።",
+      "message": "መስተዋወቅ ቦታ ይምረጡ"
+   },
+   "selectList": {
+      "description": "ዝርዝር ሲመረጥ ለማሳየት ርዕስ.",
+      "message": "ዝርዝር ይምረጡ"
+   },
+   "selectScraper": {
+      "description": "እያንዳንዱ URL ለማስገርብል ምረጥ ተጣራይ ሜኑ አስከተማ መለያ",
+      "message": "ምረጥ ተጣራይ"
+   },
+   "selectScraperOption": {
+      "description": "በአሁኑ ድር አውራጃ ለቅርፅ መምረጥ መመሪያ።",
+      "message": "$DOMAIN$ ለምረጥ ቅርፅ",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "ለመነሻ አማራጮች ተጨማሪ አማራጭን ለማሳየት የሚሆን የአዝራር መልዕክት።",
+      "message": "አማራጮችን አሳይ"
+   },
+   "startScraping": {
+      "description": "መሰረቅን ለመጀመር የሚጠቀሙት የመንበር መለያ።",
+      "message": "መሰረቅ እንጀምር"
+   },
+   "stopScraping": {
+      "description": "መረጃ ማጥፋትን ለመቋረጥ የሚሆን አዝራር መስክ.",
+      "message": "መረጃ ማጥፋትን ተው"
+   },
+   "tabNotFound": {
+      "description": "ተፈላጊ ትእዛዝ ካልተገኘ በጊዜው የሚታየው የስህተት መልእክት።",
+      "message": "ትእዛዝ አልተገኘም። ይህንን መስክ ዝጋ እና እንደገና ሞክር።"
+   },
+   "testUrl": {
+      "description": "ምረጥ ሲሰራ የሚጠቀሙበትን ፈተና URL ለማስገባት የጽሑፍ እቅዱ ላበል.",
+      "message": "ፈተና URL"
+   },
+   "text": {
+      "description": "ከኤሌመንት የተወሰደ ጽሑፍ መስክ ለተመለከተ መለያ።",
+      "message": "ጽሑፍ"
+   },
+   "uploadUrls": {
+      "description": "የ URL ማሰስበያ ፋይል ለመስቀል ሜኑ እባክዎ ስምውን ያስገቡ።",
+      "message": "URL አስቀመጥ"
+   },
+   "url": {
+      "description": "አርአያ መስክ የተያዘ መረጃ መለያ መሰንጠርያ።",
+      "message": "አርአያ ማስፈንጊያ"
+   },
+   "urlFieldWarning": {
+      "description": "የሚታይ ማንቂያ ሲሆን የተመረጠው የአምዱ ስም ዩአርኤል መሆኑን እና የኩሌቶች ፋይል የራስን ስዕላት ሊጎድል ይችላል።",
+      "message": "የአምዱ ስም ዩአርኤል መሆኑን ይመስላል። እባኮትን የተመረጡት የኩሌቶች ስማቸውን የሚመዝኑ የራስን ስዕላት በመጀመሪያው ትዕይንትም ከሆነ እባኮትን ያረጋግጡ ።"
+   },
+   "verify": {
+      "description": "በገጹ ላይ እሱን በመያዝ ተመረጠ ነገርን ለማረጋገጥ የሚጠቀም አዝራር መለያ.",
+      "message": "አረጋግጥ"
+   },
+   "waitTimeItems": {
+      "description": "እቃዎችን ሲጨምሩ ሰከንዶች ውስጥ ስንት ጊዜ መጠበቅ እንደሚኖር የመቆጣጠሪያ መግቢያውን ለመቆመጥ መርዕ.",
+      "message": "እቃዎችን ለመጨመር የመጠበቅ ጊዜ (ሰከንዶች)"
+   },
+   "waitTimePages": {
+      "description": "ገፆች ሲጫኑ ሴኮንዶችን ለመጠበቅ የሚገባ ጊዜ መቆጣጠሪያ ላባላቸው ግብዣዎች።",
+      "message": "ገፆች ሲጫኑ የመጠበቂያ ጊዜ (ሰከንዶች)"
+   }
+}

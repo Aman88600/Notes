@@ -1,0 +1,161 @@
+```json
+{
+  "BasicInfo": {
+    "name": "CH Bharath Reddy",
+    "current_position": "Senior Scientist, ISRO (Indian Space Research Organization)",
+    "location": "India (Hybrid)",
+    "summary": "Experienced Senior Scientist at ISRO with over 10 years of expertise in AI/ML, specializing in architecture of Generative AI and Machine Learning solutions. Research leader in cutting-edge AI technologies, with strong knowledge of Machine Learning fundamentals and Statistics. Results-driven Data Science and Analytics Leader, adept at delivering insights for strategic growth and optimizing performance in industries ranging from aerospace to petrochemical manufacturing. Expert in optimizing data analytics methodologies, achieving a 90% improvement in project outcomes and ensuring high standards of data accuracy. Skilled in stakeholder management and cross-functional collaboration, mentoring high-performance teams."
+  },
+  "Activity": {
+    "followers": 299,
+    "recent_activity": [
+      "Congratulations comment (2w ago)"
+    ],
+    "interests": [
+      {
+        "type": "Top Voices",
+        "names": [
+          {
+            "name": "Shradha Sharma",
+            "description": "Founder & CEO at YourStory Media",
+            "followers": "2126020"
+          },
+          {
+            "name": "Abhijit Bhaduri",
+            "description": "Talent Development, Ex-GM Global L&D, Microsoft, Keynote Speaker",
+            "followers": "780569"
+          }
+        ]
+      },
+      {
+        "type": "Causes",
+        "values": [
+          "Children",
+          "Economic Empowerment",
+          "Education",
+          "Environment",
+          "Health",
+          "Science and Technology",
+          "Social Services"
+        ]
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Scientist",
+      "organization": "ISRO - Indian Space Research Organization",
+      "employment_type": "Full-time",
+      "location": "India · Hybrid",
+      "date_range": "Oct 2017 - Present",
+      "details": [
+        "Spearheads AI initiatives to enhance launch vehicle efficiency by 30% and improve autonomous landing capabilities.",
+        "Created predictive generative models for descent scenarios and real-time monitoring using time series and neural networks.",
+        "Published machine learning models correlating process with motor performance, reducing production time and cost.",
+        "Designed computer vision anomaly detection models for safety protocol enhancements.",
+        "Led multiple complex AI projects, ensuring timely and effective completion."
+      ]
+    },
+    {
+      "title": "Editorial Board Member",
+      "organization": "International Journal of Advance Research, Ideas, Innovation and Technology",
+      "date_range": "Aug 2016 - Oct 2017",
+      "details": [
+        "Contributed research and oversight in advanced technology topics."
+      ]
+    },
+    {
+      "title": "Operations Manager",
+      "organization": "Reliance Industries",
+      "details": [
+        "Analyzed key performance indicators and implemented enhancements for operational outcomes.",
+        "Established and refined safety protocols.",
+        "Drove business performance through data analytics.",
+        "Enabled proactive quality control via real-time parameter monitoring.",
+        "Contributed to commissioning of petrochemical complex."
+      ]
+    },
+    {
+      "title": "Technical Head",
+      "details": [
+        "Analyzed client business processes to recommend tailored software solutions.",
+        "Designed data-centric solutions for operational improvements.",
+        "Integrated emerging technologies and engineered advanced solutions using mathematical modeling."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "National Institute of Technology Calicut",
+      "degree": "Bachelor of Technology (B.Tech.), Chemical Engineering",
+      "date_range": "2010 - 2014"
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Data Science Foundations - Level 1",
+      "issuer": "IBM",
+      "date_issued": "Sep 2022"
+    },
+    {
+      "title": "PG Certification in Artificial Intelligence and Machine Learning",
+      "issuer": "International Institute of Information Technology Hyderabad (IIITH)",
+      "date_issued": "Feb 2017"
+    }
+  ],
+  "Skills": [
+    "Deep Learning",
+    "Generative Neural Networks",
+    "Machine Learning",
+    "Data Science",
+    "Interpretability",
+    "Predictive Modeling",
+    "Clustering",
+    "Regression Analysis",
+    "Time Series Analysis",
+    "Continuous Process Improvement",
+    "Transformations & Automation",
+    "Process Modeling",
+    "Troubleshooting",
+    "Research",
+    "Statistical Data Analysis"
+  ],
+  "Projects": [
+    {
+      "title": "Machine Learning Model for Process Optimization",
+      "organization": "ISRO",
+      "date_range": "Jan 2018 - Oct 2019",
+      "details": "Published papers in NCMDAO conference (IIT Bombay) and HEMSI conference."
+    },
+    {
+      "title": "Generative AI Model for Anomaly Detection",
+      "organization": "ISRO",
+      "date_range": "Jan 2020 - Nov 2022",
+      "details": "Employed computer vision for anomaly detection, strengthening early warning systems."
+    }
+  ],
+  "TestScores": [
+    {
+      "test": "TOEFL",
+      "score": "110/120",
+      "date": "Aug 2016"
+    }
+  ],
+  "Languages": [
+    "English",
+    "Hindi"
+  ],
+  "Publications": [
+    {
+      "title": "Flow past a Rotating Grooved Cylinder",
+      "journal": "International Journal Of Advance Research, Ideas and Innovations In Technology",
+      "date": "Sep 10, 2016"
+    },
+    {
+      "title": "Steady Flow Past a Grooved Rotating Cylinder (CFD)",
+      "conference": "ICFCE-2013 (International Conference on Frontiers in Chemical Engineering)",
+      "date": "Dec 11, 2013"
+    }
+  ]
+}
+```

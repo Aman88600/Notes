@@ -1,0 +1,102 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Sudhir Jaiswal",
+    "LinkedIn": "https://www.linkedin.com/in/sudhir-jaiswal-2b0286a/",
+    "Followers": 2394,
+    "About": "With a solid foundation in cloud and data architecture, my role at Siemens Technology centers around harnessing the power of Databricks and AWS to develop robust data solutions. My certification in Data Science with Python complements my hands-on experience, enabling me to drive innovation and efficiency within our projects. The transition from Data Scientist to Cloud and Data Architect reflects my commitment to continual growth and the pursuit of excellence in technology. At Siemens, my expertise in predictive modeling and artificial neural networks contributes to the development of cutting-edge data products, all aimed at propelling the organization forward in the digital landscape.",
+    "Causes": [
+      "Education",
+      "Environment",
+      "Health",
+      "Science and Technology"
+    ]
+  },
+  "Activity": [
+    {
+      "Type": "Post",
+      "Content": "Congrats Prodip!",
+      "Timestamp": "7mo ago"
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Cloud and Data Architect",
+      "Company": "Siemens",
+      "Location": "Pune/Pimpri-Chinchwad Area",
+      "Dates": "Jan 2022 - Mar 2025",
+      "Duration": "3 yrs 3 mos",
+      "FullTime": true,
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=1759363200&v=beta&t=F0aCBAlhpvwcevnYfm4Oa3itTIMsvXNsfDvZnpoA86U",
+      "CompanyPage": "https://www.linkedin.com/company/1043/"
+    },
+    {
+      "Title": "Data Scientist",
+      "Company": "Siemens",
+      "Location": "Pune/Pimpri-Chinchwad Area",
+      "Dates": "Jan 2018 - Dec 2021",
+      "Duration": "4 yrs"
+    },
+    {
+      "Title": "Product Manager",
+      "Company": "Siemens",
+      "Dates": "Nov 2013 - Dec 2017",
+      "Duration": "4 yrs 2 mos"
+    },
+    {
+      "Title": "Senior Software Engineer",
+      "Company": "Blue Star Infotech",
+      "Dates": "Sep 2004 - Nov 2008",
+      "Duration": "4 yrs 3 mos",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFC79LobFFPNg/company-logo_100_100/company-logo_100_100/0/1631330853853?e=1759363200&v=beta&t=lK2fWCNZo40d_bSBD0lAUE7rXjcm2F-sqGafQYDfhsw",
+      "CompanyPage": "https://www.linkedin.com/company/162737/"
+    }
+  ],
+  "Education": [
+    {
+      "School": "Great Lakes Institute of Management",
+      "Degree": "Executive Master's Program in Business Analytics and Business Intelligence, Data Science and Machine learning",
+      "FieldOfStudy": "Statistics, Predictive modelling, Data mining and Machine learning; Application of Analytics in domains like Retail, Marketing, Web & Social media, Finance and Risk, Supply chain and logistics.",
+      "Dates": "2002 - 2004",
+      "SchoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQHUiIQpinpKVQ/company-logo_100_100/company-logo_100_100/0/1722342154423?e=1759363200&v=beta&t=Hl_0GYRRgdf6pi9AcV3haSWpL-Pu9QQ0MMCyu5J8kno",
+      "SchoolPage": "https://www.linkedin.com/company/363736/"
+    },
+    {
+      "School": "Jadavpur University",
+      "Degree": "M.E, Computer Science and Engineering",
+      "Dates": "2016 - 2017",
+      "SchoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQFkGVsBobrK1A/company-logo_100_100/company-logo_100_100/0/1630609676569/jadavpur_university_logo?e=1759363200&v=beta&t=CBrnyZeRmxX6hCU3Hq80EtKVv4N0KZMeXz0knAN73rE",
+      "SchoolPage": "https://www.linkedin.com/company/979527/"
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Introduction to Prompt Engineering for Generative AI",
+      "Issuer": "LinkedIn",
+      "Date": "Nov 2024",
+      "CredentialURL": "https://www.linkedin.com/learning/certificates/06e309679e1f731a0a59d2226df8e4d5d45e73394609eb978d3db1a51ce353f4",
+      "Logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1759363200&v=beta&t=GVUY0VneTWglrEpYXAcdAmn_K_zaxnJbfYfpKLtXzGw"
+    },
+    {
+      "Name": "Data Scientist with Python",
+      "Issuer": "DataCamp",
+      "Date": "Nov 2024",
+      "CredentialID": "28526",
+      "Logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1759363200&v=beta&t=GO-PPrhCmoCgGjwvmE94CD1gH7g7AXTm4V0rFRQztOM"
+    },
+    {
+      "Name": "Prompt Engineering and Generative AI",
+      "Issuer": "DataCamp",
+      "Date": "May 2017",
+      "CredentialID": "28526"
+    }
+  ],
+  "Skills": [
+    "Python (Programming Language)",
+    "Machine Learning",
+    "Amazon Web Services (AWS)",
+    "Data Products",
+    "Databricks Products"
+  ]
+}
+```

@@ -1,0 +1,166 @@
+{
+  "BasicInfo": {
+    "name": "Aarthi Kasirajan",
+    "professionalTitle": "Data Scientist | Data Science & AI for Business",
+    "summary": "Data Scientist with 6+ years of experience, skilled in extracting actionable insights from complex datasets and building production-ready models. Interested in quantifying business impact of data-driven solutions and fostering collaborative, innovative environments.",
+    "profilePhoto": "https://media.licdn.com/dms/image/v2/D5603AQEhtHDa9ATSQA/profile-displayphoto-shrink_100_100/0/1698856659597?e=1759363200&v=beta&t=Jp99C_7_H80lInzqWpOtE0g-BV4Rot4QVbDyuaPyY6s",
+    "location": "Chennai, Tamil Nadu, India",
+    "languages": [
+      { "language": "English", "proficiency": "Full professional proficiency" },
+      { "language": "Hindi", "proficiency": "Limited working proficiency" }
+    ],
+    "causes": [
+      "Animal Welfare", "Children", "Education", "Environment", "Health", "Human Rights"
+    ]
+  },
+  "Activity": {
+    "followers": 9456,
+    "recentPostsCount": 1,
+    "recentPostTitles": [
+      "Data Science and AI Solutions for Business @ Logitech |AI Governance | Data & Analytics |AI and MLOps | Mentoring Aspiring Data Scientists"
+    ],
+    "interests": {
+      "topVoices": [
+        { "name": "Darshil Parmar", "description": "Senior Data Engineer | Helping Data Engineers Crack Jobs | Founder @DataVidhya | 🎥YouTube (181K+)", "followers": 126014 }
+      ],
+      "companies": [
+        { "name": "Satya Nadella", "description": "Chairman and CEO at Microsoft", "followers": 11554812 }
+      ]
+    },
+    "causesSupported": [
+      "Animal Welfare", "Children", "Education", "Environment", "Health", "Human Rights"
+    ]
+  },
+  "Experience": [
+    {
+      "company": "Logitech",
+      "position": "Data Scientist",
+      "type": "Full-time",
+      "duration": "Jun 2023 - Present · 2 yrs 3 mos",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Driving cross-functional collaborations to demonstrate the value of Data Science, implementing forecasting models for sales and cash flow, integrating product sentiment analysis across multiple platforms, and facilitating GenAI initiatives for non-technical audiences.",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGZy4MFSpNapg/company-logo_100_100/0/1727322903222/logitech_logo?e=1759363200&v=beta&t=qEklQx16mWUwUPV6kXk7lq-QeKK3VaO3qTBxRFjm2_U"
+    },
+    {
+      "company": "Logitech",
+      "position": "Junior Data Scientist",
+      "type": "Full-time",
+      "duration": "Dec 2020 - May 2023 · 2 yrs 6 mos",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Led data matching programs for partner integrations, developed CI/CD automation pipelines using AWS, and created NLP-based cleansing tools to improve customer data quality."
+    },
+    {
+      "company": "Team4Tech",
+      "position": "Volunteer",
+      "type": "Part-time",
+      "duration": "Aug 2023 - Nov 2023 · 4 mos",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Volunteered with Team4Tech, supporting education-focused NGO Learning Links Foundation on social impact projects."
+    },
+    {
+      "company": "WinFluentials",
+      "position": "Project Intern - Data Science",
+      "type": "Full-time",
+      "duration": "Jul 2020 - Nov 2020 · 5 mos",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": ""
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Anna University Chennai",
+      "degree": "Bachelor of Engineering",
+      "field": "Electrical and Electronics Engineering",
+      "years": "2015 - 2019"
+    },
+    {
+      "institution": "Velammal International School",
+      "degree": "Senior Secondary",
+      "field": "11th and 12th",
+      "years": "2013 - 2015"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Intro to Snowflake for Devs, Data Scientists, Data Engineers",
+      "issuer": "Snowflake",
+      "dateIssued": "Jul 2025"
+    },
+    {
+      "name": "Section ProfAI: AI Proficiency",
+      "issuer": "Section",
+      "credentialId": "5X25G56KRDS6",
+      "dateIssued": "Jul 2025"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "Decision-Making",
+    "Critical Thinking",
+    "Problem Solving",
+    "Team Building Facilitation",
+    "MLOps",
+    "Business Analytics",
+    "Analytical Skills",
+    "Collaborative Problem Solving",
+    "Mathematics",
+    "Predictive Analytics",
+    "Communication",
+    "Decision Sciences"
+  ],
+  "HonorsAndAwards": [
+    {
+      "title": "Logi Leader of the Month",
+      "issuer": "Logitech",
+      "dateIssued": "Jul 2024",
+      "description": "Awarded monthly for delivering exceptional results and role-modeling Logitech's purpose of 'Extending Human Potential'."
+    },
+    {
+      "title": "Outstanding Volunteer of the Year",
+      "issuer": "Team4Tech",
+      "dateIssued": "Jul 2024",
+      "description": "Recognized for authentic engagement and impactful volunteerism in collaborative projects with Learning Links Foundation and Vietnet-ICT."
+    }
+  ],
+  "Projects": [
+    {
+      "title": "Smart Parking System for Charging of Electric Vehicle",
+      "dates": "Dec 2018 - Apr 2019",
+      "contributors": "Other contributors"
+    },
+    {
+      "title": "Multi Purpose relay using IoT",
+      "dates": "Jul 2018 - Sep 2018",
+      "contributors": "Other contributors"
+    }
+  ],
+  "Volunteering": [
+    {
+      "organization": "Toastmasters International",
+      "role": "Vice President Public Relations",
+      "duration": "Jun 2020 - Present · 5 yrs 3 mos"
+    }
+  ],
+  "Recommendations": [
+    {
+      "type": "Received",
+      "from": {
+        "name": "Jeanne M.",
+        "title": "Design leader | service designer | user researcher | experience strategist",
+        "relationship": "Senior to Aarthi (not direct manager)"
+      },
+      "date": "May 8, 2025",
+      "content": "Aarthi excels in user research, solution brainstorming, design thinking and technical recommendations. She demonstrates a T-shaped profile with growth mindset and strong communication skills."
+    },
+    {
+      "type": "Received",
+      "from": {
+        "name": "Goutham Kumar",
+        "title": "Asia Hub Director",
+        "relationship": "Worked on same team"
+      },
+      "date": "April 21, 2025",
+      "content": "Contributed to Logitech's Social Impact project for Team4Tech and Learning Links Foundation, showing exceptional leadership, teamwork, and commitment to social good."
+    }
+  ]
+}

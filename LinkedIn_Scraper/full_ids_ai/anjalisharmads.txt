@@ -1,0 +1,88 @@
+{
+  "BasicInfo": {
+    "Name": "Anjali Sharma",
+    "Location": "Bangalore Urban, Karnataka, India",
+    "ProfileSummary": "A strategic planner, skilled in Data Science with over 3.1 years of demonstrated abilities in Data Analysis, Machine Learning & AI. Expertise in Data Science practice; analysing problems and uncovering opportunities using predictive analysis. Ability to understand a problem statement, implement analytical solutions & techniques independently or with minimal supervision. Proficient in end-to-end design of Machine Learning & Deep Learning solution to meet clients’ needs including research, prototyping, data gathering, requirements gathering, and solution scoping. Mined & analysed data from multiple sources to drive improvement and delivered data-driven solutions to resolve business challenges. Skilled in Data Analysis, Predictive Modeling, Artificial Intelligence, Random Forest, Classification (RF), Gradient Boosting (XGBOOST), LightGBM Regression, Feature Engineering, Deep Learning: Convolutional Neural Network, Recurrent Neural Network and Natural Language Processing."
+  },
+  "Activity": {
+    "Followers": 543,
+    "RecentPosts": "Anjali shares will be displayed here.",
+    "Interests": [
+      "Driving Access to Health |Ex Head-AI platforms |Serial Innovator| Independent Director|Purpose Alchemist",
+      "Andriy Burkov (PhD in AI, author of The Hundred-Page Language Models Book and The Hundred-Page Machine Learning Book)"
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Data Scientist",
+      "Company": "DP World",
+      "EmploymentType": "Full-time",
+      "Location": "India",
+      "Duration": "Jul 2021 - Present",
+      "Logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6ssQ9puRQAg/company-logo_100_100/company-logo_100_100/0/1633068025497/dp_world_logo?e=1759363200&v=beta&t=YytBnEUJATwLn33GcNJM1-lFpoUYrvvWSMlxtwp2qxc",
+      "LinkedInURL": "https://www.linkedin.com/company/163494/",
+      "SkillsUsed": ["Analytical Skills", "Python (Programming Language)", "+5 skills"]
+    },
+    {
+      "Title": "Data Scientist (Intern)",
+      "Company": "Fedo.ai",
+      "EmploymentType": "Internship",
+      "Location": "Bangalore Urban, Karnataka, India",
+      "Duration": "Feb 2021 - Jun 2021",
+      "Logo": "https://media.licdn.com/dms/image/v2/C560BAQF1s2t3FOxdaA/company-logo_100_100/company-logo_100_100/0/1630667489728/fedo_logo?e=1759363200&v=beta&t=eZU7Pzq2-uvPt08bZ8hgsaq8T39F4ybrdy27pCaBYkE",
+      "LinkedInURL": "https://www.linkedin.com/company/10401907/",
+      "SkillsUsed": ["Analytical Skills", "Python (Programming Language)", "+4 skills"]
+    },
+    {
+      "Title": "Data Scientist FreeLancer",
+      "Company": "",
+      "EmploymentType": "",
+      "Location": "",
+      "Duration": "",
+      "SkillsUsed": []
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "National Institute of Technology Warangal",
+      "Degree": "Post Graduate Programme",
+      "FieldOfStudy": "Artificial Intelligence and Machine Learning",
+      "Duration": "2019 - 2020",
+      "Logo": "https://media.licdn.com/dms/image/v2/D560BAQE5apRiv1lpKg/company-logo_100_100/company-logo_100_100/0/1704391172430/national_institute_of_technology_warangal_logo?e=1759363200&v=beta&t=ORAks7UJhf8eUQWsfwpVdrY0oKvPzLJijWNVMug5Q_k",
+      "LinkedInURL": "https://www.linkedin.com/company/15105507/",
+      "SkillsAcquired": ["Data Analysis", "Python (Programming Language)"]
+    },
+    {
+      "Institution": "International Institute of Information Technology, Bhubaneswar",
+      "Degree": "Master's degree",
+      "FieldOfStudy": "Computer Science",
+      "Duration": "2013 - 2015",
+      "Logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFQJUmQF0PFoQ/company-logo_100_100/company-logo_100_100/0/1631353883053?e=1759363200&v=beta&t=izjrakn3IF7pdC41cNrpPglts6SHlkcJn-7kvHFUMlo",
+      "LinkedInURL": "https://www.linkedin.com/company/15101352/",
+      "SkillsAcquired": ["Data Analysis", "Python (Programming Language)"]
+    }
+  ],
+  "CertificationAndSkills": {
+    "Courses": [
+      "Python for Data Science"
+    ],
+    "Skills": [
+      "Data Analysis",
+      "Python (Programming Language)",
+      "Machine Learning",
+      "Predictive Modeling",
+      "Artificial Intelligence",
+      "Random Forest",
+      "Classification (RF)",
+      "Gradient Boosting (XGBOOST)",
+      "LightGBM Regression",
+      "Feature Engineering",
+      "Deep Learning: Convolutional Neural Network",
+      "Recurrent Neural Network",
+      "Natural Language Processing",
+      "Analytical Skills",
+      "Spreadsheets"
+    ],
+    "TotalSkillsCount": 18
+  }
+}

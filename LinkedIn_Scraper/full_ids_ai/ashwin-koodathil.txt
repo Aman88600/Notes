@@ -1,0 +1,104 @@
+Here is a **structured JSON representation** of the provided information, arranged as requested under the fields: `"Basic Info"`, `"Activity"`, `"Experience"`, `"Education"`, `"Certification"`, and `"Skills"`. Where data was ambiguous or repetitive, I synthesized and condensed it for clarity in each category.
+
+```json
+{
+  "Basic Info": {
+    "name": "Ashwin Koodathil",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQHijdJ4iAFdeg/profile-displayphoto-shrink_100_100/B56ZWjQhJEGQAU-/0/1742200773255?e=1759363200&v=beta&t=rjgbKIPpgDC5HwjEGVLb-r6zV2rwXhiia5nWMLWrFEc",
+    "accountType": "Premium",
+    "connections": "500+",
+    "headline": "Lead Data Scientist",
+    "location": "Bengaluru, Karnataka, India",
+    "summary": "Data science enthusiast with the ability to deliver valuable insights via advanced data-driven methods. Currently exploring deep learning."
+  },
+  "Activity": {
+    "followers": 2066,
+    "recentPosts": [
+      {
+        "title": "Lead Data Scientist",
+        "timestamp": "12 hours ago"
+      }
+    ],
+    "comments": 1
+  },
+  "Experience": [
+    {
+      "title": "Lead Data Scientist",
+      "company": "Tiger Analytics",
+      "employmentType": "Full-time",
+      "duration": "Mar 2025 - Present",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE2M3YNGvX6Qg/company-logo_100_100/company-logo_100_100/0/1697546701844/tiger_analytics_logo?e=1759363200&v=beta&t=XhnH0asC-lo9-wQZ12d27_yofjdNfvhjIOqj7CCjgsY"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "TheMathCompany",
+      "employmentType": "Full-time",
+      "duration": "Jan 2023 - Mar 2025",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "description": "Built data-driven solutions for retail demand forecasting, space optimization, and product substitutability analysis using ML, optimization, and deep learning."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "ConvertCart",
+      "employmentType": "Full-time",
+      "duration": "Sep 2021 - Dec 2022",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Vanilla Networks Pvt Ltd",
+      "employmentType": "Full-time",
+      "duration": "May 2020 - Aug 2021"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "IISER Bhopal",
+      "degree": "Master's degree",
+      "field": "Mathematics",
+      "years": "2012 - 2017",
+      "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXTfPzGKmdIg/company-logo_100_100/company-logo_100_100/0/1630623734528/iiser_bhopal_logo?e=1759363200&v=beta&t=3HpyjxaX5GjSVep1Fz3gMUUYMc0qaW7qa5fzD_PjbM8"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Python for Data Science Professional",
+      "issuer": "Edureka",
+      "issued": "Sep 2019",
+      "credentialId": "TNQKLYC8"
+    },
+    {
+      "name": "Intermediate Python for Data Science",
+      "issuer": "DataCamp",
+      "issued": "Nov 2018",
+      "credentialId": "7,090,166"
+    }
+  ],
+  "Skills": [
+    "Demand Forecasting",
+    "Machine Learning",
+    "Deep Learning",
+    "Optimization",
+    "PySpark",
+    "Databricks",
+    "LightGBM",
+    "XGBoost",
+    "Prophet",
+    "Neural Prophet",
+    "Hyperparameter Tuning",
+    "Optuna",
+    "Space Optimization",
+    "PuLP",
+    "PyStan",
+    "Product Embeddings",
+    "TensorFlow",
+    "Gensim Word2Vec",
+    "Prod2Vec",
+    "Clustering",
+    "Louvain Method"
+  ]
+}
+```
+
+This JSON is **structured for clarity** and **data hierarchy** following best practices illustrated in schema.org and JSON schemas[1][2][5]. If you need more or fewer details per field, let me know your requirements.

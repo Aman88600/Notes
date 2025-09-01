@@ -1,0 +1,180 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Mikhail Zhilkin",
+    "headline": "First Team Data Scientist at Arsenal F.C. | Ex-King.com | Data Analytics Expert",
+    "location": "London Area, United Kingdom",
+    "about": "Data scientist at Arsenal F.C. Previously, four years taking care of Candy Crush franchise. Oversaw the launch of Candy Crush Soda and Candy Crush Jelly.",
+    "profileImageUrls": [
+      "https://media.licdn.com/dms/image/v2/C4D03AQFTmYtn0npw2g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1631983775289?e=1759363200&v=beta&t=_O8zwCc18eNQBRvm9olwe7s7GHSWoc2skevHhwRXk8I",
+      "https://media.licdn.com/dms/image/v2/D4E03AQGHL_jsMa5XZw/profile-displayphoto-shrink_100_100/B4EZODBOlZHAAk-/0/1733069959136?e=1759363200&v=beta&t=QMM3h_x3rba80vNDa4-jo7WKChie8RSzY7reZl6j5sI"
+    ],
+    "followers": 1907,
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Full professional proficiency"
+      },
+      {
+        "language": "Russian",
+        "proficiency": "Native or bilingual proficiency"
+      }
+    ]
+  },
+  "Activity": {
+    "recentPosts": 8,
+    "interests": {
+      "companies": [
+        {
+          "name": "King",
+          "followers": 196431
+        },
+        {
+          "name": "Kambi",
+          "followers": 26255
+        }
+      ],
+      "groups": [],
+      "newsletters": [],
+      "schools": [],
+      "causes": [
+        "Science and Technology"
+      ]
+    }
+  },
+  "Experience": [
+    {
+      "title": "First Team Data Scientist",
+      "company": "Arsenal F.C",
+      "type": "Full-time",
+      "location": "London Area, United Kingdom",
+      "duration": "Jul 2018 - Present",
+      "period_years": 7,
+      "highlights": [
+        "FA Cup 🏆 x 1"
+      ]
+    },
+    {
+      "title": "Co-founder",
+      "company": "ZX Games",
+      "duration": "Dec 2005 - Present",
+      "period_years": 19,
+      "description": "Remakes of classic video games Lode Runner and Boulder Dash."
+    },
+    {
+      "title": "Lead Data Scientist",
+      "company": "Kambi",
+      "location": "Greater Stockholm Metropolitan Area",
+      "duration": "Feb 2017 - Jun 2018",
+      "period_years": 1.5,
+      "description": "Data exploration tools & dashboards. Research into player behaviour. Predictive modelling."
+    },
+    {
+      "title": "Data Scientist → Senior Data Scientist + Tech Lead",
+      "company": "King.com",
+      "duration": "Feb 2013 - Feb 2017",
+      "period_years": 4,
+      "description": "All things data science for Candy Crush franchise. Oversaw the launch of Candy Crush Soda and Candy Crush Jelly."
+    },
+    {
+      "title": "Decision Analyst",
+      "company": "Klarna AB",
+      "description": "Prevention of online payment fraud by identifying patterns in user behaviour."
+    }
+  ],
+  "Education": [
+    {
+      "school": "Moscow Institute of Physics and Technology (State University) (MIPT)",
+      "degree": "Master of Science - MS",
+      "field": "Applied Physics and Mathematics",
+      "years": "2000 - 2006"
+    },
+    {
+      "school": "Chuvash-Turkish Lyceum",
+      "degree": "Secondary education",
+      "years": "1996 - 2000"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Hive queries",
+      "issuer": "Matte & Jan-Erik",
+      "date": "Issued Jun 2015",
+      "credentialUrl": "http://www.zhilkin.com/docs/Hive%20quries.pdf"
+    },
+    {
+      "name": "A Beginner's Guide to Irrational Behavior",
+      "issuer": "Coursera",
+      "date": "Issued May 2014",
+      "credentialUrl": "https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972152"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Data Analysis",
+      "endorsements": 22,
+      "endorsedBy": [
+        "Noa Tamir",
+        "10 colleagues at King"
+      ]
+    },
+    {
+      "name": "Analytics",
+      "endorsements": 19,
+      "endorsedBy": [
+        "Mathias Golombek",
+        "8 colleagues at King"
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "name": "Lode Runner remake",
+      "dates": "Dec 2005 - May 2010",
+      "associatedWith": "ZX Games",
+      "description": "Lode Runner reworked to perfection. Unforgettable spirit of the original game, improved gameplay, well thought-out user interface and level editor.",
+      "projectUrl": "http://www.zxgames.com/loderunner"
+    },
+    {
+      "name": "Boulder Dash remake",
+      "dates": "Dec 2005 - Nov 2008",
+      "associatedWith": "ZX Games",
+      "description": "Completely reworked version of the original Boulder Dash.",
+      "projectUrl": "http://www.zxgames.com/boulderdash"
+    }
+  ],
+  "Publications": [
+    {
+      "title": "Data Science Without Makeup: A Guidebook for End-Users, Analysts, and Managers",
+      "authors": ["Mikhail Zhilkin"],
+      "publisher": "Chapman and Hall/CRC",
+      "date": "Sep 18, 2021",
+      "description": "A guidebook examining pitfalls in data analytics and business intelligence, with skepticism from industry experience."
+    },
+    {
+      "title": "Running more than before? The evolution of running load demands in the English Premier League",
+      "journal": "International Journal of Sports Science & Coaching",
+      "date": "Apr 3, 2023"
+    }
+  ],
+  "Recommendations": [
+    {
+      "type": "Received",
+      "author": "Rubeus Hagrid",
+      "role": "Project manager",
+      "date": "August 1, 2014",
+      "context": "Worked with Mikhail but on different teams",
+      "text": "Mikhail is an awesome guy to work with, full of ideas and initiatives that generate huge interest among his peers. He is definitely that genius personality every top team should have."
+    },
+    {
+      "type": "Received",
+      "author": "Aleksey Sergeyev",
+      "role": "Project manager",
+      "date": "March 3, 2012",
+      "context": "Aleksey was Mikhail’s client",
+      "text": "I quite enjoyed working with Mikhail on a user manual for a software application my company developed. He did a good job making the document look better, not limiting himself to editing the text, but improving the page layout, typography, etc. His attention to detail was very refreshing."
+    }
+  ]
+}
+```
+This JSON organizes the given profile content into the specified fields, with a clear, structured nesting for experience, education, certification, and skills, including key highlights under each field.

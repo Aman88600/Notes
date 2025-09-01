@@ -1,0 +1,171 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Keerthana Selvam",
+    "headline": "Data Scientist | Youtuber @ Data Science with Keerthi (தமிழில்)",
+    "location": "Chennai, Tamil Nadu, India",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQElZdePxECvWQ/profile-displayphoto-shrink_100_100/B56ZQVqXNxHoAU-/0/1735530214981?e=1759363200&v=beta&t=QN1Urzv0kq1lMtAplB_X0x5CaDwvbtADUped2Vc58LA",
+    "profileLinks": [
+      "https://linktr.ee/datascience_with_keerthi",
+      "https://www.linkedin.com/in/keerthana-selvam?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAChra_sBV5_xAVDnoRCmueO0bt-1hvTD4aA"
+    ],
+    "about": "I'm Keerthana, a very passionate AI/ML professional who is completely self-taught. I have been researching in the field for over 5+ years. Skilled in Machine Learning, Deep learning, Natural Language Processing. I am passionate about teaching AI & ML so that it is easily accessible and understood by everyone. I teach data science in Tamil @DataSciencewithKeerthi in YouTube, I share Free Learning Resources, provide updates on jobs and internships, introduce AI tools tailored for data professionals. My goal is to educate and guide data enthusiasts in their professional journeys.",
+    "followers": 1642
+  },
+  "Activity": {
+    "recentPosts": [
+      {
+        "postDate": "1 day ago",
+        "contentPreview": null,
+        "media": "https://media.licdn.com/dms/image/v2/D5622AQECxOUD1wJs7A/feedshare-shrink_800/B56Zj4EiHRHMAg-/0/1756508597478?e=1759363200&v=beta&t=rJSiZTBizom4zotsnEH1msEJPBUH1lL2PSURfna7vxg"
+      },
+      {
+        "postDate": "4 days ago",
+        "contentPreview": null,
+        "media": "https://media.licdn.com/dms/image/v2/D5622AQEGe01kcCgspQ/feedshare-shrink_800/B56ZjquozuIAAg-/0/1756284760586?e=1759363200&v=beta&t=jB-vXh4PHkY9jFS0P-jpUACjyEDcIRAvcejFhBRVg18"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Industry Evangelist",
+      "company": "topmate.io",
+      "type": "Freelance",
+      "location": "Remote",
+      "startDate": "Jan 2025",
+      "endDate": "Present",
+      "duration": "8 mos",
+      "details": [
+        "Top 1% on topmate",
+        "Topmate verified data science mentor",
+        "50+ bookings 4.8/5 Ratings"
+      ]
+    },
+    {
+      "title": "Youtuber",
+      "company": "Data Science with Keerthi (YouTube)",
+      "type": "Personal Youtube Channel",
+      "location": "Chennai, Tamil Nadu, India",
+      "startDate": "Jun 2024",
+      "endDate": "Present",
+      "duration": "1 yr 3 mos",
+      "details": [
+        "Personal Youtube channel with 10k+ subscribers"
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Khoros",
+      "type": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Jul 2020",
+      "endDate": "Jan 2024",
+      "duration": "3 yrs 7 mos",
+      "details": [
+        "Worked to solve major Natural Language Processing problems like Sentiment analysis, Spam detection, Theme identification with enormous community data.",
+        "Created various scalable efficient regression and classification algorithms using different ML & DL techniques."
+      ]
+    },
+    {
+      "title": "Software Engineer 2",
+      "company": "Khoros",
+      "type": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Mar 2020",
+      "endDate": "Jul 2020",
+      "duration": "5 mos"
+    },
+    {
+      "title": "Software Engineer 1",
+      "company": "Khoros",
+      "type": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Jul 2018",
+      "endDate": "Mar 2020",
+      "duration": "1 yr 9 mos",
+      "details": [
+        "Worked in Community Platform Integration team that manages the community website interaction and accessibility with different sources.",
+        "Created the complete REST API integration framework between Community website and Salesforce CRM system to maintain support cases, emails and Case portal.",
+        "Worked on Community Plugin SDK, a command line tool built in javascript to add customisations to community website via REST APIs."
+      ]
+    },
+    {
+      "title": "Event Marketer",
+      "company": "CSEA_CEG",
+      "type": "Part-time",
+      "location": "Chennai, Tamil Nadu, India",
+      "startDate": "May 2017",
+      "endDate": "Apr 2018",
+      "duration": "1 yr"
+    }
+  ],
+  "Volunteering": [
+    {
+      "title": "General Secretary",
+      "organization": "National Service Scheme",
+      "location": null,
+      "startDate": "Sep 2016",
+      "endDate": "May 2018",
+      "duration": "1 yr 9 mos",
+      "details": [
+        "Organised a free medical camp in a village near Sengundram, Chennai.",
+        "Volunteer work included annual 10 day camp in a village near Chennai.",
+        "Setting up science exhibition and teaching underprivileged students at PUMS Government School, Kadalur., India.",
+        "Tutoring students at Saint Louis Institute For The Deaf And Blind, Adayar, Chennai."
+      ]
+    },
+    {
+      "title": "Education Mentor",
+      "organization": "CSEA_CEG",
+      "location": null,
+      "startDate": "May 2017",
+      "endDate": "Mar 2018",
+      "duration": "11 mos",
+      "details": [
+        "Mentored the CSE department juniors regularly, by conducting additional evening classes, thereby helping students get better knowledge of their subjects."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "school": "College of Engineering, Guindy",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldOfStudy": "Computer Science",
+      "startYear": 2014,
+      "endYear": 2018,
+      "grade": "91%"
+    },
+    {
+      "school": "St.Joseph's Matriculation Higher Secondary School",
+      "degree": "High school",
+      "startYear": 2012,
+      "endYear": 2014,
+      "grade": "96%"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Reinforcement Learning From Human Feedback",
+      "issuer": "DeepLearning.AI",
+      "issueDate": "May 2025",
+      "credentialId": null,
+      "link": "https://learn.deeplearning.ai/accomplishments/8015c018-c549-4b79-972c-de78feff7943?usp=sharing"
+    },
+    {
+      "name": "Introduction to Machine Learning in Production",
+      "issuer": "DeepLearning.AI",
+      "issueDate": "Sep 2023",
+      "credentialId": "HWKHT334RM2V",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/HWKHT334RM2V"
+    }
+  ],
+  "Skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Natural Language Processing",
+    "Reinforcement Learning From Human Feedback",
+    "Reinforcement Learning",
+    "Large Language Models (LLM)"
+  ]
+}
+```

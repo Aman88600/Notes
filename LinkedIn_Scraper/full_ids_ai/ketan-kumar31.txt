@@ -1,0 +1,124 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Sourabh Sahu",
+    "currentTitle": "Scientist at Government of India",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHB4Mg0yTivEQ/profile-displayphoto-shrink_100_100/B4DZYYwMG4H4AU-/0/1744172009059?e=1759363200&v=beta&t=sl9h2EcdbfY9IM3lH9PfWoXmd2gnHZYn2qjXmjafDnE",
+    "linkedinUrl": "https://www.linkedin.com/in/sourabhsahu1",
+    "topmateUrl": "https://topmate.io/sourabh2",
+    "followers": 16056,
+    "about": "Hi, I'm Sourabh Sahu, a Certified Data Scientist and Scientist at Government of India. I have 13+ Years of experience in the IT industry and 11+ Years of experience in Government Domain working on Big Data. National e-Governance Award recipient. Early practitioner in handling Tera Bytes of Data before widespread cloud adoption. Tech enthusiast passionate about Data Science, mentoring, and communicating complex technical concepts.",
+    "disclaimer": "All activity on this platform represents solely my own opinions and is not in any way, shape, or form, a representation of my current or past employers."
+  },
+  "Activity": {
+    "summary": "Helping people to become a Data Scientist | MS Certified Data Scientist | MCT | Handled TBs of Data | Mentor | 15K+ LinkedIn",
+    "recentPostTimestamp": "2 weeks ago",
+    "followers": 16056,
+    "recommendations": [
+      {
+        "type": "Received",
+        "from": "Sanmit Kumar Ghosal",
+        "content": "He is the very energetic and good mentor for data science. He is the best best guide for me. I am very excited to work with him, if possible.",
+        "date": "August 24, 2022",
+        "context": "Sourabh was senior to Sanmit Kumar but didn't manage Sanmit Kumar directly."
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Scientist C",
+      "company": "NIC, Government of India (National Informatics Centre, MeitY)",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "duration": "Jul 2017 - Present (8 yrs 2 mos)",
+      "summary": "Working on eGovernance and mGovernance domain."
+    },
+    {
+      "title": "Scientist B",
+      "company": "NIC, Government of India",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "duration": "Mar 2014 - Jun 2017 (3 yrs 4 mos)"
+    },
+    {
+      "title": "Scientifc Officer/DIO",
+      "company": "NIC, Government of India",
+      "duration": "Apr 2010 - Mar 2014 (4 yrs)",
+      "summary": "Software development, project implementation, project coordination, team lead in e-Governance Domain."
+    },
+    {
+      "title": "Mac & iPhone Consultant",
+      "company": "Aloha Technology Pvt. Ltd.",
+      "duration": "Mar 2010 - Apr 2010 (2 mos)",
+      "summary": "iOS/Mac OSX application development and testing, worked on project management tools, scrum process."
+    }
+  ],
+  "Education": [
+    {
+      "degree": "Master’s Degree (MTech) in Computer Science & Engineering",
+      "institution": "Barkatullah Vishwavidyalaya",
+      "years": "2014 - 2017",
+      "grade": "A",
+      "activities": ["Data Structures", "DBMS", "Parallel Computing", "Computer Graphics"]
+    },
+    {
+      "degree": "Post Graduate Diploma in Cyber Law, Cyber/Computer Forensics and Counterterrorism",
+      "institution": "National Law Institute University, Bhopal",
+      "years": "2015 - 2016",
+      "grade": "A",
+      "activities": ["Cyber Threats", "Cyber Law", "Cyber Forensics"]
+    }
+  ],
+  "Certification": [
+    {
+      "title": "AI and Machine Learning",
+      "institution": "Indian Institute of Technology, Roorkee",
+      "issued": "Mar 2022",
+      "credentialId": "CEC 1077/2021-22/18",
+      "credentialUrl": "https://www.old.iitr.ac.in/cec/CEC-1077-2021-22/18.jpg"
+    },
+    {
+      "title": "Diplôme d'études en langue française A1",
+      "institution": "France's Ministry of Education",
+      "issued": "Sep 2015"
+    }
+  ],
+  "Skills": [
+    "AI and Machine Learning",
+    "Analytics",
+    "Data Science",
+    "Python",
+    "Statistics",
+    "SQL",
+    "Data Analytics",
+    "Tableau",
+    "Power BI",
+    "Azure ML Studio",
+    "TensorFlow",
+    "Scikit Learn",
+    "Cloud Platforms (AWS, Azure, GCP)",
+    "ML Flow"
+  ],
+  "HonorsAndAwards": [
+    {
+      "title": "National eGovernance Award",
+      "issuer": "Department of Administrative Reforms and Public Grievances, Government of India",
+      "date": "Feb 2018"
+    },
+    {
+      "title": "Award of Appreciation",
+      "issuer": "Government of Madhya Pradesh",
+      "date": "Jun 2017",
+      "details": "Associated with National Informatics Centre, MeitY. National e-Governance for Education Portal for Government of Madhya Pradesh, serving more than 5 lakh users of Education Department."
+    }
+  ],
+  "Languages": [
+    {
+      "language": "English",
+      "proficiency": "Limited working proficiency"
+    },
+    {
+      "language": "French",
+      "proficiency": "Native or bilingual proficiency"
+    }
+  ]
+}
+```

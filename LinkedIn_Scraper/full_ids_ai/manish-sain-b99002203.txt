@@ -1,0 +1,123 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Vebashini Naidoo",
+    "currentTitle": "Chief Data Scientist",
+    "currentCompany": "South African Revenue Service (SARS)",
+    "location": "City of Johannesburg, Gauteng, South Africa",
+    "profileImage": "https://media.licdn.com/dms/image/v2/C4D03AQErspSC8XqY5Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1633036755858?e=1759363200&v=beta&t=ZcS-WfdCH3dRU8C0028k5QY1SSGGOgooYXykpqpRoKw",
+    "linkedinUrl": "https://www.linkedin.com/in/vebashini-naidoo-4260a96a/",
+    "followers": 1878,
+    "connections": "500+",
+    "industry": "Quantitative Analytics",
+    "languages": ["Afrikaans"]
+  },
+  "Activity": {
+    "recentPostsCount": 9,
+    "followers": 1878,
+    "lastActivityDate": "3 weeks ago",
+    "engagement": {
+      "comments": 1,
+      "visiblePosts": "Loaded 9 Posts posts"
+    }
+  },
+  "Experience": [
+    {
+      "title": "Chief Data Scientist",
+      "company": "South African Revenue Service (SARS)",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "employmentType": "Full-time",
+      "dateRange": "Apr 2024 - Present",
+      "duration": "1 yr 5 mos",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEnxdZXIEk0SQ/company-logo_100_100/B4DZX6vvlJHAAY-/0/1743668575506/sars_logo?e=1759363200&v=beta&t=2d2EA_2zoyEkbbo6a9Prke9fubGFuCqeTptmw309lu0"
+    },
+    {
+      "title": "Chief Data Scientist",
+      "company": "rain South Africa",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "employmentType": "Full-time",
+      "dateRange": "Mar 2022 - May 2024",
+      "duration": "2 yrs 3 mos",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQESxRnqIWrlSw/company-logo_100_100/company-logo_100_100/0/1661949793371/rainsouthafrica_logo?e=1759363200&v=beta&t=rts-eKjjp0YvWdMDCyd2JVuTelA8ohsgZWoImFEzkn0"
+    },
+    {
+      "title": "General Manager: Data Analytics",
+      "company": "rain South Africa",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "employmentType": "Full-time",
+      "dateRange": "Sep 2018 - Feb 2023",
+      "duration": "4 yrs 6 mos",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQESxRnqIWrlSw/company-logo_100_100/company-logo_100_100/0/1661949793371/rainsouthafrica_logo?e=1759363200&v=beta&t=rts-eKjjp0YvWdMDCyd2JVuTelA8ohsgZWoImFEzkn0"
+    },
+    {
+      "title": "",
+      "company": "Absa Capital",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "employmentType": "",
+      "dateRange": "Jul 2017 - Sep 2018",
+      "duration": "1 yr 3 mos"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Wits Business School",
+      "degree": "Master of Business Administration (MBA)",
+      "fieldOfStudy": "",
+      "dateRange": "2010 - 2013"
+    },
+    {
+      "school": "UNISA",
+      "degree": "Bachelor of Banking, Finance and Banking",
+      "fieldOfStudy": "",
+      "dateRange": ""
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Foundation of Generative AI",
+      "issuer": "Udacity",
+      "issueDate": "Feb 2025",
+      "credentialUrl": "https://www.udacity.com/certificate/e/d4a09116-b7bc-11ef-9c52-e70b4a06b65c"
+    },
+    {
+      "title": "Make Better Decisions",
+      "issuer": "Maven",
+      "issueDate": "Nov 2024",
+      "credentialUrl": "https://maven.com/certificate/gjcsljcy",
+      "credentialId": "gjcsljcy"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Credit Risk",
+      "endorsements": 12,
+      "endorsedBy": [
+        "Cyprian Moloto"
+      ]
+    },
+    {
+      "name": "Business Analysis",
+      "endorsements": 7,
+      "endorsedBy": [
+        "Jaco van den Heever (MBA, CUA, CXA)"
+      ]
+    }
+  ],
+  "Volunteering": [
+    {
+      "title": "Tutored Maths to Grade 11's",
+      "organization": "Cosmo City Secondary",
+      "dateRange": "Jan 2012 - May 2014",
+      "duration": "2 yrs 5 mos",
+      "description": "Tutored Grade 11's in mathematics at Cosmo City Secondary as part of a volunteer program organized by FNB. The programme ended due to lack of school feedback."
+    },
+    {
+      "title": "Tutor maths grade 8's",
+      "organization": "Blue Eagle Secondary School in Cosmo City",
+      "dateRange": "",
+      "duration": "",
+      "description": "Tutored grade 8 and 9's in mathematics, involved in activities including debates to enhance English for students."
+    }
+  ]
+}
+```

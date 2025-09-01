@@ -1,0 +1,180 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Aarthi Kasirajan",
+    "headline": "Data Scientist | Data Science & AI for Business",
+    "summary": "Data Scientist with 6+ years of experience, adept at extracting actionable insights from intricate datasets. Deeply interested in quantifying the business impact of data-driven solutions. Passionate about transforming raw data into production-ready models. Strategic in translating data into actionable intelligence to empower organizations for data-centric decisions. Dedicated to fostering collaboration and innovation.",
+    "location": "Chennai, Tamil Nadu, India",
+    "current_position": "Data Scientist at Logitech",
+    "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQEhtHDa9ATSQA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1698856659597?e=1759363200&v=beta&t=Jp99C_7_H80lInzqWpOtE0g-BV4Rot4QVbDyuaPyY6s",
+    "followers": 9456,
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Full professional proficiency"
+      },
+      {
+        "name": "Hindi",
+        "proficiency": "Limited working proficiency"
+      }
+    ],
+    "causes": [
+      "Animal Welfare",
+      "Children",
+      "Education",
+      "Environment",
+      "Health",
+      "Human Rights"
+    ]
+  },
+  "Activity": {
+    "followers": 9456,
+    "recent_post": {
+      "text": "Data Scientist | Data Science and AI Solutions for Business @ Logitech |AI Governance | Data & Analytics | AI and MLOps | Mentoring Aspiring Data Scientists",
+      "posted_ago": "1 week ago"
+    }
+  },
+  "Experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Logitech",
+      "employment_type": "Full-time",
+      "duration": "Jun 2023 - Present",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Initiated cross-functional collaborations to demonstrate the power and value of Data Science. Developed sales forecasting, sentiment analysis PoC, and cash flow forecasting models. Communicated and demystified Generative AI concepts, applied design thinking, and facilitated productivity-enhancing brainstorming.",
+      "key_achievements": [
+        "Developed sales forecasting model incorporating internal and external business metrics",
+        "Integrated product sentiment analysis from multiple platforms",
+        "Developed cash flow forecast models for finance planning",
+        "Conducted workshops to demystify GenAI for non-technical audiences"
+      ]
+    },
+    {
+      "title": "Junior Data Scientist",
+      "company": "Logitech",
+      "employment_type": "Full-time",
+      "duration": "Dec 2020 - May 2023",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Led partner data integration for Salesforce & Oracle, deployed CI/CD pipeline using AWS for all projects, and developed an NLP-based customer data cleansing tool, saving on third-party costs.",
+      "key_achievements": [
+        "Linked ~25k partner accounts among 12M customer sites with 95% accuracy",
+        "Implemented CI/CD pipelines for smooth AWS deployments",
+        "Reduced expenditure via in-house customer detail cleansing tool"
+      ]
+    },
+    {
+      "title": "Volunteer",
+      "company": "Team4Tech",
+      "employment_type": "Part-time",
+      "duration": "Aug 2023 - Nov 2023",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "Supported Learning Links Foundation through social impact project collaboration with Logitech."
+    },
+    {
+      "title": "Project Intern - Data Science",
+      "company": "WinFluentials",
+      "employment_type": "Internship",
+      "duration": "Jul 2020 - Nov 2020",
+      "location": "Chennai, Tamil Nadu, India (Remote)",
+      "description": "Worked on data science projects as an intern."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Anna University, Chennai",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": "Electrical and Electronics Engineering",
+      "duration": "2015 - 2019",
+      "associated_skills": [
+        "Mathematics",
+        "Predictive Analytics",
+        "Communication"
+      ]
+    },
+    {
+      "institution": "Velammal International School",
+      "degree": "Senior Secondary",
+      "field_of_study": "11th and 12th",
+      "duration": "2013 - 2015",
+      "associated_skills": [
+        "Mathematics",
+        "Communication",
+        "Analytical Skills"
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Intro to Snowflake for Devs, Data Scientists, Data Engineers",
+      "issuer": "Snowflake",
+      "issued": "Jul 2025"
+    },
+    {
+      "name": "Section ProfAI: AI Proficiency",
+      "issuer": "Section",
+      "issued": "Jul 2025",
+      "credential_id": "5X25G56KRDS6"
+    }
+  ],
+  "Skills": [
+    "Data Science",
+    "AI and MLOps",
+    "Business Analytics",
+    "Analytical Skills",
+    "Collaborative Problem Solving",
+    "Decision Sciences",
+    "Critical Thinking",
+    "Problem Solving",
+    "Team Building Facilitation",
+    "MLOps"
+  ],
+  "Projects": [
+    {
+      "name": "Smart Parking System for Charging of Electric Vehicle",
+      "duration": "Dec 2018 - Apr 2019",
+      "description": "Developed a smart parking and charging system integrating IoT."
+    },
+    {
+      "name": "Multi Purpose Relay using IoT",
+      "duration": "Jul 2018 - Sep 2018",
+      "description": "Designed a multi-purpose relay controlled through IoT platforms."
+    }
+  ],
+  "Volunteering": [
+    {
+      "role": "Vice President Public Relations",
+      "organization": "Toastmasters International",
+      "duration": "Jun 2020 - Present",
+      "description": "Promoted public relations activities, supported team communications, and organized member engagement."
+    }
+  ],
+  "HonorsAwards": [
+    {
+      "title": "Logi Leader of the Month",
+      "issuer": "Logitech",
+      "issued": "Jul 2024",
+      "description": "Awarded for exceptional results and role-modeling Logitech's purpose of 'Extending Human Potential'."
+    },
+    {
+      "title": "Outstanding Volunteer of the Year",
+      "issuer": "Team4Tech",
+      "issued": "Jul 2024",
+      "description": "Recognized for impactful volunteerism and authentic engagement through collaborative projects."
+    }
+  ],
+  "Recommendations": [
+    {
+      "from": "Jeanne M.",
+      "relationship": "Senior to Aarthi (not direct manager)",
+      "date": "May 8, 2025",
+      "content": "Aarthi stood out as a machine learning expert, displayed curiosity, conducted user research, and contributed both strategically and technically to projects. Has a growth mindset, strong communication skills, and a people-first approach."
+    },
+    {
+      "from": "Goutham Kumar",
+      "relationship": "Worked on same team",
+      "date": "April 21, 2025",
+      "content": "Consistently went above and beyond for social impact projects at Logitech with Team4Tech, showing leadership, communication skills, and dedication to mission-driven work."
+    }
+  ]
+}
+```

@@ -1,0 +1,168 @@
+```json
+{
+  "BasicInfo": {
+    "fullName": "Saurabh Kumar",
+    "headline": "Sr. Associate Data Scientist at Affine | Python | Machine Learning | GenAI | SQL | Statistics | Excel",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "500+",
+    "followers": 1716,
+    "profilePhoto": "https://media.licdn.com/dms/image/v2/D5603AQHVc2hnZZDbcQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1705848130587?e=1759363200&v=beta&t=Upe_zOCbzh7eQRIcDTOLZMobadhzNm1fE019m8C-l8c",
+    "about": "I am a Data Scientist with 4+ years of experience specializing in CPG, Healthcare, and Energy domains. Expertise in Python, SQL, Machine Learning, NLP, and delivering data-driven insights. Currently Senior Associate Data Scientist at Affine, working on a Suicide Risk Prediction project. Previously built a Price Optimization project for Anko using Claude 3 Haiku & Amazon Bedrock, managed SQL in Snowflake. Experience with Glanbia and Primagaz on MMM and profitability. Passionate about ML and AI for business impact.",
+    "languages": [
+      { "language": "English", "proficiency": "Native or bilingual proficiency" },
+      { "language": "Hindi", "proficiency": "Full professional proficiency" }
+    ],
+    "contactLinks": [
+      "https://www.linkedin.com/in/niksaurabh/overlay/about-this-profile/",
+      "https://www.linkedin.com/in/niksaurabh/overlay/contact-info/"
+    ]
+  },
+  "Activity": {
+    "followers": 1716,
+    "recentPosts": [
+      { "title": "Suicide Risk Prediction Project", "type": "work update" },
+      { "title": "Price Optimization with Claude 3 Haiku", "type": "work update" }
+    ],
+    "engagementHighlights": [
+      { "comments": 37, "type": "Recent post comments" }
+    ]
+  },
+  "Experience": [
+    {
+      "title": "Senior Associate Data Scientist",
+      "company": "Affine",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFXbeKF6LKXTw/company-logo_100_100/company-logo_100_100/0/1704445877006/affine_logo?e=1759363200&v=beta&t=huN6SkdUTMI02gfIvSN8YrUlarfCB1bUuzBTeFN7Kko",
+      "location": "Bengaluru, Karnataka, India · Hybrid",
+      "duration": "Sep 2024 - Present · 1 yr",
+      "responsibilities": [
+        "Lead ML/NLP predictive models for healthcare and retail, EDA, preprocessing, feature engineering.",
+        "Built Random Forest models (91% sensitivity, 96% AUC-ROC); minimized false negatives for high-risk detection.",
+        "Developed LLM Q&A systems (LangChain, Azure OpenAI), RAG context-aware search with text-embedding-ada-002 in Azure Cognitive Search.",
+        "GenAI-powered price optimization (Claude 3/Bedrock), SQL/ Snowflake pipeline and code optimization."
+      ]
+    },
+    {
+      "title": "Analyst - Data Scientist",
+      "company": "Metyis",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEtG5gG093_0g/company-logo_100_100/company-logo_100_100/0/1630646678580/metyis_logo?e=1759363200&v=beta&t=ax4si3qPxg5E6sg3EVfG4C6ydt0PbNuXka3Lgh8i3uI",
+      "location": "Bangalore Urban, Karnataka, India · Hybrid",
+      "duration": "Sep 2021 - Sep 2024 · 3 yrs 1 mo",
+      "responsibilities": [
+        "Media Mix Modelling for Glanbia/Primagaz, predicted ROI on media spends and extracted/procured profitability insights.",
+        "MassTer tool predictive models for multiple product groups.",
+        "Optimized customer-level profitability, uncovered significant EBITDA improvement."
+      ]
+    },
+    {
+      "title": "Machine Learning Trainee",
+      "company": "Applied AI Course",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQFcQjDFuvgX7g/company-logo_100_100/company-logo_100_100/0/1631334384285?e=1759363200&v=beta&t=GUnWsCtW1aa6UXDVWwbdls_WeJGIjIiuCxPDo2awz7w",
+      "location": "Hyderabad, Telangana, India",
+      "duration": "Dec 2020 - Sep 2021 · 10 mos",
+      "responsibilities": [
+        "Covered ML algorithms, model creation/optimization, NLP, CV, deep learning.",
+        "Solved real-world ML projects (Quora similarity, StackOverflow tag predictor, Microsoft malware detection, large datasets)."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "school": "Maulana Abul Kalam Azad University of Technology, West Bengal (WBUT)",
+      "degree": "Bachelor of Technology - BTech, Information Technology",
+      "grade": "8.1",
+      "duration": "Jul 2016 - Aug 2020",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQF0ldUOAHOqSQ/company-logo_100_100/company-logo_100_100/0/1631408972387/maulana_abul_kalam_azad_university_of_technology_west_bengal_logo?e=1759363200&v=beta&t=RXZAU8kdVyl8ea43TbNaD6OGnl3zNijIVoJsr9ySn9o"
+    },
+    {
+      "school": "Premalok Mission School, Patna"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Complete Generative AI Course With Langchain and Huggingface",
+      "issuingOrganization": "Udemy",
+      "issueDate": "Issued May 2025",
+      "credentialID": "UC-81a6a481-450d-4157-b212-b09f87744a93",
+      "skills": [
+        "Gen AI", "Natural Language Processing (NLP)"
+      ],
+      "document": "Genai_udemy.pdf"
+    },
+    {
+      "name": "Game Changer of the Month",
+      "issuingOrganization": "Affine",
+      "issueDate": "Issued Mar 2025",
+      "description": "Awarded for exemplary ownership and transcending duty at Affine.",
+      "document": "GCoM_Affine.pdf"
+    }
+  ],
+  "Skills": [
+    "Python (Programming Language)",
+    "Machine Learning",
+    "Statistics",
+    "Data Science",
+    "SQL",
+    "Microsoft Excel",
+    "Logistic Regression",
+    "Generative AI",
+    "Retrieval-Augmented Generation (RAG)"
+  ],
+  "Projects": [
+    {
+      "name": "Resume Retrieval System",
+      "date": "May 2025",
+      "association": "Affine",
+      "description": "Built a RAG-based system for querying resumes using MiniLM-L6-v2 embeddings in FAISS vector db; answers generated via llama3-70b-8192 based on context.",
+      "skills": ["Python", "Retrieval-Augmented Generation (RAG)", "FAISS", "Hugging Face", "LLMs"]
+    },
+    {
+      "name": "Bing Q&A system",
+      "date": "Jun 2025",
+      "association": "Affine",
+      "description": "Designed an RAG system for Bing PoC: natural language Q&A over analytical PDF reports, AI-powered chunking, embedding, indexing, and response (LangChain, Azure OpenAI, text-embedding-ada-002, GPT-4).",
+      "skills": ["Python", "Retrieval-Augmented Generation (RAG)", "LangChain", "Azure OpenAI", "GPT-4"]
+    }
+  ],
+  "Publications": [
+    {
+      "title": "Meme - Dank or Not?",
+      "source": "Medium",
+      "date": "Apr 1, 2021",
+      "summary": "Explores why memes go viral, predicts virality using Deep Learning/Machine Learning."
+    },
+    {
+      "title": "Mechanism of Action (MoA) Prediction: A multi-label machine learning classification case study",
+      "source": "Medium",
+      "date": "Jun 24, 2021",
+      "summary": "ML for classifying biological activity after drug treatment."
+    }
+  ],
+  "TestScores": [
+    {
+      "name": "Titanic: Machine Learning from Disaster",
+      "score": "Rank 210 / 17838",
+      "date": "Sep 2020",
+      "details": "Top 2% in ongoing Kaggle competition."
+    },
+    {
+      "name": "Message Polarity Prediction: Weekend Hackathon #3",
+      "score": "Rank 10",
+      "date": "May 2020"
+    }
+  ],
+  "Recommendations": [
+    {
+      "from": "Ebrahim Bagwala",
+      "relation": "Managed Saurabh directly",
+      "date": "Jan 22, 2025",
+      "content": "Saurabh is dedicated, reliable, proactive, and an excellent Python programmer for data processing; highly recommended for team impact."
+    },
+    {
+      "from": "Amandeep Singh",
+      "relation": "Colleague at Metyis",
+      "date": "May 30, 2024",
+      "content": "Talented Data Scientist with proven results in CPG, Energy, and Animal Nutrition, strong in data analysis, ML, and business impact."
+    }
+  ]
+}
+```

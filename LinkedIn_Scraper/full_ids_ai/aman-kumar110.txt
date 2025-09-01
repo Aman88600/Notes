@@ -1,0 +1,133 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Aman Kumar",
+    "headline": "Senior Data Scientist @Fractal | Ex-EY | Building scalable ML/GEN AI System's and Data Science Community | PGDM in Data Science @NIELIT",
+    "location": "Gurugram, Haryana, India",
+    "profileUrl": "https://www.linkedin.com/in/aman-kumar110",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/D5603AQHC8lGbxeBG6Q/profile-displayphoto-shrink_100_100/B56ZQwV8VTGsAU-/0/1735977846601?e=1759363200&v=beta&t=vPxffzk6ytQEiIVNOJQzFlbbPYzCr4VhVcJyh7ECIv0",
+    "followers": 11910,
+    "connections": "500+",
+    "about": "Results-driven Data Scientist with over 5+ years of experience in designing, developing, and deploying end-to-end AI and machine learning solutions. Specializing in Generative AI, Agentic AI, advanced NLP, computer vision, forecasting, and data analytics. Demonstrated expertise in building scalable AI systems including entity extraction from PDFs, RAG-based semantic search engines, GPT-4-powered chatbots, and generative AI tools for automated ad design.\n\nProficient in leveraging state-of-the-art frameworks such as OpenAI, Hugging Face, TensorFlow, and PyTorch, and skilled in applying deep learning (CNN, RNN, LSTM), traditional ML models, and time series forecasting (ARIMA, SARIMAX). Experienced across diverse industries including Banking, Insurance, Finance, Manufacturing, and Customer Service, with strong exposure to Azure, AWS, and IBM Cloud environments.\n\nAdept at leading data projects from requirement gathering and architecture design to model development and deployment. Passionate about transforming business challenges into actionable insights and automation opportunities using modern AI technologies."
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "content": "I've been getting a lot of DMs for guidance related to AI/Data Science, so decided to take action on it. Connect Here: https://lnkd.in/gMDTd2b5 I'm excited to help folks out and give back to the community via Topmate. Feel free to reach out if you have any questions or just want to say hi!",
+      "mediaUrl": "https://media.licdn.com/dms/image/v2/D5622AQHXWK4S8QIHkw/feedshare-shrink_480/feedshare-shrink_480/0/1715180788331?e=1759363200&v=beta&t=m32gJOy60NTrs3CJOZ87PwfIVYSPA8Rv4c4ImViPtSU",
+      "likes": 19,
+      "comments": 3,
+      "hashtags": ["#GenerativeAI", "#DataScience", "#AIProjects", "#LLM", "#codinglife", "#aiinnovation"]
+    },
+    {
+      "type": "Post",
+      "content": "I feel honored and grateful for this recognition, and it motivates me to continue striving for excellence. I would also like to extend my gratitude to the entire team at EY. Their constant support, collaboration, and mentorship have been instrumental in my professional growth and success. Thank you once again for the acknowledgment.",
+      "mediaUrl": "https://media.licdn.com/dms/image/v2/D4D22AQHha13RYEMC8g/feedshare-shrink_480/feedshare-shrink_480/0/1687769296474?e=1759363200&v=beta&t=aQXFL_KT-y8DQYO-04MXbaCZNgGwWv_C5eWA4cMlnzA",
+      "hashtags": ["#ey", "#eyindia", "#eygds"]
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Fractal",
+      "companyUrl": "https://www.linkedin.com/company/fractal-analytics/",
+      "duration": "Jun 2025 - Present",
+      "employmentType": "Full-time",
+      "location": "Gurugram, Haryana, India · Hybrid",
+      "description": "Working on building RAG based Enterprise level applications, generative AI based chat applications for different sectors like finance, banking, retail and commercial."
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/1073/",
+      "duration": "Oct 2024 - Jun 2025",
+      "employmentType": "Full-time",
+      "location": "Gurugram, Haryana, India · Hybrid",
+      "description": "Worked on building RAG based Enterprise level applications, generative AI based chat applications for different sectors like finance, banking, retail and commercial."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/1073/",
+      "duration": "Sep 2022 - Sep 2024",
+      "employmentType": "Full-time",
+      "location": "Gurugram, Haryana, India · Hybrid",
+      "description": "Demand Forecasting for solar energy generation with time series methods- LSTM, random forest, decision tree, ARIMA. Dashboarding work using Tableau and SQL for data visualization and data insights extraction. Data processing using SSH based on shell scripts (Linux)."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "ManpowerGroup",
+      "companyUrl": "https://www.linkedin.com/company/1799/",
+      "duration": "May 2021 - Sep 2022",
+      "employmentType": "Full-time",
+      "location": "Noida, Uttar Pradesh, India",
+      "description": "Demand Forecasting for solar energy generation with time series methods- LSTM, random forest, decision tree, ARIMA. Dashboarding work using Tableau and SQL for data visualization and data insights extraction. Data processing using SSH based on shell scripts (Linux)."
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/1009/",
+      "duration": "Aug 2019 - Apr 2021",
+      "employmentType": "Full-time",
+      "location": "Gurugram, Haryana, India",
+      "description": "Artificial Intelligence, Machine Learning, Data Science with python, Computer Vision, Face Recognition, object detection, data analysis, Live projects on ML AND Data Science."
+    },
+    {
+      "title": "AI Engineer (Internship/Project)",
+      "company": "Skilancer Solar",
+      "companyUrl": "https://www.linkedin.com/company/10206081/",
+      "description": "Worked on solar panel cleaning robot for making it autonomous based on sensor data collected through it and make predictions and set future schedule work. The project included IOT sensor configuration, data collection, model training based on data collected and schedule the task for report based on previous records. Used python, Embedded C, Machine Learning concepts for model training."
+    }
+  ],
+  "Education": [
+    {
+      "institution": "NATIONAL INSTITUTE OF ELECTRONICS & INFORMATION TECHNOLOGY (NIELIT)",
+      "degree": "Postgraduate Degree",
+      "fieldOfStudy": "Data Engineering",
+      "location": "Noida",
+      "duration": "May 2022 - Jan 2023"
+    },
+    {
+      "institution": "Noida Institute of Engineering & Technology",
+      "degree": "Engineer's Degree",
+      "fieldOfStudy": "Electronics and Communication",
+      "duration": "2013 - Jun 2017"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "EY Artificial Intelligence - AI Engineering - Bronze (2024)",
+      "issuer": "EY",
+      "issueDate": "Jun 2024",
+      "credentialUrl": "https://www.credly.com/badges/e731eb17-4fad-4075-9858-b27cf0ef3f5e/linked_in_profile"
+    },
+    {
+      "name": "EY Artificial Intelligence - Bronze Learning (2023)",
+      "issuer": "EY",
+      "issueDate": "Apr 2023",
+      "credentialUrl": "https://www.credly.com/badges/709f3cfd-d75f-481b-93b6-7ebdfad353eb/linked_in_profile"
+    }
+  ],
+  "Skills": [
+    "Python (Programming Language)",
+    "Natural Language Processing (NLP)",
+    "Generative AI",
+    "Data Analysis",
+    "Machine Learning",
+    "Agentic AI",
+    "AIML",
+    "R (Programming Language)",
+    "Shell Scripting",
+    "Data Visualization",
+    "Bigdata",
+    "Hadoop",
+    "Cassandra",
+    "Mongodb",
+    "SQL",
+    "Apache Spark",
+    "Linux",
+    "Bash scripting",
+    "Java for Big data clustering"
+  ]
+}
+```

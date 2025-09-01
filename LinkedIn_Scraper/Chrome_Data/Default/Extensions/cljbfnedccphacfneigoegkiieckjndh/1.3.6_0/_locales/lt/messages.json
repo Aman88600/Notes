@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Mygtuko, skirtos pridėti programos atsiliepimą, etiketė.",
+      "message": "Pridėti atsiliepimą"
+   },
+   "allowPermissions": {
+      "description": "Mygtuko, leidžiančio programai naudotis teisėmis, etiketė.",
+      "message": "Leisti teises"
+   },
+   "autoScroll": {
+      "description": "Perjungimo etiketė, valdanti, ar automatiškai slinkti prie kiekvieno elemento, kai yra atliekamas nuskaitymas.",
+      "message": "Automatinis slinkimas"
+   },
+   "back": {
+      "description": "Mygtuko, grąžinančio į ankstesnį ekraną, etiketė.",
+      "message": "Atgal"
+   },
+   "cancel": {
+      "description": "Žymė atšaukimo veiksmui.",
+      "message": "Atšaukti"
+   },
+   "changeList": {
+      "description": "Mygtuko, skirta keisti nuskaitomą sąrašą, etiketė.",
+      "message": "Keisti sąrašą"
+   },
+   "changeSelectionLevel": {
+      "description": "Veiksmo aprašymas keičiant pasirinkimo lygį renkantis elementą.",
+      "message": "Pakeisti pasirinkimo lygį"
+   },
+   "chooseFile": {
+      "description": "Mygtuko, skirti failo įkėlimui, etiketė.",
+      "message": "Pasirinkite failą"
+   },
+   "click": {
+      "description": "Žymė spustelėjimo veiksmui.",
+      "message": "Spustelėkite"
+   },
+   "clickLoadMore": {
+      "description": "Žymė, skirta parinkčiai spustelėti mygtuką, kad toje pačioje puslapyje būtų įkelta daugiau elementų renkant duomenis.",
+      "message": "Spustelėkite mygtuką, kad įkeltumėte daugiau elementų tame pačiame puslapyje"
+   },
+   "clickNextPage": {
+      "description": "Žymė parinkčiai spustelėti nuorodą, kad būtų pereita į sekantį puslapį ir įkelti daugiau elementų renkant duomenis.",
+      "message": "Spustelėkite nuorodą, kad pereitumėte į kitą puslapį"
+   },
+   "column": {
+      "description": "Žymė \u003Cselect> elementui, skirtam pasirinkti stulpelį, kuriame yra URL, kuriuos reikia išgauti iš įkeltos CSV.",
+      "message": "Stulpelis"
+   },
+   "confirm": {
+      "description": "Žymė patvirtinimo veiksmui.",
+      "message": "Patvirtinti"
+   },
+   "continue": {
+      "description": "Mygtuko, leidžiančio pereiti į kitą ekraną, etiketė.",
+      "message": "Tęsti"
+   },
+   "copy": {
+      "description": "Mygtuko etiketė, skirta kopijuoti duomenis į iškarpinę.",
+      "message": "Kopijuoti"
+   },
+   "csvFile": {
+      "description": "Žymeklis failų įkėlimo langui, skirtam įkelti CSV failą",
+      "message": "$FILE_TYPE$ failas",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Numatytasis pavadinimas išsamių puslapių duomenų rinkikliui.",
+      "message": "Surinkite informaciją iš $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "pavyzdys.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Meniu elemento, skirtą ištrinti skreperiui, etiketė.",
+      "message": "Ištrinti"
+   },
+   "dismiss": {
+      "description": "Veiksmas, skirtas atmesi pranešimą.",
+      "message": "Atmesti"
+   },
+   "duration": {
+      "description": "Žymė rodo einamojo nuskaitymo trukmę.",
+      "message": "Trukmė"
+   },
+   "esc": {
+      "description": "Žymė „Escape“ klavišui.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Meniu elemento etiketė, skirta eksportuoti duomenų surinkėją.",
+      "message": "Eksportuoti"
+   },
+   "extractData": {
+      "description": "Meniu elemento etiketė, skirta vykdyti duomenų ištraukimą iš kiekvieno URL.",
+      "message": "Išgauti duomenis"
+   },
+   "finish": {
+      "description": "Mygtuko, skirtų baigti elementų pasirinkimą puslapyje, etiketė.",
+      "message": "Baigti"
+   },
+   "headerRow": {
+      "description": "Pagalbos tekstas paaiškinantis, kad įkeltas CSV failas privalo prasidėti antraščių eilute.",
+      "message": "Privalo prasidėti antraščių eilute"
+   },
+   "headerRowRequired": {
+      "description": "Įspėjimas, rodomas kai atrodo, kad įkeltame CSV failyje trūksta antraštės eilutės.",
+      "message": "Reikalinga antraštės eilutė"
+   },
+   "help": {
+      "description": "Mygtuko, skirta atidaryti pagalbos puslapį, etiketė.",
+      "message": "Pagalba"
+   },
+   "hideOptions": {
+      "description": "Mygtuko, skirti slėpti daugiau galimybių duomenų rinkimui, etiketė.",
+      "message": "Slėpti parinktis"
+   },
+   "import": {
+      "description": "Meniu elemento, skirtu importuoti skreperiai, etiketė.",
+      "message": "Importuoti"
+   },
+   "install": {
+      "description": "Mygtuko, skirta įdiegti naujausią programos versiją, etiketė.",
+      "message": "Įdiekite naujausią versiją"
+   },
+   "invalidTab": {
+      "description": "Klaidos pranešimas, kai tikslinis skirtukas atidarytas į ribotą svetainę.",
+      "message": "Šis puslapis yra apribotas. Pabandykite kitą svetainę."
+   },
+   "invalidVersion": {
+      "description": "Nurodykite vartotojui įdiegti naujausią programos versiją.",
+      "message": "$APP_NAME$ nebetaišėjo! Įdiekite naujausią versiją, kad gautumėte naujausius atnaujinimus.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Etiketė, rodanti, kiek elementų buvo ištraukta, kai yra nuskaitomas sąrašas.",
+      "message": "Elementai"
+   },
+   "loadMoreAction": {
+      "description": "Žymė \u003Cselect> elementui, kaip pasirinkti daugiau elementų įkėlimą renkantis.",
+      "message": "Veiksmas įkelti daugiau elementų"
+   },
+   "max": {
+      "description": "Žymė, skirta įvesties valdymui, nustatant maksimalų laukimo laiką, kai keliama daugiau elementų ar puslapių.",
+      "message": "Maks."
+   },
+   "maxItems": {
+      "description": "Įvesties žymė, nustatanti maksimalų elementų, kuriuos reikia nuskaityti, skaičiaus ribą.",
+      "message": "Maksimalus daiktų skaičius"
+   },
+   "maxItemsHelp": {
+      "description": "Pagalbos tekstas, informuojantis vartotoją, kad jis turėtų palikti maksimalaus elemento įvedimo lauką tuščią, jei nenori nustatyti ribos.",
+      "message": "Palikite tuščią, jei ribos nenorite"
+   },
+   "maxItemsReached": {
+      "description": "Įspėjimo aprašymas, nurodantis, kad pasiektas maksimalus nuskaitomų elementų skaičiaus limitas.",
+      "message": "Sėkmingai nuskaityta iki nustatyto limito. Didinkite maksimalių elementų parinktį, kad tęstumėte paiešką."
+   },
+   "mediaUrl": {
+      "description": "Žymė medijos URL laukui, sugautam iš elemento.",
+      "message": "Medijos URL"
+   },
+   "min": {
+      "description": "Žymė, skirta nustatyti minimalų laiką laukti, kol bus įkelta daugiau elementų ar puslapių.",
+      "message": "Min"
+   },
+   "missingTabError": {
+      "description": "Klaidos pranešimas, kai nepavyksta pasiekti tikslinio skirtuko duomenų.",
+      "message": "Užduočiai naudotas skirtukas buvo uždarytas. Užverkite šį langą ir pabandykite dar kartą."
+   },
+   "missingTabPermission": {
+      "description": "Klaidos pranešimas, kai negalima prieiti prie tikslinio skirtuko duomenų.",
+      "message": "Negalima prieiti prie skirtuko. Uždarykite šį langą ir bandykite dar kartą."
+   },
+   "missingUrlColumn": {
+      "description": "Klaidos pranešimas, kai CSV faile nėra stulpelių su URL.",
+      "message": "Nepavyko rasti stulpelio su URL. Prašome pasirinkti kitą failą."
+   },
+   "newScraper": {
+      "description": "Mygtuko, skirtą sukurti naują skreiperį, etiketė.",
+      "message": "Naujas skreiperis"
+   },
+   "noData": {
+      "description": "Vietos rezervavimas lentoje, kai nėra duomenų rodymui.",
+      "message": "Nėra duomenų rodymui"
+   },
+   "noFileChosen": {
+      "description": "Pranešimas rodomas, kai failas nebuvo pasirinktas.",
+      "message": "Failas nepasirinktas"
+   },
+   "noList": {
+      "description": "Vieta žymeklis rodyti, kai puslapyje negali būti rastas sąrašas.",
+      "message": "Nepavyksta rasti sąrašo puslapyje"
+   },
+   "none": {
+      "description": "Etiketė parinkčiai neįkelti daugiau elementų atliekant duomenų kaupimą.",
+      "message": "Nėra"
+   },
+   "options": {
+      "description": "Mygtuko, skirtos rodyti ištraukiklio parinktis, etiketė.",
+      "message": "Parinktys"
+   },
+   "pages": {
+      "description": "Etiketė rodanti puslapių skaičių, kai yra skenuojamas sąrašas.",
+      "message": "Puslapiai"
+   },
+   "permissionsDescription": {
+      "description": "Pagalbos tekstas, paaiškinantis, kad programai reikia papildomų leidimų prieigai prie URL ir jų išgavimui.",
+      "message": "$APP_NAME$ reikia papildomų leidimų, kad galėtų pasiekti ir išgauti URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Ženklo tekstas, rodantis, kad rodomi duomenys yra duomenų rinkiklio peržiūra.",
+      "message": "Peržiūra"
+   },
+   "remainingPages": {
+      "description": "Žymė, rodanti likusių apdoroti puslapių skaičių, kai yra atliekamas detalių puslapių nuskaitymas.",
+      "message": "Likę"
+   },
+   "rename": {
+      "description": "Meniu elemento pavadinimas, skirtas pervardyti skreperiui.",
+      "message": "Pervadinti"
+   },
+   "reviewDescription": {
+      "description": "Prašyti vartotojo palikti atsiliepimą apie programą.",
+      "message": "Sveiki, aš esu $NAME$. Sukūriau $APP_NAME$, kad padėčiau žmonėms sutaupyti laiko. Jei jums patinka naudoti šią programą, labai vertinčiau 5 žvaigždučių įvertinimą, kad padėtumėte kitiems atrasti $APP_NAME$. Labai ačiū!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Padėkite vartotojui už tai, kad jis naudojasi programa.",
+      "message": "Ačiū, kad naudojatės $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Žymė, skirta parinkčiai rodyti ekraną, skirtą detalėms apie kiekvieną sąrašo elementą išgauti.",
+      "message": "Surinkti duomenis"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Patarimo aprašymas, kaip informuoti naudotoją apie detalių puslapių išgavimo veiksmus.",
+      "message": "Norėdami išgauti kiekvieną URL sąraše, pasirinkite \"$LABEL$\" iš meniu viršutiniame dešiniajame kampe po to, kai atsisiųsite sąrašą kaip CSV failą.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Scrape Details"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Patarimas, skirtas informuoti vartotoją apie detalių puslapių nuskaitymą.",
+      "message": "Patarimas: Detalių puslapių nuskaitymas"
+   },
+   "scrapeList": {
+      "description": "Žymė, skirta parinkčiai, rodančiai ekraną sąrašo gavimui.",
+      "message": "Išgrobstyti sąrašą"
+   },
+   "scrapedPages": {
+      "description": "Žymė rodyti nuskraustų puslapių skaičių, kai nuskraunamos išsamesnės puslapių informacijos.",
+      "message": "Nuskrausta"
+   },
+   "scrapingComplete": {
+      "description": "Įspėjimo antraštė, rodanti, kad duomenų nuskaitymas baigtas.",
+      "message": "Duomenų nuskaitymas baigtas"
+   },
+   "scrapingStatus": {
+      "description": "Žymė nurodanti, kad skenavimas vyksta.",
+      "message": "Skenuojama..."
+   },
+   "scrollDelay": {
+      "description": "Įvesties žymė, valdanti, kiek laiko milisekundėmis palaukti slinkiant prie kiekvieno elemento duomenų nuskaitant.",
+      "message": "Slinkimo delsa (ms)"
+   },
+   "scrollDown": {
+      "description": "Etiketė pasirinkimui slinkti žemyn, kad įkeltumėte daugiau elementų per duomenų kaupimą.",
+      "message": "Slinkite žemyn, kad įkeltumėte daugiau elementų"
+   },
+   "select": {
+      "description": "Mygtuko, skirta pasirinkti elementą puslapyje, etiketė.",
+      "message": "Pasirinkti"
+   },
+   "selectElement": {
+      "description": "Antraštė rodoma renkantis elementą.",
+      "message": "Pasirinkite elementą"
+   },
+   "selectField": {
+      "description": "Veiksmo aprašymas, kaip pasirinkti lauką, kurį norima užfiksuoti.",
+      "message": "Pasirinkite lauką"
+   },
+   "selectList": {
+      "description": "Pavadinimas rodomas renkantis sąrašą.",
+      "message": "Pasirinkite sąrašą"
+   },
+   "selectScraper": {
+      "description": "Meniu elemento etiketė, skirta pasirinkti skreiperį kiekvieno URL nuskaitymui.",
+      "message": "Pasirinkite skreiperį"
+   },
+   "selectScraperOption": {
+      "description": "Instrukcija pasirinkti žvalgiklį esamam domenui.",
+      "message": "Pasirinkite žvalgiklį domenui $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "pavyzdys.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Mygtuko, kuris rodo daugiau parinkčių duomenų surinkimui, etiketė.",
+      "message": "Rodyti parinktis"
+   },
+   "startScraping": {
+      "description": "Mygtuko, skirta pradėti skenavimą, etiketė.",
+      "message": "Pradėti skenavimą"
+   },
+   "stopScraping": {
+      "description": "Mygtuko, skirta nutraukti nuskaitymą, etiketė.",
+      "message": "Nutraukti nuskaitymą"
+   },
+   "tabNotFound": {
+      "description": "Klaidos pranešimas, kai nėra norimos kortelės.",
+      "message": "Kortelė nerasta. Uždarykite šį langą ir bandykite dar kartą."
+   },
+   "testUrl": {
+      "description": "Žymė teksto įvesties langui, skirtam testo URL nurodymui pasirinkus skreiperį.",
+      "message": "Išbandyti URL"
+   },
+   "text": {
+      "description": "Žymė tekstui, kuris buvo nuskenuotas iš elemento.",
+      "message": "Tekstas"
+   },
+   "uploadUrls": {
+      "description": "Meniu elemento etiketė, skirta failui su naršytinomis URL įkelti.",
+      "message": "Įkelti URL"
+   },
+   "url": {
+      "description": "Žymė URL laukui, nufotografuotam iš elemento.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Įspėjimas rodomas, kai pasirinktas stulpelio pavadinimas yra URL ir CSV faile gali trūkti antraščių eilutės.",
+      "message": "Stulpelio pavadinimas atrodo kaip URL. Įsitikinkite, kad CSV failas prasideda antraščių eilute, kurioje yra stulpelių pavadinimai."
+   },
+   "verify": {
+      "description": "Mygtuko, skirta patvirtinti pasirinktą elementą paryškinant jį puslapyje, etiketė.",
+      "message": "Patvirtinti"
+   },
+   "waitTimeItems": {
+      "description": "Įvesties lauko etiketė, nurodanti, kiek sekundžių laukti, kol bus įkrauta daugiau elementų.",
+      "message": "Laukimo laikas, kad įkrautų daugiau elementų (sekundės)"
+   },
+   "waitTimePages": {
+      "description": "Etiketė įvestims valdyti, kiek sekundžių laukti įkeliant puslapius.",
+      "message": "Laukimo laikas puslapių įkėlimui (sekundės)"
+   }
+}

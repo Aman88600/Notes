@@ -1,0 +1,107 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Vebashini Naidoo",
+    "headline": "Chief Data Scientist at South African Revenue Service (SARS)",
+    "current_position": "Chief Data Scientist",
+    "current_company": "South African Revenue Service (SARS)",
+    "location": "City of Johannesburg, Gauteng, South Africa",
+    "connections": "500+",
+    "profile_image": "https://media.licdn.com/dms/image/v2/C4D03AQErspSC8XqY5Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1633036755858?e=1759363200&v=beta&t=ZcS-WfdCH3dRU8C0028k5QY1SSGGOgooYXykpqpRoKw",
+    "profile_url": "https://www.linkedin.com/in/vebashini-naidoo-4260a96a/"
+  },
+  "Activity": {
+    "followers": 1878,
+    "recent_posts": 9,
+    "recent_activity_highlight": "Active poster and commenter with 1 recent public comment and 9 loaded posts"
+  },
+  "Experience": [
+    {
+      "title": "Chief Data Scientist",
+      "company": "South African Revenue Service (SARS)",
+      "type": "Full-time",
+      "date_range": "Apr 2024 - Present",
+      "duration": "1 yr 5 mos",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "company_logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEnxdZXIEk0SQ/company-logo_100_100/B4DZX6vvlJHAAY-/0/1743668575506/sars_logo?e=1759363200&v=beta&t=2d2EA_2zoyEkbbo6a9Prke9fubGFuCqeTptmw309lu0"
+    },
+    {
+      "title": "Chief Data Scientist",
+      "company": "Rain South Africa",
+      "type": "Full-time",
+      "date_range": "Mar 2022 - May 2024",
+      "duration": "2 yrs 3 mos",
+      "company_logo": "https://media.licdn.com/dms/image/v2/C4D0BAQESxRnqIWrlSw/company-logo_100_100/company-logo_100_100/0/1661949793371/rainsouthafrica_logo?e=1759363200&v=beta&t=rts-eKjjp0YvWdMDCyd2JVuTelA8ohsgZWoImFEzkn0"
+    },
+    {
+      "title": "General Manager: Data Analytics",
+      "company": "Rain South Africa",
+      "date_range": "Sep 2018 - Feb 2023",
+      "duration": "4 yrs 6 mos"
+    },
+    {
+      "title": "Other experience at Absa Capital and RMB",
+      "company": "Absa Capital, Rand Merchant Bank (RMB)",
+      "date_range": "Jul 2017 - Sep 2018",
+      "duration": "1 yr 3 mos",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "company_logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHCUlwrmFe54w/company-logo_100_100/company-logo_100_100/0/1699435999546/rmb_rand_merchant_bank_logo?e=1759363200&v=beta&t=s-xfnTylTg2euHoBwzgAdhgq7X8wNE_WucWeW5djMlA"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Wits Business School",
+      "degree": "Master of Business Administration (MBA)",
+      "date_range": "2010 - 2013"
+    },
+    {
+      "institution": "UNISA",
+      "degree": "Bachelor of Banking, Finance and Banking"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Foundation of Generative AI",
+      "issuing_organization": "Udacity",
+      "date_issued": "Feb 2025",
+      "credential_url": "https://www.udacity.com/certificate/e/d4a09116-b7bc-11ef-9c52-e70b4a06b65c"
+    },
+    {
+      "name": "Make Better Decisions",
+      "issuing_organization": "Maven",
+      "date_issued": "Nov 2024",
+      "credential_id": "gjcsljcy",
+      "credential_url": "https://maven.com/certificate/gjcsljcy"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Credit Risk",
+      "endorsements": 12,
+      "notable_endorsement": "Cyprian Moloto"
+    },
+    {
+      "name": "Business Analysis",
+      "endorsements": 7,
+      "notable_endorsement": "Jaco van den Heever (MBA, CUA, CXA)"
+    }
+  ],
+  "Volunteering": [
+    {
+      "role": "Tutored Maths to Grade 11's",
+      "organization": "Cosmo City Secondary",
+      "date_range": "Jan 2012 - May 2014",
+      "duration": "2 yrs 5 mos",
+      "description": "Tutored maths and science to Grade 11s. The programme ended due to lack of feedback from the school to FNB who organized the project."
+    },
+    {
+      "role": "Tutor maths grade 8's",
+      "organization": "Blue Eagle Secondary School in Cosmo City",
+      "description": "Tutored maths to Grade 8s and 9s. Activities included debates between classes to enhance English. Associated with RMB's Thought School."
+    }
+  ],
+  "Languages": [
+    "Afrikaans"
+  ]
+}
+```

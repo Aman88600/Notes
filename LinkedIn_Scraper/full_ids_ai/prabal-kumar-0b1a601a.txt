@@ -1,0 +1,101 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Prabal Kumar",
+    "currentPosition": "Data Scientist (Marketing domain)",
+    "currentCompany": "John Deere India Pvt. Ltd. (JDTCI)",
+    "location": "Pune, Maharashtra, India",
+    "summary": "I am Prabal Kumar, currently working as a Data Scientist in Marketing domain at John Deere India Pvt. Ltd. I have over 15 years of experience, primarily within the Data Science and Innovation Team. I aspire to address real-world business challenges and consider myself a generalist.",
+    "followers": 508,
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  "Activity": [
+    {
+      "type": "Comment",
+      "content": "Congrats Atul! 🎉",
+      "date": "1mo"
+    },
+    {
+      "type": "Comment",
+      "content": "Congrats Rutikesh! 🎉",
+      "date": "2mo"
+    },
+    {
+      "type": "Comment",
+      "content": "Congrats Nishith! 🎉",
+      "date": "2mo"
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Data Scientist, AI/ML",
+      "company": "John Deere India Pvt. Ltd. (JDTCI)",
+      "location": "Pune, Maharashtra, India",
+      "type": "Full-time",
+      "from": "May 2023",
+      "to": "Present",
+      "duration": "2 yrs 4 mos"
+    },
+    {
+      "title": "Principal Engineer",
+      "company": "Druva",
+      "location": "Pune, Maharashtra, India",
+      "type": "Full-time",
+      "from": "Jun 2021",
+      "to": "Mar 2023",
+      "duration": "1 yr 10 mos"
+    },
+    {
+      "title": "Senior Lead Data Analytics Engineer",
+      "company": "John Deere India Pvt. Ltd. (JDTCI)",
+      "type": "Full-time",
+      "from": "Jul 2009",
+      "to": "Jun 2021",
+      "duration": "12 yrs"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Indian Institute of Technology, Guwahati",
+      "degree": "M.Tech.",
+      "field": "Computer Science",
+      "from": "2007",
+      "to": "2009"
+    },
+    {
+      "school": "Dr. A.P.J. Abdul Kalam Technical University",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "field": "Computer Science",
+      "from": "2003",
+      "to": "2007"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Natural Language Processing",
+      "issuer": "Coursera",
+      "issued": "May 2021",
+      "credentialId": "JUAV46F3D6M5",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/JUAV46F3D6M5"
+    },
+    {
+      "name": "Statistics with R Specialization",
+      "issuer": "Coursera",
+      "issued": "May 2020",
+      "credentialId": "8D6A6C5M78CU",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/8D6A6C5M78CU"
+    }
+  ],
+  "Skills": [
+    "Research and Development (R&D)",
+    "Critical Thinking",
+    "Data Engineering",
+    "Machine Learning",
+    "Software Engineering",
+    "People Leadership"
+  ]
+}
+```

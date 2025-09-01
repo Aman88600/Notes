@@ -1,0 +1,111 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Vebashini Naidoo",
+    "headline": "Chief Data Scientist at SARS",
+    "location": "City of Johannesburg, Gauteng, South Africa",
+    "connections": "500+",
+    "followers": 1878,
+    "profileImage": "https://media.licdn.com/dms/image/v2/C4D03AQErspSC8XqY5Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1633036755858?e=1759363200&v=beta&t=ZcS-WfdCH3dRU8C0028k5QY1SSGGOgooYXykpqpRoKw",
+    "currentCompany": "South African Revenue Service (SARS)"
+  },
+  "Activity": {
+    "followers": 1878,
+    "postsCount": 9,
+    "recentPost": {
+      "author": "Vebashini Naidoo",
+      "position": "Chief Data Scientist at SARS",
+      "timeAgo": "3 weeks ago",
+      "audience": "Visible to anyone on or off LinkedIn"
+    }
+  },
+  "Experience": [
+    {
+      "title": "Chief Data Scientist",
+      "company": "South African Revenue Service (SARS)",
+      "type": "Full-time",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "startDate": "Apr 2024",
+      "endDate": "Present",
+      "duration": "1 yr 5 mos"
+    },
+    {
+      "title": "Chief Data Scientist",
+      "company": "rain South Africa",
+      "type": "Full-time",
+      "startDate": "Mar 2022",
+      "endDate": "May 2024",
+      "duration": "2 yrs 3 mos"
+    },
+    {
+      "title": "General Manager: Data Analytics",
+      "company": "rain South Africa",
+      "startDate": "Sep 2018",
+      "endDate": "Feb 2023",
+      "duration": "4 yrs 6 mos"
+    },
+    {
+      "title": "Unknown title",
+      "company": "Unknown (based on company links, may be Absa Capital or RMB)",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "startDate": "Jul 2017",
+      "endDate": "Sep 2018",
+      "duration": "1 yr 3 mos"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Wits Business School",
+      "degree": "Master of Business Administration (MBA)",
+      "startYear": 2010,
+      "endYear": 2013
+    },
+    {
+      "school": "UNISA",
+      "degree": "Bachelor of Banking, Finance and Banking"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Foundation of Generative AI",
+      "issuer": "Udacity",
+      "issueDate": "Feb 2025"
+    },
+    {
+      "name": "Make Better Decisions",
+      "issuer": "Maven",
+      "issueDate": "Feb 2025",
+      "credentialId": "gjcsljcy"
+    }
+  ],
+  "Skills": [
+    {
+      "name": "Credit Risk",
+      "endorsements": 12
+    },
+    {
+      "name": "Business Analysis",
+      "endorsements": 7
+    }
+  ],
+  "Volunteering": [
+    {
+      "role": "Tutor",
+      "activity": "Tutored Maths to Grade 11's",
+      "organization": "Cosmo City Secondary",
+      "startDate": "Jan 2012",
+      "endDate": "May 2014",
+      "duration": "2 yrs 5 mos"
+    },
+    {
+      "role": "Tutor",
+      "activity": "Tutor maths grade 8's",
+      "organization": "Blue Eagle secondary school in Cosmo city",
+      "duration": null
+    }
+  ],
+  "Languages": [
+    "Afrikaans"
+  ]
+}
+```

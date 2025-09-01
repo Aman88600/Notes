@@ -1,0 +1,114 @@
+```json
+{
+  "BasicInfo": {
+    "Name": "Not Explicitly Provided",
+    "Headline": "Leading Data Science and analytics engagements at Acies, with experience in Customer analytics, Search optimization, Demand forecasting, Propensity modelling, Pricing, Customer Segmentation and Migration, Web analytics and Data Engineering.",
+    "Summary": "Leading Data Science and analytics engagements at Acies, with experience in Customer analytics, Search optimization, Demand forecasting, Propensity modelling, Pricing, Customer Segmentation and Migration, Web analytics and Data Engineering. Worked in Automotive parts, Retail, Manufacturing, UCaaS, Travel, Finance, HR. Love experimenting and collaborating with people. Enjoy playing chess, reading, and learning random musical instruments.",
+    "Location": "India",
+    "Connections": "500+",
+    "Followers": 1465,
+    "ProfilePhotos": [
+      "https://media.licdn.com/dms/image/v2/C5603AQEgJa_GHS2alw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1642950194676?e=1759363200&v=beta&t=1EX_OZUtoA4j_F6KXnZxqnfpN0Lt4TExDTWSd6di6ak",
+      "https://media.licdn.com/dms/image/v2/D5603AQF78kDH9PW9XQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726927343625?e=1759363200&v=beta&t=jl2D-XANQBHnq0QAZoQXZ_w7HeVkYlDO4vBDuwic8jA"
+    ]
+  },
+  "Activity": {
+    "Followers": 1465,
+    "PostsLoaded": 9,
+    "ExampleInteractions": [
+      {
+        "Name": "Nithin Kamath",
+        "Role": "Founder & CEO at Zerodha & Rainmatter. Learning at Rainmatter foundation. Views are personal. Nothing here is advice.",
+        "TimeAgo": "1 month ago"
+      },
+      {
+        "Name": "Talha Khan",
+        "Role": "Data Strategy, AI, Analytics & MarTech",
+        "TimeAgo": "1 month ago"
+      }
+    ]
+  },
+  "Experience": [
+    {
+      "Title": "Engagement Lead - Data Science",
+      "Company": "Acies",
+      "EmploymentType": "Full-time",
+      "Duration": "May 2024 - Present",
+      "Location": "India",
+      "Description": "- Designed and implemented demand forecasting solutions for an Apparel and Fashion manufacturer using time series modelling, improving forecast accuracy by 15%.\n\n- Led optimization of B2B pipeline for a leading travel aggregator by refactoring codebase, reducing code by 50%, runtime by 100%, and improving MRR insights.",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGLS9G-OYd-qw/company-logo_100_100/B56Zc71vK5HUAU-/0/1749055632476/acies_global_logo?e=1759363200&v=beta&t=6CCG-qF7Q2iFJV-yljTrOXtnOGWVEdntwPiLrJFyKq8"
+    },
+    {
+      "Title": "Senior Data Scientist",
+      "Company": "Acies",
+      "EmploymentType": "Full-time",
+      "Duration": "Oct 2023 - Jul 2024",
+      "Location": "India",
+      "Description": "- Improved price realization by 7% for a label manufacturing giant via pricing analytics and customer segmentation.\n- Deployed propensity models using gradient boosting to enhance migration rates for a UCaaS company from 33% to 60%, reducing churn through A/B tests."
+    },
+    {
+      "Title": "Data Scientist",
+      "Company": "Acies",
+      "EmploymentType": "Full-time",
+      "Duration": "Jul 2022 - Oct 2023",
+      "Location": "Chennai, Tamil Nadu, India",
+      "Description": "- Led pricing analytics to improve price realization by 7% for a label manufacturer.\n- Developed strategies for UCaaS customer migration, achieving a migration rate increase from 33% to 60% using machine learning models."
+    },
+    {
+      "Title": "Data Engineer",
+      "Company": "VokseDigital Consultancy Services LLP",
+      "EmploymentType": "Full-time",
+      "Duration": "Apr 2018 - Jul 2018",
+      "Location": "Greater Chennai Area"
+    }
+  ],
+  "Education": [
+    {
+      "School": "Meenakshi Sundararajan Engineering College",
+      "Degree": "Bachelor of Engineering - BE",
+      "FieldOfStudy": "Civil Engineering",
+      "Years": "2013 - 2017",
+      "Activities": [
+        "Football"
+      ],
+      "SchoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGEQQx3DjVxhQ/company-logo_100_100/company-logo_100_100/0/1651385104005/meenakshi_sundararajan_engineering_college_logo?e=1759363200&v=beta&t=rLNsKcy2NmUA-1664mi3yaoow3MZb6etRuSIPzKMmV8"
+    },
+    {
+      "School": "Maharishi Vidyamandir Sr. Sec. School",
+      "Degree": "High School",
+      "Years": "2010 - 2013"
+    }
+  ],
+  "Certification": [
+    {
+      "Name": "Microsoft Certified: Data Analyst Associate",
+      "Issuer": "Microsoft",
+      "DateIssued": "Jul 2021",
+      "CredentialId": "",
+      "Link": "https://www.credly.com/badges/ef342fee-4f30-412a-aedc-93b50921635a?source=linked_in_profile",
+      "IssuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=1759363200&v=beta&t=HobFyDuHNQEHLgDySlwVP1ryX6D5wagdCqlQ4PV8aeU"
+    },
+    {
+      "Name": "Data Analysis",
+      "Issuer": "Dataquest.io",
+      "DateIssued": "Mar 2018",
+      "CredentialId": "H888-7217",
+      "Link": "https://www.dataquest.io/verify_cert/8LRP0J4K6OY2JQ5IG0JE/",
+      "IssuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQGHdXiKs7xmBA/company-logo_100_100/company-logo_100_100/0/1665086175794/dataquest_io_logo?e=1759363200&v=beta&t=Kn2i490ZbWKvc2ypoQoP4pyb3AcwncP1-9wqKheLOaw"
+    }
+  ],
+  "Skills": [
+    "Demand Forecasting",
+    "Time Series Modelling",
+    "B2B Pipeline Optimization",
+    "Pricing Analytics",
+    "Customer Segmentation",
+    "Propensity Modelling",
+    "Web Analytics",
+    "Data Engineering",
+    "Microsoft Power BI",
+    "Microsoft Azure",
+    "Analytical Skills"
+  ]
+}
+```

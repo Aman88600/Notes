@@ -1,0 +1,133 @@
+Here is the information **structured into JSON format** under the requested sections: **Basic Info, Activity, Experience, Education, Certification, and Skills**. Only relevant, human-readable, and deduplicated fields are included, while placeholder-like or code-class fields (like t-14, ember-view) are ignored.
+
+```json
+{
+  "BasicInfo": {
+    "name": "Resham Wadhwa",
+    "current_title": "Principal Data Scientist (Data Science Manager)",
+    "current_company": "Urban Company",
+    "location": "Gurugram, Haryana, India",
+    "profile_summary": "Results-oriented Data Science Professional with 9+ years of technical expertise. Pioneered the data science team at Urban Company, growing it to a team of 4+ data scientists.",
+    "connections": "500+",
+    "languages": ["English", "Hindi"]
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "content": "We’re Hiring a Data Scientist II. If you have 3-6 years' experience with Python, SQL, and machine learning frameworks, join Urban Company's Data Science team.",
+      "hashtags": [
+        "#DataScience",
+        "#MachineLearning",
+        "#AI",
+        "#JobOpening",
+        "#UrbanCompany",
+        "#Hiring",
+        "#Python",
+        "#DataScientist"
+      ],
+      "posted_by": "Urban Company",
+      "likes": 206,
+      "reposts": 16,
+      "comments": 24
+    }
+  ],
+  "Experience": [
+    {
+      "title": "Principal Data Scientist (Data Science Manager)",
+      "company": "Urban Company",
+      "location": "Gurugram, Haryana, India",
+      "duration": "Aug 2024 – Present",
+      "highlights": [
+        "Leading a team of 6 data scientists across Supply Chain, Matchmaking, Fulfilment, Trust and Safety, SOP Adherence.",
+        "Responsible for hiring, roadmap, project planning and execution.",
+        "Setup regular team knowledge sessions.",
+        "Implemented robust data pipelines using Spark and Airflow.",
+        "Collaborated with the Data Platform team to build the Data Science Platform.",
+        "Conducted A/B tests for model evaluation.",
+        "Worked with cross-functional teams for stakeholder management."
+      ]
+    },
+    {
+      "title": "Staff Data Scientist",
+      "company": "Urban Company",
+      "location": "Gurugram, Haryana, India",
+      "duration": "Jan 2022 – Aug 2024",
+      "highlights": [
+        "Ownership of solutions, team mentoring.",
+        "End-to-end solution development in multiple domains."
+      ]
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "Urban Company",
+      "location": "Gurugram, Haryana, India",
+      "duration": "Dec 2019 – Jan 2022",
+      "highlights": [
+        "Developed and deployed facial analytics pipeline.",
+        "Model outperformed commercial alternatives in precision/accuracy."
+      ]
+    },
+    {
+      "title": "Lead Engineer (Data Science)",
+      "company": "Info Edge India Ltd",
+      "location": "Noida Area, India",
+      "duration": "May 2019 – Nov 2019"
+    },
+    {
+      "title": "Senior Software Engineer (Data Science)",
+      "company": "Info Edge India Ltd",
+      "location": "Noida Area, India",
+      "duration": "Jun 2016 – Apr 2019"
+    },
+    {
+      "title": "Software Developer",
+      "company": "Info Edge India Ltd",
+      "location": "Noida Area, India",
+      "duration": "Jun 2015 – May 2016"
+    }
+  ],
+  "Education": [
+    {
+      "degree": "Master of Technology (M.Tech.), Information Technology",
+      "institution": "Delhi College of Engineering",
+      "duration": "2013 – 2015"
+    },
+    {
+      "degree": "Bachelor of Technology, Computer Science",
+      "institution": "Guru Gobind Singh Indraprastha University",
+      "duration": "2008 – 2012",
+      "activities": ["Photography Club"]
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Machine Learning",
+      "institution": "Coursera",
+      "issued": "May 2019",
+      "credential_id": "YCWXTWHAAPUT"
+    },
+    {
+      "name": "Exploratory Data Analysis",
+      "institution": "Coursera",
+      "issued": "Mar 2018",
+      "credential_id": "K65TSFATNK2Q"
+    }
+  ],
+  "Skills": [
+    "Python (Programming Language)",
+    "SQL",
+    "Machine Learning",
+    "Snowflake",
+    "Project Implementation"
+  ]
+}
+```
+
+**Notes:**
+- Only **significant, human-meaningful fields** are kept. Repetitive or purely technical LinkedIn container fields are ignored.
+- **Activity** and **Experience** are synthesized for brevity; more posts or job titles can be expanded if needed.
+- **Skills** are deduplicated and key technical strengths are prioritized.
+- **Education** includes main degrees and notable extracurriculars.
+- **Certification** entries contain name, issuer, date, and credential ID where available.
+- Details that could belong to multiple categories (e.g., facial analytics, leadership) are primarily placed under **Experience**.
+- Recommendations, projects, interests, and detailed projects can be added as new categories if required. If you want those included, specify the section.

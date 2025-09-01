@@ -1,0 +1,172 @@
+Here is a **structured JSON** profile based on your requested fields: Basic Info, Activity, Experience, Education, Certification, and Skills. This arranges the extracted information from your content in a clear, organized format—matching the JSON resume schema conventions[3] while ensuring all relevant data is captured.
+
+```json
+{
+  "BasicInfo": {
+    "name": "Prince Kumar",
+    "current_position": "Data Scientist | Fraud Analytics",
+    "current_company": "Hero FinCorp.",
+    "location": "Delhi, India",
+    "about": "Experienced Data Scientist with a strong track record in the information technology and services industry. Expertise includes statistical data analysis, SAS programming, AWS, Python, Power BI, Tableau, machine learning/deep learning, and fraud control analytics.",
+    "connections": 500,
+    "followers": 2597
+  },
+  "Activity": [
+    {
+      "type": "Post",
+      "title": "Loan_Default_Prediction",
+      "description": "One Stop For Risk Analytics. Shared article solving banking sector modeling and feature engineering challenges. Encourages Data Science Enthusiasts to discuss Risk Analytics.",
+      "hashtags": [
+        "#dataanalytics",
+        "#datascienceenthusiast",
+        "#datascience",
+        "#riskanalysis",
+        "#randomforest",
+        "#machinelearningalgorithms",
+        "#deeplearningalgorithms",
+        "#statisticalanalysis"
+      ],
+      "links": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:6804704758914461696",
+        "https://lnkd.in/eztGdfr"
+      ],
+      "comments": 3
+    },
+    {
+      "type": "Comments",
+      "items": [
+        {
+          "comment": "Congrats Shanoop! 🎉",
+          "activity_link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7345490714220183555",
+          "month": "2mo"
+        },
+        {
+          "comment": "Congrats Kartikeya! 🎉",
+          "activity_link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7333557641878585345",
+          "month": "3mo"
+        },
+        {
+          "comment": "Congrats Vignesh! 🎉",
+          "activity_link": "https://www.linkedin.com/in/prince-kumar-481a17151/recent-activity/comments/"
+        }
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Data Scientist | Fraud Analytics",
+      "company": "Hero FinCorp.",
+      "employment_type": "Full-time",
+      "location": "Delhi, India",
+      "start_date": "Mar 2023",
+      "end_date": "Present"
+    },
+    {
+      "job_title": "Data Scientist | Fraud and Abuse Analytics",
+      "company": "UnitedHealth Group",
+      "employment_type": "Full-time",
+      "location": "Noida, Uttar Pradesh, India",
+      "start_date": "Nov 2021",
+      "end_date": "Mar 2023"
+    },
+    {
+      "job_title": "Data Scientist",
+      "company": "Indium Software",
+      "employment_type": "Full-time",
+      "location": "Tamil Nadu, India",
+      "start_date": "Aug 2020",
+      "end_date": "Nov 2021"
+    },
+    {
+      "job_title": "Jr. Data Scientist",
+      "company": "Great Learning",
+      "employment_type": "Full-time",
+      "location": "Greater Chennai Area",
+      "start_date": "Jul 2019",
+      "end_date": "Aug 2020"
+    }
+  ],
+  "Education": [
+    {
+      "degree": "Post Graduate Program in Data Science and Engineering",
+      "field": "Data Science",
+      "school": "Great Learning",
+      "year": "2019",
+      "grade": "Excellent",
+      "note": "Successfully completed PGP-DSE program; strong foundation in data science tools and methods."
+    },
+    {
+      "degree": "Bachelor of Engineering (BE)",
+      "field": "Electrical and Electronics Engineering",
+      "school": "Dayananda Sagar College of Engineering, Bangalore",
+      "year": "2014 - 2018",
+      "grade": "Excellent",
+      "note": "Experience in applying engineering concepts to data science."
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Complete Guide to TensorFlow for Deep Learning with Python",
+      "issuer": "Udemy",
+      "issued_date": "Mar 2021",
+      "credential_url": "https://www.udemy.com/certificate/UC-aa6fd006-a0de-497b-8583-161ea8b7e9c0/"
+    },
+    {
+      "name": "Alteryx Bootcamp",
+      "issuer": "Indium",
+      "issued_date": "Feb 2021"
+    }
+    // Add additional certifications here as needed
+  ],
+  "Skills": [
+    "Statistical Data Analysis",
+    "SAS Programming",
+    "Amazon Web Services (AWS)",
+    "Python",
+    "Power BI",
+    "Tableau",
+    "Machine Learning",
+    "Deep Learning",
+    "Fraud Control Analytics",
+    "Data Wrangling",
+    "LangChain"
+  ],
+  "Recommendations": [
+    {
+      "type": "Received",
+      "from": "Deepana R",
+      "role": "Sr Data Engineer | Databricks | AWS | SQL | PYSPARK",
+      "date": "June 2, 2021",
+      "comment": "Impressed by Prince's ability to handle toughest situations. Great asset to any team."
+    },
+    {
+      "type": "Received",
+      "from": "Dilip Kumar Chappa",
+      "role": "Analytics Manager @ Coca-Cola",
+      "date": "October 3, 2020",
+      "comment": "Ambitious and independent expert. Excellent workflow, strong analytical capability, great with clients."
+    }
+    // Add additional recommendations here as needed
+  ],
+  "Interests": {
+    "companies": [
+      {
+        "name": "Microsoft",
+        "followers": 26224591
+      },
+      {
+        "name": "American Express",
+        "followers": 2904588
+      }
+    ],
+    "groups": [],
+    "newsletters": [],
+    "schools": [
+      "Dayananda Sagar College of Engineering",
+      "Great Learning"
+    ]
+  }
+}
+```
+
+This structure and field separation follows recognized patterns from JSON resume schemas[3], as well as activity reporting[2]. Fields are completed with your supplied data; lists and nested objects group multiple entries clearly. Modify or expand as needed for additional records.

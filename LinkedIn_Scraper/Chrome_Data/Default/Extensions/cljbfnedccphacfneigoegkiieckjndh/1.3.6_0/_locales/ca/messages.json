@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Etiqueta per al botó per afegir una ressenya de l'aplicació.",
+      "message": "Afegeix una ressenya"
+   },
+   "allowPermissions": {
+      "description": "Etiqueta per al botó que permet els permisos per a l'aplicació.",
+      "message": "Permet els permisos"
+   },
+   "autoScroll": {
+      "description": "Etiqueta per al commutador per controlar si es desplaça automàticament a cada element mentre s'extreu.",
+      "message": "Desplaçament automàtic"
+   },
+   "back": {
+      "description": "Etiqueta per al botó per tornar a la pantalla anterior.",
+      "message": "Enrere"
+   },
+   "cancel": {
+      "description": "Etiqueta per a l'acció de cancel·lar.",
+      "message": "Cancel·la"
+   },
+   "changeList": {
+      "description": "Etiqueta per al botó per canviar la llista a raspar.",
+      "message": "Canvia la llista"
+   },
+   "changeSelectionLevel": {
+      "description": "Descripció de l'acció per canviar el nivell de selecció quan es selecciona un element.",
+      "message": "Canvia el nivell de selecció"
+   },
+   "chooseFile": {
+      "description": "Etiqueta per al botó per triar un fitxer per pujar.",
+      "message": "Tria un fitxer"
+   },
+   "click": {
+      "description": "Etiqueta per a l'acció de fer clic.",
+      "message": "Fes clic"
+   },
+   "clickLoadMore": {
+      "description": "Etiqueta per a l'opció de fer clic a un botó per carregar més elements a la mateixa pàgina quan s'està fent scraping.",
+      "message": "Feu clic al botó per carregar més elements a la mateixa pàgina"
+   },
+   "clickNextPage": {
+      "description": "Etiqueta per a l'opció de fer clic en un enllaç per navegar a la pàgina següent i carregar més elements en fer scraping.",
+      "message": "Fes clic en l'enllaç per navegar a la pàgina següent"
+   },
+   "column": {
+      "description": "Etiqueta per a l'element \u003Cselect> per seleccionar la columna que conté les URL per raspar del CSV carregat.",
+      "message": "Columna"
+   },
+   "confirm": {
+      "description": "Etiqueta per a l'acció de confirmació.",
+      "message": "Confirma"
+   },
+   "continue": {
+      "description": "Etiqueta per al botó per continuar a la següent pantalla.",
+      "message": "Continua"
+   },
+   "copy": {
+      "description": "Etiqueta per al botó per copiar les dades al porta-retalls.",
+      "message": "Copiar"
+   },
+   "csvFile": {
+      "description": "Etiqueta per a l'entrada de fitxer per pujar un fitxer CSV",
+      "message": "fitxer $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Nom predeterminat per a un raspall de pàgines de detalls.",
+      "message": "Rasca detalls de $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Etiqueta per a l'element de menú per esborrar l'eina de raspall.",
+      "message": "Esborra"
+   },
+   "dismiss": {
+      "description": "Acció per descartar l'alerta.",
+      "message": "Descarta"
+   },
+   "duration": {
+      "description": "Etiqueta per mostrar la durada de l'escorcoll actual.",
+      "message": "Durada"
+   },
+   "esc": {
+      "description": "Etiqueta per a la tecla Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Etiqueta per a l'element de menú per exportar el raspall.",
+      "message": "Exporta"
+   },
+   "extractData": {
+      "description": "Etiqueta per a l'element del menú per executar l'extracció i extreure dades de cada URL.",
+      "message": "Extreu dades"
+   },
+   "finish": {
+      "description": "Etiqueta per al botó per acabar de seleccionar elements a la pàgina.",
+      "message": "Acabar"
+   },
+   "headerRow": {
+      "description": "Text d'ajuda per explicar que el fitxer CSV carregat ha de començar amb una fila de capçalera.",
+      "message": "Ha de començar amb una fila de capçalera"
+   },
+   "headerRowRequired": {
+      "description": "Avís per mostrar quan sembla faltar la fila de capçalera del CSV pujat.",
+      "message": "Cal fila de capçalera"
+   },
+   "help": {
+      "description": "Etiqueta per al botó per obrir la pàgina d'ajuda.",
+      "message": "Ajuda"
+   },
+   "hideOptions": {
+      "description": "Etiqueta pel botó per amagar més opcions de raspallat.",
+      "message": "Amaga les opcions"
+   },
+   "import": {
+      "description": "Etiqueta per a l'element de menú per importar un raspall.",
+      "message": "Importa"
+   },
+   "install": {
+      "description": "Etiqueta del botó per instal·lar la versió més recent de l'aplicació.",
+      "message": "Instal·la la versió més recent"
+   },
+   "invalidTab": {
+      "description": "Missatge d'error quan la pestanya objectiu està oberta en un lloc restringit.",
+      "message": "Aquesta pàgina està restringida. Prova un altre lloc."
+   },
+   "invalidVersion": {
+      "description": "Instrueix l'usuari a instal·lar la versió més recent de l'aplicació.",
+      "message": "$APP_NAME$ ja no és en beta! Instal·la la versió més recent per obtenir les últimes actualitzacions.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Etiqueta per mostrar el nombre d'elements raspallats quan es raspa una llista.",
+      "message": "Elements"
+   },
+   "loadMoreAction": {
+      "description": "Etiqueta per a l'element \u003Cselect> per seleccionar com carregar més elements en l'extracció de dades.",
+      "message": "Acció per carregar més elements"
+   },
+   "max": {
+      "description": "Etiqueta per a l'entrada per controlar el temps màxim d'espera quan es carreguen més elements o pàgines.",
+      "message": "Màxim"
+   },
+   "maxItems": {
+      "description": "Etiqueta per a l'entrada per establir un límit màxim en el nombre d'elements a extreure.",
+      "message": "Elements màxims"
+   },
+   "maxItemsHelp": {
+      "description": "Text d'ajuda per informar l'usuari que ha de deixar l'entrada d'elements màxims en blanc per no establir un límit.",
+      "message": "Deixeu en blanc per no posar límit"
+   },
+   "maxItemsReached": {
+      "description": "Descripció de l'alerta per indicar que s'ha arribat al límit màxim del nombre d'elements per raspallar.",
+      "message": "S'ha raspallat fins al límit especificat. Augmenta l'opció d'elements màxims per continuar raspallant."
+   },
+   "mediaUrl": {
+      "description": "Etiqueta per al camp de l'URL del mitjà capturat d'un element.",
+      "message": "URL del mitjà"
+   },
+   "min": {
+      "description": "Etiqueta per a l'entrada per controlar el temps mínim d'espera quan es carreguen més elements o pàgines.",
+      "message": "Mín"
+   },
+   "missingTabError": {
+      "description": "Missatge d'error quan no es pot accedir a les dades de la pestanya objectiu.",
+      "message": "La pestanya que estaves utilitzant per a aquesta tasca s'ha tancat. Si us plau, tanca aquesta finestra i torna-ho a provar."
+   },
+   "missingTabPermission": {
+      "description": "Missatge d'error quan no es pot accedir a les dades de la pestanya objectiu.",
+      "message": "No es pot accedir a la pestanya. Tanqueu aquesta finestra i torneu-ho a provar."
+   },
+   "missingUrlColumn": {
+      "description": "Missatge d'error quan al fitxer CSV li falten columnes amb URL.",
+      "message": "No s'ha trobat la columna amb URL. Si us plau, seleccioneu un altre fitxer."
+   },
+   "newScraper": {
+      "description": "Etiqueta per al botó per crear un nou raspall.",
+      "message": "Nou raspall"
+   },
+   "noData": {
+      "description": "Marcador de posició a la taula quan no hi ha dades per mostrar.",
+      "message": "No hi ha dades per mostrar"
+   },
+   "noFileChosen": {
+      "description": "Missatge que es mostra quan no s'ha triat cap fitxer.",
+      "message": "No s'ha triat cap fitxer"
+   },
+   "noList": {
+      "description": "Text de substitució que es mostra quan no es pot trobar la llista a la pàgina.",
+      "message": "No s'ha pogut trobar la llista a la pàgina"
+   },
+   "none": {
+      "description": "Etiqueta per a l'opció de no carregar més elements en fer scraping.",
+      "message": "Cap"
+   },
+   "options": {
+      "description": "Etiqueta per al botó per mostrar opcions per a l'raspall.",
+      "message": "Opcions"
+   },
+   "pages": {
+      "description": "Etiqueta per mostrar el nombre de pàgines escrapejades quan s'escrapeja una llista.",
+      "message": "Pàgines"
+   },
+   "permissionsDescription": {
+      "description": "Text d'ajuda per explicar que l'aplicació necessita permisos addicionals per accedir i raspar URL.",
+      "message": "$APP_NAME$ necessita permisos addicionals per accedir i raspar URL",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Raspall Fàcil"
+         }
+      }
+   },
+   "preview": {
+      "description": "Text de la insígnia per indicar que les dades mostrades són una previsualització del raspallador.",
+      "message": "Previsualització"
+   },
+   "remainingPages": {
+      "description": "Etiqueta per mostrar el nombre de pàgines restants per raspar quan es raspen les pàgines de detalls.",
+      "message": "Restants"
+   },
+   "rename": {
+      "description": "Etiqueta per al menú per canviar el nom del raspallador.",
+      "message": "Canvia el nom"
+   },
+   "reviewDescription": {
+      "description": "Demanar a l'usuari que deixi una valoració per l'aplicació.",
+      "message": "Hola, sóc $NAME$. Vaig crear $APP_NAME$ per ajudar les persones a estalviar temps. Si t'agrada utilitzar-lo, t'agrairia una valoració de 5 estrelles per ajudar a altres a descobrir $APP_NAME$. Moltes gràcies!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Agraeixi a l'usuari per utilitzar l'aplicació.",
+      "message": "Gràcies per utilitzar $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Etiqueta per a l'opció de mostrar la pantalla per raspar pàgines de detalls per a cada element d'una llista.",
+      "message": "Rasca Detalls"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Descripció del consell per educar l'usuari sobre la recopilació de dades de pàgines de detalls.",
+      "message": "Per extraure cada URL de la llista, seleccioneu \"$LABEL$\" del menú a la cantonada superior dreta després de descarregar la llista com a fitxer CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Recopilar Detalls"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Títol per al consell per educar l'usuari sobre el raspat de pàgines de detalls.",
+      "message": "Consell: Raspat de pàgines de detalls"
+   },
+   "scrapeList": {
+      "description": "Etiqueta per a l'opció de mostrar la pantalla per raspar una llista.",
+      "message": "Rasca Llista"
+   },
+   "scrapedPages": {
+      "description": "Etiqueta per mostrar el nombre de pàgines raspallades quan es raspallen pàgines de detalls.",
+      "message": "Raspallat"
+   },
+   "scrapingComplete": {
+      "description": "Títol d'alerta per indicar que el scraping ha finalitzat.",
+      "message": "Scraping completat"
+   },
+   "scrapingStatus": {
+      "description": "Etiqueta per indicar que l'scraping està en progrés.",
+      "message": "S'està fent l'scraping..."
+   },
+   "scrollDelay": {
+      "description": "Etiqueta per a l'entrada per controlar quant de temps esperar en mil·lisegons quan es desplaça a cada element mentre s'extreu.",
+      "message": "Retard de desplaçament (ms)"
+   },
+   "scrollDown": {
+      "description": "Etiqueta per a l'opció de desplaçar-se cap avall per carregar més elements quan s'està fent scraping.",
+      "message": "Desplaça't cap avall per carregar més elements"
+   },
+   "select": {
+      "description": "Etiqueta per al botó per seleccionar un element de la pàgina.",
+      "message": "Selecciona"
+   },
+   "selectElement": {
+      "description": "Títol que es mostra quan se selecciona un element.",
+      "message": "Selecciona l'element"
+   },
+   "selectField": {
+      "description": "Descripció de l'acció per seleccionar el camp a capturar.",
+      "message": "Selecciona el camp"
+   },
+   "selectList": {
+      "description": "Títol per mostrar quan es selecciona una llista.",
+      "message": "Selecciona la llista"
+   },
+   "selectScraper": {
+      "description": "Etiqueta per a l'element de menú per seleccionar un raspall per utilitzar per raspar cada URL.",
+      "message": "Seleccioneu el raspall"
+   },
+   "selectScraperOption": {
+      "description": "Instrucció per seleccionar un scraper per al domini actual.",
+      "message": "Selecciona l'scraper per a $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Etiqueta per al botó per mostrar més opcions per a l'escraping.",
+      "message": "Mostra les opcions"
+   },
+   "startScraping": {
+      "description": "Etiqueta per al botó per iniciar l'extracció.",
+      "message": "Inicia l'extracció"
+   },
+   "stopScraping": {
+      "description": "Etiqueta per al botó per aturar l'escrapatge.",
+      "message": "Atura l'escrapatge"
+   },
+   "tabNotFound": {
+      "description": "Missatge d'error quan la pestanya objectiu no existeix.",
+      "message": "No s'ha trobat cap pestanya. Tanqueu aquesta finestra i torneu-ho a provar."
+   },
+   "testUrl": {
+      "description": "Etiqueta per a l'entrada de text per a la URL de prova a utilitzar quan es selecciona un raspallador.",
+      "message": "Prova URL"
+   },
+   "text": {
+      "description": "Etiqueta per al camp de text capturat d'un element.",
+      "message": "Text"
+   },
+   "uploadUrls": {
+      "description": "Etiqueta per a l'element de menú per pujar un fitxer amb URLs per raspar.",
+      "message": "Puja URLs"
+   },
+   "url": {
+      "description": "Etiqueta per al camp URL capturat d’un element.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Avís per mostrar quan el nom de la columna seleccionada és una URL i l'arxiu CSV pot estar mancant d'una fila de capçalera.",
+      "message": "Sembla que el nom de la columna és una URL. Si us plau, assegureu-vos que l'arxiu CSV comenci amb una fila de capçalera que contingui els noms de les columnes."
+   },
+   "verify": {
+      "description": "Etiqueta per al botó per verificar un element seleccionat destacant-lo a la pàgina.",
+      "message": "Verifica"
+   },
+   "waitTimeItems": {
+      "description": "Etiqueta per als inputs per controlar quant de temps esperar en segons quan es carreguen més articles.",
+      "message": "Temps d'espera per carregar més articles (segons)"
+   },
+   "waitTimePages": {
+      "description": "Etiqueta per als controls d'entrada per determinar quant de temps esperar en segons quan es carreguen les pàgines.",
+      "message": "Temps d'espera per carregar pàgines (segons)"
+   }
+}

@@ -1,0 +1,117 @@
+```json
+{
+  "BasicInfo": {
+    "FullName": "Parmeet Singh",
+    "ProfilePicture": "https://media.licdn.com/dms/image/v2/D5603AQHbMNenOZmacA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1679331352370?e=1759363200&v=beta&t=g9yNmssjFbmcYtouZP5AeJTz03HaIxzt3FRrzkdhqg0",
+    "LinkedInURL": "https://www.linkedin.com/in/parmeet-singh-214466152/",
+    "CurrentPosition": "Data Scientist II at Zepto",
+    "Location": "Bengaluru, Karnataka, India",
+    "Connections": "500+",
+    "Followers": 4064,
+    "About": "Zepto's Data Scientist II, my role revolves around converting complex data into strategic solutions. Leveraging tools like Databricks and PowerBI, I facilitate data-driven decision-making processes. With a solid foundation in computer science from Lovely Professional University, my approach is rooted in rigorous technical knowledge and creative problem-solving. At MathCo and Rakuten, I honed my skills in building data pipelines and deploying machine learning models. This experience solidified my competency in harnessing data to unveil compelling narratives that inform and inspire action. I’m driven by the pursuit of excellence and the impact of data in shaping the future."
+  },
+  "Activity": [
+    {
+      "Type": "Post",
+      "Content": "Built Zepto’s search intelligence from zero to one; building one to hundred currently.",
+      "Date": "2 months ago",
+      "Visibility": "Visible to anyone on or off LinkedIn"
+    },
+    {
+      "Type": "Recommendation Received",
+      "From": "Priyanka Naidu",
+      "ProfileURL": "https://www.linkedin.com/in/priyanka-naidu-57773958",
+      "Date": "May 29, 2025",
+      "Relationship": "Priyanka was senior to Parmeet but didn't manage Parmeet directly",
+      "Text": "Parmeet and I worked together at Rakuten. He has great logical and inter personal skills at a very young age. Through the projects where we touched based in our tenure, I could see an exceptionally talented young SE who fixed and implemented a lot of solutions for our time series and accuracy products. His skills in ML and Gen AI helped us bring great efficiency through automation and modern approach towards tech debts. Even though I never had a chance to manage him directly. However I always heard good feedback from all stakeholders and peers about him. He has a great intuitive and passionate mind and I would love to work with him again."
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Data Scientist II",
+      "Company": "Zepto",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHo76BSYaMZ-A/company-logo_100_100/company-logo_100_100/0/1724245209952/zeptonow_logo?e=1759363200&v=beta&t=ZDifL-bOk8XBgxUoDRfJPBRQjqQ_2KvJtUP2uIpTtak",
+      "Type": "Full-time",
+      "Location": "Bengaluru, Karnataka, India",
+      "Start": "Oct 2024",
+      "End": "Present",
+      "Duration": "11 mos"
+    },
+    {
+      "Title": "Associate Data Scientist",
+      "Company": "MathCo",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFSLuRei6pVZA/company-logo_100_100/B4DZfJuCNfGgAQ-/0/1751435978200/themathcompany_logo?e=1759363200&v=beta&t=lP6x2wz5AJigw1gqZKaqrVhGwZgEPHtSsRtvW4DeH2Y",
+      "Type": "Full-time",
+      "Location": "Bengaluru, Karnataka, India · Hybrid",
+      "Start": "Jan 2024",
+      "End": "Sep 2024",
+      "Duration": "9 mos"
+    },
+    {
+      "Title": "Associate Software Engineer",
+      "Company": "Rakuten",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFLt8xmWpX75Q/company-logo_100_100/company-logo_100_100/0/1719928507791/rakuten_logo?e=1759363200&v=beta&t=g_ni3XcEJKbCLrA9WV0PKCwvjxq3Nr_Y3kaCd6bszas",
+      "Type": "Full-time",
+      "Location": "Bengaluru, Karnataka, India · Hybrid",
+      "Start": "Jul 2021",
+      "End": "Dec 2023",
+      "Duration": "2 yrs 6 mos"
+    },
+    {
+      "Title": "Technical Intern",
+      "Company": "Rakuten",
+      "CompanyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFLt8xmWpX75Q/company-logo_100_100/company-logo_100_100/0/1719928507791/rakuten_logo?e=1759363200&v=beta&t=g_ni3XcEJKbCLrA9WV0PKCwvjxq3Nr_Y3kaCd6bszas",
+      "Type": "Internship",
+      "Location": "Bengaluru, Karnataka, India",
+      "Start": "Jan 2021",
+      "End": "Jul 2021",
+      "Duration": "7 mos"
+    }
+  ],
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology - BTech",
+      "Field": "Computer Science",
+      "University": "Lovely Professional University",
+      "UniversityLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFbJbgVOfBgxA/company-logo_100_100/company-logo_100_100/0/1631328172776?e=1759363200&v=beta&t=mLERQrMkgk_sEYfTVJojpTGb_8bdYHhYi_Woxa8XPtE",
+      "Start": "Aug 2017",
+      "End": "Aug 2021",
+      "Grade": "7.7",
+      "Activities": "Hosting college events"
+    }
+  ],
+  "Certification": [
+    {
+      "Title": "Dataiku Advanced Designer Certificate",
+      "Issuer": "Dataiku",
+      "IssuerLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQF79J2ze0Dr_Q/company-logo_100_100/B4EZeifTFHHcAY-/0/1750777803580/dataiku_logo?e=1759363200&v=beta&t=NB-4l_nLtRMdW0KdY8LZl1KfMdPWnCU5PyX1-c007Ic",
+      "CredentialID": "cqzoorga6gnj",
+      "IssueDate": "Jun 2024",
+      "CertificateFile": "certificate-cqzoorga6gnj-1717440275.pdf"
+    },
+    {
+      "Title": "Dataiku Developer Certificate",
+      "Issuer": "Dataiku",
+      "IssuerLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQF79J2ze0Dr_Q/company-logo_100_100/B4EZeifTFHHcAY-/0/1750777803580/dataiku_logo?e=1759363200&v=beta&t=NB-4l_nLtRMdW0KdY8LZl1KfMdPWnCU5PyX1-c007Ic",
+      "CredentialID": "ofmh7zdu65yt",
+      "IssueDate": "Jun 2024",
+      "CertificateFile": "certificate-ofmh7zdu65yt-1717529034.pdf"
+    }
+  ],
+  "Skills": [
+    "Machine Learning",
+    "SQL",
+    "Data Science",
+    "Python",
+    "Databricks",
+    "PowerBI",
+    "Git",
+    "Public Speaking",
+    "Data Modeling",
+    "Microsoft Power BI",
+    "API Development",
+    "Dataiku",
+    "Data Cleaning"
+  ]
+}
+```

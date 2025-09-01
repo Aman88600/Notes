@@ -1,0 +1,384 @@
+{
+   "addReview": {
+      "description": "Etichetă pentru butonul de a adăuga o recenzie pentru aplicație.",
+      "message": "Adaugă o recenzie"
+   },
+   "allowPermissions": {
+      "description": "Etichetă pentru butonul de a permite permisiunile pentru aplicație.",
+      "message": "Permite permisiunile"
+   },
+   "autoScroll": {
+      "description": "Etichetă pentru comutatorul care controlează dacă se derulează automat la fiecare element în timpul extragerii datelor.",
+      "message": "Derulare automată"
+   },
+   "back": {
+      "description": "Etichetă pentru butonul de a reveni la ecranul anterior.",
+      "message": "Înapoi"
+   },
+   "cancel": {
+      "description": "Eticheta pentru acțiunea de anulare.",
+      "message": "Anulează"
+   },
+   "changeList": {
+      "description": "Eticheta pentru butonul de a schimba lista de colectat.",
+      "message": "Schimbare Listă"
+   },
+   "changeSelectionLevel": {
+      "description": "Descrierea acțiunii de schimbare a nivelului selecției când se selectează un element.",
+      "message": "Schimbă nivelul selecției"
+   },
+   "chooseFile": {
+      "description": "Etichetă pentru butonul de a alege un fișier de încărcat.",
+      "message": "Alegeți Fișier"
+   },
+   "click": {
+      "description": "Etichetă pentru acțiunea de clic.",
+      "message": "Clic"
+   },
+   "clickLoadMore": {
+      "description": "Etichetă pentru opțiunea de a apăsa un buton pentru a încărca mai multe elemente pe aceeași pagină când se face scrapare.",
+      "message": "Apasă butonul pentru a încărca mai multe elemente pe aceeași pagină"
+   },
+   "clickNextPage": {
+      "description": "Eticheta pentru opțiunea de a face clic pe un link pentru a naviga la pagina următoare pentru a încărca mai multe elemente atunci când faceți scraping.",
+      "message": "Faceți clic pe link pentru a naviga la pagina următoare"
+   },
+   "column": {
+      "description": "Etichetă pentru elementul \u003Cselect> pentru a selecta coloana care conține URL-urile de extras din CSV-ul încărcat.",
+      "message": "Coloană"
+   },
+   "confirm": {
+      "description": "Etichetă pentru acțiunea de confirmare.",
+      "message": "Confirmă"
+   },
+   "continue": {
+      "description": "Etichetă pentru butonul de a continua către următorul ecran.",
+      "message": "Continuă"
+   },
+   "copy": {
+      "description": "Etichetă pentru butonul de copiere a datelor în clipboard.",
+      "message": "Copiază"
+   },
+   "csvFile": {
+      "description": "Etichetă pentru inputul de fișier pentru încărcarea unui fișier CSV",
+      "message": "Fișier $FILE_TYPE$",
+      "placeholders": {
+         "file_type": {
+            "content": "CSV"
+         }
+      }
+   },
+   "defaultScraperName": {
+      "description": "Numele implicit pentru un extractor de detalii ale paginilor.",
+      "message": "Extrage detaliile de pe $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "delete": {
+      "description": "Eticheta pentru elementul de meniu pentru a șterge scraperul.",
+      "message": "Șterge"
+   },
+   "dismiss": {
+      "description": "Acțiunea de a închide alerta.",
+      "message": "Închide"
+   },
+   "duration": {
+      "description": "Etichetă pentru a arăta durata extracției curente.",
+      "message": "Durată"
+   },
+   "esc": {
+      "description": "Etichetă pentru tasta Escape.",
+      "message": "Esc"
+   },
+   "export": {
+      "description": "Etichetă pentru elementul de meniu pentru a exporta scraper-ul.",
+      "message": "Export"
+   },
+   "extractData": {
+      "description": "Eticheta pentru elementul de meniu pentru a rula răzuirea și extragerea datelor din fiecare URL.",
+      "message": "Extrage datele"
+   },
+   "finish": {
+      "description": "Etichetă pentru butonul de finalizare a selecției elementelor de pe pagină.",
+      "message": "Finalizează"
+   },
+   "headerRow": {
+      "description": "Text de ajutor pentru a explica că fișierul CSV încărcat trebuie să înceapă cu un rând de antet.",
+      "message": "Trebuie să înceapă cu un rând de antet"
+   },
+   "headerRowRequired": {
+      "description": "Avertisment de afișat când linia de antet pare să lipsească din CSV-ul încărcat.",
+      "message": "Linie de antet necesară"
+   },
+   "help": {
+      "description": "Eticheta pentru butonul de deschidere a paginii de ajutor.",
+      "message": "Ajutor"
+   },
+   "hideOptions": {
+      "description": "Etichetă pentru butonul de a ascunde mai multe opțiuni pentru scrapare.",
+      "message": "Ascunde Opțiuni"
+   },
+   "import": {
+      "description": "Etichetă pentru elementul de meniu pentru a importa un scraper.",
+      "message": "Import"
+   },
+   "install": {
+      "description": "Etichetă pentru butonul de instalare a ultimei versiuni a aplicației.",
+      "message": "Instalează ultima versiune"
+   },
+   "invalidTab": {
+      "description": "Mesaj de eroare când fereastra deschisă este pe un site restricționat.",
+      "message": "Această pagină este restricționată. Încearcă un alt site."
+   },
+   "invalidVersion": {
+      "description": "Instruiți utilizatorul să instaleze ultima versiune a aplicației.",
+      "message": "$APP_NAME$ a ieșit din versiunea beta! Instalați ultima versiune pentru a obține cele mai noi actualizări.",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "items": {
+      "description": "Etichetă pentru a arăta numărul de elemente obținute în urma extragerii unei liste.",
+      "message": "Elemente"
+   },
+   "loadMoreAction": {
+      "description": "Etichetă pentru elementul \u003Cselect> pentru a selecta modul de încărcare a mai multor elemente la scrapare.",
+      "message": "Acțiune pentru a încărca mai multe elemente"
+   },
+   "max": {
+      "description": "Etichetă pentru câmpul de introducere pentru a controla timpul maxim de așteptare când se încarcă mai multe elemente sau pagini.",
+      "message": "Max"
+   },
+   "maxItems": {
+      "description": "Eticheta pentru câmpul de intrare pentru a seta un limită maximă a numărului de articole de extras.",
+      "message": "Număr maxim de articole"
+   },
+   "maxItemsHelp": {
+      "description": "Text de ajutor pentru a informa utilizatorul că trebuie să lase câmpul pentru numărul maxim de elemente necompletat pentru a nu seta o limită.",
+      "message": "Lăsaţi gol pentru fără limită"
+   },
+   "maxItemsReached": {
+      "description": "Descrierea alertei pentru a indica faptul că s-a atins limita maximă pentru numărul de elemente de scrapat.",
+      "message": "S-a scrapat cu succes până la limita specificată. Măriți opțiunea de număr maxim de elemente pentru a continua scraparea."
+   },
+   "mediaUrl": {
+      "description": "Etichetă pentru câmpul URL-ul media capturat de la un element.",
+      "message": "URL-ul media"
+   },
+   "min": {
+      "description": "Etichetă pentru intrarea care controlează timpul minim de așteptare atunci când se încarcă mai multe elemente sau pagini.",
+      "message": "Minim"
+   },
+   "missingTabError": {
+      "description": "Mesaj de eroare când nu se poate accesa datele din fila țintă.",
+      "message": "Fila pe care o foloseai pentru această sarcină a fost închisă. Te rugăm să închizi această fereastră și să încerci din nou."
+   },
+   "missingTabPermission": {
+      "description": "Mesaj de eroare când nu se poate accesa datele tab-ului țintă.",
+      "message": "Nu se poate accesa tab-ul. Închideți această fereastră și încercați din nou."
+   },
+   "missingUrlColumn": {
+      "description": "Mesaj de eroare atunci când fișierului CSV îi lipsesc coloanele cu URL-uri.",
+      "message": "Nu se poate găsi coloana cu URL-uri. Vă rugăm să selectați un alt fișier."
+   },
+   "newScraper": {
+      "description": "Eticheta pentru butonul de creare a unui scraper nou.",
+      "message": "Scraper Nou"
+   },
+   "noData": {
+      "description": "Text substituent în tabel când nu există date de afișat.",
+      "message": "Nu există date de afișat"
+   },
+   "noFileChosen": {
+      "description": "Mesaj afișat când nu a fost ales niciun fișier.",
+      "message": "Niciun fișier ales"
+   },
+   "noList": {
+      "description": "Text substitutiv pentru când lista nu poate fi găsită pe pagină.",
+      "message": "Nu se poate găsi lista pe pagină"
+   },
+   "none": {
+      "description": "Etichetă pentru opțiunea de a nu încărca mai multe articole în timpul extragerii.",
+      "message": "Niciunul"
+   },
+   "options": {
+      "description": "Etichetă pentru butonul de a afișa opțiunile pentru scraper.",
+      "message": "Opțiuni"
+   },
+   "pages": {
+      "description": "Etichetă pentru a arăta numărul de pagini extrase când se extrage o listă.",
+      "message": "Pagini"
+   },
+   "permissionsDescription": {
+      "description": "Text de ajutor pentru explicarea faptului că aplicația necesită permisiuni suplimentare pentru a accesa și răsfoi URL-urile.",
+      "message": "$APP_NAME$ necesită permisiuni suplimentare pentru a accesa și a răsfoi URL-urile",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "preview": {
+      "description": "Text pentru insignă care indică faptul că datele afișate sunt o previzualizare a instrumentului de captare.",
+      "message": "Previzualizare"
+   },
+   "remainingPages": {
+      "description": "Etichetă pentru a arăta numărul de pagini rămase de scrapat atunci când se scraphează paginile de detalii.",
+      "message": "Rămase"
+   },
+   "rename": {
+      "description": "Etichetă pentru elementul de meniu pentru redenumirea scraperului.",
+      "message": "Redenumește"
+   },
+   "reviewDescription": {
+      "description": "Cere utilizatorului să lase o recenzie pentru aplicație.",
+      "message": "Bună, sunt $NAME$. Am creat $APP_NAME$ pentru a ajuta oamenii să economisească timp. Dacă îți place să îl folosești, aș aprecia o evaluare de 5 stele pentru a ajuta și alții să descopere $APP_NAME$. Mulțumesc foarte mult!",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         },
+         "name": {
+            "content": "Namu"
+         }
+      }
+   },
+   "reviewTitle": {
+      "description": "Mulțumește utilizatorului pentru utilizarea aplicației.",
+      "message": "Mulțumim pentru utilizarea $APP_NAME$",
+      "placeholders": {
+         "app_name": {
+            "content": "$1",
+            "example": "Easy Scraper"
+         }
+      }
+   },
+   "scrapeDetails": {
+      "description": "Etichetă pentru opțiunea de a afișa ecranul pentru extragerea detaliilor paginilor pentru fiecare element dintr-o listă.",
+      "message": "Extrage Detalii"
+   },
+   "scrapeDetailsTipDescription": {
+      "description": "Descrierea sfatului pentru a educa utilizatorul despre extragerea paginilor de detalii.",
+      "message": "Pentru a extrage fiecare URL din listă, selectați \"$LABEL$\" din meniul din colțul din dreapta sus după descărcarea listei ca fișier CSV.",
+      "placeholders": {
+         "label": {
+            "content": "$1",
+            "example": "Extrage Detalii"
+         }
+      }
+   },
+   "scrapeDetailsTipTitle": {
+      "description": "Titlu pentru sfatul de a educa utilizatorul despre extragerea paginilor de detalii.",
+      "message": "Sfat: Extrageți pagini de detalii"
+   },
+   "scrapeList": {
+      "description": "Etichetă pentru opțiunea de a afișa ecranul pentru răzuirea unei liste.",
+      "message": "Răzuiește lista"
+   },
+   "scrapedPages": {
+      "description": "Etichetă pentru a arăta numărul paginilor raschetate când se scot detalii ale paginilor.",
+      "message": "Raschetat"
+   },
+   "scrapingComplete": {
+      "description": "Titlu de alertă pentru a indica faptul că scraping-ul a fost finalizat.",
+      "message": "Scraping-ul a fost completat"
+   },
+   "scrapingStatus": {
+      "description": "Etichetă pentru a indica faptul că extragerea este în desfășurare.",
+      "message": "Se extrage..."
+   },
+   "scrollDelay": {
+      "description": "Eticheta pentru câmpul de intrare pentru a controla cât timp se așteaptă în milisecunde atunci când se defilează la fiecare element în timpul extragerii datelor.",
+      "message": "Întârziere la defilare (ms)"
+   },
+   "scrollDown": {
+      "description": "Etichetă pentru opțiunea de a derula în jos pentru a încărca mai multe elemente atunci când se realizează scraping.",
+      "message": "Derulați în jos pentru a încărca mai multe elemente"
+   },
+   "select": {
+      "description": "Etichetă pentru butonul de selectare a unui element pe pagină.",
+      "message": "Selectează"
+   },
+   "selectElement": {
+      "description": "Titlu de afișat când se selectează un element.",
+      "message": "Selectează Elementul"
+   },
+   "selectField": {
+      "description": "Descrierea acțiunii de a selecta câmpul de capturat.",
+      "message": "Selectează câmpul"
+   },
+   "selectList": {
+      "description": "Titlu afișat când se selectează o listă.",
+      "message": "Selectează lista"
+   },
+   "selectScraper": {
+      "description": "Etichetă pentru elementul de meniu pentru a selecta un scraper care să fie folosit pentru extragerea fiecărui URL.",
+      "message": "Selectează un scraper"
+   },
+   "selectScraperOption": {
+      "description": "Instrucțiune pentru a selecta un scraper pentru domeniul curent.",
+      "message": "Selectați scraper pentru $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "showOptions": {
+      "description": "Etichetă pentru butonul de a arăta mai multe opțiuni pentru scrapare.",
+      "message": "Afișează opțiuni"
+   },
+   "startScraping": {
+      "description": "Etichetă pentru butonul de a începe extracția.",
+      "message": "Începe să extragi"
+   },
+   "stopScraping": {
+      "description": "Eticheta pentru butonul de oprire a scrapării.",
+      "message": "Oprire Scrapare"
+   },
+   "tabNotFound": {
+      "description": "Mesaj de eroare când tab-ul țintă nu există.",
+      "message": "Nu s-a găsit niciun tab. Închideți această fereastră și încercați din nou."
+   },
+   "testUrl": {
+      "description": "Etichetă pentru câmpul de text pentru URL-ul de testare utilizat la selectarea unui scraper.",
+      "message": "Testează URL"
+   },
+   "text": {
+      "description": "Etichetă pentru câmpul text capturat de la un element.",
+      "message": "Text"
+   },
+   "uploadUrls": {
+      "description": "Etichetă pentru elementul de meniu pentru încărcarea unui fișier cu URL-uri de extras.",
+      "message": "Încarcă URL-uri"
+   },
+   "url": {
+      "description": "Etichetă pentru câmpul URL capturat de la un element.",
+      "message": "URL"
+   },
+   "urlFieldWarning": {
+      "description": "Avertisment de afișat când numele coloanei selectate este un URL și fișierul CSV ar putea să nu aibă un rând antet.",
+      "message": "Numele coloanei pare să fie un URL. Vă rugăm să vă asigurați că fișierul CSV începe cu un rând antet care conține numele coloanelor."
+   },
+   "verify": {
+      "description": "Eticheta pentru butonul de verificare a unui element selectat, prin evidențierea acestuia pe pagină.",
+      "message": "Verifică"
+   },
+   "waitTimeItems": {
+      "description": "Etichetă pentru câmpurile de intrare pentru a controla cât timp de așteptare în secunde atunci când se încarcă mai multe articole.",
+      "message": "Timp de așteptare pentru încărcarea mai multor articole (secunde)"
+   },
+   "waitTimePages": {
+      "description": "Etichetă pentru câmpurile de introducere pentru a controla cât timp de așteptare în secunde atunci când se încarcă paginile.",
+      "message": "Timp de așteptare pentru încărcarea paginilor (secunde)"
+   }
+}

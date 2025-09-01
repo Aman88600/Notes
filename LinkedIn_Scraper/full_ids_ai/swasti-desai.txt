@@ -1,0 +1,113 @@
+```json
+{
+  "BasicInfo": {
+    "name": "Swasti Desai",
+    "currentTitle": "Site Lead - Data Scientist",
+    "location": "Mumbai, Maharashtra, India",
+    "profileImage": "https://media.licdn.com/dms/image/v2/C5103AQHvsxpiXade2g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1575908181759?e=1759363200&v=beta&t=zdM2nGngX7PDUESSLwTVPsBDaAm_ZmDrY-jJByMDfDw",
+    "linkedin": "https://www.linkedin.com/in/swasti-desai/",
+    "connections": "500+",
+    "followers": 3406
+  },
+  "Activity": {
+    "recentPosts": [
+      {
+        "time": "7 months ago",
+        "description": "Post as Data Scientist - Analyst",
+        "visibleTo": "anyone"
+      },
+      {
+        "time": "8 months ago",
+        "description": "Post with hashtags",
+        "visibleTo": "anyone"
+      }
+    ],
+    "engagement": {
+      "comments": 57,
+      "postsLoaded": 9
+    }
+  },
+  "Experience": [
+    {
+      "title": "Site Lead - Data Scientist",
+      "company": "Cipla",
+      "type": "Full-time",
+      "location": "Mumbai, Maharashtra, India",
+      "start": "Sep 2023",
+      "end": "Present",
+      "duration": "2 yrs",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGCxg8cOUgsaw/company-logo_100_100/company-logo_100_100/0/1738230552734/cipla_logo?e=1759363200&v=beta&t=iD4RKqUboOawjiU4GQ6IUj27p1q_isp3JcgM44bBPnQ"
+    },
+    {
+      "title": "Data Scientist Analyst",
+      "company": "Accenture in India",
+      "type": "Full-time",
+      "location": "Mumbai, Maharashtra, India",
+      "start": "Jul 2021",
+      "end": "Aug 2023",
+      "duration": "2 yrs 2 mos",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=1759363200&v=beta&t=z6F0ca5ns82JMwsy3h0kOIuG0nAIPv2wq4henjc2hkw"
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Vallum Capital Advisors",
+      "type": "Full-time",
+      "location": "Bandra, Mumbai",
+      "start": "Apr 2021",
+      "end": "Jun 2021",
+      "duration": "3 mos",
+      "details": "Developed model in R for PMS",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQF7tvWRFuN-6w/company-logo_100_100/company-logo_100_100/0/1708070665980/vallumcapitaladvisors_logo?e=1759363200&v=beta&t=xmTJixqSAf_dWHtJMXJAhGWxvBzBf039T70lwddpdgM"
+    },
+    {
+      "title": "Data Research Analyst",
+      "company": "Sapio Analytics",
+      "type": "Internship",
+      "start": "Apr 2020",
+      "end": "Sep 2020",
+      "duration": "6 mos",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHnC_uCaLUvug/company-logo_100_100/company-logo_100_100/0/1690881007134/sapio_analytics_logo?e=1759363200&v=beta&t=p7UpkJfuLmQFklFS4BSYac-CoLPB9kXK5Fa5d9beZlI"
+    }
+  ],
+  "Education": [
+    {
+      "school": "Sunandan Divatia School of Science",
+      "degree": "Master's degree, Applied Statistics and Analysis",
+      "start": "2019",
+      "end": "2021",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQHW16ttC_rbmQ/company-logo_100_100/company-logo_100_100/0/1631355146769?e=1759363200&v=beta&t=S_aF849GzKKoB3D-2E1J1KU96yS8hHfM7t6GT_4HLA4"
+    },
+    {
+      "school": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+      "degree": "Bachelor's degree in Applied Statistics and Analytics, Mathematical Statistics and Probability and Analytics",
+      "start": "2016",
+      "end": "2019"
+    }
+  ],
+  "Certification": [
+    {
+      "name": "Microsoft Certified: Power BI Data Analyst Associate",
+      "issuer": "Microsoft",
+      "issueDate": "Oct 2022",
+      "credentialId": "PL-300",
+      "credentialUrl": "https://www.credly.com/badges/9d4a7ff7-0ace-47c4-8021-2c96b2747641/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "issueDate": "Aug 2022",
+      "credentialUrl": "https://www.credly.com/badges/b7950981-4191-4b56-9a23-d5a879367953/linked_in_profile"
+    }
+  ],
+  "Skills": [
+    {
+      "skill": "Data Science",
+      "endorsements": 2
+    },
+    {
+      "skill": "Market Research",
+      "endorsements": 1
+    }
+  ]
+}
+```
