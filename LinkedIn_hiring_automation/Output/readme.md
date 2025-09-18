@@ -46,19 +46,32 @@ The Flow is following if you want to make unipile work in the linkedIn account
 Now you can run the codes in the following folder
 
 1 messages
+
 1.1 basic_call.py (To do a basic test call)
+
 1.2 list_all_chats.py (To see the details about chats including id)
+
 1.3 all_attendees_from_chat.py(To see the people involved in chat requires chat id)
+
 1.4 list_of_all_linkedin_accounts.py (To see the list of all linkedIn accounts that are connected with the unipile)
+
 1.5 list_of_all_messages_from_a_chat.py (To get all messages from a chat, required chat id)
+
 1.6 send_message.py (To send a message in your desired chat, requires chat id)
 
 2 users
-2.1 list_all_relations.py (Gives the list of all the connects that you have on linkedIn, required unipile account id that can be retrived from basic_call.py)
+
+2.1 list_all_relations.py (Gives the list of all the connects that you have on linkedIn, required unipile account id that can be 
+retrived from basic_call.py)
+
 2.2 list_of_all_invitations_received.py (Gives the list of all the connect requests you have received on linkedIn. Requires unipile account id)
+
 2.3 list_of_all_sent_invitations.py (Gives the list of invitations/connect requests you have sent to people, required unipile account id)
 
 3 linkedin_specific
+
 3.1 list_all_job_posting.py (Will list all the jobs that you have posted)
+
 3.2 perform_linkedIn_search.py (This does a search, but I am not very clear)
+
 3.3 retrive_a_company_profile.py (Retrives the profile of the provided company)
